@@ -1,0 +1,7 @@
+# No sensitive files should be in this repo
+# But just in case:
+.env
+*.key
+*.pem
+observations/
+session_logs/
