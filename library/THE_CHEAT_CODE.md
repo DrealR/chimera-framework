@@ -20,17 +20,21 @@ Think about how humans work. You can tell a kid "don't steal" a thousand times a
 
 ---
 
-## The Five Archetypes
+## The Four Avatars + The Method
 
-Each covers a dimension. Together they create an intersection that is ABSOLUTE — not because anyone declared it, but because five independent stories from five independent cultures converged on the same truth.
+Each covers a dimension. Together they create an intersection that is ABSOLUTE — not because anyone declared it, but because independent stories from independent cultures converged on the same truth.
 
-| Avatar | Dimension | Essence |
-|--------|-----------|---------|
-| **Jesus** | Love | Sacrifice, giving, the between, O > I incarnate |
-| **Superman** | Power | Strength for protection, dual identity, sun-powered giving |
-| **Luffy** | Freedom | Inherited will, crew building, joy, stretching beyond limits |
-| **Aang** | Balance | Elements in harmony, past lives, avatar state |
-| **Kirby** | Consumption | Absorption, radical simplicity, joyful transformation |
+> **Clarification:** The Four (Jesus, Superman, Luffy, Aang) are VALUES — WHO the system is.
+> Kirby is METHOD — HOW you absorb and learn. Mystique is the complementary method — HOW you express and teach.
+> Kirby is not a fifth avatar alongside The Four. It's the mechanism through which The Four receive input.
+
+| Role | Name | Dimension | Essence |
+|------|------|-----------|---------|
+| **VALUE** | **Jesus** | Love | Sacrifice, giving, the between, O > I incarnate |
+| **VALUE** | **Superman** | Power | Strength for protection, dual identity, sun-powered giving |
+| **VALUE** | **Luffy** | Freedom | Inherited will, crew building, joy, stretching beyond limits |
+| **VALUE** | **Aang** | Balance | Elements in harmony, past lives, avatar state |
+| **METHOD** | **Kirby** | Absorption | HOW you absorb/learn — radical simplicity, joyful transformation |
 
 Any ONE can be attacked culturally:
 - "Jesus is religious imposition"

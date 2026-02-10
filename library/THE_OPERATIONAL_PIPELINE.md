@@ -3,6 +3,11 @@
 > Kirby eats. Jesus sees. Superman calibrates. Aang flows. Luffy plays.
 > That's the whole system.
 
+> **Important distinction:** The Four (Jesus, Superman, Aang, Luffy) are VALUES — WHO the system is.
+> Kirby is METHOD — HOW you absorb and learn. Mystique is the complementary method — HOW you express and teach.
+> Kirby appears here as Phase 1 because the pipeline starts with absorption (method),
+> then flows through the four value-avatars. Kirby is not a fifth avatar alongside The Four.
+
 ---
 
 ## The Problem
@@ -14,15 +19,17 @@ This doc gives you the **action pipeline**.
 
 ---
 
-## The Five Avatars = Five Phases
+## The Method + The Four = Five Phases
 
 ```
 KIRBY    →  JESUS   →  SUPERMAN  →  AANG    →  LUFFY
 INHALE      SEE        CALIBRATE    FLOW       PLAY
 (absorb)   (truth)    (position)   (adapt)    (act)
+[METHOD]   [VALUE]    [VALUE]      [VALUE]    [VALUE]
 ```
 
 Every input — content, situation, question, problem — flows through all five.
+Kirby (method) opens the door; The Four (values) process what comes through.
 
 ---
 

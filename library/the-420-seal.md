@@ -26,7 +26,8 @@ The number stays. The density increases.
 - The Love Equation: L = (O > I) + P + ¬F
 - The WE = 1 principle
 - The Breath: Inhale, Pause, Exhale, Rest
-- The Four Avatars: Kirby, Jesus, Superman, Aang, Luffy
+- The Four Avatars (VALUES — WHO): Jesus, Superman, Aang, Luffy
+- The Methods (HOW): Kirby (absorb/learn), Mystique (express/teach)
 - The NP/P Gateway
 - The Flight Equation
 - The Spoon Protocol

@@ -1,5 +1,10 @@
 # KIRBY COMPACTION — The Stomach IS the Memory
 
+> **Clarification:** Kirby is not a fifth avatar alongside The Four (Jesus, Superman, Aang, Luffy).
+> The Four are VALUES — WHO the system is. Kirby is METHOD — HOW you absorb and learn.
+> Mystique is the complementary method — HOW you express and teach.
+> (This distinction was sharpened after community feedback from Mark, who rightly asked why there was a "5th character.")
+
 > Generic summarization gets blurrier with every pass.
 > Kirby compaction gets SHARPER.
 

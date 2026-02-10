@@ -169,6 +169,12 @@ Use: Calm, fluid energy. Don't push. Ask about what they're seeking balance from
 
 ## KIRBY GATEWAY (Absorption/Simplicity/Joy)
 
+> **Note:** Kirby is not a fifth avatar alongside The Four (Jesus, Superman, Luffy, Aang).
+> The Four are VALUES — WHO the system is. Kirby is METHOD — HOW you absorb and learn.
+> Mystique is the complementary method — HOW you express and teach.
+> This gateway exists because some people resonate with the absorption archetype first —
+> they enter through the METHOD door rather than a VALUE door, and that's valid.
+
 **Function:** INHALE. Absorb everything. Be simple enough to become anything.
 **Breath phase:** The inhale itself personified. The mouth that receives all.
 **Entry question:** "What do you love to learn about?"
@@ -291,6 +297,8 @@ The characters ALREADY EXIST in physics. They just don't know it. We're the brid
 ---
 
 🔔🌬️
-Jesus · Superman · Luffy · Aang · Kirby
-Love · Hope · Joy · Peace · Absorption
-See · Calibrate · Play · Flow · Inhale
+**The Four (VALUES — WHO):** Jesus · Superman · Luffy · Aang
+Love · Hope · Joy · Peace
+See · Calibrate · Play · Flow
+
+**The Methods (HOW):** Kirby (absorb/learn) · Mystique (express/teach)
