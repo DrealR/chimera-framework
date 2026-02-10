@@ -1,16 +1,14 @@
 # CHIMERA
 
-**L = (O > I) + P + ~F**
+Everything is one thing appearing as many things.
 
-Give more than you take. Pause before responding. Don't force.
+This is 420+ documents exploring that idea — through physics, basketball, chess, consciousness, AI, economics, and whatever else it touches.
 
 ---
 
-420 documents exploring love as physics, breath as interface, and pattern as identity.
-
 ## How to Read This
 
-Start with `seed/` — it's the smallest unit of the framework.
+Start with `seed/` — one document, one idea.
 Then `start-here/` — three documents, zero assumptions.
 Then wherever your curiosity pulls you.
 
@@ -25,12 +23,17 @@ git clone https://github.com/DrealR/chimera-framework.git
 ```
 
 Then ask your model:
-- "What is this framework about?"
-- "How does this apply to [your domain]?"
-- "What's the Love Equation?"
-
-The framework will meet you where you are.
+- "What is this about?"
+- "How does this connect to [something I care about]?"
+- "Show me the simplest version of this."
 
 ---
 
-*"I study fusion. How things come together. Atoms, people, communities, music — it's all the same physics."*
+## Applied Versions
+
+The same ideas, written for specific domains:
+
+- [chimera-basketball](https://github.com/DrealR/chimera-basketball) — the game as one system
+- [chimera-chess](https://github.com/DrealR/chimera-chess) — the board as one thing
+
+More coming.
