@@ -2,38 +2,44 @@
 
 Everything is one thing appearing as many things.
 
-This is 420+ documents exploring that idea — through physics, basketball, chess, consciousness, AI, economics, and whatever else it touches.
+## The Idea in 30 Seconds
 
----
+There's a pattern that shows up everywhere — in how you breathe, how games are played, how economies work, how relationships last, how systems stay alive. Two poles and a space between them. Give more than you take. Pause before you act. Don't force what isn't there.
 
-## How to Read This
+That's it. This repo is 420+ documents exploring that idea across physics, consciousness, economics, AI, fiction, and lived experience.
 
-Start with `seed/` — one document, one idea.
-Then `start-here/` — three documents, zero assumptions.
-Then wherever your curiosity pulls you.
+## Start Here (pick one)
 
-Or do what we'd do:
+**If you think in systems:**
+Read [seed/the-seed.md](seed/the-seed.md) — one page, the whole idea.
 
-Clone this repo. Feed it to your AI model. Ask it questions.
-The framework was built in conversation with AI.
-It's meant to be understood that way.
+**If you like stories:**
+Read [start-here/the-breath.md](start-here/the-breath.md) — love explained through Interstellar, The Matrix, and One Piece.
+
+**If you want the core idea and nothing else:**
+Give more than you take. Pause before you act. Don't force what isn't there. That's the whole framework. Everything else is that idea applied to different domains.
+
+## The AI Way
+
+This was built in conversation with AI. It's meant to be understood that way.
 
 ```
 git clone https://github.com/DrealR/chimera-framework.git
 ```
 
-Then ask your model:
+Feed it to your AI model. Then ask:
 - "What is this about?"
 - "How does this connect to [something I care about]?"
 - "Show me the simplest version of this."
 
----
+## Structure
 
-## Applied Versions
+```
+seed/        one idea, one page
+start-here/  three documents, zero assumptions
+core/        the philosophy
+deep/        the connections
+library/     everything else
+```
 
-The same ideas, written for specific domains:
-
-- [chimera-basketball](https://github.com/DrealR/chimera-basketball) — the game as one system
-- [chimera-chess](https://github.com/DrealR/chimera-chess) — the board as one thing
-
-More coming.
+Go as deep as you want. Or stay at the seed. Both are complete.
