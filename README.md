@@ -32,6 +32,26 @@ Feed it to your AI model. Then ask:
 - "How does this connect to [something I care about]?"
 - "Show me the simplest version of this."
 
+## Position in CHIMERA
+
+```
+~/chimera/
+├── nucleus/
+│   ├── system/
+│   └── framework/      ← YOU ARE HERE
+├── guts/           (body + math + language — translation)
+├── domains/
+│   ├── relationships/
+│   ├── basketball/
+│   ├── chess/
+│   ├── music/
+│   ├── cooking/
+│   ├── ai/
+│   └── crypto/
+├── infrastructure/ (constellation — deployment)
+└── raw/            (core — unprocessed)
+```
+
 ## Structure
 
 ```
