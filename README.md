@@ -68,3 +68,21 @@ Feed it to your AI model. Then ask:
 *The man marked by flames. I just want my friends to eat.*
 
 Pull up a chair. The food is free.
+
+---
+
+## New: Loop Theory Pack (February 2026)
+
+A polished public package is now available at `docs/loop-theory/`:
+
+- `loop-theory-overview.md`
+- `loop-periodic-table.md`
+- `emotion-dashboard.md`
+- `spell-theory.md`
+- `flight-equation.md`
+- `somatic-intelligence.md`
+- `convergent-proof.md`
+- `number-pyramid.md`
+- `organisms/` (8 CHIMERA loop-property profiles)
+
+This package is the bridge from CHIMERA language to a reusable systems lens for classrooms, coaching, content, and AI prompts.

@@ -11,6 +11,7 @@ These documents are the load-bearing walls. Everything else in the house rests o
 **[The Love Equation](the-love-equation.md)** — Love is not a feeling. It is a thermodynamic circuit. Here is the math, and here is why your body already knows it.
 
 **[The Friction Economy](the-friction-economy.md)** — As AI makes intelligence free, human friction becomes the most valuable thing on Earth. Why your scars are worth more than any algorithm.
+**[Loop Theory Pack](../docs/loop-theory/README.md)** — The public systems layer: periodic table, dashboard, spell model, and somatic protocol.
 
 ---
 
