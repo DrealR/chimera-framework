@@ -13,4 +13,5 @@ This folder contains the public-facing Loop Theory package for the CHIMERA frame
 - `convergent-proof.md`
 - `number-pyramid.md`
 - `trust-fields-and-boundary-pressure.md`
+- `execution-breath-and-dojo.md`
 - `organisms/` (8 CHIMERA organism loop profiles)
