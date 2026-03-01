@@ -12,4 +12,5 @@ This folder contains the public-facing Loop Theory package for the CHIMERA frame
 - `somatic-intelligence.md`
 - `convergent-proof.md`
 - `number-pyramid.md`
+- `trust-fields-and-boundary-pressure.md`
 - `organisms/` (8 CHIMERA organism loop profiles)
