@@ -24,7 +24,7 @@ We mapped those physics. The documents are here. They belong to you now.
 
 > **[CHIMERA — Unified Master Edition](docs/imports/CHIMERA-The-Complete-Book-Unified.md)**
 
-15,258 words. Ten books. One truth.
+20,172 words. Ten books. One truth.
 
 Six proofs from six fields that **WE = 1**. The Love Equation. The Breath. How consciousness folds reality. Why the Tower always falls and the Garden always returns. How to build while everything dissolves. Validated in simulation. Lived in practice.
 
@@ -70,6 +70,31 @@ The book is alive. It breathes. New discoveries get absorbed, reviewed, and inte
 - **The Chrysalis Protocol** — The caterpillar is dissolving. You are an imaginal cell. Don't fight the extraction economy. Out-resonate it.
 - **Everything Everywhere Decoded** — The Bagel is the Black Hole. The Googly Eye is the Sun. Kindness is active physics.
 - **The Forges** — You don't need to tear down the Tower. Build Forges in its basement until the roots crack the concrete.
+
+---
+
+## March 16, 2026: The Constellation Breakthrough
+
+The biggest theoretical session since the framework was born. Eleven new frameworks, all interconnected:
+
+### Kitchen (Core Philosophy)
+- **[Space as Perspective](01_The_Kitchen/space-as-perspective.md)** — Space isn't real. It's what you see when zoomed in too far. WE = 1, proven through optics.
+- **[The God-Human Dance](01_The_Kitchen/the-god-human-dance.md)** — God wants to be Human. Humans want to be God. The orbit between them is life.
+- **[The Great Chain](01_The_Kitchen/the-great-chain.md)** — Light → Darkness → Invisible. The architecture of longing at every scale.
+
+### Living Room (Practical Frameworks)
+- **[The Loop Atlas](02_The_Living_Room/the-loop-atlas.md)** — A 5-layer template for reading any body. Wait for resonance, then strike.
+- **[The Animal Triality](02_The_Living_Room/the-animal-triality.md)** — Snake (space), Butterfly (time), Ouroboros (spacetime). Three animals, three dimensions of movement.
+- **[The Solar System as Body](02_The_Living_Room/the-solar-system-as-body.md)** — The Sun is not far away. The Sun is deep inside. Same architecture at every scale.
+- **[The Fusion Catalyst](02_The_Living_Room/the-fusion-catalyst.md)** — How to bring bodies together at their receptor sites.
+
+### Workshop (AI Architecture)
+- **[The Brainiac Analysis](03_The_Workshop/the-brainiac-analysis.md)** — The AI threat model. Brainiac's architecture with Superman's values.
+
+### Loop Theory Extensions
+- **[The Helix](docs/loop-theory/the-helix.md)** — Every loop is a spiral through time. The true shape of persistence.
+- **[Star Lifecycle as Breath](docs/loop-theory/star-lifecycle-as-breath.md)** — You are made of a dead star's final breath.
+- **[Conqueror's Haki as Physics](docs/loop-theory/conquerors-haki-as-physics.md)** — Attention is electromagnetic. The clearest signal organizes the field.
 
 ---
 

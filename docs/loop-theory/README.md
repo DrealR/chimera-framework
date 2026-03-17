@@ -15,3 +15,9 @@ This folder contains the public-facing Loop Theory package for the CHIMERA frame
 - `trust-fields-and-boundary-pressure.md`
 - `execution-breath-and-dojo.md`
 - `organisms/` (8 CHIMERA organism loop profiles)
+
+### March 2026 Extensions
+
+- `the-helix.md` — Every loop is actually a helix (spiral through time). The true shape of persistence.
+- `star-lifecycle-as-breath.md` — Stars breathe: darkness → light → darkness. You are made of a dead star's final breath.
+- `conquerors-haki-as-physics.md` — Attention is electromagnetic. Neural entrainment as measurable physics.

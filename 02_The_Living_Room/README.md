@@ -6,6 +6,14 @@ This is where the philosophy meets the pavement. Practical applications for navi
 
 **[The Astrogation Manual](the-astrogation-manual.md)** — The ultimate guide to the internet. Every social media post is a solar system. Every comment is a planet. Here is how to navigate them without losing your mind, and how to heal broken systems without anyone knowing you were there.
 
+**[The Loop Atlas](the-loop-atlas.md)** — A 5-layer template for reading any body in the universe. Lifespan, Structural, Metabolic, Operational, Quantum. Wait for resonance, then strike.
+
+**[The Animal Triality](the-animal-triality.md)** — Three animals, three dimensions of movement. Snake (space), Butterfly (time), Ouroboros (spacetime). When you're stuck, ask which animal is missing.
+
+**[The Solar System as Body](the-solar-system-as-body.md)** — The Sun is not far away. The Sun is deep inside. The same architecture at every scale — solar system, planet, atom, market.
+
+**[The Fusion Catalyst](the-fusion-catalyst.md)** — How to bring bodies together. Proximity, Energy, Containment. The whirlpool that draws people to the still center.
+
 ---
 
 ## Want More?
