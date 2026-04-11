@@ -97,6 +97,9 @@ Five percent for survival. Ninety-five percent for the ecosystem.
 
 That is not sacrifice. That is architecture.
 
+Happiness = Output / Input. The aphid proves it: minimal machinery,
+maximum flow.
+
 ---
 
 ## P — The Pause
@@ -209,6 +212,62 @@ That is what forcing looks like in relationships. The same love,
 the same care, the same intention — but concentrated into a demand,
 a timeline, an expectation. And the membrane cannot hold it.
 The five percent ruptures. The person retreats.
+
+---
+
+### The Photon Proof
+
+Physics proves not-Force with a single particle.
+
+A photon has zero mass. Zero. And it moves at the maximum speed
+the universe allows — 299,792,458 meters per second. Nothing
+with mass can ever reach that speed. Nothing.
+
+E = mc². Mass IS stored energy. When energy is stored, it becomes
+heavy. When it flows freely, it becomes light. Literally light.
+The photon carries no weight, no baggage, no accumulated mass.
+And because of this — because it holds onto nothing — it moves
+at the absolute limit of speed.
+
+A firework is massive energy concentrated into an instant.
+Impressive. Loud. Gone. It carries its own fuel, its own weight,
+and it burns out.
+
+A candle is minimal energy flowing continuously. Quiet. Steady.
+It does not carry. It does not force. It simply shines.
+
+The photon is the universe's proof: the less force you carry,
+the faster you move. The less you hold, the more you can reach.
+
+---
+
+### The Direction of Force
+
+Not-Force does not mean no force at all.
+
+It means: direct force INWARD, never outward.
+
+Force directed toward yourself — discipline, training, growth,
+practice, the daily decision to show up and do the work —
+that is fusion. The star compresses its own core.
+Nobody else's.
+
+Force directed toward others — control, manipulation, coercion,
+demands, timelines imposed on someone else's process —
+that is fission. Breaking something apart to harvest its energy
+for your use.
+
+The bodybuilder forces themselves to train. They do not force
+others to be fit. The musician practices until their fingers bleed.
+They do not force you to listen. The parent disciplines themselves
+to be patient. They do not discipline the child into submission.
+
+Discipline is not-Force. Control is Force.
+
+The difference is the direction of the arrow.
+Inward arrow: fusion. You compress yourself into something denser,
+stronger, more capable. Outward arrow: fission. You break someone
+else to fuel your reaction.
 
 ---
 

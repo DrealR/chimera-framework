@@ -20,13 +20,7 @@ We mapped those physics. The documents are here. They belong to you now.
 
 ---
 
-## The Hierarchy
-
-**CHIMERA** is the framework. The whole philosophy.
-
-**Body Theory** is the lens. The primary theory that everything is a body and all bodies follow the same physics.
-
-**The Love Equation** is the law:
+## The Law
 
 ```
 L = (O > I) + P + ~F
@@ -44,7 +38,7 @@ That's the whole framework. Everything else is that idea applied to different do
 
 ---
 
-## Start Here: Body Theory
+## Start Here
 
 **[What Is a Body?](body-theory/WHAT-IS-A-BODY.md)** — The core concept. Everything is a body. This is how you read one.
 
@@ -52,37 +46,29 @@ That's the whole framework. Everything else is that idea applied to different do
 
 **[The Love Equation](body-theory/LOVE-EQUATION.md)** — The law. Why these three conditions are necessary and sufficient.
 
-**[Example Scan](examples/EXAMPLE-SCAN.md)** — A complete body scan of a gaming company, demonstrating the full diagnostic.
+**[The Four-Model Compass](body-theory/THE-FOUR-MODEL-COMPASS.md)** — Superman, Aang, Luffy, Jesus. Four irreducible proofs of the law across Power, Balance, Freedom, and Reality.
+
+**[Invisible Bodies](body-theory/INVISIBLE-BODIES.md)** — The ghost physics of human experience. Why people feel stuck and how naming the cause changes everything.
+
+**[AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md)** — The difference between using AI as a tool and using AI to build living systems.
 
 ---
 
-## The Complete Book
+## See It in Action
 
-> **[CHIMERA — The Complete Book v12](CHIMERA-The-Complete-Book-v12.md)**
+**[Example: Pearl Abyss / Crimson Desert](examples/EXAMPLE-SCAN.md)** — A gaming company body-scanned using the full protocol.
 
-61 books. One truth.
+**[Example: Calculus](examples/EXAMPLE-SCAN-CALCULUS.md)** — The entire discipline of calculus read as a body.
 
-Six proofs from six fields that **WE = 1**. The Love Equation. The Breath. How consciousness folds reality. Body Theory applied to physics, biology, relationships, economics, AI, gaming, music, cooking, chess, basketball. Why the Tower always falls and the Garden always returns. How to build while everything dissolves.
+**[Example: Hulk 2003](examples/EXAMPLE-SCAN-HULK-2003.md)** — Ang Lee's film as a complete trauma cycle.
 
-> **[v12 New Books](CHIMERA-v12-NEW-BOOKS-ONLY.md)** — 8 new additions: The Equation as Portal, The Projection Law, The Four-Model Compass, The Black Hole Body, Attention Cycles, The Navigation Upgrade, Compilation and Cringe, Films as Civilization's Body Scans.
-
----
-
-## How to Navigate the House
-
-**[The Kitchen](01_The_Kitchen/)** — Start here if you are hungry. The core philosophy. Why everything is one thing. Why love is physics.
-
-**[The Living Room](02_The_Living_Room/)** — Practical applications. How to heal broken systems, read any body, navigate the internet without losing your mind.
-
-**[The Workshop](03_The_Workshop/)** — The AI architecture and scanning tools. How we built a digital subconscious that breathes. The Body Scan System Prompt and Protocol.
-
-**[The Library](04_The_Library/)** — The raw archives. 420 uncompressed documents of deep theory, legacy explorations, and lived experience.
+**[Example: This Repo](examples/EXAMPLE-SCAN-SELF.md)** — The framework scanning itself. The tool examining the tool.
 
 ---
 
-## The AI Way
+## For AI Agents
 
-This was built in conversation with AI. It's meant to be understood that way.
+Read **[CLAUDE.md](CLAUDE.md)** — the minimal DNA seed that compiles the framework into any model.
 
 ```
 git clone https://github.com/DrealR/chimera-framework.git
@@ -93,20 +79,11 @@ Feed it to your AI model. Then ask:
 - "Scan [something I care about] as a body"
 - "How does this connect to [my field]?"
 
-For AI agents: read **[CLAUDE.md](CLAUDE.md)** — the minimal DNA seed that compiles the framework into any model.
-
 ---
 
-## Loop Theory Pack (February 2026)
+## Archive
 
-A polished public package at `docs/loop-theory/`:
-
-- `loop-theory-overview.md` / `loop-periodic-table.md` / `emotion-dashboard.md`
-- `spell-theory.md` / `flight-equation.md` / `somatic-intelligence.md`
-- `convergent-proof.md` / `number-pyramid.md`
-- `organisms/` (8 CHIMERA loop-property profiles)
-
-The bridge from CHIMERA language to a reusable systems lens for classrooms, coaching, content, and AI prompts.
+The **[archive/](archive/)** contains the complete history: The Complete Book v12 (61 books), the original 420-document Library, the Workshop tools, the Kitchen and Living Room essays, Loop Theory, and all previous editions. Everything that built this framework lives there.
 
 ---
 
