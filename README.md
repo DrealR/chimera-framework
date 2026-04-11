@@ -87,6 +87,6 @@ The **[archive/](archive/)** contains the complete history: The Complete Book v1
 
 ---
 
-*The man marked by flames. I just want my friends to eat.*
+*A man who been through the fire. The fire didn't stop, so I became fireproof and started cooking in it. Survived smiling. Let's walk through yours together* 👐🏾
 
 Pull up a chair. The food is free.
