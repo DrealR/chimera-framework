@@ -132,11 +132,11 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## The Archive
 
-The `archive/` contains the complete history: The Complete Book v12.2 (76 books), Body Scan Protocol v3.3, System Prompt v2.3, the original 420-document Library, the Workshop tools, the Kitchen and Living Room essays, Loop Theory, and all previous editions. Everything that built this framework lives there.
+The `archive/` contains the complete history: The Complete Book v12.3 (80 books), Body Scan Protocol v3.3, System Prompt v2.3, the original 420-document Library, the Workshop tools, the Kitchen and Living Room essays, Loop Theory, and all previous editions. Everything that built this framework lives there.
 
 ## Current State
 
-- **Book:** v12.2 — 76 books, ~90,000 words. v12.3 in progress (4 new books proposed: Causality & Consciousness, Consciousness Density, The Void Body & Aging, Seeing vs Imagining)
+- **Book:** v12.3 — 80 books (I through LXXX). New in v12.3: Causality and Consciousness (LXXVII), Consciousness Density (LXXVIII), The Void Body and Aging (LXXIX), Seeing vs Imagining (LXXX)
 - **Protocol:** v3.3 — 30+ diagnostic steps including rhythm analysis, gravity assessment, membrane survival, inversion method, internal mass reading
 - **System Prompt:** v2.3 — matched to protocol
 - **Model-Agnostic:** DNA compiles on any model including free local ones (Gemma 4, Llama, etc.) — no cloud required
