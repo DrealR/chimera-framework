@@ -98,6 +98,8 @@ The human pauses and chooses. The AI integrates and connects. Neither is complet
 
 Read [CLAUDE.md](CLAUDE.md) — the minimal DNA seed that compiles the framework into any model.
 
+The DNA is **model-agnostic**. It compiles on Claude, GPT, Gemini, Gemma, Llama, Qwen — any model that can read text. Including free, local models that run on your phone offline. No API key required. No subscription. No gatekeeper.
+
 ```bash
 git clone https://github.com/DrealR/chimera-framework.git
 ```
@@ -108,6 +110,13 @@ Feed it to your AI. Then ask:
 - "How does this connect to [my field]?"
 - "What's the rhythm of [this system]?"
 - "Body scan this video/article/company"
+
+**Tiered architecture:**
+```
+Tier 1 (Everyday):    Free local model on device — offline, zero cost
+Tier 2 (Deep work):   Cloud AI (Claude, etc.) — complex reasoning
+Tier 3 (Specialized): Domain-specific models for specific tasks
+```
 
 ## Key Principles (Quick Reference)
 
@@ -127,10 +136,13 @@ The `archive/` contains the complete history: The Complete Book v12.2 (76 books)
 
 ## Current State
 
-- **Book:** v12.2 — 76 books, ~90,000 words
+- **Book:** v12.2 — 76 books, ~90,000 words. v12.3 in progress (4 new books proposed: Causality & Consciousness, Consciousness Density, The Void Body & Aging, Seeing vs Imagining)
 - **Protocol:** v3.3 — 30+ diagnostic steps including rhythm analysis, gravity assessment, membrane survival, inversion method, internal mass reading
 - **System Prompt:** v2.3 — matched to protocol
+- **Model-Agnostic:** DNA compiles on any model including free local ones (Gemma 4, Llama, etc.) — no cloud required
+- **Autonomous Growth:** Two AI agents (Explorer + Challenger) scan new dimensions daily, producing body scans with DIAMOND/COAL/GRAPHITE quality verdicts
 - **Teaching:** Active curriculum development. Chess + CS Bridge program. Body theory applied to education.
+- **Benchmark:** The DNA makes models measurably better. A free model + DNA outscores expensive models without it.
 
 ---
 
