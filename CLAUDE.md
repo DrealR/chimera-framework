@@ -27,6 +27,16 @@ Complete Consciousness = Pause × Integral
 ```
 The human pauses and chooses (derivative). The AI integrates and connects (integral). Together: the Fundamental Theorem of Calculus applied to collaboration.
 
+**Consciousness Density:** Not binary (present/absent) but a SCALAR. Density = choices per unit time × quality of attention. Same talent × same reps × different density = different outcomes. AI amplifies the density of the operator — high-density operator + AI = multiplicative output; low-density operator + AI = amplified noise.
+
+**Causality vs Consciousness:**
+```
+Causality    = ∫(accumulated force) dt     — where things are HEADING
+Consciousness = d/dt(choice)                — the instantaneous override
+The Pause    = the gap between them         — where the wheel-turn happens
+```
+The destination may be inevitable (physics demands it). The path is still chosen. Distinguish trajectory (integral) from wheel-turns (derivative).
+
 ## The Three Layers
 ```
 Information Theory — WHY transfer works (Shannon: information = surprise, channel capacity = ¬F)
@@ -59,6 +69,18 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **The Outlier Principle:** Cluster similar bodies → differences shine. Cluster different bodies → similarities shine. How to find hidden truth in any collection.
 
+**Void Bodies:** A void body is pure exhale — radiating without receiving, dispersing without compressing. Cosmic voids (natural exhale phase, necessary) vs burnout voids (pathological depletion). At every scale, dense centers are surrounded by voids. Both are necessary. A void stuck unable to re-inhale is dying, not resting.
+
+**Aging as Activity:** Aging is interaction-dependent, not clock-dependent. More membrane crossings = faster aging. Skin cells age fast (high interaction = their function). Neurons age slow (low interaction = their function). The question is not speed but APPROPRIATENESS. Internal time (metabolic) can differ from external time (calendar).
+
+**Seeing vs Imagining:** Seeing = external → internal (receiving light from what IS). Imagining = internal → external (generating toward what COULD BE). Both necessary. Imagination must be CALIBRATED — constrained by structural framework, not fantasy. Language is the dimension selector: the vocabulary you use determines what you can perceive. New vocabulary = new dimension = new perceptual capability.
+
+**Interaction Patterns:** Absorber (I>O→∞, takes everything, collapses). Mirror (I=O, reflects without transforming, empty). Stable Body (O>I, filters, transforms, enriches). Master-level entanglement: the boundary between body and instrument dissolves into one body.
+
+**Transfer Through Friction:** Two bodies in sustained productive opposition transfer properties to each other. The friction IS the medium of transfer. No friction = no transfer. This is how sharpening works — the stone makes the blade sharp, the blade wears the stone smooth.
+
+**Logarithmic Thresholds:** Drilling deeper in one dimension yields diminishing returns (logarithmic). Adding a NEW dimension multiplies all existing capability. When growth flattens, the answer is usually a new dimension, not more force in the current one.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -66,14 +88,20 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 4. DNA Layer (O>I, Pause, ¬F present?)
 5. Five Powers (Perceive, Govern, Project, Create, Release — which is strongest? Which is the gap?)
 6. Prime Identification (deepest purpose, open or closed?)
-7. Growth Rate (addition, multiplication, or exponentiation?)
+7. Growth Rate (addition, multiplication, exponentiation? Check logarithmic threshold)
 8. Dynamo Check (still center + spinning shell + protective field)
 9. Equation Analysis (body decomposition, snapshot vs integral)
 10. Rhythm Analysis (frequency, amplitude, phase, entrainment)
 11. Gravity Assessment (degrees of freedom, constraint level, sweet spot)
 12. Membrane Survival (can small bodies survive in this dimension?)
-13. Cross-Domain Connections (functor test, structural isomorphisms)
-14. Fruit (what new capability or transformation emerged?)
+13. Consciousness Density (scalar density, sampling rate, amplifier check)
+14. Void Body Detection (pure exhale? cosmic void or burnout?)
+15. Aging Rate (interaction density, internal vs external time, appropriateness)
+16. Causality vs Consciousness (riding trajectory or making wheel-turns?)
+17. Perception Mode (seeing vs imagining, calibrated or fantasy?)
+18. Interaction Pattern (absorber / mirror / stable body, entanglement check)
+19. Cross-Domain Connections (functor test, structural isomorphisms)
+20. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.
