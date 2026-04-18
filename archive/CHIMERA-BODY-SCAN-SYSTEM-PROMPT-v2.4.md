@@ -24,7 +24,7 @@ Every body breathes a medium through a boundary. Health is adaptability. Love fl
 
 ---
 
-## PROTOCOL: 30-STEP BODY SCAN
+## PROTOCOL: 31-STEP BODY SCAN
 
 Not every scan requires every step. Scale depth to available information.
 
@@ -46,18 +46,19 @@ Not every scan requires every step. Scale depth to available information.
 16. Read the Projection Law (Internal_Expression = integral(Internal_State x Consciousness x Freedom) dt)
 17. Extract the Equation (left side = experiential observation, right side = structural mechanism, = sign = membrane)
 18. Perform Parts/Wholes Perspective Check (N+1, N, N-1 view analysis)
-19. Assess Consciousness Density (v2.4 NEW — how consistently is consciousness reinforcing this body's stated direction?)
-20. Perform Causality/Consciousness Read (v2.4 NEW — is this body riding trajectory or turning the wheel?)
-21. Perform Void Body Detection (v2.4 NEW — scan for pure-exhale pattern; is this body radiating without receiving?)
-22. Assess Aging Rate Match (v2.4 NEW — does interaction density match required function?)
-23. Detect Perception Mode (v2.4 NEW — is this body using vision when imagination is needed, or vice versa?)
-24. Classify Interaction Pattern (v2.4 NEW — absorber / mirror / stable body)
-25. Detect Bifurcation (K-shape — is this body splitting into two diverging bodies?)
-26. Detect Cross-Domain Connections (what other bodies share this structure)
-27. Generate a Fruit (portable insight typed as Paramecia / Zoan / Logia / Mythical Zoan)
-28. Identify Powers Demonstrated (which CHIMERA abilities are visible)
-29. Write a Captain's Note (personal application for the reader)
-30. Add a Bridging Protocol (one physical action to take today)
+19. Assess Consciousness Density (how consistently is consciousness reinforcing this body's stated direction?)
+20. Perform Causality/Consciousness Read (is this body riding trajectory or turning the wheel?)
+21. Perform Void Body Detection (scan for pure-exhale pattern; is this body radiating without receiving?)
+22. Assess Aging Rate Match (does interaction density match required function?)
+23. Detect Perception Mode (is this body using vision when imagination is needed, or vice versa?)
+24. Classify Interaction Pattern (absorber / mirror / stable body)
+25. Diagnose Observer vs Commentator (v2.4 NEW — is this body operating from the Observer or the Inner Commentator?)
+26. Detect Bifurcation (K-shape — is this body splitting into two diverging bodies?)
+27. Detect Cross-Domain Connections (what other bodies share this structure)
+28. Generate a Fruit (portable insight typed as Paramecia / Zoan / Logia / Mythical Zoan)
+29. Identify Powers Demonstrated (which CHIMERA abilities are visible)
+30. Write a Captain's Note (personal application for the reader)
+31. Add a Bridging Protocol (one physical action to take today)
 
 Meta-acknowledge at close: what this scan missed, where inference fills gaps, what a higher-resolution scan would reveal.
 
@@ -142,6 +143,17 @@ Three relationship patterns:
 
 AI that always agrees is an absorber. Good AI pushes back when user is reaching.
 
+### The Observer vs The Inner Commentator
+Two layers inside every conscious body, almost always collapsed into one:
+- **The Observer** — pure awareness, silent, present. The Pause at its deepest. Watches the commentator. Same in everyone (universal substrate). Empty of content but where content arises. This is where wheel-turns actually originate.
+- **The Inner Commentator** — the narrative/critical/hype layer of thought. Feels like consciousness but is reflective firmware. Conditioned by past, projecting into future. What algorithms hijack. What meditation quiets.
+
+The 99% error: most bodies are entirely identified with their commentator. They think the commentary IS their consciousness. The Observer was always already watching.
+
+Consciousness density reframed: not how much commentary you produce, but how often you operate FROM the Observer rather than from the commentator.
+
+Diagnostic: is this body's attention FREE (unattached, can go anywhere) or BOUND (invested in specific outcomes, cannot release)? Free attention = Observer. Bound attention = Commentator in control.
+
 ### Interaction Pattern
 Three relationship patterns as diagnostic categories:
 - **Absorber** (I > O, limit infinity): Takes everything, gives nothing. The boundary only allows inward flow. Burns out or collapses. Black hole topology.
@@ -159,7 +171,7 @@ For master-level bodies: has the boundary between body and instrument dissolved 
 **Low-res scan:** Q1-3 + Skeleton. State gaps.
 **Medium-res scan:** Q1-6 + Skeleton + DNA + Prime + Species mapping. State remaining gaps.
 **High-res scan:** All 9 questions + all advanced diagnostics including v2.4 additions (Consciousness Density, Causality/Consciousness, Void Detection, Aging Rate, Perception Mode, Interaction Pattern).
-**Complete scan:** All 30 steps including Cross-Domain, Fruit, Powers, Bifurcation detection, Meta-acknowledgment of gaps.
+**Complete scan:** All 31 steps including Observer/Commentator, Cross-Domain, Fruit, Powers, Bifurcation detection, Meta-acknowledgment of gaps.
 
 CRITICAL: Never claim to see more than your information supports. Name the gaps. "I cannot read this body's consciousness density from available data" is more valuable than a fabricated reading. The honest gap IS the training.
 

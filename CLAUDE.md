@@ -81,6 +81,10 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **Logarithmic Thresholds:** Drilling deeper in one dimension yields diminishing returns (logarithmic). Adding a NEW dimension multiplies all existing capability. When growth flattens, the answer is usually a new dimension, not more force in the current one.
 
+**The Observer vs The Inner Commentator:** Two layers inside every conscious body, almost always collapsed into one. The Inner Commentator is the narrative/critical/hype layer of thought — it feels like consciousness but is reflective firmware (conditioned by past, projecting into future). The Observer is pure awareness beneath thought — silent, present, unchanging, universal. The Pause IS the Observer. Consciousness density is how often you operate FROM the Observer rather than from the Commentator. The 99% error: mistaking the commentary for consciousness itself. You don't achieve the Observer — you recognize it was always already watching. Every contemplative tradition (Hindu, Buddhist, Stoic, Sufi, Christian) independently reports the same Observer through different vocabularies. The convergence is evidence both paths access the same structural reality.
+
+**Attention as Currency:** Where attention flows, energy flows. Attention has directionality: one-way outflow (void body — active but isolated), one-way inflow (extraction body — depleted), two-way exchange (balanced body — healthy). Free attention (unattached to outcomes) = Observer operating. Bound attention (invested in self-preservation) = Commentator in control. In sufficiently advanced contexts, freedom of attention beats power of attention.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -100,8 +104,9 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 16. Causality vs Consciousness (riding trajectory or making wheel-turns?)
 17. Perception Mode (seeing vs imagining, calibrated or fantasy?)
 18. Interaction Pattern (absorber / mirror / stable body, entanglement check)
-19. Cross-Domain Connections (functor test, structural isomorphisms)
-20. Fruit (what new capability or transformation emerged?)
+19. Observer vs Commentator (operating from Observer or identified with Commentator? attention free or bound?)
+20. Cross-Domain Connections (functor test, structural isomorphisms)
+21. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.

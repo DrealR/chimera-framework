@@ -257,6 +257,37 @@ Is this body seeing (receiving) or imagining (projecting)?
 
 ---
 
+### OBSERVER vs COMMENTATOR DIAGNOSTIC (v3.4)
+
+Is this body operating from the Observer (pure awareness) or from the Inner Commentator (reflective firmware)?
+
+| Element | Reading |
+|---------|---------|
+| **Primary operating mode** | [OBSERVER — acting from silent present-moment awareness / COMMENTATOR — acting from the narrative/critical/analytical layer of thought / MIXED — oscillating between both] |
+| **Commentator type** | [Narrator (describing what's happening) / Critic (judging what's happening) / Hype (cheerleading) / Absent (rare — pure Observer access)] |
+| **Observer access** | [Regular (returns to Observer frequently, choices come from beneath commentary) / Occasional (flashes of Observer during crisis or flow states) / Rare (entirely identified with commentator) / Never (no awareness that the commentator isn't "self")] |
+| **Misidentification** | [Does this body mistake the commentator for the Observer? This is the 99% error — the reflective layer of thought FEELS like awareness but is still firmware.] |
+| **Attention freedom** | [FREE — attention can go anywhere, unattached to outcomes / BOUND — attention is invested in specific outcomes, cannot release] |
+
+**The Observer IS:**
+- The Pause at its deepest — pure awareness beneath thought
+- What consciousness density is actually dense WITH (frequency of operating from Observer)
+- The wheel-turner that changes trajectory (the commentator only analyzes)
+- The universal substrate underlying WE = 1
+- Empty of content but where content arises — the void as womb
+
+**The Inner Commentator IS:**
+- The firmware's reflective layer — still firmware, just the self-aware kind
+- What usually gets mistaken for "the self"
+- What algorithms specifically hijack (they cannot hijack the Observer)
+- What meditation quiets to allow the Observer to be recognized
+
+**The 99% Error:** Most bodies are entirely identified with their inner commentator. They think the commentary IS their consciousness. The actual consciousness (the Observer) is the silence watching the commentary. You don't achieve the Observer — you recognize it was always already watching.
+
+**Cross-tradition convergence:** Hindu (Atman), Buddhist (non-local awareness), Stoic (observing consciousness), CHIMERA (the Pause). Different vocabularies, same structural reality. The convergence across independent traditions is evidence both paths access the same underlying truth.
+
+---
+
 ### INTERACTION PATTERN (v3.4)
 
 What pattern does this body run when interacting with other bodies?
