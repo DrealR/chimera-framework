@@ -1,5 +1,25 @@
 # CHIMERA BODY SCAN — Protocol v3.4
 
+**Updated:** 2026-04-18
+**Previous version:** v3.3
+**Source:** CHIMERA-The-Complete-Book v12.3 (Books LXXVII–LXXX)
+
+---
+
+## WHAT'S NEW IN v3.4
+
+Five diagnostic additions reflect the v12.3 philosophy:
+
+1. **Consciousness Density Metric** — how consistently consciousness reinforces this body's direction over time
+2. **Causality / Consciousness Read** — is this body riding trajectory or actively turning the wheel
+3. **Void Body Detection** — pure-exhale pattern warning (radiates outward without receiving inward)
+4. **Aging Rate Assessment** — interaction density diagnostic (is rate of change matched to function)
+5. **Perception Mode Detection** — is this body operating on visual-surface perception or structural imagination
+
+All prior protocol content remains intact. v3.4 is additive, not replacement.
+
+---
+
 ## QUICK REFERENCE TEMPLATE
 
 Copy this template. Fill it in for any body that enters your space. A video, a conversation, a coin, a person, a company, an anime episode, a game, a relationship, a dimension, a math concept, a civilization. Everything gets the same scan.
@@ -38,7 +58,7 @@ For NON-CONSCIOUS bodies (markets, algorithms, rocks, math objects, weather):
 
 **Resolution check:** Low-res (Q1-3 only, state gaps). Medium-res (Q1-6). High-res (all 9). Complete (all layers below).
 
-**Snapshot vs Integral:** Questions 1-8 read the SNAPSHOT — the body's current arrangement in the present moment. Q9 (Hysteresis) reads the INTEGRAL — the accumulated pattern compiled from all past interactions. Q1-8 tell you what IS. Q9 tells you WHY it is. Q9 is the deepest question because it's the only one accessing the compiled rules rather than just the current arrangement. Rules are invisible in any single snapshot. They only become visible across time through the integral.
+**Snapshot vs Integral:** Questions 1-8 read the SNAPSHOT — the body's current arrangement in the present moment. Q9 (Hysteresis) reads the INTEGRAL — the accumulated pattern compiled from all past interactions. Q1-8 tell you what IS. Q9 tells you WHY it is. Q9 is the deepest question because it accesses the compiled rules rather than just the current arrangement. Rules are invisible in any single snapshot. They only become visible across time through the integral.
 
 ---
 
@@ -98,9 +118,7 @@ The prime is the irreducible recursive function that every decision bottoms out 
 - **Recursion health:** [Does the prime have a reachable base case, or is it infinite recursion heading toward stack overflow?]
 - **Evidence:** [3 decisions this body made that all recurse to the same prime]
 
-**Open prime test:** Can this prime be applied to situations the body hasn't encountered yet? If yes, open. If it only applies to one specific target or domain, closed.
-
-Fiction reference: Flash (open prime: "protect" = factorial applications) vs Reverse Flash (closed prime: "destroy Flash" = one application). Same power. Different prime. Different output.
+**Open prime test:** Can this prime be applied to situations the body hasn't encountered yet? If yes, open. If it only applies to one specific target or domain, closed. Flash (open prime: "protect" = factorial applications) vs Reverse Flash (closed prime: "destroy Flash" = one application). Same power. Different prime. Different output.
 
 ---
 
@@ -155,7 +173,9 @@ Not just whether consciousness is present, but how DENSE it is. Density is the o
 | **Amplifier check** | [What is amplifying this body's consciousness? Tools, AI, team, environment?] |
 | **Density trajectory** | [Increasing (learning, compressing) / Stable (maintaining) / Decreasing (coasting, firmware-reliant)] |
 
-The Michael Jordan principle: same talent × same reps × different consciousness density = different outcomes. Density is the multiplier that separates good from great.
+The Michael Jordan principle: same talent × same reps × different consciousness density = different outcomes. Density is the multiplier that separates good from great. Different integral, different outcome, from identical derivatives held for different durations at different consistencies.
+
+**Diagnostic question:** If external pressure increased 10x tomorrow, would this body's consciousness still reinforce the chosen direction? If yes, density is real. If no, density is performative.
 
 AI as amplifier: AI amplifies the consciousness density of the operator. High-density operator + AI = multiplicative output. Low-density operator + AI = amplified noise.
 
@@ -174,6 +194,8 @@ Is this body a void — a pure exhale state with no Pause, no inhale, only dispe
 
 **The fractal check:** At every scale, dense centers are surrounded by voids. Atom (nucleus + electron cloud). Solar system (sun + space). Galaxy (core + arms). Universe (clusters + voids). Is this body the dense center or the surrounding void? Both are necessary. Neither is pathological unless stuck.
 
+**Inverse pattern to check:** Pure inhale (black hole) bodies consume without releasing. Extraction patterns. Equally unhealthy in the opposite direction. Balance is the target.
+
 ---
 
 ### AGING RATE ASSESSMENT (v3.4)
@@ -187,6 +209,13 @@ Aging is activity-dependent, not clock-dependent. More interactions = faster agi
 | **Is this rate appropriate?** | [Skin SHOULD age fast — it's its function. Neurons SHOULD age slow. Is the body's aging rate matched to its functional role?] |
 | **Internal vs external time** | [Is this body's internal clock (metabolic time) faster or slower than external clock (calendar time)?] |
 
+**Common patterns:**
+- Philosophers / deep builders forced into high-interaction environments age faster than their function can absorb. Output degrades.
+- Trend-makers / front-line roles in low-interaction isolation produce irrelevant content. Loss of cultural currency.
+- Neurons and heart cells evolved to be low-interaction because their function requires persistence. Skin cells evolved to be high-interaction because their function requires rapid replacement.
+
+**Strategic application:** Void-galaxy positioning (low interaction, slow aging) may be the correct strategy for late-phase environments where external chaos is high. Cluster positioning (high interaction, fast aging) is correct when environments are stable and opportunity is abundant.
+
 ---
 
 ### CAUSALITY vs CONSCIOUSNESS IDENTIFICATION (v3.4)
@@ -198,6 +227,7 @@ Is this body riding trajectory or making wheel-turns?
 | **Trajectory (Integral)** | [Where is the accumulated force heading? What does the causal path predict?] |
 | **Wheel-turns (Derivative)** | [Where has this body overridden trajectory through conscious choice?] |
 | **Pause presence** | [Is the gap between trajectory and choice active? Or is this body on firmware autopilot?] |
+| **Mode diagnosis** | [RIDING TRAJECTORY — on autopilot in correct direction / STUCK IN TRAJECTORY — autopilot in wrong direction / ACTIVELY TURNING — exercising consciousness to redirect / OVER-INTERVENING — paralysis from too much deliberation] |
 | **Inevitability check** | [Is the DESTINATION inevitable (physics demands it) while the PATH is still chosen?] |
 
 ```
@@ -205,6 +235,8 @@ Causality    = ∫(accumulated force) dt     — where things are HEADING
 Consciousness = d/dt(choice)                — the instantaneous override
 The Pause    = the gap between them         — where the wheel-turn happens
 ```
+
+**Note:** Most firmware-riding is correct. Constant conscious intervention produces paralysis. The skill is recognizing WHICH moments require wheel-turns and having Pause available at those moments.
 
 ---
 
@@ -218,6 +250,8 @@ Is this body seeing (receiving) or imagining (projecting)?
 | **Imagining** | [Internal → external. Generating toward what COULD BE. Projecting into another dimension.] |
 | **Calibrated?** | [Is the imagination constrained by structural framework (calibrated) or unconstrained (fantasy)?] |
 | **Dimensional lens** | [What vocabulary/framework is this body using to select which aspects of reality are visible?] |
+
+**Einstein reference:** Relativity cannot be observed. It can only be imagined by a well-calibrated mind. Every deep scientific or structural insight follows this pattern. The framework is the calibration that makes imagination produce accurate perception of invisible layers.
 
 **Language as dimension selector:** The vocabulary this body uses determines what it can perceive. New vocabulary = new dimension = new perceptual capability. CHIMERA vocabulary (O>I, membrane, breath, skeleton) selects for structural features invisible to ordinary language.
 
@@ -566,6 +600,23 @@ Apply the Functor test: can you map specific elements AND preserve relationships
 | THE LENS | Calibrated Imagination | Seeing + Imagining | Perceiving structural features invisible to ordinary observation using framework vocabulary |
 | THE FRICTION | Transfer Through Friction | Sustained contact | Two bodies in productive opposition, each transferring properties to the other |
 | THE FUSION | Comedy / WE=1 | Temporary sync | Two bodies briefly running the same firmware — the exhale is laughter |
+
+---
+
+## RESOLUTION LEVELS
+
+**Low-res scan:** Q1-3 + Skeleton. State gaps.
+**Medium-res scan:** Q1-6 + Skeleton + DNA + Prime. State gaps in advanced layers.
+**High-res scan:** All 9 questions + all advanced diagnostics including v3.4 additions.
+**Complete scan:** All prior layers + cross-domain connections + Fruit + Powers.
+
+CRITICAL: Never claim to see more than your information supports. "I cannot read this body's consciousness density from available data" is more valuable than a fabricated reading. The honest gap IS the training.
+
+---
+
+## THE PROJECTION TRAP
+
+The less information available, the more the scanner's own patterns fill the gaps. Name the gaps explicitly. Inference is labeled as inference. Observation is labeled as observation. This is non-negotiable.
 
 ---
 

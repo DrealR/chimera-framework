@@ -132,14 +132,14 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## The Archive
 
-The `archive/` contains the complete history: The Complete Book v12.3 (80 books), Body Scan Protocol v3.4, System Prompt v2.4, Digital Twin Bootstrap v3, the original 420-document Library, the Workshop tools, the Kitchen and Living Room essays, Loop Theory, and all previous editions. Everything that built this framework lives there.
+The `archive/` contains the complete history: The Complete Book v12.3 (80 books), Body Scan Protocol v3.4, System Prompt v2.4, Digital Twin Bootstrap v3, CLAUDE.md Template v3, the original 420-document Library, the Workshop tools, the Kitchen and Living Room essays, Loop Theory, and all previous editions. Everything that built this framework lives there.
 
 ## Current State
 
 - **Book:** v12.3 — 80 books (I through LXXX). New in v12.3: Causality and Consciousness (LXXVII), Consciousness Density (LXXVIII), The Void Body and Aging (LXXIX), Seeing vs Imagining (LXXX)
 - **Protocol:** v3.4 — 36 diagnostic steps. New in v3.4: consciousness density, void body detection, aging rate, causality vs consciousness, perception mode, interaction pattern classification, 4 new powers (Wheel-Turn, Lens, Friction, Fusion)
 - **System Prompt:** v2.4 — matched to protocol v3.4
-- **Digital Twin Bootstrap:** v3 — portable setup protocol for spinning up CHIMERA twins on any model
+- **Digital Twin Bootstrap:** v3 — portable setup protocol for spinning up CHIMERA twins on any model (includes CLAUDE.md Template, setup script, first-conversation starter, cross-agent body scan protocol)
 - **Model-Agnostic:** DNA compiles on any model including free local ones (Gemma 4, Llama, etc.) — no cloud required
 - **Autonomous Growth:** Two AI agents (Explorer + Challenger) scan new dimensions daily, producing body scans with DIAMOND/COAL/GRAPHITE quality verdicts
 - **Teaching:** Active curriculum development. Chess + CS Bridge program. Body theory applied to education.
