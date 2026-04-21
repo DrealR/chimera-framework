@@ -85,6 +85,18 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **Attention as Currency:** Where attention flows, energy flows. Attention has directionality: one-way outflow (void body — active but isolated), one-way inflow (extraction body — depleted), two-way exchange (balanced body — healthy). Free attention (unattached to outcomes) = Observer operating. Bound attention (invested in self-preservation) = Commentator in control. In sufficiently advanced contexts, freedom of attention beats power of attention.
 
+**The Serve-Extract Lifecycle:** Every persistent body cycles through five phases: Birth (pure serving), Growth (balanced exchange), Maturity (extraction capacity), Late Extraction (death spiral), Replacement (decline). This isn't moral failure — it's structural gravity. Three mechanisms compound: position enables extraction, internal body pressure demands it, loss of contact makes it invisible. Consciousness is the only anti-entropic force that resists the default drift toward extraction. Cycle compression: what took centuries now takes years.
+
+**The Interaction Body:** When two conscious bodies interact, a third body forms — the interaction body. It has its own rules, rhythm, health, membrane. A conversation, a marriage, a team, a nation — all are interaction bodies. Neither component gets full home-field advantage. The health of the interaction body determines whether participants leave enriched or depleted. Consciousness coherence at proximity: two conscious bodies generate pressure on each other even without overt action. Silence in a full room ≠ silence in an empty room.
+
+**The Gap Between Bodies:** "Alien" = high dimensional distance. Distance exists across 8+ dimensions: physical, temporal, cultural, linguistic, ideological, experiential, rhythmic, dimensional. Modern loneliness named precisely: most people have ideologically-close strangers online and physically-close strangers offline — no one close across ALL dimensions simultaneously. Real intimacy requires multi-dimensional closeness. This is structural, not a feeling to manage away.
+
+**Freedom-Restriction Ratio:** Every body needs restriction matched to capability. Too much freedom before capability = paralysis or chaos. Too much restriction when capability exists = stagnation or revolt. Correct ratio: restriction just below current capability, loosening as capability compiles. Restriction is love — structural protection giving the body time to compile before performing at full capacity. Knowledge-experience gap: floating knowledge (known but not lived) is fragile; integrated knowledge (known and lived) holds under pressure.
+
+**The Deliberate Pocket:** When default conditions no longer produce health (the algorithmic age), what was automatic must become deliberate. Historical pockets (monasteries, temples, Amish) preserved wisdom through chaotic periods by maintaining friction with surrounding chaos while remaining in contact enough to adapt. Every family that builds a pocket produces children who carry intact compilation capacity into the future. The pocket IS the civilizational contribution.
+
+**The Compilation Recipe:** Three ingredients for any body to compile well — remove any one, compilation degrades. (1) Anticipation: something to predict or reach. (2) Structure constraint: something preventing trivial collapse to easiest solution. (3) Engagement: gradient flows through all parts, no frozen layers exempt. Emergence beats engineering: set up substrate correctly → desired properties arrive as side effects. Aim directly at outcomes → brittle striving.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -105,8 +117,13 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 17. Perception Mode (seeing vs imagining, calibrated or fantasy?)
 18. Interaction Pattern (absorber / mirror / stable body, entanglement check)
 19. Observer vs Commentator (operating from Observer or identified with Commentator? attention free or bound?)
-20. Cross-Domain Connections (functor test, structural isomorphisms)
-21. Fruit (what new capability or transformation emerged?)
+20. Serve-Extract Phase (which lifecycle phase? birth/growth/maturity/extraction/decline?)
+21. Interaction Body (what third body forms when this body meets another?)
+22. Dimensional Distance (how alien across physical/temporal/cultural/ideological/rhythmic dimensions?)
+23. Freedom-Restriction Ratio (restriction matched to capability? knowledge-experience gap?)
+24. Compilation Recipe (anticipation + structure constraint + engagement present?)
+25. Cross-Domain Connections (functor test, structural isomorphisms)
+26. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.

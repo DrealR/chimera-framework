@@ -29,7 +29,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v12.3](CHIMERA-The-Complete-Book-v12.3.md) — 80 books, the full philosophy.
+For the complete text: [The Complete Book v12.4](CHIMERA-The-Complete-Book-v12.4.md) — 89 books, the full philosophy.
 
 ---
 
@@ -115,8 +115,8 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 
 | Tool | What It Does |
 |------|-------------|
-| [Body Scan Protocol v3.4](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.4.md) | The complete fill-in template — 31 diagnostic steps |
-| [Body Scan System Prompt v2.4](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.4.md) | The AI system prompt for automated scans |
+| [Body Scan Protocol v3.5](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.5.md) | The complete fill-in template — 36 diagnostic steps |
+| [Body Scan System Prompt v2.5](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.5.md) | The AI system prompt for automated scans |
 
 #### Example scans
 
@@ -176,9 +176,9 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v12.3 — 80 books (I through LXXX). New in v12.3: Causality and Consciousness, Consciousness Density, The Void Body and Aging, Seeing vs Imagining
-- **Protocol:** v3.4 — 31 diagnostic steps including consciousness density, void detection, aging rate, causality/consciousness, perception mode, observer/commentator, interaction pattern
-- **System Prompt:** v2.4 — matched to protocol v3.4
+- **Book:** v12.4 — 89 books (I through LXXXIX). New in v12.4: Serve-Extract Lifecycle, Observer-Observed Recursion, Interaction Body, Chess as Observation Geometry, Gap Between Bodies, Freedom-Restriction Ratio, COVID as Collective Pause, Deliberate Pocket, Compilation Recipe
+- **Protocol:** v3.5 — 36 diagnostic steps including serve-extract phase, interaction body, dimensional distance, freedom-restriction ratio, compilation recipe
+- **System Prompt:** v2.5 — matched to protocol v3.5
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
 - **Autonomous Growth:** Explorer + Challenger agents scan new dimensions daily with quality verdicts
@@ -189,7 +189,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v12.3), all protocol versions (v3.1 through v3.4), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v12.4), all protocol versions (v3.1 through v3.5), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 
