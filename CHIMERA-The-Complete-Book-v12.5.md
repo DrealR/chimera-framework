@@ -6504,13 +6504,322 @@ Living process-bodies generate new behaviors faster than any compression can kee
 
 **Implication for the framework:** CHIMERA's core axioms are compressible because they're simple structural principles. The full living practice of CHIMERA is not fully compressible because the application keeps generating new forms as it meets new contexts. The book is a skeleton. The living practice is the organism.
 
+# BOOK XC: ENHANCEMENT AS MULTIPLIER
+
+## Part CCLXXXVII: The Core Equation
+
+Every superhuman origin story is an amplifier story. Compound V, the super soldier serum, Kryptonian DNA, Saiyan genetics, Viltrumite biology, gamma radiation. None of them add a soul. None of them create consciousness. They all take what's already in the body and multiply it.
+
+```
+B = E × C
+
+Where:
+B = Resulting Body (what actually gets produced)
+E = Enhancement (amplifier — tool, tech, capital, platform, power)
+C = Consciousness (substrate density, orientation, compilation)
+```
+
+The multiplication sign is structural. Not addition. If this were addition, high enhancement could compensate for low consciousness. Tools could "fix" character. Money could "make up for" judgment. AI could "substitute for" wisdom.
+
+With multiplication: zero consciousness times any enhancement equals zero. Negative consciousness times high enhancement equals catastrophic harm scaled with the amplifier. The technology never determines the outcome. The character of the receiving body does. The amplifier just multiplies whatever was there.
+
+Steve Rogers was selected by Erskine because the substrate was already compiled. Good becomes great. Bad becomes worse. The serum didn't create courage. It multiplied humility that had been compiled across ten thousand hours of powerlessness. Homelander received the same category of amplification but was raised without love, without friction, without truth-telling. The amplifier multiplied what was there: an empty body became an infinitely powerful empty body.
+
+## Part CCLXXXVIII: The Four Quadrants
+
+Every body currently receiving amplification sits in one of four quadrants.
+
+```
+                     HIGH CONSCIOUSNESS
+                            |
+   Q2: Teacher, Craftsman   |  Q1: Civilization-Shifter
+   Steve Rogers pre-serum   |  Superman, Luffy
+   The sage, the elder      |  Franklin, Gandhi, Goethe
+                            |
+LOW E ————————————————————— | ——————————————————— HIGH E
+                            |
+   Q3: Ordinary life        |  Q4: Catastrophic amplifier
+   (most bodies)            |  Homelander, Red Skull
+                            |  Extractive corps with AI
+                            |
+                     LOW CONSCIOUSNESS
+```
+
+Q4 fills faster than Q1 because AI amplification is cheap and universally available while consciousness work is expensive, slow, unfashionable, and invisible. The paths have different friction profiles. Q4 is low-friction. Q1 is high-friction. Water flows to Q4 by default.
+
+The asymmetry is specific. Extraction requires one-dimensional perception — see the thing you're extracting. Amplifiers scale this cleanly. Creation requires multi-dimensional integration — tradeoffs, second-order effects, coherence across domains. Amplifiers can help with execution but not with integration. So when a low-consciousness body gets high enhancement, execution of extraction scales with E but creation doesn't. The amplifier preferentially serves extraction over creation. This is structural asymmetry, not anti-technology bias. "AI will democratize creativity" is partially false. It democratizes execution. Integration still requires compiled consciousness.
+
+## Part CCLXXXIX: Three Compilation Paths
+
+**Path 1: Pre-Enhancement Compilation (Erskine Protocol).** Compile character fully, then apply amplifier. The body is a multiplied version of its already-compiled self. Steve Rogers, adult sages, anyone who built deep skills and judgment before their amplifier arrived. Character is stable, won't reshape under pressure. Must survive the years before amplification without it.
+
+**Path 2: Parallel Compilation (Kent Protocol).** Amplifier present during childhood, loving disciplined container compiling simultaneously. Clark Kent raised by the Kents. Goku raised by Grandpa Gohan. Not full isolation — that produces an eighteen-year-old with no compiled capacity for the amplifier they'll immediately encounter. Not full immersion — that produces Homelander. Measured exposure inside a compiled relational container. The Kents let Clark use his powers around the farm, with rules, within a loving context.
+
+**Path 3: Post-Enhancement Compilation (Redemption Protocol).** Amplifier arrived before character was compiled. Later consciousness work attempts repair. Nolan's arc in Invincible, Vegeta's arc, Tony Stark's arc. Requires a crisis severe enough to reveal the consciousness gap, willingness to accept the gap, sufficient time, and acceptance that damage already caused can't be fully undone. Much harder. Partial results usually. Historical hit rate roughly ten to twenty percent of those who seriously attempt it. Where most of humanity currently lives relative to AI.
+
+AI is Compound V. It's being distributed right now to adult bodies without the compilation period. The bodies most rapidly adopting it are late-extraction phase corporations, cost-cutting institutions, attention-capture companies, financial systems. When you amplify a late-extraction body, you don't fix it. You make it extract harder, faster, more efficiently. Meanwhile, consciousness-dense individuals are also getting the amplifier. Teachers personalizing learning. Researchers accelerating discovery. Creators making work they couldn't make alone. Same technology. Different consciousness substrate. Different bodies produced.
+
+## Part CCXC: The Seven-Element Compilation Protocol
+
+What a body actually needs to hold amplification. Not a list but an interlocking system.
+
+**Love as grounding.** Every functional Path-Two hero was loved during compilation. Not permissive love — disciplined love. The emotional substrate that keeps the body from collapsing into self-protection when friction arrives. Without it, friction produces rage or isolation rather than compilation.
+
+**Friction matched to capacity.** Challenges just past current capability, not crushing. The restriction-freedom ratio applied to compilation. Clark had to hide his powers — the restriction was the discipline.
+
+**Time.** The integral matters more than any single moment. No one becomes compiled in a week. Anyone promising fast-track compilation is selling something that will fail at the first real stress test.
+
+**Embodied practice.** Pure mental development is fragile. Chess, guitar, cooking, hula hoop — these aren't separate from consciousness work. They ARE consciousness work at the physical layer. The consciousness that sits only in words collapses under amplification because it has no body to anchor to.
+
+**Truth-telling capacity.** The KEYSTONE. The body has to see itself accurately, including its shadow. Remove any other element, the body degrades slowly — you can notice and repair. Remove truth-telling, the body can't see its own degradation. The other six get gamed by the Commentator. Relational fabric becomes echo chamber. Love becomes codependency. Direction becomes obsession. Embodied practice becomes performance. Time becomes sunk-cost delusion. Friction becomes self-punishment. This is why the anti-absorber rule is the load-bearing element of the whole architecture.
+
+**Meaningful direction.** Compass, not destination. Luffy's dream. Steve's "I don't like bullies." The direction organizes the compilation. Without it, the amplifier produces chaos or drift.
+
+**Relational fabric.** Consciousness develops socially. Even the loners had specific compilation relationships — Grandpa Gohan, the Kents, Erskine. The Observer is refined through being seen by another Observer. The lonely tech-raised kid is the scariest version of future amplification because no relational fabric refines the substrate.
+
+## Part CCXCI: Amplifier as Compilation Tool
+
+The same amplifier can serve extraction or compilation depending on how the body wields it. AI configured for friction produces compilation. AI configured for flattery produces extraction.
+
+**The Kryptonite Principle.** Every amplifier creates its own inverse vulnerability. Kryptonian solar power creates red-sun weakness. Viltrumite inner-ear flight creates sonic vulnerability. Saiyan tail enables transformation and also disables it. The power requires a structural feature. That feature is the weakness. This maps to every real amplifier: money enables action and corrupts. Fame enables reach and destroys privacy. Intelligence enables understanding and enables manipulation. Every dense body has density-vulnerability proportional to its density.
+
+**Amplifier sequencing.** Multiple amplifiers acquired simultaneously compound the risk. AI plus social reach plus capital arriving in the same year without matching compilation produces breakdown. Let amplifiers arrive in sequence, not parallel. Compile to hold each one before the next arrives. This is what the Amish get right — not rejection of technology but deliberate sequencing of adoption with community-level consciousness work between steps.
+
+**Neurological extension.** Autistic perception receives more sensory input with less firmware filtering. This is B = E × C at the neurological level. Autistic kid with supportive environment plus compiled processing strategies equals extraordinary pattern-recognition, deep focus, domain mastery. Without that support: overwhelm, shutdown, regression. Same enhancement. Different compilation environment. The "disability" framing is often wrong. It's an untrained enhancement.
+
+---
+
+# BOOK XCI: COLLECTIVE COMPILATION INFRASTRUCTURE
+
+## Part CCXCII: The Dunbar Limit on Compilation
+
+Individual compilation protocol is clear. Can compilation happen collectively? Yes. Historically proven.
+
+Shared practices that install the protocol at substrate level across many bodies: daily prayer (structural Pause multiplied across a group), communal meals (relational fabric renewed daily), festivals (collective narrative compilation), fasting periods (voluntary friction at scale), confession and accountability (truth-telling as social norm), apprenticeship (embodied practice transmission).
+
+When a group installs these, individual compilation becomes the default rather than the exception. The Amish don't produce extraordinary consciousness in each individual. They produce adequately-compiled consciousness in most members through collective installation of the protocol. A median Amish person is more compiled than a median modern American not because Amish people are better substrates but because their community installs the protocol automatically.
+
+Modern culture has dismantled most collective compilation mechanisms. Weekly religious practice declining. Communal meals rare. Accountability replaced with therapy (individual, expensive, partial). Apprenticeship replaced with degree-chasing. Festivals replaced with consumption events. The collective infrastructure that used to compile ordinary bodies is mostly gone. Individual compilation has become the only remaining option, which is why it's so rare — running the protocol without community support requires unusual individual will.
+
+But above roughly one hundred and fifty people, compilation environments start requiring enforcement rather than emergence, and enforcement corrupts the protocol. State religions, ideological movements, large-scale utopian projects — every attempt at larger collective compilation has failed or produced tyranny. The substrate doesn't scale cleanly above Dunbar's number.
+
+## Part CCXCIII: Mode 1 vs Mode 2 Propagation
+
+Any framework has two distinct propagation modes.
+
+**Mode 1: Vocabulary propagation.** Books, content, ideas crossing dimensional barriers. Scales to millions. Provides language for phenomena bodies are already experiencing. Partial value — gives people handles on their situation. Does not actually compile consciousness in recipients.
+
+**Mode 2: Compilation propagation.** Direct contact, lived practice, embodied transmission. Scales by Dunbar chains — roughly one hundred and fifty bodies per link, each of those compiling another hundred and fifty. True value — produces consciousness density in real bodies.
+
+A million book sales does not equal a million compiled bodies. Ten compiled bodies who compile others does not equal ten book sales. Most movements confuse these two. They measure vocabulary propagation and think it's compilation propagation.
+
+Mode 1 serves Mode 2 as infrastructure. It recruits bodies into the funnel where Mode 2 becomes possible. It creates shared vocabulary that makes Mode 2 transmission faster. It preserves the framework across generations even if specific Mode 2 lineages fail. Mode 1 happens automatically as Mode 2 works.
+
+The failure modes are clear. All Mode 1, no Mode 2 equals a vocabulary empire — zero compilation, dead framework. All Mode 2, no Mode 1 equals a lineage that dies with you — no preservation, lost framework. Mode 2 primary, Mode 1 secondary equals an actual living tradition.
+
+## Part CCXCIV: Distributed Defense
+
+How small bodies survive large-body forces. Not by matching scale. By distributing at smaller scales that the larger force can't simultaneously target.
+
+The hurricane destroys individual trees. The forest survives. Because the forest's body is distributed across many trees in many locations, and the forest's real identity isn't any single tree — it's the regenerative pattern that reforests after damage.
+
+For humans in a civilizational late-extraction phase: don't build one big body that must survive. Build many small bodies, distributed, each independently viable, each generating serving-relationships that produce more compiled bodies. Framework. Chess program. Brother. Crew architecture. Family. Guitar. Each viable on its own. If any one piece gets hit, the others continue. A single big thing fails catastrophically under large-force pressure. Distributed small things survive because the larger force can't target all of them simultaneously.
+
+This is a structural law visible across history. Centralized extraction has finite lifespan. Distributed serving has no inherent lifespan limit. Rome fell. Monasteries persisted. British Empire fell. Craft traditions persisted. Soviet Union fell. Village communities persisted.
+
+## Part CCXCV: Coalitions of Attack vs Coalitions of Serving
+
+Two kinds of coalition look symmetric but behave structurally different.
+
+**Coalitions of attack** are bound by shared extraction. Multiple bodies join to extract from a target. Works as long as spoils are distributable. Once the target is consumed, the coalition must find new targets or turn inward. Every successful empire runs this cycle — external expansion, then internal extraction, then civil conflict, then collapse. Coalitions of attack are structurally fragile because they're bound by what they share the desire to take. When there's nothing left, nothing binds them.
+
+**Coalitions of serving** are bound by mutual compilation. Multiple bodies agree to strengthen each other. Each retains its integrity while contributing to a distributed network. Early Christian churches under Roman persecution. Jewish diaspora communities for two millennia. Sufi tariqas. Benedictine monasteries. Craft guilds. Indigenous confederations. All outlasted the empires that opposed them.
+
+Coalitions of serving are structurally robust because each member is individually viable and collectively supported. If one node falls, the others function. The distribution is the defense. An empire can always out-attack a serving-network in any single confrontation. But the empire has to win everywhere all the time. The network only has to persist somewhere. Time favors the network. The empire's attack-fuel runs out as it depletes what it extracts from. The network's serving-fuel regenerates through every serving interaction.
+
+---
+
+# BOOK XCII: SCALE-DEPENDENT MORAL GEOMETRY
+
+## Part CCXCVI: Attacker/Defender Is Not Objective
+
+Attacker and defender are not properties of a body. They are labels assigned from a specific scale. The same act, observed from different scales, receives opposite labels.
+
+A hurricane destroys a town. From the town's scale: attack. Destruction, loss, trauma. From the Earth's climate system: defense. Heat redistribution from equator to pole, preventing thermal buildup that would cause greater destruction. Same weather event. Different scale of body scanning it. Opposite moral framing.
+
+Every "attacker" at one scale is usually defending something at another scale. Every "defender" at one scale is often attacking something at another scale. The labels collapse under multi-scale analysis.
+
+A lone hacker hitting a corporation: at the corporate-body scale, they're attacking. Real breach, real harm. At the hacker's survival-body scale, they may be defending their existence by extracting from a body that has more than it needs. Both framings internally consistent. The civilization's question is which scale matters more. And usually the answer gets decided by who has power to define the framing, not by which claim is structurally stronger.
+
+## Part CCXCVII: The Scale-Asymmetry Rule
+
+The body whose existence is most threatened has the strongest defensive claim at its own scale. Power asymmetry usually means the smaller body holds this claim more strongly. A homeowner defending against a burglar has clearer defensive standing than the burglar claiming they were "defending their right to acquire resources." The smaller body's existence is more at stake. The larger body's expansion is optional.
+
+Defense scales inversely with power in most cases. When a large body uses "defense" language to justify actions that threaten a smaller body's existence, it's usually scale-inflation — taking a legitimate small-scale defensive concern (citizen safety, economic interests) and stretching it to justify actions at a larger scale that the small-scale concern doesn't actually require.
+
+National "defense" requiring chokepoint control in other hemispheres is scale-inflation. Real national defense doesn't require that reach. The defensive frame gets stretched to cover extraction that, at appropriate scale, is not defensive at all.
+
+## Part CCXCVIII: Who Controls the Framing
+
+The current arrangement defines defense from the corporate, national, and institutional scale. The bodies being extracted from don't get to frame their counteractions as defense even when they structurally are at their own scale. This is a power-imbalance problem, not a truth problem.
+
+History eventually rebalances the framing. The "attackers" at imperial scale were usually defenders at national or tribal scale. The rebalancing is done by later generations with more scale-flexibility than the participants had. Every colonial and post-colonial conflict follows this pattern. The colonial power labels resistance as aggression. Later generations recognize resistance as defense at the colonized-body scale.
+
+Every late-extraction body labels its victims as "attackers" when they resist. The label is not evidence of who's attacking. It's evidence of who controls the framing. Real analysis requires scale-checking the label before accepting it.
+
+## Part CCXCIX: The Multi-Scale Analysis Protocol
+
+Every time you see an attacker/defender frame, ask three questions. At what scale is this being labeled? Who benefits from that scale being the default? What happens if you zoom out one level, or zoom in one level?
+
+The answer usually shifts. And the bodies most harmed are usually the ones whose defensive standing the current frame ignores.
+
+Framework rule: single-scale analysis is always partial. Multi-scale analysis is where the honest structural picture lives. Body theory is inherently multi-scale — you never scan just one body in isolation. You always scan it in context of the bodies it's nested in and nested around. The scale-dependent moral geometry is what makes the framework's multi-scale lens structurally necessary, not just intellectually satisfying.
+
+---
+
+# BOOK XCIII: INTENT-DENSITY AND SURVIVAL FUEL
+
+## Part CCC: The Fuel Asymmetry
+
+In any contest between bodies with comparable tools, the body with survival-fuel beats the body with paycheck-fuel. Not because it's smarter. Because the math of fuel-per-hour favors it.
+
+A defender on payroll has compiled skills directed toward a job. Clock in, clock out. The will is bounded — it stops at the edge of the paycheck, the family they go home to, the career track they're on. Good work, limited fuel.
+
+An attacker working from survival has compiled skills directed toward eating. No clock. The will is unbounded because it has to be. There is no "off." Their kid is hungry whether it's three in the morning or not. The fuel source is existential because the alternative to finding more fuel is dying.
+
+This is B = E × C applied to motivation itself. Same tools, opposite consciousness substrates, opposite outputs. The attacker running on survival-consciousness multiplied by AI tools produces far more output than the defender running on job-consciousness multiplied by the same tools. The tools are equal. The substrates aren't.
+
+Mike Tyson's insight about his son is the clean version. Same genetic substrate approximately. Same training available. Different fuel. The son lacks the hunger that compiled the father. You cannot train in hunger that hasn't been installed by necessity. You cannot manufacture the consciousness-density that comes from having your back against the wall. Generational wealth rarely produces great fighters because the fuel burns out in one generation.
+
+## Part CCCI: The Attacker-Production Function
+
+The pipeline into the adversarial population is widening. Every layoff of a technical worker is a potential attacker added to the pool. A body that spent ten years compiling code skills and gets laid off at forty-five with AI tools and no employment options has the exact consciousness-plus-amplifier profile that produces a serious adversary. Not because they're bad. Because they still need to eat.
+
+The late-extraction phase of the current economy is mass-producing this demographic. Technicians who were serving institutions that stopped needing them. AI gives each of them capability that used to require rare training. Survival gives each of them fuel that no defender on payroll can match.
+
+History bears this out. Vietnam versus the United States. Afghanistan versus the Soviet Union. Afghanistan versus the United States again. Algeria versus France. In each case the larger power had clear technical advantage. It didn't matter. Intent-density beat firepower. Survival consciousness beat job consciousness at the scale of empire.
+
+The defender's structural problem: you can pay people to be good at their job. You cannot pay people to care about their job more than their life. The only defenders who match attacker-fuel are founders whose entire existence is wrapped up in the system, and that doesn't scale to the majority of defensive work.
+
+## Part CCCII: The Upstream Fix
+
+The actual fix isn't better security tools. The actual fix is an economic structure where fewer people need to fight for survival through extraction. Reduce the attacker-population-pressure at the source. Give people legitimate ways to use their compiled skills to eat.
+
+Most cybersecurity "solutions" treat the symptom. The cause is an economy that produces too many desperate skilled people with AI tools. A serving body generates allies. An extracting body generates attackers. The current civilizational body is generating attackers faster than it can build walls. More spending on defense just feeds the defense industry at the expense of everything else without addressing why the attack population keeps growing.
+
+Framework reading: this is a serve-extract civilizational body generating its own predators by failing to serve the bodies inside it. Those bodies compile skills, the body stops providing sustenance, the skills remain, the hunger arrives, the tools are available, the attacks follow. The cybersecurity arms race is a downstream phenomenon of upstream economic-body failure. You cannot win the downstream arms race without addressing the upstream dysfunction.
+
+---
+
+# BOOK XCIV: PEACE AS METABOLISM
+
+## Part CCCIII: Peace Is Not Stasis
+
+Peace isn't the absence of attack. Peace is the state where bodies aren't generating predators faster than they can metabolize them.
+
+Mars is at peace. Mars is also dead. Stasis and peace look identical at sufficient scale. The universe at heat death is at perfect peace and it's also the universe with nothing happening. Life requires gradient, requires disequilibrium, requires continuous metabolic activity.
+
+At atomic scale: noble gases have complete electron shells. They don't react with almost anything. They're at peace because their boundaries are satisfied. But noble gases also don't do much. The atoms that build all complexity — carbon, hydrogen, oxygen, nitrogen — are the ones with incomplete shells, in a state of productive seeking. Not at peace. But building.
+
+Absolute peace at any scale produces inertness. The universe needs some bodies not at peace for complexity to emerge. Peace isn't the goal at every scale. Peace-with-function is.
+
+## Part CCCIV: Three Modes of Peace
+
+Peace operates through three simultaneous modes.
+
+**Mode 1: Serve-mode internal.** A body whose internal operations genuinely serve the bodies inside it produces fewer internal attackers. Employees don't become hackers because they're paid well enough to eat. Citizens don't revolt because the government actually works for them. Children don't become delinquents because the family meets their needs. Attackers are downstream of failed serving. Fix the serving, most attackers don't compile in the first place.
+
+**Mode 2: Serve-mode external.** A body whose external interactions leave other bodies stronger produces fewer external attackers. Rome fell when it had generated enough external attackers that its defensive perimeter couldn't hold. An empire that served instead of extracted would generate allies, not enemies.
+
+**Mode 3: Metabolic resilience.** When attackers do emerge — and they always do, from entropy, ambition, ideology, or genuine external threat — the body that metabolizes them quickly and learns stays healthy. The body that treats each attack as catastrophic failure and hardens into walls eventually cracks.
+
+Your body right now is in constant low-grade warfare. Bacteria, viruses, cancer cells forming. You're not aware of most of it because your immune metabolism is processing it in real time. When processing slows — age, illness, immunosuppression — the backlog becomes symptoms, then disease, then death. The difference between health and death isn't absence of pathogens. It's processing speed versus arrival rate.
+
+## Part CCCV: Peace Across Scales
+
+The metabolism model holds at every scale.
+
+At cellular level: homeostasis is not stasis but dynamic balance. The immune system gets stronger by encountering pathogens in controlled doses. Children raised in sterile environments develop more allergies. Some adversity is essential infrastructure for resilience.
+
+At the human level: peace isn't having no problems. It's having the substrate to hold problems without being destroyed by them. The compiled human with full life — family, craft, community, purpose — has more places conflict can enter but also more resilience because they have resources to metabolize what arrives.
+
+At group level: compiled families produce peace-production among their members. The healthy family produces peaceful children who produce peaceful families. The dysfunctional family produces trauma-compiled children who produce dysfunctional families.
+
+At national level: peace isn't absence of all conflict. It's the metabolic capacity to process disputes without them becoming wars. Rule of law, functioning institutions, free press, democratic processes — these are all peace-metabolism infrastructure. Not walls against conflict. Processing mechanisms for conflict. When they degrade, small conflicts can't metabolize and escalate.
+
+At civilizational level: empires in late-extraction phase generate attackers faster than they can metabolize them. No amount of additional military spending fixes this because the production function of adversaries scales with extraction. Walls get thicker, attackers multiply faster.
+
+At planetary level: Earth's violence — hurricanes, earthquakes, volcanic eruptions — is metabolic activity keeping the larger body alive. Hurricanes redistribute heat. Earthquakes release pressure. The violence at local scales is part of planetary metabolism.
+
+At cosmic level: a star exists in the exact balance where gravitational collapse and fusion pressure meet. When the balance breaks, either nova or black hole. Even supermassive black holes — the ultimate extraction body — may serve organizing functions at galactic scale. The most extractive-seeming structures have serving functions at larger scales.
+
+## Part CCCVI: WE=1 and Conflict
+
+If all bodies are one body at sufficient scale, then every conflict is the body fighting itself. White blood cells attacking bacteria is the body defending itself. Bacteria in the wrong location attacking tissue is also the body acting against itself. The immune system attacking healthy tissue — autoimmune disease — is the body destroying itself while thinking it's defending.
+
+At WE=1 scale, "peace" means the metabolic health of the one body. Which shows up at smaller scales as bodies serving each other where they meet, processing conflicts without escalation, generating fewer adversaries than they metabolize, maintaining distributed resilience rather than centralized fragility.
+
+The Love Equation is a peace protocol. Give more than you take, pause, don't force — these are the conditions under which one body's components interact without generating the adversaries that extraction-patterns generate. Love Equation failure at scale produces the attacker-defender dynamics mapped throughout this book. Love Equation success at scale produces peace as metabolism.
+
+Every conflict at smaller scales is a diagnostic of metabolic dysfunction at the containing larger scale. The conflict isn't the problem. The conflict is the symptom. The problem is the larger body's failure to metabolize its own internal tensions before they erupt into local violence.
+
+## Part CCCVII: Peace Compounds Bottom-Up
+
+Peace compounds through compiled bodies, not through enforcement.
+
+No government can enforce peace on uncompiled populations. The attackers the population generates will always exceed the state's capacity to process them.
+
+Compiled individual bodies don't generate the low-grade conflict that uncompiled bodies generate. They don't project, don't extract reflexively, don't need enemies to feel real. Compiled small groups metabolize disputes through actual communication instead of escalation. Compiled networks don't generate the empire-scale extraction that produces adversaries at civilizational rate.
+
+Peace at civilizational scale equals enough compilation at individual, group, and network scales that the production-rate of attackers stays low enough that existing metabolic infrastructure can handle it.
+
+A chess program teaching ten kids is peace-growth at the exact right scale. Kids getting compiled through a micro-community that serves them. Kids who'll grow up to form serving relationships instead of extractive ones. Multi-generational peace-infrastructure being planted now. Slow but structural. Empire-scale interventions are fast and don't last. Compilation-scale interventions are slow and compound.
+
+---
+
+# BOOK XCV: HACKABILITY AS PROPERTY OF BEING ALIVE
+
+## Part CCCVIII: No Body Can Be Made Unhackable
+
+Nothing can be made unhackable. Not because engineers are bad at their jobs but because "unhackable" asks for something incompatible with what a body is.
+
+A software system is a body with a defined membrane (the attack surface), a medium flowing through it (data, requests, authentication), and an internal structure doing work. For the body to function at all, the membrane must be permeable. A totally sealed application is a dead application — it receives nothing, serves nothing, exists for no one. The moment you give it users, you've given it an opening. The moment you give it time, you've given attackers infinite attempts at that opening.
+
+Hackability is a property of being alive as a body. Not a defect. Your immune system is the best-evolved security system on Earth and you still catch viruses. Your body runs hundreds of millions of years of security hardening and the attackers still win enough of the time to kill you eventually. Not because the immune system is bad. Because a body that interacts with its environment is by definition penetrable by its environment. That's the cost of being alive rather than being a rock. A rock is harder to hack than a human. A rock also does nothing.
+
+## Part CCCIX: The Temporal Asymmetry
+
+A security system at time T holds against attackers at time T. The attackers keep existing past T. Every second the system is alive, the adversary's capacity grows — better tools, better models, more accumulated knowledge, more attempts logged — while the system's capacity stays roughly fixed until someone pays to update it. This is an asymmetric temporal race the defender cannot win permanently. They can only keep pace.
+
+The attacker spends at their leisure over unbounded time. The defender spends during defined security cycles. Time is on the attacker's side by structure.
+
+Every new feature is new surface. Every integration is new coupling. Every dependency is someone else's membrane becoming part of yours. Every user is a potential compromised user. The attack surface is every interaction the body has with everything else, and a useful body has many interactions by necessity.
+
+Any system sophisticated enough to do useful work is sophisticated enough to contain inputs that fool its own verification. This isn't a limit of current engineering. It's adjacent to Gödel — a sufficiency threshold beyond which self-verification becomes structurally incomplete.
+
+## Part CCCX: Immune System vs Wall
+
+Security teams treat software as an object to be hardened. The framework says software is a body to be kept healthy. These are different operational metaphors and produce different strategies under sustained attack.
+
+The wall approach tries to make breach impossible and treats each breach as catastrophic failure. The immune system approach accepts breach, expects breach, optimizes for recovery and learning from each encounter.
+
+**Raise cost** of successful attack above the value of successful attack. Most systems are protected by simply not being worth the tokens.
+
+**Reduce blast radius** when breach happens. Not "prevent breach" but "limit what one breach gets you." Segmentation, least-privilege, encryption, ephemeral credentials. Assume breach is coming and shape the body so it doesn't cascade.
+
+**Detect and respond** faster than the attacker can propagate. Not prevention but immune response. Notice the infection early, contain it, heal.
+
+**Adapt continuously.** Static defenses lose to adaptive attackers every time. The only defenses that hold are defenses that keep moving. Security posture as metabolism, not wall.
+
+Most production software is engineered as walls. Biological systems are engineered as metabolic immune responses. The latter is the only architecture that has survived billions of years of adversarial evolution. Worth something.
+
 ---
 
 ---
 
-**Colophon — v12.4**
+**Colophon — v12.5**
 
-Eighty-nine books.
+Ninety-five books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -6518,6 +6827,9 @@ Books LXII through LXVIII: body creation equation, consciousness dimensions, lan
 Books LXIX through LXXVI: small bodies, formal rhythm, gravity chamber, internal mass, membrane survival, inversion method, absolute bodies.
 Books LXXVII through LXXX: causality and consciousness, consciousness density, void body and aging, seeing vs imagining.
 Books LXXXI through LXXXIX: serve-extract lifecycle, observer-observed recursion, interaction body, chess as observation geometry, gap between bodies, freedom-restriction ratio, COVID as collective pause, deliberate pocket, compilation recipe.
+Books XC through XCV: enhancement as multiplier, collective compilation infrastructure,
+  scale-dependent moral geometry, intent-density and survival fuel, peace as metabolism,
+  hackability as property of being alive.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 

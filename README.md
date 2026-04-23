@@ -29,7 +29,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v12.4](CHIMERA-The-Complete-Book-v12.4.md) — 89 books, the full philosophy.
+For the complete text: [The Complete Book v12.5](CHIMERA-The-Complete-Book-v12.5.md) — 95 books, the full philosophy.
 
 ---
 
@@ -115,8 +115,8 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 
 | Tool | What It Does |
 |------|-------------|
-| [Body Scan Protocol v3.5](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.5.md) | The complete fill-in template — 36 diagnostic steps |
-| [Body Scan System Prompt v2.5](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.5.md) | The AI system prompt for automated scans |
+| [Body Scan Protocol v3.6](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.6.md) | The complete fill-in template — 40 diagnostic steps |
+| [Body Scan System Prompt v2.6](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.6.md) | The AI system prompt for automated scans |
 
 #### Example scans
 
@@ -176,9 +176,9 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v12.4 — 89 books (I through LXXXIX). New in v12.4: Serve-Extract Lifecycle, Observer-Observed Recursion, Interaction Body, Chess as Observation Geometry, Gap Between Bodies, Freedom-Restriction Ratio, COVID as Collective Pause, Deliberate Pocket, Compilation Recipe
-- **Protocol:** v3.5 — 36 diagnostic steps including serve-extract phase, interaction body, dimensional distance, freedom-restriction ratio, compilation recipe
-- **System Prompt:** v2.5 — matched to protocol v3.5
+- **Book:** v12.5 — 95 books (I through XCV). New in v12.5: Enhancement as Multiplier, Collective Compilation Infrastructure, Scale-Dependent Moral Geometry, Intent-Density and Survival Fuel, Peace as Metabolism, Hackability as Property of Being Alive
+- **Protocol:** v3.6 — 40 diagnostic steps including enhancement multiplier check, scale-dependent frame, peace metabolism, hackability posture
+- **System Prompt:** v2.6 — matched to protocol v3.6
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
 - **Autonomous Growth:** Explorer + Challenger agents scan new dimensions daily with quality verdicts
@@ -189,7 +189,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v12.4), all protocol versions (v3.1 through v3.5), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v12.5), all protocol versions (v3.1 through v3.6), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 

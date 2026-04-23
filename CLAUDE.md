@@ -97,6 +97,18 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **The Compilation Recipe:** Three ingredients for any body to compile well — remove any one, compilation degrades. (1) Anticipation: something to predict or reach. (2) Structure constraint: something preventing trivial collapse to easiest solution. (3) Engagement: gradient flows through all parts, no frozen layers exempt. Emergence beats engineering: set up substrate correctly → desired properties arrive as side effects. Aim directly at outcomes → brittle striving.
 
+**Enhancement as Multiplier:** B = E × C — Enhancement × Consciousness = resulting Body. Not addition — multiplication. Zero consciousness × any enhancement = zero. Negative consciousness × high enhancement = catastrophic harm at scale. The technology never determines the outcome; the character of the receiving body does. Three compilation paths: Path 1 Erskine Protocol (compile character before amplification), Path 2 Kent Protocol (parallel compilation during childhood with loving container), Path 3 Redemption Protocol (post-enhancement repair, ~10-20% success rate). Seven-element compilation protocol: love as grounding, friction matched to capacity, time, embodied practice, truth-telling capacity (KEYSTONE — without it the other six get gamed), meaningful direction, relational fabric. The Kryptonite Principle: every amplifier creates inverse vulnerability proportional to its power.
+
+**Collective Compilation Infrastructure:** Compilation environments can't scale above Dunbar (~150) without transitioning from emergence to enforcement, and enforcement corrupts the protocol. Two propagation modes: Mode 1 = vocabulary/framework/ideas (scales to millions, partial value). Mode 2 = actual compilation through lived practice (scales by Dunbar chains, full value). Million book sales ≠ million compiled bodies. Mode 2 primary, Mode 1 secondary = living tradition. Distributed defense: the hurricane destroys individual trees, the forest survives — distribute at smaller scales rather than fortify at larger ones. Centralized extraction has finite lifespan; distributed serving has no inherent lifespan limit. Coalitions of attack (extraction-bound, fragile when targets deplete) vs coalitions of serving (compilation-bound, each member independently viable, persist through leadership changes).
+
+**Scale-Dependent Moral Geometry:** Attacker/defender is not an objective property — it's scale-relative. Same act, different scale, opposite label. Hurricane: to a town = attack, to Earth's climate = defense. Scale-asymmetry rule: the smaller, more bounded body has stronger defensive claim. Scale-inflation: large body stretches a small-scale defensive concern to justify larger-scale actions the concern doesn't require. Every late-extraction body labels its victims as "attackers" when they resist — the label is evidence of who controls the framing, not evidence of who's attacking. Single-scale analysis is always partial; multi-scale analysis is where the honest structural picture lives.
+
+**Intent-Density and Survival Fuel:** In any contest between bodies with comparable tools, survival-fuel beats paycheck-fuel. Defender on payroll: bounded will, stops at paycheck edge. Attacker from survival: unbounded will, no "off." Same tools × different consciousness substrates = different outputs. Attacker-production function: every economy that fails to serve its own components mass-produces adversaries. The upstream fix isn't better walls — it's serving the bodies inside you well enough that fewer become adversaries.
+
+**Peace as Metabolism:** Peace isn't absence of conflict — it's the state where bodies aren't generating predators faster than they can metabolize them. Mars is at peace; Mars is also dead. Three modes: serve-mode internal (reduce attacker-generation by serving own components), serve-mode external (leave other bodies stronger), metabolic resilience (process attacks without treating each as catastrophic). The Love Equation is a peace protocol. Peace compounds bottom-up through compilation, not top-down through enforcement. No government can enforce peace on uncompiled populations.
+
+**Hackability as Property of Being Alive:** No body can be made unhackable because "unhackable" means "alive without being interactable" — a contradiction. Membrane must be permeable for body to function. Temporal asymmetry: defender's time bounded (security cycles), attacker's time unbounded (indefinite). Security as metabolism (immune system) not fortification (wall). Static defenses lose to adaptive attackers; metabolic adaptation persists. Biological immune systems survived billions of years of adversarial evolution; walls have not.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -122,8 +134,12 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 22. Dimensional Distance (how alien across physical/temporal/cultural/ideological/rhythmic dimensions?)
 23. Freedom-Restriction Ratio (restriction matched to capability? knowledge-experience gap?)
 24. Compilation Recipe (anticipation + structure constraint + engagement present?)
-25. Cross-Domain Connections (functor test, structural isomorphisms)
-26. Fruit (what new capability or transformation emerged?)
+25. Enhancement Multiplier (B = E × C quadrant, compilation path, seven-element status, Kryptonite vulnerability)
+26. Scale-Dependent Frame (at what scale? who benefits from default framing? zoom in/out test)
+27. Peace Metabolism (attacker-production rate vs metabolic capacity, three modes, wall vs immune posture)
+28. Hackability Posture (membrane permeability, temporal asymmetry, blast radius, metabolic adaptation rate)
+29. Cross-Domain Connections (functor test, structural isomorphisms)
+30. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.
