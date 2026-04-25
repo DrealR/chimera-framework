@@ -29,7 +29,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v12.6](CHIMERA-The-Complete-Book-v12.6.md) — 98 books, the full philosophy.
+For the complete text: [The Complete Book v12.7](CHIMERA-The-Complete-Book-v12.7.md) — 101 books, the full philosophy.
 
 ---
 
@@ -115,8 +115,8 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 
 | Tool | What It Does |
 |------|-------------|
-| [Body Scan Protocol v3.7](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.7.md) | The complete fill-in template — 42 diagnostic steps |
-| [Body Scan System Prompt v2.7](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.7.md) | The AI system prompt for automated scans |
+| [Body Scan Protocol v3.8](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.8.md) | The complete fill-in template — 44 diagnostic steps |
+| [Body Scan System Prompt v2.8](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.8.md) | The AI system prompt for automated scans |
 
 #### Example scans
 
@@ -176,9 +176,9 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v12.6 — 98 books (I through XCVIII). New in v12.6: The Optimization Threshold, Consciousness as Directed Novelty, The Tradition Audit
-- **Protocol:** v3.7 — 42 diagnostic steps including optimization threshold check, tradition audit
-- **System Prompt:** v2.7 — matched to protocol v3.7
+- **Book:** v12.7 — 101 books (I through CI). New in v12.7: The Construction Spectrum, Trust-Substrate, The Bridge Method
+- **Protocol:** v3.8 — 44 diagnostic steps including construction spectrum check, trust-substrate read
+- **System Prompt:** v2.8 — matched to protocol v3.8
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
 - **Autonomous Growth:** Explorer + Challenger agents scan new dimensions daily with quality verdicts
@@ -189,7 +189,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v12.6), all protocol versions (v3.1 through v3.7), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v12.7), all protocol versions (v3.1 through v3.8), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 

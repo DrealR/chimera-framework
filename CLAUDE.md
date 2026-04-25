@@ -115,6 +115,12 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **The Tradition Audit:** Every wisdom tradition can be audited through Body Theory. Keep what converges across traditions (structural insights into real phenomena). Reject what diverges (cosmological packaging). The Gnostic case: KEEP divine spark (Observer), awakening, recognition of constructed reality. REJECT dualism (anti-WE=1), escape orientation (body is substrate for compilation, not prison), world-hating (friction IS compilation). Plato's cave refined: not binary (in/out) but nested — no final "outside," continuous depth-of-perception. Universal pattern: traditions talk escape but practice engagement. The practice-of-engagement is what compiles civilization.
 
+**The Construction Spectrum:** Conscious bodies construct symbolic realities not present in immediate perception. This single capacity produces lies, fiction, theory, art, plans, religion — same structural operation, different relationship to truth. Lies hide their constructed nature (receiver thinks it's truth). Fiction announces it. Theory hypothesizes it. Art presents it openly. Plans project it. Religion at its best = myth carrying structural truth; at its worst = myth presented as literal fact, structurally identical to lies. Lies are parasitic on truth — they require a background of truthfulness to function. If everyone always lied, language would shift and lies would become meaningless. Systems that lie at scale collapse because the deviation can't sustain itself as the norm.
+
+**Trust-Substrate:** Trust-substrate is the shared resource all communication depends on. Each lie extracts from it. Each truth-telling act compiles it. First lies feel free (substrate full), each subsequent lie costs more as substrate depletes. Observable at every scale: individual chronic liar nobody believes, institution auto-distrusted, civilization whose coordination fails. Late-civilizational decay IS trust-substrate depletion. Truth as gravitational force: truth requires no maintenance (reality keeps demonstrating itself), lies require continuous energy (suppress evidence, manage perception). Truth is gravitationally still; lies rotate around it like wind around a hurricane's eye. Distributed still-points (compiled truth-telling bodies) create architecture that survives cultural storms. Truth-telling is the keystone of compilation because it's the substrate condition for the entire stack — without it, all other elements degrade.
+
+**The Bridge Method:** The framework's epistemological core. For any two bodies that appear different, find the level of abstraction at which they share structure — equivalence under transformation. At the surface, almost nothing is equivalent. At WE=1 depth, everything is equivalent but trivially so. The productive middle level is where enough surface drops away to see shared structure, but enough specificity remains to be useful. This is what the framework does at every iteration: body theory works because it finds the productive middle level. The still point at that level is the actual shared structure — truth around which surface differences rotate. Pattern propagation as forward time travel: past bodies send messages to future bodies by compiling patterns into durable substrate (books, children, frameworks). The only time travel available to consciousness.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -146,8 +152,10 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 28. Hackability Posture (membrane permeability, temporal asymmetry, blast radius, metabolic adaptation rate)
 29. Optimization Threshold (has money/attention entered? is body authored by optimizer or self-compiled? substrate status? attention-weight metabolic match?)
 30. Tradition Audit (what framework is the body using? structural insights vs cosmological packaging? escape or engagement posture? nested cave level?)
-31. Cross-Domain Connections (functor test, structural isomorphisms)
-32. Fruit (what new capability or transformation emerged?)
+31. Construction Spectrum (what symbolic realities is body constructing? announced or hidden? lie/fiction/theory/art position? parasitic on truth-substrate?)
+32. Trust-Substrate Read (trust-substrate level — full/depleted/rebuilding? truth-telling or lying posture? signal-credibility? still-point or rotation-adder?)
+33. Cross-Domain Connections (functor test, structural isomorphisms)
+34. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.
