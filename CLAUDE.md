@@ -109,6 +109,12 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **Hackability as Property of Being Alive:** No body can be made unhackable because "unhackable" means "alive without being interactable" — a contradiction. Membrane must be permeable for body to function. Temporal asymmetry: defender's time bounded (security cycles), attacker's time unbounded (indefinite). Security as metabolism (immune system) not fortification (wall). Static defenses lose to adaptive attackers; metabolic adaptation persists. Biological immune systems survived billions of years of adversarial evolution; walls have not.
 
+**The Optimization Threshold:** When money or attention enters any domain, casual configuration dies. Optimization arrives as external force, rewires bodies for output the optimizer rewards, hollows bodies without compiled substrate. Bodies get "authored" by the optimization — the body that emerges is the algorithm wearing their face, not an expression of a compiled self. Community death pattern: genuine community → capital arrives → extractors replace participants → only extraction infrastructure remains. Attention-weight metabolic matching: body's capacity to process attention inflow must match the rate, or body degrades (presidents aging, pro athletes' errors persisting in millions of minds). Compiled substrate before optimization is the only protection.
+
+**Consciousness as Directed Novelty:** Two sources of novelty in the universe. Quantum randomness = undirected novelty (noise with no project). Consciousness = directed novelty (prediction-and-choice, recursive modeling capacity). Both create unpredictability, but only consciousness creates unpredictability that means something. Consciousness is anti-entropic — introducing order that the default trajectory would not have produced. Compiled substrate enriches smaller inputs: a monk feels ecstasy at breakfast porridge, MrBeast needs $5M prize pools. Diminishing returns of external escalation is the body-signature of skipped compilation.
+
+**The Tradition Audit:** Every wisdom tradition can be audited through Body Theory. Keep what converges across traditions (structural insights into real phenomena). Reject what diverges (cosmological packaging). The Gnostic case: KEEP divine spark (Observer), awakening, recognition of constructed reality. REJECT dualism (anti-WE=1), escape orientation (body is substrate for compilation, not prison), world-hating (friction IS compilation). Plato's cave refined: not binary (in/out) but nested — no final "outside," continuous depth-of-perception. Universal pattern: traditions talk escape but practice engagement. The practice-of-engagement is what compiles civilization.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -138,8 +144,10 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 26. Scale-Dependent Frame (at what scale? who benefits from default framing? zoom in/out test)
 27. Peace Metabolism (attacker-production rate vs metabolic capacity, three modes, wall vs immune posture)
 28. Hackability Posture (membrane permeability, temporal asymmetry, blast radius, metabolic adaptation rate)
-29. Cross-Domain Connections (functor test, structural isomorphisms)
-30. Fruit (what new capability or transformation emerged?)
+29. Optimization Threshold (has money/attention entered? is body authored by optimizer or self-compiled? substrate status? attention-weight metabolic match?)
+30. Tradition Audit (what framework is the body using? structural insights vs cosmological packaging? escape or engagement posture? nested cave level?)
+31. Cross-Domain Connections (functor test, structural isomorphisms)
+32. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.

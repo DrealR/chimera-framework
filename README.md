@@ -29,7 +29,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v12.5](CHIMERA-The-Complete-Book-v12.5.md) — 95 books, the full philosophy.
+For the complete text: [The Complete Book v12.6](CHIMERA-The-Complete-Book-v12.6.md) — 98 books, the full philosophy.
 
 ---
 
@@ -115,8 +115,8 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 
 | Tool | What It Does |
 |------|-------------|
-| [Body Scan Protocol v3.6](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.6.md) | The complete fill-in template — 40 diagnostic steps |
-| [Body Scan System Prompt v2.6](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.6.md) | The AI system prompt for automated scans |
+| [Body Scan Protocol v3.7](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.7.md) | The complete fill-in template — 42 diagnostic steps |
+| [Body Scan System Prompt v2.7](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.7.md) | The AI system prompt for automated scans |
 
 #### Example scans
 
@@ -176,9 +176,9 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v12.5 — 95 books (I through XCV). New in v12.5: Enhancement as Multiplier, Collective Compilation Infrastructure, Scale-Dependent Moral Geometry, Intent-Density and Survival Fuel, Peace as Metabolism, Hackability as Property of Being Alive
-- **Protocol:** v3.6 — 40 diagnostic steps including enhancement multiplier check, scale-dependent frame, peace metabolism, hackability posture
-- **System Prompt:** v2.6 — matched to protocol v3.6
+- **Book:** v12.6 — 98 books (I through XCVIII). New in v12.6: The Optimization Threshold, Consciousness as Directed Novelty, The Tradition Audit
+- **Protocol:** v3.7 — 42 diagnostic steps including optimization threshold check, tradition audit
+- **System Prompt:** v2.7 — matched to protocol v3.7
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
 - **Autonomous Growth:** Explorer + Challenger agents scan new dimensions daily with quality verdicts
@@ -189,7 +189,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v12.5), all protocol versions (v3.1 through v3.6), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v12.6), all protocol versions (v3.1 through v3.7), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 
