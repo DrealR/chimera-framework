@@ -121,6 +121,16 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **The Bridge Method:** The framework's epistemological core. For any two bodies that appear different, find the level of abstraction at which they share structure — equivalence under transformation. At the surface, almost nothing is equivalent. At WE=1 depth, everything is equivalent but trivially so. The productive middle level is where enough surface drops away to see shared structure, but enough specificity remains to be useful. This is what the framework does at every iteration: body theory works because it finds the productive middle level. The still point at that level is the actual shared structure — truth around which surface differences rotate. Pattern propagation as forward time travel: past bodies send messages to future bodies by compiling patterns into durable substrate (books, children, frameworks). The only time travel available to consciousness.
 
+**Federation vs Dominion:** Two configurations of relationship to substrate. Federation: O>I, love→bond→power→service, substrate flows outward, joy is structural byproduct. Dominion: I>O, desire→covenant→power→extraction, substrate flows inward, suffering is structural byproduct. Same substrate, different direction of flow. The test: is the substrate flowing (federation) or captured (dominion)? Dominion requires continuous energy to maintain (suppression, perception-management, punishing defection). Federation maintains itself through positive feedback (bodies that benefit protect the flow). Late-civilizational decay = dominion patterns generating resistance faster than they can suppress it.
+
+**Dimensional Architecture:** A dimension = domain of operation with own substrate, identity element, and rules. Bodies are embodied in one dimension (primary anchor) while operating through others (secondary lenses). Teaching insight: don't teach multiple domains in parallel — teach one embodied domain and let others run through it as operating dimensions. Surfaces are dimension boundaries where rules flip. Bridge bodies span multiple dimensions and do their work at the transformation boundary — carrying substrate from one rule-set to another while preserving essential pattern.
+
+**Archetypal Primes:** Stories and traditions have prime structure. Archetypal primes = irreducible structural anchors that other characters/bodies wrap around. Composites = characters configured from multiple archetypes. Four-quadrant classification: same/different archetype × same/different configuration. Lineage transmission: primes propagate through inheritor bodies who may carry the costume without the substrate-relationship. Caution: prime designation requires structural irreducibility, not charisma. Over-application dilutes.
+
+**Numbers as Bodies:** Every number has interior (divisor structure) and exterior (identity). Primes = still-points (no interior, irreducible). Composites = wrapped configurations of primes. Signature = prime-exponent multiset sorted descending — the structural fingerprint. Shape-equivalence = same signature, different primes = same lattice in different costume. Identity elements are dimension-specific substrates (0 for addition, 1 for multiplication). Primes are minimum-information generators (lowest description length per magnitude). 5040-5041 adjacency: maximum-noise body next to still-point — hurricane eye next to maximum wind.
+
+**Surface Architecture:** Every body has transformation boundaries where energy direction reverses. Springs store and return energy across the flip (truth-telling, resilience, compiled bodies). Putty absorbs without return (compliance, deformation, uncompiled bodies). Surfaces are equilibrium points between opposing forces — where bodies naturally return after perturbation. Still-points at surfaces = moment of maximum compression before direction change (pause between breaths, decision at honesty boundary). Trees as bridge bodies spanning two media through one trunk.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -154,8 +164,13 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 30. Tradition Audit (what framework is the body using? structural insights vs cosmological packaging? escape or engagement posture? nested cave level?)
 31. Construction Spectrum (what symbolic realities is body constructing? announced or hidden? lie/fiction/theory/art position? parasitic on truth-substrate?)
 32. Trust-Substrate Read (trust-substrate level — full/depleted/rebuilding? truth-telling or lying posture? signal-credibility? still-point or rotation-adder?)
-33. Cross-Domain Connections (functor test, structural isomorphisms)
-34. Fruit (what new capability or transformation emerged?)
+33. Federation/Dominion Pattern (power flow direction — O>I federation or I>O dominion? substrate flowing or captured? pattern stable or transitioning?)
+34. Dimensional Map (what dimensions embodied in vs operating through? primary anchor dimension? surfaces navigated? bridge body?)
+35. Archetypal Prime Decomposition (what primes does this body wrap around? prime or composite? four-quadrant relation to known archetypes? lineage?)
+36. Structural Signature (minimum-information description? shape-equivalent bodies? what remains when surface is removed?)
+37. Surface Architecture (where are transformation boundaries? spring or putty behavior? equilibrium surfaces? still-points at boundaries?)
+38. Cross-Domain Connections (functor test, structural isomorphisms)
+39. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.
