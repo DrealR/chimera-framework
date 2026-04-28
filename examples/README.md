@@ -1,6 +1,6 @@
 # CHIMERA Body Scan Examples
 
-70 body scans across 8 domains, produced using CHIMERA Body Scan Protocol v3.11/v3.12. All scans have companion YAML data files for programmatic querying.
+71 body scans across 8 domains + adversarial, produced using CHIMERA Body Scan Protocol v3.11/v3.12. All standard scans have companion YAML data files (70/71) for programmatic querying.
 
 ## Domains
 
@@ -43,9 +43,15 @@ Recommended first scans:
 
 ## Framework Validation
 
-- [META-SCAN-SYNTHESIS v2](META-SCAN-SYNTHESIS-v2.md) — Honest audit of the 65-scan corpus
+- [META-SCAN-SYNTHESIS v3](META-SCAN-SYNTHESIS-v3.md) — Third audit of the 71-scan corpus (current)
+- [META-SCAN-SYNTHESIS v2](META-SCAN-SYNTHESIS-v2.md) — Second audit (65 scans)
+- [META-SCAN-SYNTHESIS v1](META-SCAN-SYNTHESIS.md) — First audit (32 scans)
 - [Inter-Rater Reliability Test](inter-rater-test-special-relativity.md) — Two independent scanners, same body, 85.7% convergence
 - [Adversarial Scan: A Lie](adversarial-scan-a-lie.md) — Testing framework boundaries with a body designed to deceive
+
+## Thought Experiments
+
+The [thought-experiments/](thought-experiments/) directory contains Category B material from a Grok overnight session: fictional character scans, multi-body relational experiments, elemental scans, and speculative constructs. These are exploratory — not part of the canonical corpus count. See the directory README for details.
 
 ---
 
