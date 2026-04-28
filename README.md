@@ -9,33 +9,17 @@ WE = 1
 
 Everything is one thing, appearing as many things. Whether you are looking at how a star forms, how a family holds together, how a neural network learns, or why a city dies — the same physics apply. We mapped those physics. The documents are here. They belong to you now.
 
+> **New here?** Read **[Start Here](START-HERE.md)** — a 3-page entry that shows you what CHIMERA is, how it works, and where to go next.
+>
+> **Want the honest framing?** Read **[What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md)** — what the framework is, what it isn't, and how to test it.
+
 ---
 
 ## What do you want to do?
 
-### I want to READ the framework
+### Get Your Own CHIMERA Twin (5 Minutes)
 
-Start with the core ideas:
-
-| Document | What It Is |
-|----------|-----------|
-| [What Is a Body?](body-theory/WHAT-IS-A-BODY.md) | The core concept — how to see anything as a body |
-| [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md) | The diagnostic tool — nine questions for any body |
-| [The Love Equation](body-theory/LOVE-EQUATION.md) | The law — why these three conditions hold everywhere |
-| [The Three Layers](body-theory/THE-THREE-LAYERS.md) | Information Theory, Language, Body Theory |
-| [Rhythm](body-theory/RHYTHM.md) | Frequency, amplitude, phase — the oscillatory signature |
-| [The Body Creation Equation](body-theory/THE-BODY-CREATION-EQUATION.md) | How parts become wholes — snapshot vs integral |
-| [Invisible Bodies](body-theory/INVISIBLE-BODIES.md) | The ghost physics of human experience |
-| [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
-| [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
-
-For the complete text: [The Complete Book v12.9](CHIMERA-The-Complete-Book-v12.9.md) — 108 books, the full philosophy.
-
----
-
-### I want to RUN a digital twin
-
-A digital twin is a personalized AI instance calibrated to YOU — your context, your values, your rhythm, your goals. It speaks CHIMERA vocabulary natively and remembers across sessions.
+A digital twin is a personalized AI instance calibrated to YOU — your context, your values, your rhythm, your goals. It speaks CHIMERA vocabulary natively and remembers across sessions. This is the fastest way to start using the framework without reading 108 books.
 
 #### Prerequisites
 
@@ -106,6 +90,26 @@ Your conversations and memories stay yours. Only the framework layer updates.
 #### Optional: Constellation network
 
 Your twin can participate in the [Cross-Agent Body Scan network](docs/CONSTELLATION.md) — agents checking each other's structural health without violating privacy. Opt in or out at any time.
+
+---
+
+### I want to READ the framework
+
+Start with the core ideas:
+
+| Document | What It Is |
+|----------|-----------|
+| [What Is a Body?](body-theory/WHAT-IS-A-BODY.md) | The core concept — how to see anything as a body |
+| [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md) | The diagnostic tool — nine questions for any body |
+| [The Love Equation](body-theory/LOVE-EQUATION.md) | The law — why these three conditions hold everywhere |
+| [The Three Layers](body-theory/THE-THREE-LAYERS.md) | Information Theory, Language, Body Theory |
+| [Rhythm](body-theory/RHYTHM.md) | Frequency, amplitude, phase — the oscillatory signature |
+| [The Body Creation Equation](body-theory/THE-BODY-CREATION-EQUATION.md) | How parts become wholes — snapshot vs integral |
+| [Invisible Bodies](body-theory/INVISIBLE-BODIES.md) | The ghost physics of human experience |
+| [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
+| [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
+
+For the complete text: [The Complete Book v12.9](CHIMERA-The-Complete-Book-v12.9.md) — 108 books, the full philosophy.
 
 ---
 
