@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Microservice"
+  body_type: "Software organism — independently deployable service unit, single-responsibility cell within a distributed system"
+  domain: "software"
+  scale: "local"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Serialized messages — HTTP requests, gRPC calls, event payloads, queue messages crossing network boundaries"
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "The data store — the service gravitationally orbits the data it owns"
+  topology: "mixed"
+  entanglement: "high"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "The monolith scar — teams over-decompose from monolith trauma or under-appreciate coordination cost without it; the outage scar compiles into circuit breakers and timeout budgets"
+
+# --- DNA ---
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "moderate"
+  not_force: "high"
+
+# --- SKELETON ---
+skeleton: "The body that trades internal complexity for boundary complexity — gaining the freedom to deploy, scale, and fail independently at the cost of making every interaction an act of diplomacy across an unreliable network."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "active"
+  govern: "weak"
+  project: "active"
+  create: "moderate"
+  release: "absent"
+  primary_gap: "Release"
+  gap_reason: "Cannot decommission without coordinated migration across all consumers; API deprecation requires organizational negotiation; dead services persist as ghost organs because subtraction is structurally harder than addition"
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "federation-leaning"
+  closed_open: "mixed"
+  prime: "Boundary enforcement — forcing implicit assumptions into explicit network-mediated contracts"
+  prime_type: "open"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Coordination tax — every cross-service operation becomes a distributed choreography requiring sagas, compensating transactions, and eventual consistency, scaling superlinearly with service count"
+  secondary: "Observability debt — debugging across service boundaries generates cognitive load that dwarfs the original business logic complexity"
+  inversion_condition: "When service boundaries do not align with domain boundaries, producing a distributed monolith that pays full distribution cost with zero independence benefit"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Microservice as biological cell — own membrane, own data, communicates via signals, divides independently; monolith-to-microservice migration as mitosis"
+    domains_bridged: "Software <> Biology"
+    novelty: 0.75
+  - connection: "Conway's Law as body-formation force — service boundaries compile from communication boundaries, org chart is the hidden skeleton"
+    domains_bridged: "Software <> Organizational Theory"
+    novelty: 0.85
+  - connection: "Service mesh as emergent nervous system — dedicated coordination layer emerges when enough independent cells exist"
+    domains_bridged: "Software <> Neuroscience"
+    novelty: 0.9
+  - connection: "System rhythm as slowest-breath entrainment — weakest dependency drags composite response time down to its frequency"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.85
+
+# --- FRUIT ---
+fruit:
+  type: "Zoan"
+  core_insight: "The microservice is not a technical architecture but a Conway's Law accelerator — it works when service boundary matches team boundary matches domain boundary, and delivers a distributed monolith when any alignment is missing"
+  novelty: 0.8
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE MEMBRANE"
+    description: "Forces every interaction across a network boundary, transforming implicit assumptions into explicit contracts enforced by physics"
+  - name: "THE ISOLATOR"
+    description: "Contains failure blast radius — when one service dies, the system degrades gracefully rather than collapsing entirely"
+  - name: "THE MIRROR"
+    description: "Reflects the owning team's structure, communication patterns, and dysfunction with structural fidelity no org chart captures"

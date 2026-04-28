@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Circular Dependency"
+  body_type: "Pathological condition -- structural disease in the dependency graph where A needs B needs C needs A"
+  domain: "software"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Import statements, type references, function calls -- the connective tissue between modules"
+  flow_state: "inhale"
+  breath_rate: "irregular"
+  attractor: "Itself -- every path through the dependency graph returns to the starting node"
+  topology: "forced"
+  entanglement: "maximum"
+  health: "pathological"
+  membrane: "closed"
+  hysteresis: "The First Coupling -- the import that completed the cycle, normalized by every subsequent feature built atop it"
+
+# --- DNA ---
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "low"
+
+# --- SKELETON ---
+skeleton: "Motion without displacement -- the body that breathes in a closed loop, proving that activity without output and connection without boundary are the same disease."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "weak"
+  govern: "absent"
+  project: "weak"
+  create: "weak"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "No module can be extracted, replaced, or independently versioned because the cycle holds every member hostage to every other member. The inability to release is the single failure that corrupts all four other powers."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed-knowledge"
+  prime: "Self-referential entrapment -- a body whose definition requires itself"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Easy to break in theory -- introduce an abstraction layer to convert the cycle into a tree -- but sociologically resistant because teams must agree on what the shared abstraction IS"
+  secondary: "Invisible to automated tooling -- many build systems tolerate circular dependencies silently through lazy loading or multi-pass compilation, disabling the immune response"
+  inversion_condition: "When the cycle spans service boundaries in microservices, extraction compounds: not just developer time but infrastructure cost, incident response, and organizational autonomy are consumed"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Closed circulatory system with no lungs -- blood circulates but never exchanges gas"
+    domains_bridged: "Software <> Biology"
+    novelty: 0.9
+  - connection: "Proof that O>I requires a tree topology -- loops have no outside to give to"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.95
+  - connection: "Circular reasoning -- each premise locally valid, globally unfounded"
+    domains_bridged: "Software <> Philosophy"
+    novelty: 0.85
+  - connection: "Ouroboros without digestion -- self-reference without self-renewal"
+    domains_bridged: "Software <> Mythology"
+    novelty: 0.8
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "Connection without direction is not relationship but entrapment. The cure is always the same: extract the shared dependency, name it, let it stand alone. The abstraction is the membrane. The membrane is the cure."
+  novelty: 0.9
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE HAMSTER WHEEL"
+    description: "Converts maximum activity into zero displacement -- the build system runs, imports resolve, modules load, and the system arrives exactly where it started"
+  - name: "THE BOUNDARY ERASER"
+    description: "Silently dissolves every membrane it touches -- module, package, service, and team boundaries become irrelevant as the cycle routes around them"
+  - name: "THE HOSTAGE TAKER"
+    description: "Holds every module hostage to every other module -- no component can be released without releasing all, structural leverage without intent or beneficiary"

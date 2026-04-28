@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Container (Docker/OCI)"
+  body_type: "Software body -- membrane technology enforcing boundary between application and host"
+  domain: "software"
+  scale: "system"
+  lifespan: "ephemeral"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Isolation and reproducibility -- flows through the gap between local and universal environment"
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "Immutability -- structurally attracted toward zero runtime mutation"
+  topology: "designed"
+  entanglement: "moderate"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "Image layers -- immutable archaeological record of build decisions cached and reused"
+
+# --- DNA ---
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "high"
+
+# --- SKELETON ---
+skeleton: "The first software body designed to die -- proving that reproducibility through disposability is a more durable architecture than permanence through maintenance."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "inverted"
+  govern: "strong"
+  project: "moderate"
+  create: "absent"
+  release: "active"
+  primary_gap: "Create"
+  gap_reason: "The container generates nothing not specified in its image. Creativity would mean drift; drift would mean unreproducibility. The gap is load-bearing -- it sacrifices creation for predictability."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "federation-leaning"
+  closed_open: "mixed"
+  prime: "Reproducible isolation -- the fusion of isolated environment and deterministic recipe"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Illusion of isolation -- namespace boundary is policy enforced by shared kernel, not a true wall. Kernel exploit collapses all containers simultaneously."
+  secondary: "Image supply chain poisoning -- base image vulnerabilities propagate faithfully through every container built on top of them."
+  inversion_condition: "Container sprawl exceeding organizational capacity to manage -- operational cost of maintaining fleet exceeds the cost it was designed to eliminate."
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Dockerfile as DNA -- deterministic linear instructions producing identical bodies"
+    domains_bridged: "Software <> Biology"
+    novelty: 0.9
+  - connection: "Image layers as geological strata -- immutable historical record where sequence matters"
+    domains_bridged: "Software <> Physics"
+    novelty: 0.8
+  - connection: "Container vs VM as membrane thickness trade-off -- thinner membrane enables density but creates shared-fate vulnerability"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.9
+  - connection: "Container registry as species repository -- taxonomy of versioned images available for instantiation"
+    domains_bridged: "Software <> Biology"
+    novelty: 0.7
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "Disposability is a form of durability. The most resilient architecture is one where every component is designed to be thrown away -- immortality of pattern, not of instance."
+  novelty: 0.9
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE MEMBRANE"
+    description: "Boundary enforcement -- separating inside from outside on shared physical substrate, making both sides behave as if the other does not exist."
+  - name: "THE REPLICA"
+    description: "Unlimited identical instantiation from a single image -- existence as pattern rather than instance, making individual bodies expendable."
+  - name: "THE AMNESIAC"
+    description: "Total forgetting on death -- no runtime state persists, every launch is a clean birth unburdened by accumulated errors of previous lives."

@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The REST API"
+  body_type: "Architectural style -- constraint-driven communication protocol between distributed software bodies"
+  domain: "software"
+  scale: "system"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Representations of resource state (JSON, XML, HTML) -- lossy compressions of server internal reality"
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "The resource (noun-centric design gravity)"
+  topology: "designed"
+  entanglement: "low"
+  health: "inflamed"
+  membrane: "semi-permeable"
+  hysteresis: "SOAP wars opposition scar; Richardson Maturity gap between aspiration and practice"
+
+# --- DNA ---
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "weak"
+  not_force: "high"
+
+# --- SKELETON ---
+skeleton: "The architecture that traded memory for independence -- making every request a stranger so that no server becomes a bottleneck and no client becomes a prisoner."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "weak"
+  govern: "strong"
+  project: "active"
+  create: "absent"
+  release: "moderate"
+  primary_gap: "create"
+  gap_reason: "REST stopped generating the moment Fielding published. Every API innovation since 2000 emerged outside REST. The architecture is a frozen photograph of the web circa 2000."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Constraint-derived simplicity -- subtraction as design method"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Frozen evolution -- static constraint set cannot incorporate real-time, streaming, or client-driven query patterns natively"
+  secondary: "HATEOAS gap -- the constraint that makes REST self-describing is almost never implemented, leaving APIs tightly coupled"
+  inversion_condition: "When applied to real-time domains (chat, collaborative editing, live dashboards), polling extracts more resources than REST contributes"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Statelessness as membrane amnesia (innate immune system pattern)"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.85
+  - connection: "Constraint-as-generator (axiom-to-theorem parallel with group theory)"
+    domains_bridged: "Software <> Mathematics"
+    novelty: 0.8
+  - connection: "Richardson Maturity as incomplete compilation (missing nervous system)"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.9
+  - connection: "Versioning as hysteresis management (geological stratification of past decisions)"
+    domains_bridged: "Software <> Physics"
+    novelty: 0.7
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "REST proved that the most scalable architecture is built by removing features, not adding them. Constraint is the engine of scale."
+  novelty: 0.8
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE AMNESIAC"
+    description: "Deliberate refusal of memory as architectural strategy -- forgetting every client after every response enables replacement, replication, and scaling without coordination"
+  - name: "THE UNIFORM"
+    description: "Radical compression of all operations to a handful of standard verbs on nouns -- enabling intermediary visibility and optimization without domain knowledge"
+  - name: "THE DECOUPLER"
+    description: "Complete separation of client from server internals -- enabling the web's heterogeneity where any language talks to any language through shared representation contracts"

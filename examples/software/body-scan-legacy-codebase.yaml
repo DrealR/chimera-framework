@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Legacy Codebase"
+  body_type: "Chronic disease -- a software system that has outlived the minds that built it, untestable, undocumented, irreplaceable"
+  domain: "software"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Undocumented institutional knowledge encoded as executable side effects"
+  flow_state: "exhale"
+  breath_rate: "slow"
+  attractor: "Fear of regression -- every decision orbits avoidance of unknown failure"
+  topology: "forced"
+  entanglement: "maximum"
+  health: "pathological"
+  membrane: "open"
+  hysteresis: "The hysteresis IS the body -- every line is a scar from a past decision, framework migrations never finished, dead code preserved out of fear"
+
+# --- DNA ---
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "low"
+
+# --- SKELETON ---
+skeleton: "A body that has outlived the mind that animated it -- still breathing through compiled memory, unable to explain why it does what it does, impossible to stop because everything downstream depends on behaviors nobody intended and nobody documented."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "absent"
+  govern: "absent"
+  project: "inverted"
+  create: "absent"
+  release: "absent"
+  primary_gap: "perceive"
+  gap_reason: "A body that cannot perceive itself cannot heal, govern, create, or release. The missing nervous system (no tests, no metrics, no documentation) is upstream of every other failure."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "dominion"
+  closed_open: "mixed"
+  prime: "Organizational memory compiled into executable form with the documentation deleted"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "The specification gap -- the code IS the only specification, written in a language humans cannot fully parse, making rewrite impossible and maintenance unsustainable"
+  secondary: "The serve-extract inversion was invisible -- the transition from O>I to I>O happened gradually without alarm, one shortcut at a time"
+  inversion_condition: "The Strangler Fig pattern -- wrap legacy in new interface, route new functionality to new code, gradually replace modules while verifying behavioral equivalence at the wrapper layer"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Legacy codebase as chronic autoimmune disease -- own architecture becomes own antagonist"
+    domains_bridged: "Software <> Medicine"
+    novelty: 0.85
+  - connection: "Knowledge gap as severed oral tradition -- rituals performed without understanding purpose"
+    domains_bridged: "Software <> Anthropology"
+    novelty: 0.9
+  - connection: "Strangler Fig as biological succession -- new growth wraps and metabolizes old organism"
+    domains_bridged: "Software <> Ecology"
+    novelty: 0.85
+  - connection: "Lava Flow as geological stratification -- dead code layers readable as geological record"
+    domains_bridged: "Software <> Geology"
+    novelty: 0.8
+
+# --- FRUIT ---
+fruit:
+  type: "Anti-Zoan"
+  core_insight: "A system's real specification is not its documentation but its accumulated behavior under production load. The code is the only complete truth, written in a language humans can only partially read. Every domain has its legacy codebase -- the infrastructure decisions nobody documented and everyone depends on."
+  novelty: 0.85
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE GHOST"
+    description: "Animated by the intentions of people no longer present -- executes faithfully without comprehension, unable to distinguish its intentional behavior from its accidental behavior"
+  - name: "THE GRAVITY WELL"
+    description: "Bends the trajectory of every engineering decision toward itself through structural mass, not active force -- all paths curve toward its surface"
+  - name: "THE HOSTAGE"
+    description: "Holds organizational operational capability hostage -- cannot be turned off, rewritten, or maintained indefinitely, creating structural leverage where the organization must serve the codebase"

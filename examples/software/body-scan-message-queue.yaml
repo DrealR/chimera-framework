@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Message Queue"
+  body_type: "Temporal decoupler — infrastructure converting synchronous coupling into asynchronous independence"
+  domain: "software"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Messages — serialized intent (compressed records of one body's exhale, held in suspension)"
+  flow_state: "pause"
+  breath_rate: "irregular"
+  attractor: "Backpressure — queue depth is the attractor; growing depth screams, empty depth is invisible"
+  topology: "designed"
+  entanglement: "high"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "Dead letter queues (unprocessable messages become permanent scars) and consumer offset lag (memory of how far behind the consumer fell)"
+
+# --- DNA ---
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "excellent"
+  not_force: "high"
+
+# --- SKELETON ---
+skeleton: "The body that is nothing but Pause — a held breath between two systems, proving that the most resilient architecture is built from deliberate separation, not faster connections."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "absent"
+  govern: "strong"
+  project: "moderate"
+  create: "strong"
+  release: "moderate"
+  primary_gap: "Perceive"
+  gap_reason: "The queue is semantically blind — it carries messages whose content could save or destroy the system and cannot read a single one. Blindness is by design but the gap is structural and permanent."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Temporal buffer that converts coupling into independence"
+  prime_type: "open"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Converts visible coupling into invisible coupling — the buffer hides failure, making the system look healthy from both ends while the queue silently fills with unprocessed intent"
+  secondary: "Message format is a frozen contract — schema changes require coordinating every consumer, displacing tight coupling from runtime to deployment time"
+  inversion_condition: "When operational complexity exceeds the coupling complexity it replaced, or during consumer starvation where the queue becomes an unbounded append-only log consuming resources while producing nothing"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "The queue as architectural Pause"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.95
+  - connection: "Backpressure as health signal"
+    domains_bridged: "Software <> Medicine"
+    novelty: 0.85
+  - connection: "Consumer groups as federation"
+    domains_bridged: "Software <> Political Theory"
+    novelty: 0.8
+  - connection: "Delivery guarantees as membrane physics"
+    domains_bridged: "Software <> Cell Biology"
+    novelty: 0.9
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "The strongest connection between two systems is not a direct line but a deliberate gap. The queue is the engineering proof that the Pause is not latency — the Pause is architecture."
+  novelty: 0.9
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE DECOUPLER"
+    description: "Converts forced synchrony into chosen asynchrony — granting each system its own clock, failure domain, and scaling trajectory"
+  - name: "THE ABSORBER"
+    description: "Takes the hit so others do not have to — absorbs every mismatch between production and consumption rate, converting sharp impacts into gradual pressure"
+  - name: "THE SCAR-KEEPER"
+    description: "Dead letter queues are the system's permanent medical record — every message that failed processing archived as honest history of what the system could not handle"

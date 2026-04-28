@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Monolith"
+  body_type: "Software organism -- single deployable unit, single process, shared memory space, unified codebase"
+  domain: "software"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Function calls in shared memory -- direct pointer references, no serialization, no network hop"
+  flow_state: "pause"
+  breath_rate: "slow"
+  attractor: "Coherence -- gravity pulls everything inward because in-process communication is always easier"
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "semi-closed"
+  hysteresis: "Dot-com monolith failures produced microservice religion; failed microservice migrations produced monolith-first counter-movement"
+
+# --- DNA ---
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "strong"
+  not_force: "high"
+
+# --- SKELETON ---
+skeleton: "The body that holds everything in one place -- proving that coherence is the default state of software, that distribution is the exception requiring justification, and that the single heartbeat is both the monolith's greatest efficiency and its terminal constraint."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "strong"
+  govern: "strong"
+  project: "active"
+  create: "moderate"
+  release: "absent"
+  primary_gap: "Release"
+  gap_reason: "The monolith cannot voluntarily shed any part of itself -- every module, dependency, and line of code travels together through every deployment. When release happens, it is the organization killing the monolith and extracting organs."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "dominion-leaning"
+  closed_open: "mixed"
+  prime: "Unified coherence -- everything in one place, one process, one deployment"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Shared fate without shared consent -- every module bound to same deployment and failure mode regardless of whether its team agreed to that coupling"
+  secondary: "The gravity trap -- every new feature increases extraction cost, creating structural incentive to keep adding even past architectural carrying capacity"
+  inversion_condition: "When deployment frequency drops below team velocity, when teams queue changes behind other teams, when cognitive load exceeds any single developer's capacity -- the inversion point is a coordination threshold, not a size threshold"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Monolith as king, microservice as pawn -- one body with maximum importance and restricted movement vs many expendable bodies with maximum mobility"
+    domains_bridged: "Software / Chess"
+    novelty: 0.95
+  - connection: "Deploy-everything as atomic transaction -- monolith deployment is ACID at infrastructure level"
+    domains_bridged: "Software / Database Theory"
+    novelty: 0.85
+  - connection: "Big ball of mud as monolith disease, not monolith identity -- organs dissolving into undifferentiated tissue while remaining externally unified"
+    domains_bridged: "Software / Body Theory"
+    novelty: 0.9
+  - connection: "Shared memory as zero-friction communication -- Shannon maximum channel capacity, zero serialization overhead"
+    domains_bridged: "Software / Information Theory"
+    novelty: 0.85
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "The monolith proves that unity is the default and distribution is the deviation. It fails not because it is a monolith but because the organization outgrew the coordination capacity of a single deployment boundary. Architecture follows organization -- Conway's Law is not a guideline, it is gravity."
+  novelty: 0.85
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE UNIFIER"
+    description: "Holds everything in one place, one process, one deployment -- coherence as the most efficient configuration for tightly communicating parts"
+  - name: "THE ACCUMULATOR"
+    description: "Absorbs every feature and dependency into its single body with no release mechanism -- generative early, suffocating late"
+  - name: "THE ANCHOR"
+    description: "Anchors the entire system to a single deployment cadence, failure domain, and scaling unit -- stability that becomes a chain when parts need different profiles"

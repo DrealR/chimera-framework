@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Cache"
+  body_type: "Hysteresis organism"
+  domain: "software"
+  scale: "universal"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Copies -- replicas of data separated from their source of truth"
+  flow_state: "inhale"
+  breath_rate: "irregular"
+  attractor: "The hot path -- whatever is requested most frequently"
+  topology: "mixed"
+  entanglement: "high"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "The cache IS hysteresis -- its entire body is scar tissue from previous requests, each entry the residue of a past interaction preserved to shortcut a future one"
+
+# --- DNA ---
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "strong"
+  not_force: "high"
+
+# --- SKELETON ---
+skeleton: "A body that remembers everything it was told and nothing it wasn't -- proving that speed is a form of selective blindness, and the fastest answer is always the one that stopped asking questions."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "absent"
+  govern: "strong"
+  project: "moderate"
+  create: "absent"
+  release: "moderate"
+  primary_gap: "Perceive"
+  gap_reason: "The cache cannot perceive whether its stored data still matches reality -- it has no sensory apparatus connecting it to the origin's current state, making every invalidation strategy a prosthetic for a sense the cache was born without"
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "federation-leaning"
+  closed_open: "mixed"
+  prime: "Temporal substitution -- replacing a slow present-tense query with a fast past-tense answer"
+  prime_type: "open"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Cannot distinguish between 'unchanged' and 'unperceived change' -- treats absence of invalidation as confirmation of validity (confirmation bias structure)"
+  secondary: "Creates the dependency it was designed to eliminate -- the origin scales down behind the cache until it cannot survive without it, making a disposable optimization load-bearing"
+  inversion_condition: "Cache poisoning -- attacker injects false data, and the cache's O>I amplification serves the poison to every subsequent request, turning high hit rate into high damage rate"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Cache as hysteresis"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.85
+  - connection: "TTL as breath cycle"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.9
+  - connection: "Eviction as governance philosophy"
+    domains_bridged: "Software <> Political Theory"
+    novelty: 0.95
+  - connection: "Cache invalidation as perception gap"
+    domains_bridged: "Software <> Epistemology"
+    novelty: 0.9
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "Every fast system is a system that has stopped asking questions -- speed comes from assuming the answer hasn't changed, and cache invalidation is not a technical problem but the fundamental problem of any body that trades perception for performance"
+  novelty: 0.85
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE ECHO"
+    description: "Receives one signal from the origin and repeats it to every subsequent requester -- faster than the original voice but carrying no new information, the architectural essence of every echo chamber"
+  - name: "THE SHIELD"
+    description: "Stands between origin and demand, absorbing impact by converting floods of unique requests into single origin fetches plus thousands of replays -- armor that protects by going blind"
+  - name: "THE FOSSIL"
+    description: "Every cached entry preserves the shape of what the origin said at a specific moment but the life has left it -- useful precisely because it is dead, a system living in a museum of its own recent history"

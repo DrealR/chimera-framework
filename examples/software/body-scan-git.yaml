@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Git"
+  body_type: "Distributed content-addressable version control system built on a DAG of immutable objects"
+  domain: "software"
+  scale: "system"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Diffs -- the delta between one state and the next"
+  flow_state: "pause"
+  breath_rate: "irregular"
+  attractor: "The merge commit -- all branches tend toward integration"
+  topology: "mixed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "The reflog -- records every position HEAD occupied, objects persist 30+ days after deletion, nothing truly gone until garbage collection"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "excellent"
+  not_force: "high"
+
+skeleton: "The only software body whose architecture IS the Pause -- proving that the gap between changing and committing is not overhead but the structural foundation of trustworthy collaboration."
+
+powers:
+  perceive: "strong"
+  govern: "active"
+  project: "weak"
+  create: "moderate"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "Architectural refusal to forget -- reflog, unreachable object retention, append-only design. The body that cannot release carries every mistake forever."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Trust through content addressing"
+  prime_type: "closed-backward, open-forward"
+
+structural_weakness:
+  primary: "Semantic blindness -- operates below the meaning layer, cannot distinguish security fix from whitespace change, tracks bytes not concepts"
+  secondary: "Learning cliff -- elegant internal model is alien to most mental models, producing fear-based usage patterns in developers who memorize commands without understanding the graph"
+  inversion_condition: "When transparent history is weaponized for surveillance -- commit timestamps audited for productivity, metadata mined for behavioral analytics, the body that remembers everything becomes the body that watches everything"
+
+cross_domain:
+  - connection: "Content-addressing as identity-through-substance"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.9
+  - connection: "The staging area as structural Pause"
+    domains_bridged: "Software <> Consciousness Theory"
+    novelty: 0.9
+  - connection: "Reflog as hysteresis made navigable"
+    domains_bridged: "Software <> Physics"
+    novelty: 0.8
+  - connection: "Distributed clones as sovereign federation"
+    domains_bridged: "Software <> Political Theory"
+    novelty: 0.8
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Trust at scale requires immutability, not authority. Git replaced the central arbiter with mathematics -- if the hash matches, the content is authentic. Trust through structure rather than trust through hierarchy."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE RATCHET"
+    description: "Irreversible accumulation -- every commit extends the DAG, no commit retracts it, old nodes persist in the object store until garbage collection claims them"
+  - name: "THE MIRROR"
+    description: "Every clone reflects the entire repository -- full history, full autonomy, complete structural reflection with no partial views"
+  - name: "THE NOTARY"
+    description: "Authentication without authority -- SHA-1 hash chains make tampering self-evident, trust is an emergent property of the data structure"

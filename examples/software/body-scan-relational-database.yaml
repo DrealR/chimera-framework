@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Relational Database (RDBMS)"
+  body_type: "Persistent state organism — stores, enforces, and relates structured data under mathematical guarantees"
+  domain: "software"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Structured data organized into relations — typed, constrained, relationally-linked tuples filtered by schema before entry"
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "Consistency — every mechanism pulls the system toward a state where all invariants hold"
+  topology: "mixed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "closed"
+  hysteresis: "Write-ahead log (WAL) — linear scar of every mutation used to recover from trauma; impedance mismatch scar from decades of ORM friction"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "excellent"
+  not_force: "high"
+
+skeleton: "The body that chose correctness over convenience — sacrificing flexibility and speed at the margins to guarantee that every fact it stores is true, related, and recoverable."
+
+powers:
+  perceive: "active"
+  govern: "strong"
+  project: "moderate"
+  create: "weak"
+  release: "weak"
+  primary_gap: "Release"
+  gap_reason: "The database accumulates without natural shedding — tables grow, logs expand, indexes bloat. Without external maintenance (VACUUM, REINDEX, archival), the body becomes its own burden. Every DBA compensates for this inability."
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "mixed"
+  prime: "Guaranteed consistency of related facts under concurrent access"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Rigidity under schema evolution — the load-bearing skeleton resists structural change, making rapid iteration clash with the database's preferred breath rate"
+  secondary: "Inability to release — retains everything by default, drowning in its own history without human-operated purging"
+  inversion_condition: "When the database becomes the bottleneck — when every feature request begins with 'but the database can't handle that' and the DBA team becomes a gatekeeper rather than a service provider"
+
+cross_domain:
+  - connection: "ACID as constitutional law"
+    domains_bridged: "Software ↔ Political Theory"
+    novelty: 0.75
+  - connection: "WAL as procedural memory"
+    domains_bridged: "Software ↔ Neuroscience"
+    novelty: 0.85
+  - connection: "Schema as skeleton"
+    domains_bridged: "Software ↔ Body Theory"
+    novelty: 0.7
+  - connection: "Normalization as Shannon compression"
+    domains_bridged: "Software ↔ Information Theory"
+    novelty: 0.8
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Rigidity serves freedom — every constraint the database imposes is a burden it absorbs so every consumer is unburdened. The NoSQL rebellion and subsequent re-adoption of ACID and schemas is empirical proof these burdens were structural necessities."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE GUARANTOR"
+    description: "Makes promises no other software body can — consistency, isolation, durability — enforced structurally, not hoped for"
+  - name: "THE ARCHIVIST"
+    description: "Remembers what applications forget — every fact, relation, and historical state preserved in WAL and backup chain"
+  - name: "THE REFEREE"
+    description: "Adjudicates concurrent writers with conflicting intentions — serializable isolation, deadlock detection, constraint enforcement without favoritism"

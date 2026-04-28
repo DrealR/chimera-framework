@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "DNS (Domain Name System)"
+  body_type: "Hierarchical resolution organism"
+  domain: "software"
+  scale: "global"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Queries — human names converted to machine questions propagating through hierarchical authority"
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "The root zone — 13 logical root server clusters anchoring every namespace"
+  topology: "mixed"
+  entanglement: "maximum"
+  health: "inflamed"
+  membrane: "open"
+  hysteresis: "The hosts file scar — a flat-file predecessor from 1987 that still runs underneath DNS on every operating system"
+
+# --- DNA ---
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "strong"
+  not_force: "maximum"
+
+# --- SKELETON ---
+skeleton: "The body that makes the internet speakable — translating human intention into machine destination so invisibly that its existence is only noticed in its absence."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "absent"
+  govern: "strong"
+  project: "active"
+  create: "moderate"
+  release: "weak"
+  primary_gap: "perceive"
+  gap_reason: "DNS resolves names for malware and hospitals with identical fidelity — it cannot distinguish friend from enemy because perceptual blindness is architectural"
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Universal name resolution through hierarchical delegation"
+  prime_type: "open"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Born without authentication — DNS tells you an answer but cannot prove it is true; DNSSEC remains partially adopted after two decades"
+  secondary: "Query metadata as surveillance substrate — every DNS query reveals the querier's intent to whoever controls the resolver"
+  inversion_condition: "When resolver operators monetize query logs, when governments weaponize DNS filtering for censorship, or when registrars front-run searched domains — the serving body becomes an extraction body"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "DNS hierarchy as taxonomic classification"
+    domains_bridged: "Software ↔ Biology"
+    novelty: 0.75
+  - connection: "TTL as cellular apoptosis — programmed death of cached records prevents accumulation of errors"
+    domains_bridged: "Software ↔ Biology"
+    novelty: 0.9
+  - connection: "DNS poisoning as identity theft — false answers in a trusted resolution chain"
+    domains_bridged: "Software ↔ Social Systems"
+    novelty: 0.7
+  - connection: "Root servers as constitutional courts — meta-authorities that govern by directing, not answering"
+    domains_bridged: "Software ↔ Political Theory"
+    novelty: 0.85
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "DNS proves that the most critical bodies are invisible when healthy — success measured by absence from consciousness, value inversely proportional to attention received"
+  novelty: 0.85
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE TRANSLATOR"
+    description: "Stands between human names and machine numbers, erasing the boundary between two incompatible addressing systems so seamlessly neither side knows the translation is happening"
+  - name: "THE REMEMBERER"
+    description: "Distributed memory across millions of resolvers serving billions of cached resolutions — disciplined by TTL to forget on schedule, preventing the body from serving outdated truths"
+  - name: "THE DELEGATOR"
+    description: "Governs by pointing, not possessing — each level delegates downward and trusts the result, enabling planetary scale without any single server holding the complete namespace"

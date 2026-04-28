@@ -1,0 +1,77 @@
+# CHIMERA Body Scan YAML Schema v1.0
+# Every body scan produces BOTH a markdown narrative AND this structured data.
+# The YAML feeds the future simulator; the markdown feeds human understanding.
+
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: ""           # Name of the body
+  body_type: ""         # Classification (e.g., "Infrastructure organism")
+  domain: ""            # Domain (chess, math, physics, biology, ai-systems, meta, social-systems, software)
+  scale: ""             # micro / local / system / global / universal
+  lifespan: ""          # embryonic / young / mature / ancient / eternal
+  scan_date: ""         # YYYY-MM-DD
+  protocol_version: ""  # e.g., "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: ""            # What flows through it?
+  flow_state: ""        # inhale / pause / exhale / rest
+  breath_rate: ""       # slow / moderate / fast / irregular
+  attractor: ""         # Where does attention go?
+  topology: ""          # flowing / designed / forced / mixed
+  entanglement: ""      # low / moderate / high / maximum
+  health: ""            # healthy / inflamed / scarred / pathological
+  membrane: ""          # open / semi-permeable / semi-closed / closed
+  hysteresis: ""        # Key scars that shape current behavior
+
+# --- DNA ---
+dna:
+  o_vs_i: ""            # O>I / O=I / I>O / mixed-operational / mixed-scale-dependent / conditional
+  pause_quality: ""     # absent / weak / moderate / strong / excellent
+  not_force: ""         # low / moderate / high / maximum
+
+# --- SKELETON ---
+skeleton: ""            # One-sentence irreducible truth
+
+# --- POWER GAPS ---
+powers:
+  perceive: ""          # active / strong / moderate / weak / absent / inverted
+  govern: ""            # active / strong / moderate / weak / absent / inverted
+  project: ""           # active / strong / moderate / weak / absent / inverted
+  create: ""            # active / strong / moderate / weak / absent / inverted
+  release: ""           # active / strong / moderate / weak / absent / inverted
+  primary_gap: ""       # Which power is the primary gap?
+  gap_reason: ""        # Why?
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: ""  # federation / federation-leaning / mixed / dominion-leaning / dominion
+  closed_open: ""          # open-knowledge / open-ignorance / closed-knowledge / closed-ignorance / mixed
+  prime: ""                # Deepest purpose in one phrase
+  prime_type: ""           # open / closed
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: ""           # Main weakness
+  secondary: ""         # Secondary weakness
+  inversion_condition: ""  # When O>I would flip to I>O
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: ""
+    domains_bridged: ""
+    novelty: 0.0        # 0.0 to 1.0
+
+# --- FRUIT ---
+fruit:
+  type: ""              # Paramecia / Zoan / Logia / Mythical Zoan
+  core_insight: ""
+  novelty: 0.0
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: ""
+    description: ""

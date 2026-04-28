@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "Technical Debt"
+  body_type: "Positional disease -- accumulated shortcuts creating permanent drag on codebase velocity"
+  domain: "software"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Developer time -- hours spent understanding, working around, and patching accumulated shortcuts"
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "The debt itself -- engineering energy concentrates where pain is loudest, not where value is highest"
+  topology: "forced"
+  entanglement: "high"
+  health: "pathological"
+  membrane: "closed"
+  hysteresis: "Accumulated scar of every deferred refactor, temporary workaround, and un-Paused merge compiled over time"
+
+# --- DNA ---
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "low"
+
+# --- SKELETON ---
+skeleton: "A codebase that turned its own velocity into a tax -- every shortcut that saved a day now costs a week, proving that decisions made without the Pause between 'it works' and 'it's right' become permanent friction on every future decision."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "absent"
+  govern: "inverted"
+  project: "absent"
+  create: "weak"
+  release: "inverted"
+  primary_gap: "Perceive"
+  gap_reason: "The most dangerous debt is invisible -- no logs, no alerts, no metrics. You cannot repay debt you cannot see."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed-ignorance"
+  prime: "Deferred consequence made compound"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "No unit of measurement -- technical debt cannot be quantified, so it cannot be prioritized or made politically visible"
+  secondary: "Deliberate debt is sometimes correct strategy -- the pathology-framing cannot distinguish leverage from recklessness"
+  inversion_condition: "When debt is taken deliberately with specific repayment plan and the knowledge gained from shipping early exceeds the cost of shortcuts"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Technical debt as weak pawn structure -- chronic positional disease, not acute blunder"
+    domains_bridged: "Software <> Chess"
+    novelty: 0.75
+  - connection: "Compound interest as hysteresis -- individual shortcut looks affordable, aggregate is structurally insolvent"
+    domains_bridged: "Software <> Economics"
+    novelty: 0.8
+  - connection: "Invisible debt as absent Perceive -- body that cannot sense its own disease"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.85
+  - connection: "The skipped Pause as origin -- debt created in the gap between 'it works' and 'it's right'"
+    domains_bridged: "Software <> Consciousness"
+    novelty: 0.9
+
+# --- FRUIT ---
+fruit:
+  type: "Anti-Zoan"
+  core_insight: "The skeleton IS the codebase. Architecture is permanent; features are visitors. Ignore the architecture and no amount of engineering talent compensates once the skeleton is deformed."
+  novelty: 0.85
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE RATCHET"
+    description: "Debt only turns one direction -- each shortcut makes the next easier to justify and harder to undo, eroding standards through precedent"
+  - name: "THE INVISIBLE TAX"
+    description: "Extracts payment from every engineer but appears on no dashboard -- symptoms get attributed to team size or technology choice, never to the debt itself"
+  - name: "THE GRAVITY WELL"
+    description: "Bends the geometry of every future decision toward itself -- features route around decay, architecture bows to legacy, hiring factors in willingness to suffer"

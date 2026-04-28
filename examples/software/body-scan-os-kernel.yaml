@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Operating System Kernel"
+  body_type: "Software organism -- supreme governor, singleton per machine, Ring 0 authority"
+  domain: "software"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "System calls -- requests for privileged action from user-space processes"
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "Fairness and liveness -- no process starves, no deadlock persists"
+  topology: "designed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "semi-closed"
+  hysteresis: "Shaped by decades of exploits -- Spectre/Meltdown scars, buffer overflow defenses, each attack generation compiled into permanent defensive scar tissue"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The body that governs all other software bodies by being the most restricted itself -- proving that supreme authority requires supreme constraint."
+
+powers:
+  perceive: "strong"
+  govern: "active"
+  project: "absent"
+  create: "weak"
+  release: "strong"
+  primary_gap: "Project"
+  gap_reason: "The kernel is structurally invisible -- total governance with zero self-expression. It cannot broadcast its state, health, or decisions without degrading the performance it exists to protect."
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "mixed"
+  prime: "Mediation -- standing between all software and all hardware, translating every request"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Driver trust boundary -- third-party drivers run at Ring 0 with no internal membrane separating them from core kernel subsystems"
+  secondary: "Single-machine assumption -- kernel governs one machine in a world where the system boundary is a fleet"
+  inversion_condition: "When kernel maintenance (OOM killing, swap thrashing, lock contention) consumes more resources than it provides to the processes it exists to serve"
+
+cross_domain:
+  - connection: "Ring 0 as the inner sanctum"
+    domains_bridged: "Software <> Anatomy"
+    novelty: 0.7
+  - connection: "System calls as controlled membrane crossings"
+    domains_bridged: "Software <> Cell Biology"
+    novelty: 0.8
+  - connection: "Scheduling as institutional breath"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.9
+  - connection: "Kernel panic as total organ failure"
+    domains_bridged: "Software <> Medicine"
+    novelty: 0.8
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Authority without agenda is the purest form of service -- a body with total power and zero self-interest. The kernel proves that the most powerful body achieves its power through maximum self-restriction."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE VENTILATOR"
+    description: "Breathes for all other software bodies -- no process schedules itself or allocates its own memory. Stop the kernel's breath and every process suffocates instantly."
+  - name: "THE INVISIBLE HAND"
+    description: "Governs every operation on the machine while remaining structurally invisible to the user. Perfect governance is indistinguishable from absence."
+  - name: "THE GATEKEEPER"
+    description: "Controls the only crossing between user space and hardware. Every system call is a petition, every return value a verdict. The only path between two worlds."

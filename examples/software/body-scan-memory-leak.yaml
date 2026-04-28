@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Memory Leak"
+  body_type: "Pathological software body"
+  domain: "software"
+  scale: "local"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Heap memory — allocated blocks, objects, buffers, closures"
+  flow_state: "inhale"
+  breath_rate: "irregular"
+  attractor: "The OOM ceiling — monotonic climb toward the memory limit"
+  topology: "forced"
+  entanglement: "high"
+  health: "pathological"
+  membrane: "open inward, closed outward — one-way valve admitting allocations, releasing nothing"
+  hysteresis: "The forgotten code that created the coupling — a design decision (global cache without eviction, event listener without unsubscribe) whose scar persists in the reference graph long after the author has left"
+
+# --- DNA ---
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "low"
+
+# --- SKELETON ---
+skeleton: "The body that forgot how to exhale — acquiring without releasing, growing without shedding, proving that any system that can only inhale will eventually suffocate on its own abundance."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "absent"
+  govern: "absent"
+  project: "inverted"
+  create: "absent"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "Release IS the memory leak's defining absence. Without the exhale, the inhale becomes lethal. Every other power gap cascades downstream from the inability to let go."
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed-ignorance"
+  prime: "Acquisition without release — a body that can take but cannot give back"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Invisibility — the leak has no early symptom, no pain signal, no built-in circuit breaker. By the time it is visible, the process is already dying."
+  secondary: "The restart cure — periodic restarts treat the symptom without diagnosing the cause, creating the illusion of health while the pathology persists in the code."
+  inversion_condition: "Under load — the leak's extraction rate is proportional to traffic. Business success accelerates the body's death. More users, more allocations, faster OOM."
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Memory leak as tumor — cells dividing without apoptosis, invisible until late-stage, killing the host by consuming all available resources"
+    domains_bridged: "Software <> Biology"
+    novelty: 0.8
+  - connection: "Memory leak as hoarding disorder — live references preventing collection of dead weight, rooms filling until the body cannot move through its own space"
+    domains_bridged: "Software <> Psychology"
+    novelty: 0.9
+  - connection: "Memory leak as extractive economy — GDP rises while underlying resources drain, normal operation until collapse at zero"
+    domains_bridged: "Software <> Economics"
+    novelty: 0.85
+  - connection: "GC failure as immune tolerance — the protective system's fidelity to its own protocol (do not destroy what presents as self) is what kills the host"
+    domains_bridged: "Software <> Immunology"
+    novelty: 0.9
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "Acquisition without release is always fatal — not sometimes, not usually, ALWAYS. The memory leak proves that the exhale is not optional. Release is not generosity — it is survival. O > I is not a moral instruction. It is an engineering requirement."
+  novelty: 0.9
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE SILENT ACCUMULATOR"
+    description: "Grows beneath the threshold of monitoring and attention. The most dangerous bodies extract without producing symptoms. Damage is proportional to how long the body goes undetected."
+  - name: "THE REFERENCE CHAIN"
+    description: "A single live reference from a root object prevents collection of an entire subgraph of dead objects. The smallest coupling producing the largest retention."
+  - name: "THE CAPACITY THIEF"
+    description: "Steals capacity from the system — every byte held is a byte unavailable to healthy processes. The system's capability degrades in exact proportion to the leak's growth."

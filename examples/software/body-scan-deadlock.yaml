@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Deadlock"
+  body_type: "Pathological condition — structural disease of concurrent systems"
+  domain: "software"
+  scale: "system"
+  lifespan: "eternal (without external intervention)"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Dependency — the wait-for relation between processes holding what others need"
+  flow_state: "rest"
+  breath_rate: "irregular"
+  attractor: "The wait state — a terminal fixed point from which no internal trajectory escapes"
+  topology: "forced"
+  entanglement: "maximum"
+  health: "pathological"
+  membrane: "closed"
+  hysteresis: "Accumulated architectural decisions — mutual exclusion, hold-and-wait, no preemption, no global ordering — each locally reasonable, collectively lethal"
+
+dna:
+  o_vs_i: "O=I"
+  pause_quality: "absent"
+  not_force: "low"
+
+skeleton: "Two hands gripping each other's wrists — each one's release is the other's prerequisite, proving that a body whose parts cannot surrender independently cannot breathe at all"
+
+powers:
+  perceive: "weak"
+  govern: "absent"
+  project: "absent"
+  create: "absent"
+  release: "absent"
+  primary_gap: "Release"
+  gap_reason: "Every deadlock resolves through release — one process surrendering its held resource without guarantee of reciprocation. No rational local algorithm produces this behavior. Release is the cure the system cannot self-administer."
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "closed-knowledge"
+  prime: "Mutual captivity through mutual rationality"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Fully preventable — break any one of the Four Coffin Conditions and deadlock cannot form. Its persistence is a theory-practice gap, not inevitability."
+  secondary: "Brittle in formation — requires exact scheduling interleaving, making it difficult to reproduce, test for, or verify as fixed."
+  inversion_condition: "Cascading deadlock — when blocked processes hold resources needed by processes outside the cycle, the zero-flow radiates outward, converting the entire system from locally dead to globally dead."
+
+cross_domain:
+  - connection: "Cold War MAD standoff — mutual annihilation capability held, mutual disarmament demanded, neither side releasing first"
+    domains_bridged: "Software <> Geopolitics"
+    novelty: 0.85
+  - connection: "Local rationality producing global death — rational actors optimizing individually create collective stasis (tragedy of the commons inverted)"
+    domains_bridged: "Software <> Economics <> Game Theory"
+    novelty: 0.92
+  - connection: "Relational silence — two people each waiting for the other to apologize first, relationship breath stopped"
+    domains_bridged: "Software <> Psychology"
+    novelty: 0.93
+  - connection: "The anti-breath — a body that refuses to exhale until it can inhale again, violating the most basic law of living systems"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.88
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Systems can die without any component failing. The death is purely relational — existing only in the dependency structure between components. O=I=0: no giving, no taking, no breathing. The cure is always unilateral release without guarantee."
+  novelty: 0.93
+
+powers_detected:
+  - name: "THE ZERO-FLOW ENGINE"
+    description: "Kills a system without breaking anything — every component intact, every resource accounted for, the system perfect and dead. Destruction through preservation."
+  - name: "THE RATIONALITY TRAP"
+    description: "Weaponizes correct behavior — each process follows its programming flawlessly, each request is valid, each hold is justified, and the system dies. Good decisions made lethal."
+  - name: "THE INVISIBLE CYCLE"
+    description: "Undetectable from inside — no participant knows it is deadlocked, no local measurement reveals the global pathology. A disease that no organ can diagnose because the disease IS the arrangement of the organs."

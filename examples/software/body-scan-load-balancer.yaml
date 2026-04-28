@@ -1,0 +1,86 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+# --- IDENTITY ---
+identity:
+  subject: "The Load Balancer"
+  body_type: "Software infrastructure — pure membrane organism, content-blind traffic distributor"
+  domain: "software"
+  scale: "system"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+# --- NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: "Requests — raw addressed packets seeking a destination, envelopes the body cannot read"
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "The routing table — algorithm choice is the gravitational law of the body"
+  topology: "designed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "open"
+  hysteresis: "Session affinity tables — sticky sessions are scars from past routing decisions that reduce the body's freedom and contradict its purpose"
+
+# --- DNA ---
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "absent"
+  not_force: "moderate"
+
+# --- SKELETON ---
+skeleton: "The body that touches everything and understands nothing — whose sole power is deciding where things go, and whose sole disease is becoming the single point of failure it was built to eliminate."
+
+# --- POWER GAPS ---
+powers:
+  perceive: "weak"
+  govern: "active"
+  project: "absent"
+  create: "absent"
+  release: "moderate"
+  primary_gap: "Create and Project"
+  gap_reason: "The load balancer produces nothing and anticipates nothing — pure present-tense routing without agency or foresight"
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: "mixed"
+  closed_open: "mixed"
+  prime: "Distribution without comprehension"
+  prime_type: "closed"
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: "Single-point-of-failure paradox — the body built to eliminate SPOFs is itself a SPOF; redundancy only moves the paradox one level up"
+  secondary: "Perception lag — health checks are periodic samples, not continuous signals; between checks the body routes traffic on stale data, sending requests to dead backends"
+  inversion_condition: "Sticky sessions accumulate until distribution is no longer balanced — one backend receives majority of traffic because historical affinity has overridden the routing algorithm, turning the distributor into a concentrator"
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: "Content-blind membrane — value from position not capability"
+    domains_bridged: "Software <> Body Theory"
+    novelty: 0.8
+  - connection: "Sticky sessions as hysteresis undermining purpose"
+    domains_bridged: "Software <> Identity Theory"
+    novelty: 0.85
+  - connection: "Health checks as sampled perception — operating on stale truth between polls"
+    domains_bridged: "Software <> Epistemology"
+    novelty: 0.9
+  - connection: "SPOF paradox — the body built to distribute risk concentrates it at itself"
+    domains_bridged: "Software <> Federation Theory"
+    novelty: 0.9
+
+# --- FRUIT ---
+fruit:
+  type: "Paramecia"
+  core_insight: "Comprehension and throughput are structurally opposed — the body that routes everything understands nothing, and the moment it tries to understand, it becomes something else"
+  novelty: 0.85
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: "THE INDIFFERENCE"
+    description: "Content-blindness as engineering virtue — treating all traffic identically enables nanosecond routing that comprehension would destroy"
+  - name: "THE DISTRIBUTION"
+    description: "Converts concentration into spread — one stream enters, N streams exit, at a scale no content-aware body can match"
+  - name: "THE DRAIN"
+    description: "Connection draining as structured release — the body that cannot pause can still say goodbye slowly, honoring in-flight work during backend removal"
