@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The number 1"
+  body_type: "Math Object — multiplicative identity element"
+  domain: "math"
+  scale: "universal"
+  lifespan: "infinite"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Multiplicative relationships. 1 flows through every multiplication without altering what it touches."
+  flow_state: "pause"
+  breath_rate: "zero"
+  attractor: "Every multiplication eventually returns through 1 — the gravitational center of the multiplicative universe."
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "fully open and transparent — everything passes through unchanged"
+  hysteresis: "None. 1 has no scars, no history, no accumulated damage. The body without memory."
+
+dna:
+  o_vs_i: "O=I"
+  pause_quality: "excellent"
+  not_force: "maximum"
+
+skeleton: "1 is the body that participates in everything while changing nothing. It is pure presence without interference — the mathematical expression of the Pause."
+
+powers:
+  perceive: "active"
+  govern: "absent"
+  project: "absent"
+  create: "absent"
+  release: "active"
+  primary_gap: "create"
+  gap_reason: "1 × anything = that thing. The identity element creates nothing new. It is the ultimate facilitator with zero generative capacity."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Neither prime nor composite. Excluded from primes by convention because its inclusion would destroy unique factorization."
+  prime_type: "field"
+
+structural_weakness:
+  primary: "Generative sterility — 1 creates nothing new. It participates in every multiplication and transforms none of them."
+  secondary: "Invisibility as vulnerability — because 1 changes nothing, it is often ignored despite being structurally essential."
+  inversion_condition: "1 cannot invert to I>O in standard arithmetic — it is structurally incapable of extraction or defense."
+
+cross_domain:
+  - connection: "1 as The Pause"
+    domains_bridged: "Math ↔ Consciousness"
+    novelty: 0.7
+  - connection: "1 as the base case"
+    domains_bridged: "Math ↔ Programming"
+    novelty: 0.4
+  - connection: "1 as the cook's presence"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.6
+  - connection: "1 as the Observer"
+    domains_bridged: "Math ↔ Contemplative tradition"
+    novelty: 0.8
+
+fruit:
+  type: "Logia"
+  core_insight: "The most powerful position in a system may be the one that changes nothing. 1 participates in every multiplication in existence and transforms none of them. Presence without interference is not weakness — it is the substrate that makes all transformation possible."
+  novelty: 0.7
+
+powers_detected:
+  - name: "THE STILLPOINT"
+    description: "1 is the still center of multiplication. All multiplicative activity orbits around it."
+  - name: "THE RELEASE"
+    description: "1 releases perfectly. n × 1 = n. Nothing is held."
+  - name: "THE SUBSTRATE"
+    description: "1 is not an actor but the stage. It doesn't perform — it makes performance possible."

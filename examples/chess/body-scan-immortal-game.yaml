@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Immortal Game"
+  body_type: "Interaction body — Anderssen vs Kieseritzky, London, June 21, 1851. King's Gambit Accepted. 23 moves."
+  domain: "chess"
+  scale: "local"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Initiative-space. Material flows out; initiative flows in. The medium is tempo wielded as a weapon."
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "The black king. Every move from 15 onward bends toward Kd8/Ke8. The attractor is the king itself, stripped of defenders by the very material Black accumulated."
+  topology: "flowing"
+  entanglement: "high"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "Two scars. First: Romantic-era chess valued beauty, framing the game as brilliant but unsound when positional chess arrived. Second: Kieseritzky published it as casual, denying it institutional weight despite its immortality emerging anyway."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "moderate"
+
+skeleton: "The Immortal Game is the proof that a body which gives everything away for structural purpose defeats a body that accumulates everything without structural purpose. Twenty-five points of material sacrificed, checkmate delivered with three pieces."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "strong"
+  release: "active"
+  primary_gap: "none"
+  gap_reason: "All five powers present and coordinated in one player, absent in the other. The gap is between the two players, not within the game-body itself."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Sacrifice as directed investment, not loss"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "The game is not objectively sound. Modern engines find defensive resources for Black around moves 19-20. The game demonstrates a principle through an imperfect example."
+  secondary: "Romantic-era bias. The game's immortality was partly constructed by a chess culture that valued sacrificial attacks above all else. This is a curated peak, not a random demonstration."
+  inversion_condition: "When sacrifices are not aimed. Without targeting, sacrifice is not O>I — it is waste. Imitators copying output without compiling input are not giving purposefully; they are hemorrhaging."
+
+cross_domain:
+  - connection: "Sacrifice as investment, not loss"
+    domains_bridged: "chess <> economics"
+    novelty: 0.8
+  - connection: "Queen sacrifice as ego death"
+    domains_bridged: "chess <> psychology"
+    novelty: 0.9
+  - connection: "Coordination as emergence"
+    domains_bridged: "chess <> systems-theory"
+    novelty: 0.85
+  - connection: "Immortality through naming"
+    domains_bridged: "chess <> language"
+    novelty: 0.9
+
+fruit:
+  type: "Mythical Zoan"
+  core_insight: "The game proves that O>I is not a moral preference but a structural strategy. Anderssen sacrificed because sacrifice purchased the only thing that mattered: convergent force on the king. The Immortal Game is not a parable about generosity; it is an engineering proof that directed output defeats undirected input when the directing body has compiled sufficient vision to aim."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE SCULPTOR"
+    description: "Anderssen removed everything that was not checkmate. Two rooks, a bishop, a queen — carved away until only the mating pattern remained. The checkmate was always inside the position. The sacrifices were the chisel."
+  - name: "THE NAMER"
+    description: "Falkbeer's act of naming transformed a casual London game into a permanent cultural body. The name 'Immortal' is not a description but a creation. The game became immortal because it was called immortal, and then justified the name by enduring 175 years of scrutiny."
+  - name: "THE PROOF"
+    description: "The game functions as a mathematical proof of a philosophical claim. Claim: directed giving beats undirected taking. Proof: Anderssen vs Kieseritzky, 1851. The proof has imperfections, but the theorem has been validated across every subsequent era."

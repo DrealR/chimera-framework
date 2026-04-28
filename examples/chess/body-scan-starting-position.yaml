@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Starting Position"
+  body_type: "Maximum-potential configuration -- every piece present, every possibility alive, zero actuality"
+  domain: "chess"
+  scale: "system"
+  lifespan: "embryonic"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Potential energy -- tension between what could happen and what has happened"
+  flow_state: "inhale"
+  breath_rate: "slow"
+  attractor: "The center (d4, d5, e4, e5) where every opening theory orbits"
+  topology: "designed"
+  entanglement: "high"
+  health: "pathological"
+  membrane: "closed"
+  hysteresis: "None. Zero interaction history; completely blank integral with no accumulated scars or wisdom"
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "absent"
+  not_force: "maximum"
+
+skeleton: "The body where everything is present and nothing is active -- maximum inventory, minimum function, killed by its own first breath."
+
+powers:
+  perceive: "active"
+  govern: "strong"
+  project: "absent"
+  create: "absent"
+  release: "absent"
+  primary_gap: "project"
+  gap_reason: "Starting position projects nothing; power requires action, and arrangement alone cannot generate direction"
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "closed"
+  prime: "Unbroken potential that must be destroyed to grow"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Self-imprisonment -- strongest pieces (rooks, bishops, queen totaling 26 points) cannot make legal moves"
+  secondary: "Fragility of totality -- having everything means every move is loss of possibility"
+  inversion_condition: "Instant White moves; O=I breaks as White gains tempo and Black must respond"
+
+cross_domain:
+  - connection: "Starting position as embryo"
+    domains_bridged: "Chess <> Biology"
+    novelty: 0.85
+  - connection: "First-move advantage as primordial asymmetry"
+    domains_bridged: "Chess <> Physics"
+    novelty: 0.9
+  - connection: "Pawn wall as over-protective membrane"
+    domains_bridged: "Chess <> Developmental Psychology"
+    novelty: 0.8
+  - connection: "O=I as pre-birth equilibrium"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.75
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Having is not Being. Full potential does not mean full power. Healthiest-looking body is functionally weak. Bodies must break symmetry to live. First move is not loss of potential but exchange of imaginary completeness for real, partial, imperfect life."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE EMBRYO"
+    description: "Body containing its successor without resembling it; genetic completeness without phenotypic expression"
+  - name: "THE MIRROR"
+    description: "Perfect bilateral symmetry across fourth and fifth ranks; mirrors without transforming until first move shatters reflection"
+  - name: "THE LOADED SPRING"
+    description: "Maximum stored energy with zero kinetic output; hundreds of variations coiled inside perfectly still position"

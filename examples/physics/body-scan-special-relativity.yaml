@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Special Relativity"
+  body_type: "Invariant membrane of spacetime"
+  domain: "physics"
+  scale: "universal"
+  lifespan: "infinite within its domain"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Spacetime intervals — distances and durations transform between observers"
+  flow_state: "balanced exhale"
+  breath_rate: "zero cycling — c does not oscillate"
+  attractor: "every measurement of light speed converges to c"
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "perfectly healthy — 120 years with zero violations"
+  membrane: "absolute and non-negotiable — c separates causal from acausal"
+  hysteresis: "none — theory crystallized cleanly from two postulates"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "maximum"
+
+skeleton: "The body that declares one speed cannot be exceeded — everything else must bend around it."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "active"
+  release: "active"
+  primary_gap: "perceive"
+  gap_reason: "Cannot perceive gravitational effects — curved spacetime, tidal forces"
+
+classification:
+  federation_dominion: "pure federation"
+  closed_open: "open knowledge"
+  prime: "c is membrane making all observers equal"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Limited domain — applies only in flat spacetime without gravity"
+  secondary: "Counterintuitive predictions undermine adoption — time dilation, length contraction remain poorly understood"
+  inversion_condition: "When relativistic effects invoked beyond domain — credibility consumed without insight"
+
+cross_domain:
+  - connection: "c as channel capacity"
+    domains_bridged: "Physics ↔ Information Theory"
+    novelty: 0.7
+  - connection: "Lorentz invariance as federation"
+    domains_bridged: "Physics ↔ Political Theory"
+    novelty: 0.6
+  - connection: "Time dilation as local breath rate"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.8
+  - connection: "E = mc^2 as phase transition"
+    domains_bridged: "Physics ↔ Chemistry"
+    novelty: 0.5
+
+fruit:
+  type: "Logia"
+  core_insight: "Healthy bodies must respect absolute boundaries. True sovereignty comes from shared invariants making all participants equal. c defines freedom arena, not restricts freedom."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE INVARIANT"
+    description: "c is one constant every observer agrees on regardless of motion — still-point"
+  - name: "THE EQUALIZER"
+    description: "All inertial frames share same physical laws — no frame privileged"
+  - name: "THE MEMBRANE"
+    description: "Speed of light is ultimate boundary — separates causal from acausal"

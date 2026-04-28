@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Italian Opening (Giuoco Piano)"
+  body_type: "Chess opening — interaction body between two players from first three moves"
+  domain: "chess"
+  scale: "system"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Principle-space. The Italian flows through the dimension of classical opening principles — control the center, develop a piece toward the center, develop another piece to an active square."
+  flow_state: "inhale"
+  breath_rate: "moderate"
+  attractor: "f7 — the weakest point in Black's starting position, defended only by the king. The entire opening gravitates toward this target."
+  topology: "designed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "The scar of being labeled 'too obvious.' For much of the 20th century, top players abandoned it for the Ruy Lopez. The Italian was called the beginner's opening, but the depth was always there beneath the prejudice against simplicity."
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "strong"
+  not_force: "moderate"
+
+skeleton: "The Italian is the opening that teaches by being obvious — every move follows a principle, and the depth hides not in the moves themselves but in the branching consequences of following principles to their logical endpoints."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "moderate"
+  release: "weak"
+  primary_gap: "release"
+  gap_reason: "The Italian builds pressure without providing a native mechanism for detonation. The center tension persists until one player forces a break. It risks stagnation if the potential energy never converts to kinetic energy."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Principled development through f7-targeting geometry"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Predictability. The Italian announces its intentions from move three. Bc4 tells Black exactly where White is looking — the a2-g8 diagonal and f7. A prepared opponent can defend efficiently."
+  secondary: "Central tension dependency. The Italian's power rests on maintaining e4-e5 pawn tension. If Black resolves this favorably, the infrastructure loses its load-bearing wall and Bc4 becomes less relevant."
+  inversion_condition: "When the Italian drifts into passivity. In Pianissimo lines where White never finds a break, the opening degenerates from principled building into aimless maneuvering. Potential energy never converts to kinetic energy."
+
+cross_domain:
+  - connection: "Italian as teaching curriculum"
+    domains_bridged: "chess <> education"
+    novelty: 0.85
+  - connection: "Evans Gambit as venture capital"
+    domains_bridged: "chess <> economics"
+    novelty: 0.8
+  - connection: "Quiet game naming as the Pause"
+    domains_bridged: "chess <> body-theory"
+    novelty: 0.75
+  - connection: "Principled opening as scientific method"
+    domains_bridged: "chess <> epistemology"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "The Italian proves principles are not training wheels. Every beginner learns it because its moves follow the rules. Most intermediates abandon it, assuming 'real' openings must be more complex. Masters return to it, discovering the rules were not simplified approximations — they were the actual load-bearing structure. Sophistication does not require obscurity."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE TEACHER"
+    description: "The Italian is the opening that teaches opening play by being opening play. It does not approximate principles — it embodies them. A student executing it is not studying principles abstractly but seeing the consequences on the board."
+  - name: "THE GATE"
+    description: "Three moves in, dozens of worlds branch. The Italian is a gate body — a narrow passage opening into a vast interior. The gate's power is compression: maximum shared history, maximum divergent future."
+  - name: "THE SURVIVOR"
+    description: "Four centuries of continuous play. Declared obsolete, bypassed, dismissed — and still standing, still producing ideas, still played at the world championship level. The Italian survives because its foundation is structural, not fashionable."

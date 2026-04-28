@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Entropy (Second Law of Thermodynamics)"
+  body_type: "Universal tendency toward disorder — arrow of time maker"
+  domain: "physics"
+  scale: "universal"
+  lifespan: "coextensive with the universe"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Energy configurations and information. Entropy measures microstates consistent with a given macrostate."
+  flow_state: "heavy exhale/rest bias"
+  breath_rate: "accelerating in isolated systems, approaching zero asymptotically near equilibrium"
+  attractor: "maximum entropy (thermodynamic equilibrium) — most probable state overwhelmingly"
+  topology: "flowing"
+  entanglement: "total"
+  health: "ambiguous — terminal diagnosis in closed systems, solvable constraint in open systems"
+  membrane: "weak and permeable in open systems, absolute in isolated systems"
+  hysteresis: "strong and irreversible — broken eggs do not reassemble, time is defined by entropy direction"
+
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "weak"
+  not_force: "high"
+
+skeleton: "The body that turns structure into possibility — the great exhaler ensuring no arrangement persists without effort."
+
+powers:
+  perceive: "active"
+  govern: "weak"
+  project: "active"
+  create: "weak"
+  release: "active"
+  primary_gap: "govern and create"
+  gap_reason: "Cannot govern specific path or create new structure, only destroy any structure"
+
+classification:
+  federation_dominion: "neither"
+  closed_open: "open knowledge"
+  prime: "Maximum possibility through minimum structure — equilibrium is maximum freedom"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Cannot distinguish meaningful from meaningless disorder — counts microstates without evaluating content"
+  secondary: "Directionality without mechanism — says entropy increases but not how fast or by what route"
+  inversion_condition: "At heat death when entropy maximized, no further useful work extractable"
+
+cross_domain:
+  - connection: "Entropy as civilizational decline"
+    domains_bridged: "Physics ↔ Political Theory"
+    novelty: 0.7
+  - connection: "Life as local O>I against entropy"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.9
+  - connection: "Information erasure as entropy cost"
+    domains_bridged: "Physics ↔ Information Theory"
+    novelty: 0.6
+  - connection: "Arrow of time as hysteresis"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.8
+
+fruit:
+  type: "Paramecia"
+  core_insight: "O>I requires effort. Default trajectory is dissolution. Every healthy body is anti-entropic project maintained by continuous energy input against universal exhale."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE EXHALER"
+    description: "Universal tendency toward maximum spread, releasing concentrated energy and dispersing structure"
+  - name: "THE ARROW"
+    description: "Entropy gives time its direction — without entropy increase, past and future indistinguishable"
+  - name: "THE TEACHER"
+    description: "O>I requires effort. Order does not maintain itself without continuous energy input and entropy export."

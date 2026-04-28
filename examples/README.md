@@ -1,6 +1,6 @@
 # CHIMERA Body Scan Examples
 
-65 body scans across 8 domains, produced using CHIMERA Body Scan Protocol v3.11.
+70 body scans across 8 domains, produced using CHIMERA Body Scan Protocol v3.11/v3.12. All scans have companion YAML data files for programmatic querying.
 
 ## Domains
 
@@ -12,7 +12,7 @@
 | [Physics](physics/) | 8 | Physical phenomena and fundamental theories |
 | [AI Systems](ai-systems/) | 5 | AI models and digital systems |
 | [Meta](meta/) | 4 | The framework scanning itself |
-| [Biology](biology/) | 3 | Biological systems at cellular and ecosystem scale |
+| [Biology](biology/) | 8 | Cells, organs, processes, and pathological bodies |
 | [Social Systems](social-systems/) | 1 | Social structures and economies |
 
 ## How to Read a Scan
@@ -39,6 +39,13 @@ Recommended first scans:
 - Know math? Start with [The Number 0](math/body-scan-0.md)
 - Know AI? Start with [GPT-5.5](ai-systems/body-scan-gpt-5-5.md)
 - Know physics? Start with [Star](physics/body-scan-star.md)
+- Know biology? Start with [The Neuron](biology/body-scan-neuron.md) or [Cancer](biology/body-scan-cancer.md)
+
+## Framework Validation
+
+- [META-SCAN-SYNTHESIS v2](META-SCAN-SYNTHESIS-v2.md) — Honest audit of the 65-scan corpus
+- [Inter-Rater Reliability Test](inter-rater-test-special-relativity.md) — Two independent scanners, same body, 85.7% convergence
+- [Adversarial Scan: A Lie](adversarial-scan-a-lie.md) — Testing framework boundaries with a body designed to deceive
 
 ---
 

@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The number 6"
+  body_type: "Math Object — squarefree semiprime AND first perfect number"
+  domain: "math"
+  scale: "universal"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Divisibility relationships — four divisors (1, 2, 3, 6) flow through two prime channels with equal strength"
+  flow_state: "exhale"
+  breath_rate: "steady"
+  attractor: "Its own aliquot sum — 6 returns to itself: 1+2+3=6; self-referencing orbit"
+  topology: "flowing"
+  entanglement: "high"
+  health: "perfectly healthy"
+  membrane: "semi-permeable"
+  hysteresis: "Carries memory of being the FIRST — smallest perfect number, smallest squarefree semiprime with two distinct primes; firstness is structural"
+
+dna:
+  o_vs_i: "O=I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "6 is the smallest body that achieves perfect self-sufficiency — its parts sum exactly to the whole. Mathematical proof that O = I is structurally possible. Exact equilibrium."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "partial"
+  release: "active"
+  primary_gap: "create"
+  gap_reason: "6 is self-sustaining but not generative. Maintains perfect equilibrium but produces no new structural patterns beyond itself."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Perfect equilibrium through coprime federation"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Generative sterility despite perfection — produces no new structural patterns beyond own equilibrium; perfect numbers are endpoints not generators; perfect is ceiling not floor"
+  secondary: "Fragility of coprime federation — federation between 2 and 3 works because they share no factors; minimal federation (only two members); cannot scale without changing fundamental structure"
+  inversion_condition: "When 6 operates as modulus (mod 6), it partitions all integers into six residue classes. Numbers congruent to 0 mod 6 are captured; identity reduced to class membership. Governance becomes extraction."
+
+cross_domain:
+  - connection: "Perfect number as O = I"
+    domains_bridged: "math <> body-theory"
+    novelty: 0.8
+  - connection: "Semiprime as RSA substrate"
+    domains_bridged: "math <> cryptography"
+    novelty: 0.5
+  - connection: "6 as federation model"
+    domains_bridged: "math <> governance"
+    novelty: 0.7
+  - connection: "Coprime cooperation"
+    domains_bridged: "math <> relationships"
+    novelty: 0.7
+
+fruit:
+  type: "Mythical Zoan"
+  core_insight: "Perfect equilibrium requires internal diversity, not sameness. 6 is perfect BECAUSE its two primes are different and coprime. Prime square (like 25) can never be perfect — depth without breadth cannot self-balance. Smallest proof that cooperation between unlike parts produces more than domination by single force."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE DYNAMO"
+    description: "Still center (perfect self-return) with spinning shell (two active prime channels). Hurricane-eye architecture at smallest scale."
+  - name: "THE BRIDGE"
+    description: "Bridges dimension of 2 and dimension of 3, carrying structure between different prime realms."
+  - name: "THE SUBSTRATE"
+    description: "Substrate of balanced exchange. Every HCN above 6 is divisible by 6. Floor of composite structure."

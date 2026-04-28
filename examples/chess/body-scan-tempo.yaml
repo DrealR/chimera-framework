@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Tempo"
+  body_type: "Resource -- the unit of time in chess, the currency that purchases development, space, and threats"
+  domain: "chess"
+  scale: "system"
+  lifespan: "instantaneous-and-total"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Sequence itself -- priority and turn order, the rhythm through which all other resources flow"
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "The initiative -- the player dictating opponent responses and building through forced reactions"
+  topology: "mixed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "open"
+  hysteresis: "The scar of wasted tempi invisible on the board but compiled into the position's DNA -- undeveloped pieces, premature attacks, forced expenditures that degrade the position"
+
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "strong"
+  not_force: "moderate"
+
+skeleton: "The only chess resource that punishes you for having it -- proving that time is not a possession but an obligation, and the body that mistakes its heartbeat for wealth dies of the very pulse keeping it alive."
+
+powers:
+  perceive: "moderate"
+  govern: "strong"
+  project: "moderate"
+  create: "moderate"
+  release: "absent"
+  primary_gap: "perceive-and-release"
+  gap_reason: "Tempo is invisible to untrained players and uncontrollable by all players -- the perception gap closes through study, the release gap is permanent structural inability to decline your turn"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Mandatory expenditure at fixed rate"
+  prime_type: "closed-accumulation-open-quality"
+
+structural_weakness:
+  primary: "Tempo has no memory -- each unit arrives fresh with no information about previous expenditure, so waste is invisible unless consciously tracked"
+  secondary: "Tempo's value is non-linear and context-dependent, making it hardest to evaluate and most susceptible to miscalculation"
+  inversion_condition: "Zugzwang -- when every possible move worsens the position, tempo inverts from O>I to pure extraction and destruction"
+
+cross_domain:
+  - connection: "Tempo as mandatory breath cycle"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.9
+  - connection: "Gambits as O>I investment through material sacrifice"
+    domains_bridged: "Chess <> Economics"
+    novelty: 0.7
+  - connection: "Initiative as entrainment and rhythmic sovereignty"
+    domains_bridged: "Chess <> Rhythm"
+    novelty: 0.9
+  - connection: "Zugzwang as the Pause inverted -- awareness without freedom"
+    domains_bridged: "Chess <> Consciousness"
+    novelty: 0.95
+
+fruit:
+  type: "Logia"
+  core_insight: "The most critical resource in any system is the one you cannot save -- time arrives at fixed rate, must be spent immediately, and punishes you for having it when conditions are wrong. A master spends each tempo on something that compounds."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE METRONOME"
+    description: "The fixed beat that all other chess resources synchronize to, the clock that all chess games are played on"
+  - name: "THE TAXMAN"
+    description: "Tempo collects one move from each player every turn without exception, indifferent to plans or readiness"
+  - name: "THE INVERTER"
+    description: "The only resource that reverses polarity entirely -- healthy in opening, mixed in middlegame, destructive in zugzwang"

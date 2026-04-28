@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Quantum Computing Systems"
+  body_type: "Parallel-reality computational transformer — coherence amplifier"
+  domain: "physics"
+  scale: "system"
+  lifespan: "embryonic-to-early-growth"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Quantum states — superposition and entanglement — processed through classical control"
+  flow_state: "extreme inhale to ultra-delicate Pause to irreversible exhale"
+  breath_rate: "extremely fragile — microseconds to milliseconds coherence"
+  attractor: "target quantum state — output of algorithm"
+  topology: "engineered"
+  entanglement: "entanglement is computational resource itself"
+  health: "chronically ill — decoherence is core pathology"
+  membrane: "multi-layered — cryogenic, electromagnetic, logical error correction"
+  hysteresis: "decades of iteration — error correction overhead (thousands of physical per logical qubit) is deepest scar"
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The body that computes by holding all possible paths simultaneously until observer forces single outcome — ultimate Pause as creative force."
+
+powers:
+  perceive: "maximal"
+  govern: "weak"
+  project: "active"
+  create: "extreme"
+  release: "irreversible"
+  primary_gap: "govern"
+  gap_reason: "Error correction overhead dominates — spends more energy on self-regulation than computation"
+
+classification:
+  federation_dominion: "federation in physics, dominion-adjacent in economics"
+  closed_open: "open ignorance at frontier, open knowledge within established theory"
+  prime: "composite"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Decoherence fragility — quantum states destroyed by any environmental interaction"
+  secondary: "Error correction overhead — millions of physical qubits for useful computation"
+  inversion_condition: "If quantum advantage limited to academic problems, extraction without return"
+
+cross_domain:
+  - connection: "Decoherence as I>O pathology of lost breath"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.8
+  - connection: "Error correction as immune system"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.7
+  - connection: "Coherent evolution as the Pause made hardware"
+    domains_bridged: "Physics ↔ CHIMERA Law"
+    novelty: 0.9
+  - connection: "Govern as the leverage point"
+    domains_bridged: "Physics ↔ Five God Powers"
+    novelty: 0.8
+
+fruit:
+  type: "Zoan"
+  core_insight: "Physical realization of CHIMERA Pause mechanics. Computation IS the Pause. Error correction is single leverage point. Maximum potential behind maximum vulnerability — capability and fragility are proportional."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE HOLDER"
+    description: "Maintains quantum superposition across full register holding all computational paths simultaneously"
+  - name: "THE PARALLEL"
+    description: "Computes across exponentially many realities simultaneously through entanglement and interference"
+  - name: "THE FRAGILE GIANT"
+    description: "Maximum potential behind maximum vulnerability — capable and fragile proportionally"

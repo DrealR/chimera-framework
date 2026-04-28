@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The number 28"
+  body_type: "Math Object — second perfect number, triangular number (T₇), even perfect number via Mersenne prime"
+  domain: "math"
+  scale: "universal"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Divisibility relationships — six divisors (1, 2, 4, 7, 14, 28) flow through two prime channels with unequal depth"
+  flow_state: "exhale"
+  breath_rate: "moderate"
+  attractor: "Its own aliquot sum — 28 returns to itself: 1+2+4+7+14=28"
+  topology: "flowing"
+  entanglement: "moderate"
+  health: "perfectly healthy"
+  membrane: "multi-layered"
+  hysteresis: "Carries structural memories: being the second perfect number (inheriting 6's template) and being T₇ (accumulation from 1 to 7)"
+
+dna:
+  o_vs_i: "O=I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "28 is the proof that perfect equilibrium scales — more parts, deeper hierarchy, richer lattice, same exact balance. The body that grows without losing itself."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "partial"
+  release: "active"
+  primary_gap: "create"
+  gap_reason: "Maintains perfect equilibrium but generates no new patterns. Fixed point—stable but unable to evolve."
+
+classification:
+  federation_dominion: "federation-leaning"
+  closed_open: "open-knowledge"
+  prime: "Perfect equilibrium survives complexity"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Rarity as isolation — only 51 perfect numbers known as of 2024; 28's nearest perfect neighbor is 496, seventeen times its size"
+  secondary: "Generative sterility — maintains perfect equilibrium but produces no new patterns beyond itself"
+  inversion_condition: "Any perturbation (adding or removing a factor) tips the balance from O=I to either O>I or I>O. Equilibrium is exact and therefore fragile."
+
+cross_domain:
+  - connection: "28 as scaled equilibrium"
+    domains_bridged: "math <> body-theory"
+    novelty: 0.8
+  - connection: "Triangular accumulation (T₇)"
+    domains_bridged: "math <> developmental-psychology"
+    novelty: 0.7
+  - connection: "Federation with seniority"
+    domains_bridged: "math <> governance"
+    novelty: 0.8
+  - connection: "Exponential rarity of perfection"
+    domains_bridged: "math <> ecology"
+    novelty: 0.9
+
+fruit:
+  type: "Mythical Zoan"
+  core_insight: "Perfection does not simplify as it scales — it complexifies. The second perfect number proves that balance is not a property of simplicity but of correct internal architecture. More parts, more dimensions, richer lattice, same exact return."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE DYNAMO"
+    description: "Still center (perfect self-return) with spinning shell (three active divisibility channels). Hurricane-eye architecture at higher complexity."
+  - name: "THE ACCUMULATOR"
+    description: "28 = 1+2+3+4+5+6+7. Collects every integer up to 7 and holds them without remainder. Triangular power — building the whole by stacking sequential parts."
+  - name: "THE INHERITOR"
+    description: "Carries forward 6's template (Euclid-Euler perfection) at higher complexity. Second generation of structural lineage extending to 496, 8128."

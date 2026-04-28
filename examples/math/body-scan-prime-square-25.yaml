@@ -1,0 +1,74 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The number 25"
+  body_type: "Math Object — prime square (5²), single-prime composite"
+  domain: "math"
+  scale: "universal"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Single divisibility channel — only three divisors (1, 5, 25) flow through; only one prime pathway"
+  flow_state: "rest"
+  breath_rate: "glacial"
+  attractor: "5 — the single prime that defines 25; gravitational center to which all structure points"
+  topology: "forced"
+  entanglement: "low"
+  health: "stable but isolated"
+  membrane: "nearly closed"
+  hysteresis: "Carries scar of single event: 5 × 5; entire history is one moment of self-multiplication"
+
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "moderate"
+
+skeleton: "A prime square is a body with appearance of complexity but soul of a prime — all structure traces to single irreducible source. Depth without breadth; the linear body."
+
+powers:
+  perceive: "partial"
+  govern: "active"
+  project: "weak"
+  create: "absent"
+  release: "absent"
+  primary_gap: "create"
+  gap_reason: "25 generates no new structural patterns. Holds single factor tightly with pure retention and no generosity."
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed-knowledge"
+  prime: "Single-source monocular structure"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Single-dimensional confinement — 25 = 5² exists entirely within dimension of 5; no access to any other prime channel; monocular vision; most constrained non-prime in small-number range"
+  secondary: "Deficiency as structural poverty — proper divisors sum to 6 (1+5=6), far below 25; must extract from environment to persist"
+  inversion_condition: "25 is already I>O by divisor structure — deficient, single-channeled, extractive. Inversion has already occurred; 25 is clearest example of body whose DNA reads I>O without needing trigger event."
+
+cross_domain:
+  - connection: "Prime square as echo"
+    domains_bridged: "math <> music"
+    novelty: 0.6
+  - connection: "Single-factor dominion"
+    domains_bridged: "math <> politics"
+    novelty: 0.5
+  - connection: "Linear lattice"
+    domains_bridged: "math <> body-theory"
+    novelty: 0.4
+  - connection: "Signature equivalence"
+    domains_bridged: "math <> archetypes"
+    novelty: 0.7
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Composites aren't automatically complex. Prime square has interior structure but no internal diversity. Depth without breadth is indistinguishable from narrowness. The body that doubles single strength instead of adding second one stays fundamentally limited."
+  novelty: 0.6
+
+powers_detected:
+  - name: "THE ANCHOR"
+    description: "5 anchors 25 absolutely with no drift, no ambiguity, no freedom. Complete structural determination by single prime."
+  - name: "ABSENCE OF THE BRIDGE"
+    description: "25 spans no dimensions; cannot translate between rule-sets because it knows only one prime language."

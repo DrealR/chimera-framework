@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Immune System"
+  body_type: "Adaptive sovereign defender / memory-bearing protector"
+  domain: "biology"
+  scale: "system"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Cells, antibodies, cytokines in hybrid matter-and-information medium"
+  flow_state: "exhale"
+  breath_rate: "variable"
+  attractor: "Homeostasis between vigilance and tolerance"
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "multi-layered"
+  hysteresis: "Immunological memory in memory B-cells and T-cells encoding past infections"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The body that remembers every attack so future giving can continue safely"
+
+powers:
+  perceive: "strong"
+  govern: "moderate"
+  project: "strong"
+  create: "strong"
+  release: "strong"
+  primary_gap: "govern"
+  gap_reason: "Autoimmunity represents governance failure attacking self-tissue"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Composite federation without single command"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Autoimmunity where immune system misidentifies self as foreign"
+  secondary: "Cytokine storms producing excessive inflammation damaging host"
+  inversion_condition: "Chronic inflammation maintains low-grade activation without threat"
+
+cross_domain:
+  - connection: "Immune memory as biological hysteresis"
+    domains_bridged: "Biology ↔ Body Theory"
+    novelty: 0.7
+  - connection: "Autoimmunity as internal I>O inversion"
+    domains_bridged: "Biology ↔ Body Theory"
+    novelty: 0.8
+  - connection: "Immune system as metabolic security analog to cybersecurity"
+    domains_bridged: "Biology ↔ Cybersecurity"
+    novelty: 0.9
+
+fruit:
+  type: "Zoan"
+  core_insight: "Healthy defense is precise remembering O>I; protection and openness not opposites"
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE SENTINEL"
+    description: "Constant surveillance without rest; vigilance as metabolism"
+  - name: "THE MEMORY"
+    description: "Remembers every threat and encodes solution in cellular form"
+  - name: "THE CALIBRATOR"
+    description: "Balances response intensity with extraordinary precision"

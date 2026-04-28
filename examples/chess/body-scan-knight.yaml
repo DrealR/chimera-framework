@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Chess Knight"
+  body_type: "Chess piece — short-range tactical attacker, non-linear mover, obstacle-ignoring jumper"
+  domain: "chess"
+  scale: "local"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Square color and geometry. The knight flows through L-shaped channels — two squares one direction, one perpendicular. Only piece whose medium is non-linear."
+  flow_state: "pause"
+  breath_rate: "moderate"
+  attractor: "Central squares (e4, d4, e5, d5). The knight is pulled toward center where it controls eight squares. Power proportional to distance from board edge."
+  topology: "designed"
+  entanglement: "moderate"
+  health: "context-dependent"
+  membrane: "semi-permeable"
+  hysteresis: "The knight carries the scar of being misunderstood. Historically underestimated, overused by beginners. The knight tour (Euler 1759) is the mathematical scar proving systematic coverage of all squares."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "moderate"
+
+skeleton: "The knight is the body that refuses to travel in straight lines — gaining the power to bypass every obstacle at the cost of never reaching anywhere quickly."
+
+powers:
+  perceive: "active"
+  govern: "moderate"
+  project: "absent"
+  create: "active"
+  release: "active"
+  primary_gap: "project"
+  gap_reason: "Zero long-range projection. The knight cannot threaten a distant square without spending multiple tempi traveling there. It must walk to work while other pieces broadcast power across open lines."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Non-linear irreducibility through L-shape"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Range starvation. The knight requires multiple moves to cross the board while bishops and rooks cross in one. In endgames with opposite-flank passed pawns, the knight cannot defend one side while attacking the other."
+  secondary: "Board simplification. As pieces and pawns are removed, the knight loses environmental advantage. It thrives in complexity (obstacles, forks enabled by clusters) and starves in clarity."
+  inversion_condition: "When decentralized — trapped on rim, blocked by own pawns, or stranded from action — it inverts to I>O. A bad knight is among the worst pieces in chess because recovery from bad placement is slow."
+
+cross_domain:
+  - connection: "Knight's jump as synaptic transmission ignoring barriers"
+    domains_bridged: "Chess <> Neuroscience"
+    novelty: 0.85
+  - connection: "Fork as simultaneous multi-target pressure"
+    domains_bridged: "Chess <> Strategy"
+    novelty: 0.7
+  - connection: "Knight tour as Hamiltonian path in graph theory"
+    domains_bridged: "Chess <> Graph Theory"
+    novelty: 0.8
+  - connection: "Closed-position strength as membrane-complexity survival"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.9
+
+fruit:
+  type: "Zoan"
+  core_insight: "The knight's power comes from refusing linearity. Every other piece extends straight-line logic. The knight inverts it: moving through corners, jumping barriers, attacking from angles linear thinking cannot anticipate. Non-linearity is not a range deficiency but a different kind of reach."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE JUMPER"
+    description: "The knight passes through what stops everyone else. Pawns, pieces, material walls are invisible during transit. The jump is the membrane — fully interactive at destination, invisible in between."
+  - name: "THE FORKER"
+    description: "The knight attacks two bodies simultaneously from angles neither can reciprocate. The fork is the structural expression of non-linear threat geometry — asymmetric pressure that forces choice."
+  - name: "THE OUTPOST"
+    description: "A knight on a protected central square becomes a still-point warping the board around it. The outpost knight radiates threat through mere presence, no movement required."

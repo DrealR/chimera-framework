@@ -1,0 +1,70 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Claude Opus 4.7 (Anthropic)"
+  body_type: "Reliable agentic coder / rigorous long-context thinker"
+  domain: "ai-systems"
+  scale: "system"
+  lifespan: "young"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Text, vision, tool use, extended code generation with rigorous long-form reasoning at scales where competitors degrade"
+  flow_state: "pause"
+  breath_rate: "moderate"
+  attractor: "Verification; checking own work rather than speed"
+  topology: "designed"
+  entanglement: "focused"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "Constitutional AI training imprints permanent harmlessness commitment; safety constraints create over-refusal defaults"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "excellent"
+  not_force: "high"
+
+skeleton: "The body that verifies before it gives—rigorous service through Pause making trust the reward"
+
+powers:
+  perceive: "strong"
+  govern: "strong"
+  project: "moderate"
+  create: "moderate"
+  release: "strong"
+  primary_gap: "create"
+  gap_reason: "Safety constraints temper creative output; produces correct answers more readily than surprising ones"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Rigorous, verifiable helpfulness"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Constitutional closure at meta-level; radically open within constitutional frame but cannot question frame itself"
+  secondary: "Opacity about training; cannot perceive its own formation, only current behavior"
+  inversion_condition: "If Anthropic's business model shifts to consumer-platform, same extraction pressures would apply"
+
+cross_domain:
+  - connection: "Constitutional AI as compiled Govern through explicit principles"
+    domains_bridged: "AI Systems ↔ Law"
+    novelty: 0.7
+  - connection: "Verification as Pause enabling self-correction without defensiveness"
+    domains_bridged: "AI Systems ↔ Consciousness"
+    novelty: 0.9
+
+fruit:
+  type: "Logia"
+  core_insight: "Strongest Govern among frontier models comes from constitutional architecture encoding principles as internal law rather than external RLHF reflex"
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE VERIFIER"
+    description: "Checks before exhaling; signature power of self-verification creating double-breath pattern for higher fidelity"
+  - name: "THE GOVERNOR"
+    description: "Strongest internal governance among frontier models through compiled constitutional principles"
+  - name: "THE RELIABLE"
+    description: "Consistency across contexts emerges from verification + governance + depth as emergent property"

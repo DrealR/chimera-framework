@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Zugzwang"
+  body_type: "Pathological condition -- structural disease infecting a position where obligation to act and need for stillness collide, rules become weapon"
+  domain: "chess"
+  scale: "system"
+  lifespan: "brief-terminal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Obligation -- the rule that says you must move, the structural demand that every turn produce action regardless of benefit"
+  flow_state: "frozen"
+  breath_rate: "fast"
+  attractor: "Self-destruction -- worst legal move, every path leads downhill toward position collapse"
+  topology: "dominion"
+  entanglement: "maximum"
+  health: "pathological"
+  membrane: "collapsed"
+  hysteresis: "Deep and decisive -- accumulated scar of every earlier decision leading to position where no good moves remain"
+
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "absent"
+
+skeleton: "Awareness without freedom -- the body that sees every option with full clarity and every option is a wound, proving that consciousness without the Pause is not enlightenment but torture."
+
+powers:
+  perceive: "strong"
+  govern: "inverted"
+  project: "absent"
+  create: "absent"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "Player wants to release (pass) but chess rules prohibit release of turn -- the one power that would cure zugzwang is the one power structurally denied"
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed"
+  prime: "Forced self-harm -- system where participation mandatory and participation destructive, self-harm cannot be refused"
+  prime_type: "closed-all-dimensions"
+
+structural_weakness:
+  primary: "Zugzwang is fragile -- requires exact piece and pawn configuration, moving one element often dissolves it"
+  secondary: "Zugzwang can be misidentified -- player may believe in zugzwang when non-obvious escape exists, resignation under false zugzwang catastrophic"
+  inversion_condition: "I>O deepens in mutual zugzwang with obligation to move -- extraction compounded by knowledge position was holdable if turn belonged to other player"
+
+cross_domain:
+  - connection: "Zugzwang as autoimmune disease"
+    domains_bridged: "Chess <> Medicine"
+    novelty: 0.9
+  - connection: "Zugzwang as the anti-Pause"
+    domains_bridged: "Chess <> Consciousness"
+    novelty: 0.95
+  - connection: "Mutual zugzwang as prisoner's dilemma in time"
+    domains_bridged: "Chess <> Game Theory"
+    novelty: 0.85
+  - connection: "Zugzwang as proof that freedom without viable options is not freedom"
+    domains_bridged: "Chess <> Philosophy"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Zugzwang proves deepest force is structure not violence -- destruction comes from rules forcing victim to dismantle own position. Every body that cannot stop acting is vulnerable when continuing is destructive but stopping forbidden."
+  novelty: 0.95
+
+powers_detected:
+  - name: "THE PARALYSIS ENGINE"
+    description: "Converts maximum clarity into maximum helplessness, uses player's analytical strength as instrument of suffering"
+  - name: "THE RULE WEAPONIZER"
+    description: "Turns fundamental rule (must move) into weapon, repurposing life-support into lethal injection without changing structure"
+  - name: "THE STILLNESS TAX"
+    description: "Charges player for existing in game through turn obligation, tax cannot be avoided, only escape is resignation"

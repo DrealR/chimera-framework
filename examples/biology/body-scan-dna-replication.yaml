@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "DNA Replication"
+  body_type: "Process body -- the act by which a cell copies its entire genome before division. Choreography of unwinding, priming, polymerization, proofreading, and sealing."
+  domain: "biology"
+  scale: "molecular in mechanism, organismal in consequence"
+  lifespan: "hours per cycle"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "Nucleotides. Free deoxyribonucleotide triphosphates (dNTPs) flow through nuclear pores to the replication fork. Medium is both chemical (phosphodiester bonds) and informational (base-pairing rules)."
+  flow_state: "Directed assembly. Template strand read 3' to 5'; new strand built 5' to 3'. Leading strand flows continuously; lagging strand flows in discontinuous Okazaki fragments."
+  breath_rate: "Thousands of forks at ~1,000 nt/sec. Breath rate is staggered temporally -- early-replicating euchromatin before late-replicating heterochromatin."
+  attractor: "Exact copy. Fidelity is the attractor -- the replicated genome should be identical to template. Every mechanism pushes toward zero errors; the gap is the mutation rate."
+  topology: "O > I. Replication takes nucleotides and ATP from cellular pool and returns complete second copy of genome. Output exceeds input in organized information."
+  entanglement: "Deep and multi-layered. Helicase coupled with topoisomerase, polymerase coupled with sliding clamp, primase coupled with polymerase alpha. No component operates alone."
+  health: "Healthy when fidelity is high and fork progresses without stalling. Pathological when forks collapse, creating double-strand breaks."
+  membrane: "The replication fork itself -- the moving boundary between unreplicated (parent) and replicated (daughter) DNA. Selective and mobile surface."
+  hysteresis: "Massive. The genome being copied is the integral of 3.8 billion years of replication. Every sequence is a scar from a previous replication event. Process copies scars faithfully."
+
+dna:
+  o_vs_i: "O > I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The body that copies history -- reading the past one nucleotide at a time and writing it forward, accurate enough to preserve identity, imperfect enough to permit change."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "active"
+  release: "conditional"
+  primary_gap: "release"
+  gap_reason: "Replication creates two connected copies (sister chromatids) but cannot separate them. Hands release problem to mitosis. Gap is where chromosomal abnormality enters."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed-dimensional"
+  prime: "Faithful copying with controlled error"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Fidelity-speed tradeoff. Proofreading increases accuracy but slows polymerase. Mismatch repair costs energy. Cannot achieve perfect fidelity without infinite proofreading."
+  secondary: "Replication stress fragility. Collapsed forks expose single-stranded DNA, inviting recombination, causing chromosomal rearrangements."
+  inversion_condition: "When replication errors escape repair and produce oncogenic mutations, O>I in mechanism produces I>O in consequence. Process served faithfully; product betrays."
+
+cross_domain:
+  - connection: "Proofreading as the Pause"
+    domains_bridged: "Biology <> Consciousness"
+    novelty: 0.7
+  - connection: "Leading/lagging as breath asymmetry"
+    domains_bridged: "Biology <> Body Theory"
+    novelty: 0.85
+  - connection: "Replication as tradition transmission"
+    domains_bridged: "Biology <> Cultural Studies"
+    novelty: 0.9
+  - connection: "Error rate as evolutionary investment"
+    domains_bridged: "Biology <> Economics"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Perfect fidelity is not the goal of any living copying system. The residual error rate is not failure but structural investment in future adaptability. Imperfect copying is the source of evolvability. The 'weakness' (infidelity) is the body's deepest power."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE FAITHFUL COPIER"
+    description: "Controlled accuracy at one error per billion bases. Copying at precision no human technology matches at comparable scale. Greatness lies in self-restraint."
+  - name: "THE FORK SPLITTER"
+    description: "Takes one thing and makes it two. The fundamental creative act in biology. Self-referential creation: the process copies the instructions for itself."
+  - name: "THE CONTROLLED MISTAKE"
+    description: "Residual mutation rate is not noise but signal. Ability to be imperfect in controlled way -- tuned by selection across billions of years."

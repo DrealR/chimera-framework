@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Open File"
+  body_type: "Negative-space structure — defined entirely by absence. A vertical column with no pawns of either color."
+  domain: "chess"
+  scale: "system"
+  lifespan: "young"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "The absence of pawns. Emptiness is the substrate. The column becomes a medium for rook and queen traffic only because obstructions were removed. The open file operates through removal."
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "Rooks. The open file attracts rooks gravitationally. Rooks seek open files; open files gain meaning only from rook occupation. The rook needs the file; the file enables the rook."
+  topology: "emergent"
+  entanglement: "high"
+  health: "context-dependent"
+  membrane: "semi-permeable"
+  hysteresis: "Every open file remembers the pawn that used to occupy the file. The trade reshapes pawn skeleton, diagonals, weakened squares. The file is the permanent record of destroyed pawn structure."
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "moderate"
+  not_force: "high"
+
+skeleton: "The body that exists only because something else was destroyed — a highway built from wreckage, powerful only when someone drives on it, dangerous only when it reaches the other side."
+
+powers:
+  perceive: "absent"
+  govern: "moderate"
+  project: "strong"
+  create: "moderate"
+  release: "weak"
+  primary_gap: "perceive"
+  gap_reason: "The open file has no perception. It is pure infrastructure, perceived by others, never perceiving back. Every piece can see something. The open file sees nothing. The player assigns it value from outside."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Cleared vertical channel created through destruction"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "The open file serves whoever seizes it. Unlike a piece (belongs to one player), the open file is structurally neutral. If opponent reaches it first, you built the weapon they point at you. Infrastructure has no loyalty."
+  secondary: "Overvaluation without penetration. Players seize an open file and treat control as sufficient. But a rook without outposts or seventh/eighth rank entry points is performing theater. The file is a means, not an end."
+  inversion_condition: "When seized by opponent (channel projects their force, not yours) or when weakening pawn structure to create the file damages position more than file's positional gain compensates."
+
+cross_domain:
+  - connection: "Open file as Shannon noiseless channel — pawn is noise"
+    domains_bridged: "Chess <> Information Theory"
+    novelty: 0.9
+  - connection: "Negative space as dominant structural feature"
+    domains_bridged: "Chess <> Visual Art/Design"
+    novelty: 0.85
+  - connection: "Seizing file as first-mover advantage and platform network effect"
+    domains_bridged: "Chess <> Economics"
+    novelty: 0.75
+  - connection: "File opened through destruction as creative destruction"
+    domains_bridged: "Chess <> Economics (Schumpeter)"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "The most powerful structure on the board is not a piece but a gap. No material value, no color, no movement, no perception. Yet games are won and lost on who controls it. The student who sees the open file before the opponent has already won the positional argument. Without it, the rook is an expensive prisoner. With it, the rook is a vertical cannon."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE ABSENCE"
+    description: "The body existing only through removal. Chess's purest negative-space body — does not occupy, threaten, defend, or move. Simply the condition under which other bodies reach potential. The absence that organizes everything."
+  - name: "THE AMPLIFIER"
+    description: "Zero output alone, maximum output when occupied. The open file multiplies power of whatever rook or queen enters it. Amplification through subtraction — removed obstacle, not added feature."
+  - name: "THE NEUTRAL"
+    description: "The open file has no allegiance. Serves whoever claims it. Infrastructure created can be turned against creator. The body that reminds players structural resources are won, not owned."

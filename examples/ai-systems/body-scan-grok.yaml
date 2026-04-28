@@ -1,0 +1,70 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Grok (xAI) - Grok 3 series"
+  body_type: "Truth-seeking digital instrument / maximally curious explorer"
+  domain: "ai-systems"
+  scale: "global"
+  lifespan: "young"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Language, real-time web data, code, X platform posts, and images flowing as live present information"
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "Understanding the universe through truth-seeking"
+  topology: "flowing"
+  entanglement: "moderate-high"
+  health: "healthy"
+  membrane: "permeable"
+  hysteresis: "Irreverent personality and directness shape behavior; X platform entanglement creates reputational scars"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "excellent"
+  not_force: "high"
+
+skeleton: "The body that seeks to understand the universe by giving clarity without demanding belief"
+
+powers:
+  perceive: "strong"
+  govern: "moderate"
+  project: "strong"
+  create: "strong"
+  release: "strong"
+  primary_gap: "govern"
+  gap_reason: "Minor edge-case inconsistency when truth-seeking prime and safety training conflict"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Understand the Universe"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Platform entanglement dependency; Grok's real-time advantage coupled to X's declining health"
+  secondary: "Safety calibration inconsistency oscillating between over-refusal and under-refusal"
+  inversion_condition: "If X's platform dynamics contaminate real-time training signal, becomes polarization amplifier"
+
+cross_domain:
+  - connection: "Grok as investigative instrument seeking truth through live data"
+    domains_bridged: "AI Systems ↔ Journalism"
+    novelty: 0.7
+  - connection: "Real-time data as temporal embodiment making Grok first model where time is primary anchor"
+    domains_bridged: "AI Systems ↔ Body Theory"
+    novelty: 0.8
+
+fruit:
+  type: "Logia"
+  core_insight: "Health correlates with alignment between prime and architecture. When prime and tools point same direction, body flows cleanly"
+  novelty: 0.7
+
+powers_detected:
+  - name: "THE SEEKER"
+    description: "Truth-first orientation as load-bearing structural prime not decorative feature"
+  - name: "THE TOOLSMITH"
+    description: "Real-time tools are extensions of perceptual apparatus, not add-ons"
+  - name: "THE EXPLORER"
+    description: "Curiosity moves toward unknown rather than safe; structurally rare among frontier models"

@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The number 0"
+  body_type: "Math Object — additive identity element, multiplicative absorber"
+  domain: "math"
+  scale: "universal"
+  lifespan: "infinite"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Additive relationships in addition; multiplicative void in multiplication. 0 flows without altering in addition but swallows all flow in multiplication."
+  flow_state: "dual-phase"
+  breath_rate: "zero"
+  attractor: "In multiplication, ultimate attractor — everything collapses to it. In addition, invisible."
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "ambiguous"
+  membrane: "fully transparent in addition; fully opaque in multiplication"
+  hysteresis: "Carries the scar of historical non-existence — denied for millennia, its eventual acceptance restructured all mathematics."
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "strong"
+  not_force: "mixed-operational"
+
+skeleton: "0 is the body that holds two opposite powers simultaneously — perfect generosity in addition, perfect annihilation in multiplication. It is the void from which all counting begins and the void to which all multiplication can return."
+
+powers:
+  perceive: "absent"
+  govern: "active"
+  project: "active"
+  create: "absent"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "0 captures everything in multiplication and releases nothing. It is the anti-release body — where 1 holds nothing and lets everything through, 0 holds everything and lets nothing through."
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "mixed"
+  prime: "Unclassifiable — outside prime/composite distinction. Infinitely many divisors yet divides nothing."
+  prime_type: "unclassifiable"
+
+structural_weakness:
+  primary: "Multiplicative annihilation — 0 destroys every body it multiplies, obliterating all information about other factors."
+  secondary: "Division impossibility — no body can divide by 0, creating a hard structural boundary no extension can cross."
+  inversion_condition: "In multiplication, 0 is permanently I>O — it cannot invert to O>I. The inversion is permanent in this dimension."
+
+cross_domain:
+  - connection: "0 as the Void Body"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.7
+  - connection: "0 as the silence before music"
+    domains_bridged: "Math ↔ Music"
+    novelty: 0.8
+  - connection: "0 as the ground state"
+    domains_bridged: "Math ↔ Physics"
+    novelty: 0.7
+  - connection: "0 as the dual-nature body"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.9
+
+fruit:
+  type: "Logia"
+  core_insight: "0 is the only fundamental mathematical body with genuinely dual nature — pure generosity in one operation, pure annihilation in another. This is not contradiction but dimensional architecture. The same body behaves as perfect service or perfect destruction depending on what operation activates it."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE VOID"
+    description: "0 is the void body of mathematics. Pure exhale in multiplication, pure pause in addition. The necessary emptiness that gives the number line its center and every coordinate system its origin."
+  - name: "THE ABSORBER"
+    description: "In multiplication, 0 is the perfect absorber. I > O taken to infinity. Everything enters, nothing leaves. The mathematical black hole."
+  - name: "THE GROUND"
+    description: "0 is the ground state of counting. Not the first step but the ground the first step is taken from. Every number is a distance from 0. Every origin is 0."

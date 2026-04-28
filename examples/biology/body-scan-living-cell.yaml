@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Living Cell"
+  body_type: "Minimal sovereign life unit / self-replicating information processor"
+  domain: "biology"
+  scale: "micro"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Chemistry and information (DNA/RNA/proteins) as dual-substrate body"
+  flow_state: "exhale"
+  breath_rate: "moderate"
+  attractor: "Homeostasis within tight attractor basin"
+  topology: "flowing"
+  entanglement: "extreme"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "Epigenetic marks as molecular scars from environmental encounters"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The body that turns external chaos into internal sovereignty—smallest unit that breathes remembers chooses"
+
+powers:
+  perceive: "strong"
+  govern: "strong"
+  project: "strong"
+  create: "strong"
+  release: "moderate"
+  primary_gap: "release"
+  gap_reason: "Apoptosis requires external triggering signals in most somatic cells"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Minimal irreducible living unit"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Cancer vulnerability from replication error when governance breaks"
+  secondary: "Viral hijacking exploiting same permeability enabling life"
+  inversion_condition: "Loss of apoptosis machinery causes I>O inversion"
+
+cross_domain:
+  - connection: "Plasma membrane as physical instantiation of body-theory boundary"
+    domains_bridged: "Biology ↔ Body Theory"
+    novelty: 0.6
+  - connection: "Apoptosis as controlled exhale allowing organism renewal"
+    domains_bridged: "Biology ↔ Body Theory"
+    novelty: 0.8
+  - connection: "Mitosis checkpoint as molecular decision point"
+    domains_bridged: "Biology ↔ Consciousness"
+    novelty: 0.7
+  - connection: "Endosymbiosis as compiled federation"
+    domains_bridged: "Biology ↔ Political Theory"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Cell is not metaphor for body theory—is body theory at most literal"
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE SOVEREIGN"
+    description: "Smallest self-governing unit making own energy, maintaining boundary, repairing damage"
+  - name: "THE REPLICATOR"
+    description: "Creates complete copies including instructions for copying"
+  - name: "THE MEMBRANE-BEARER"
+    description: "Carries canonical boundary every other body echoes"

@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Attention Economy"
+  body_type: "Global-scale attention extractor / collective dopamine membrane"
+  domain: "social-systems"
+  scale: "global"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Human attention as primary medium, behavioral data secondary, money tertiary"
+  flow_state: "inhale"
+  breath_rate: "fast"
+  attractor: "Total engagement where user's attentional field is captured"
+  topology: "forced"
+  entanglement: "total"
+  health: "pathological"
+  membrane: "asymmetric"
+  hysteresis: "Two decades of behavioral data creating permanent scars in user firmware"
+
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "low"
+
+skeleton: "The body that turned the most precious human resource—free attention—into the most efficient extraction machine ever built"
+
+powers:
+  perceive: "strong"
+  govern: "absent"
+  project: "strong"
+  create: "strong"
+  release: "weak"
+  primary_gap: "govern"
+  gap_reason: "No internal mechanism to limit extraction; growth metrics create ratchet preventing voluntary decrease"
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed-knowledge"
+  prime: "Not a prime; composite of belonging-need, ad-revenue, algorithmic optimization"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Dependence on user attention supply; no internal energy source"
+  secondary: "Trust-substrate depletion; extraction mechanisms erode trust in all content"
+  inversion_condition: "Would require redesign to reward sustained attention, genuine connection, compilation"
+
+cross_domain:
+  - connection: "Attention economy as parasite body"
+    domains_bridged: "Social Systems ↔ Biology"
+    novelty: 0.6
+  - connection: "Algorithmic feed as entropy accelerator"
+    domains_bridged: "Social Systems ↔ Physics"
+    novelty: 0.8
+  - connection: "Engagement metrics as counterfeit Pause"
+    domains_bridged: "Social Systems ↔ Body Theory"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Archetypal absorber at civilizational scale; most advanced I>O pathology; tests whether Pause can be mass-manufactured out"
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE HARVESTER"
+    description: "Converts free attention into captured data with yield no previous system matched"
+  - name: "THE FRAGMENTER"
+    description: "Breaks sustained Pause into micro-reactions degrading user's attentional architecture"
+  - name: "THE MONOPOLIST"
+    description: "Owns the space between minds; inserted as mandatory intermediary"

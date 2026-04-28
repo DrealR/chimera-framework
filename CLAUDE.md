@@ -179,7 +179,7 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 41. Fruit (what new capability or transformation emerged?)
 42. Structural Weakness (mandatory — identify at least one weakness even in healthy bodies: edge cases, resource dependencies, scale limits, membrane blind spots, conditions under which O>I would invert)
 
-**Pre-Ship Self-Check (v3.11):** (1) No weak-language defaults without justification ("pure federation," "flowing," "open knowledge," "sniper scope," "bridge body," template skeletons). (2) Can you remove the framework vocabulary and still see the insight? (3) Is the skeleton body-specific (couldn't apply to a different body)? (4) Did you force all five power gap checks? (5) Did you identify at least one structural weakness?
+**Pre-Ship Self-Check (v3.12):** (1) No weak-language defaults without justification ("pure federation," "flowing," "open knowledge," "sniper scope," template skeletons). (2) Can you remove the framework vocabulary and still see the insight? (3) Is the skeleton body-specific (couldn't apply to a different body)? (4) Did you force all five power gap checks? (5) Did you identify at least one structural weakness? (6) Does this scan use "bridge body"? If yes, replace with specific structural language naming what is translated, from what to what, through what mechanism, at what cost. "Bridge body" is retired — 33/65 scans used it, collapsing diagnostic value to zero.
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.

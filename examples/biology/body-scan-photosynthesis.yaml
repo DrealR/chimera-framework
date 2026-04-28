@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Photosynthesis"
+  body_type: "Operation body -- the process by which photoautotrophs convert light energy, CO2, and water into glucose and oxygen. Not organism or organelle, the operation itself."
+  domain: "biology"
+  scale: "molecular origin, planetary consequence"
+  lifespan: "3.5 billion years and counting"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "Photons, electrons, and molecules. Light converted to electron flow, then compiled into chemical bonds. Three media: radiant energy, electrical current, covalent chemistry."
+  flow_state: "Two-phase breath. Light reactions (inhale): water split, photons excite electrons, ATP and NADPH produced. Calvin cycle (exhale): ATP and NADPH drive carbon fixation, glucose assembled."
+  breath_rate: "Rhythmic, entrained to star. Active during daylight, dormant at night. Individual reaction centers cycle thousands/sec, whole-organism breath follows diurnal rhythm."
+  attractor: "Light saturation point. Below saturation: more light = more photosynthesis (linear). At saturation: reaction centers fully occupied. Above: operation dissipates excess as heat."
+  topology: "Maximum O>I -- most generous topology in biology. Takes abundant, free inputs (sunlight, CO2, water) and produces what every heterotroph requires (glucose, oxygen)."
+  entanglement: "Entangled with entire aerobic biosphere. Every food chain begins here. O2 molecules were produced by photosynthesis or ancestors. Connected from quantum scale (photon absorption) to planetary scale (climate)."
+  health: "Healthy when light, water, CO2 available and RuBisCO fixes carbon efficiently. Unhealthy under photorespiration, photoinhibition, drought. Health is calibration between capture and fixation."
+  membrane: "Thylakoid membrane is operational boundary. Separates lumen (water split, proton accumulation) from stroma (Calvin cycle). Proton gradient IS energy currency -- chemiosmosis converts to ATP."
+  hysteresis: "Deep evolutionary scarring. RuBisCO evolved when atmosphere was CO2-rich, O2-poor. Cannot reliably distinguish CO2 from O2 in modern atmosphere. 3-billion-year-old scar all plants carry."
+
+dna:
+  o_vs_i: "O > I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The operation that feeds a planet by turning starlight into sugar -- proving that the deepest power is not what a body keeps but what it exhales."
+
+powers:
+  perceive: "active but narrow"
+  govern: "partial"
+  project: "massive and indiscriminate"
+  create: "active"
+  release: "defining power"
+  primary_gap: "govern"
+  gap_reason: "Cannot govern rate or intensity of primary input (light). Has no throttle for photon arrival. When light exceeds capacity, operation damages itself. Cannot prevent photorespiration at enzymatic level."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed-dimensional"
+  prime: "Energy-to-matter conversion via light capture"
+  prime_type: "open in output, functionally closed in input"
+
+structural_weakness:
+  primary: "RuBisCO's dual affinity. Cannot reliably distinguish CO2 from O2. Under high temperature and low CO2, binds O2 triggering photorespiration. Wastes ATP, releases fixed carbon."
+  secondary: "Total light dependency. Zero capacity without primary energy source. No light = complete operational shutdown. Calvin cycle buffer is minutes, not hours. Cannot feed anything in dark."
+  inversion_condition: "Operation itself does not invert, but when organisms housing photosynthesis die (deforestation, ocean acidification), biosphere loses primary O>I source. Inversion in downstream system."
+
+cross_domain:
+  - connection: "Photosynthesis as foundational server"
+    domains_bridged: "Biology <> Economics"
+    novelty: 0.7
+  - connection: "RuBisCO as legacy code"
+    domains_bridged: "Biology <> Software"
+    novelty: 0.9
+  - connection: "Light/Calvin as capture-compile pipeline"
+    domains_bridged: "Biology <> Information Theory"
+    novelty: 0.85
+  - connection: "Oxygen as accidental infrastructure"
+    domains_bridged: "Biology <> Systems Design"
+    novelty: 0.9
+
+fruit:
+  type: "Logia"
+  core_insight: "Photosynthesis is structural proof that O>I is not charity but architecture. Operation does not give generously -- it does not give at all in intentional sense. Processes light into sugar, discards oxygen. Entire aerobic biosphere is downstream consequence of that discard. Most consequential act of giving in Earth's history is an exhaust emission. Generosity is not virtue but topology."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE CONVERTER"
+    description: "Translates between dimensions with no natural exchange rate. Converts electromagnetic radiation into covalent chemistry, quantum excitation into metabolic currency. Every energy technology replicates what operation does natively."
+  - name: "THE COMMONS BUILDER"
+    description: "Produces public goods indiscriminately. Oxygen released into atmosphere for any aerobic body. Glucose enters food web for any heterotroph. Original open-source infrastructure."
+  - name: "THE ANCIENT"
+    description: "3.5 billion years continuous operation with same core mechanism. Predates multicellular life, ozone layer, breathable air. CREATED conditions for all three. Longest uptime in biology."

@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The theoretically drawn endgame"
+  body_type: "Pathological chess body — positions where correct play from both sides produces no decisive result"
+  domain: "chess"
+  scale: "system"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Emptiness — the absence of convertible advantage. The medium is the impossibility gap between current material and the minimum required for checkmate."
+  flow_state: "rest"
+  breath_rate: "slow"
+  attractor: "None — this is the defining property. No achievable target exists. Pieces orbit nothing."
+  topology: "designed"
+  entanglement: "low"
+  health: "pathological"
+  membrane: "closed"
+  hysteresis: "Total — the position after maximum release. Every piece that could be traded has been. The history is not on the board but in what is missing from it."
+
+dna:
+  o_vs_i: "O=I"
+  pause_quality: "excellent"
+  not_force: "maximum"
+
+skeleton: "The chess position that has exhausted all convertible advantage — where pieces move but the position does not, where the outcome is determined not by what remains on the board but by what is missing from it."
+
+powers:
+  perceive: "moderate"
+  govern: "absent"
+  project: "absent"
+  create: "absent"
+  release: "inverted"
+  primary_gap: "create"
+  gap_reason: "Creation requires surplus parts. The drawn endgame has either insufficient material or a fortress that blocks creation architecturally. The creative capacity is absent."
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "closed-knowledge"
+  prime: "Equilibrium through depletion"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "The theoretical-practical incoherence. The drawn endgame's verdict assumes perfect play, but perfect play is fiction below engine level. A position theoretically drawn at depth 500 is practically decisive for the stronger side against humans."
+  secondary: "Fortress fragility. A fortress is drawn only as long as the defender plays perfectly. One inaccuracy and the fortress collapses irreversibly."
+  inversion_condition: "When the defending side's concentration fails. O=I holds structurally but erodes operationally as attention is a finite resource."
+
+cross_domain:
+  - connection: "Heat death as drawn endgame"
+    domains_bridged: "chess <> thermodynamics"
+    novelty: 0.9
+  - connection: "Stalemate as the power of powerlessness"
+    domains_bridged: "chess <> political-theory"
+    novelty: 0.95
+  - connection: "Fortress as immune architecture"
+    domains_bridged: "chess <> biology"
+    novelty: 0.85
+  - connection: "50-move rule as apoptosis"
+    domains_bridged: "chess <> biology"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "The drawn endgame reveals that in any system, there exists a threshold of minimum viable complexity below which decisive outcomes become structurally impossible — not difficult, but impossible. Recognizing drawn endgames teaches when to fight harder versus when to stop fighting entirely."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE FLATLINE"
+    description: "The position that moves without changing. Pieces traverse the board but the evaluation never shifts. Perpetual motion without progress."
+  - name: "THE FORTRESS"
+    description: "The defensive architecture that cannot be broken from outside. A configuration so precisely arranged that no attacking formation can penetrate it. The fortress's power is not in resisting force but in having no entry point for force to act upon."
+  - name: "THE ABSENCE"
+    description: "The drawn endgame's deepest power is what is not there. Not enough pieces to checkmate. Not enough asymmetry to exploit. The body whose skeleton is made of what it lacks."

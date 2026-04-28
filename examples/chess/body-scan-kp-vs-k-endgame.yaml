@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "King and Pawn vs King Endgame"
+  body_type: "Chess endgame — interaction body formed by three pieces (attacking king, pawn, defending king). The minimum viable decisive position."
+  domain: "chess"
+  scale: "system"
+  lifespan: "terminal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Pure geometry. King's distance to key squares, pawn's distance to eighth rank, defending king's distance to interception diagonal. Geometry replaces material."
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "The promotion square. Every force orbits one point: where the pawn becomes a queen. No alternative plans, single-threaded projection."
+  topology: "mixed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "semi-closed"
+  hysteresis: "Irreversible. Pawn advances cannot be unmade. Each advance redraws key squares, opposition diagonals, and win/draw boundary. History written entirely in pawn forward steps."
+
+dna:
+  o_vs_i: "mixed-scale-dependent"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "Chess stripped to three bodies and a binary verdict — where geometry replaces calculation, the bodyguard-escort relationship determines everything, and the defending king proves that standing in the right place is the deepest form of resistance."
+
+powers:
+  perceive: "moderate"
+  govern: "active"
+  project: "strong"
+  create: "weak"
+  release: "weak"
+  primary_gap: "create"
+  gap_reason: "The three pieces cannot generate new threats or create tactical complications. With no spare parts, creation is suspended. This gap reveals that creation requires material surplus."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "closed"
+  prime: "Escort geometry protecting transformation-body to destination"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Rook pawn exception. A pawn on a-file or h-file draws against correct defense when defending king reaches promotion corner. Board edge eliminates attacking king's flanking room. ~15% of K+P vs K positions fall into this exception."
+  secondary: "Stalemate vulnerability. The attacker loses by being too efficient — driving defending king to edge with no legal moves = draw. The winning technique requires leaving opponent room to suffer."
+  inversion_condition: "When the attacking king abandons escort role to chase the defending king directly. Federation between king and pawn breaks. The king begins extracting from pawn's promotion chances rather than serving them."
+
+cross_domain:
+  - connection: "Opposition as zugzwang engine — obligation to act is disadvantage"
+    domains_bridged: "Chess <> Game Theory"
+    novelty: 0.85
+  - connection: "King as bodyguard giving everything without reciprocal benefit"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.8
+  - connection: "Rule of the square as geometric membrane for survival"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.9
+  - connection: "Base case of recursive simplification terminating complexity"
+    domains_bridged: "Chess <> Mathematics"
+    novelty: 0.85
+
+fruit:
+  type: "Paramecia"
+  core_insight: "In systems stripped to minimum, outcomes are determined by relative position, not power or speed. The defending king is not weaker — it has identical movement. It holds through geometry. The attacking side wins by occupying key squares. When systems reduce to essentials, geometry is the only force remaining."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE ESCORT"
+    description: "The attacking king's role is pure service — clearing path, shouldering defending king aside, shielding pawn from blockade. Receives nothing in return until promotion. This is the only chess position where the strongest remaining piece subordinates entirely to the weakest."
+  - name: "THE GATEKEEPER"
+    description: "The defending king occupying opposition or key squares functions as gatekeeper — a single body standing in correct position preventing entire plan from executing. No force required, presence alone sufficient."
+  - name: "THE REDUCTION"
+    description: "Proof that chess compresses to three pieces and one binary question without losing structural depth. Opposition, key squares, triangulation, stalemate traps all emerge from three bodies on empty board."

@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Blockchain Systems (Bitcoin, Ethereum, L2s, DeFi, DAOs)"
+  body_type: "Decentralized trust and value ledger ecosystem"
+  domain: "ai-systems"
+  scale: "global"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Cryptography, consensus protocols, smart contracts, tokens, electricity forming trustless state"
+  flow_state: "exhale"
+  breath_rate: "variable"
+  attractor: "Trustless settlement eliminating the trusted third party"
+  topology: "flowing"
+  entanglement: "high"
+  health: "mixed"
+  membrane: "open"
+  hysteresis: "Fork history (Bitcoin/Bitcoin Cash, Ethereum/Ethereum Classic) and DAO hack scars"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "excellent"
+  not_force: "high"
+
+skeleton: "The body that enforces rules without rulers through distributed O>I memory making trustless cooperation possible"
+
+powers:
+  perceive: "strong"
+  govern: "moderate"
+  project: "strong"
+  create: "strong"
+  release: "strong"
+  primary_gap: "govern"
+  gap_reason: "Protocol governs perfectly but human governance remains messy; DAOs have not solved collective decision-making"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Trust minimized, value maximized through transparent rules"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Scalability trilemma: cannot simultaneously achieve decentralization, security, and speed"
+  secondary: "Irreversibility of errors: smart contract bugs and exploits cannot be reversed without violating immutability principle"
+  inversion_condition: "When energy cost exceeds value produced or chain serves primarily as speculative vehicle"
+
+cross_domain:
+  - connection: "Consensus as distributed Pause enabling verification before commitment"
+    domains_bridged: "Blockchain ↔ Consciousness"
+    novelty: 0.9
+  - connection: "Immutability as compiled biological memory via DNA and mutation/selection"
+    domains_bridged: "Blockchain ↔ Biology"
+    novelty: 0.8
+  - connection: "Speculative cycles compress birth→growth→maturity→extraction→decline into 2-4 years"
+    domains_bridged: "Blockchain ↔ Civilization"
+    novelty: 0.7
+
+fruit:
+  type: "Logia"
+  core_insight: "Blockchain encodes O>I federation at protocol level and generates I>O extractors at application layer. Protocol skeleton is healthy; human muscles are sick"
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE LEDGER"
+    description: "Immutable memory; every transaction permanent; owned by no one, available to everyone"
+  - name: "THE CONSENSUS"
+    description: "Distributed Pause making O>I trustworthy through enforced consensus over physics and economics"
+  - name: "THE TRUSTLESS"
+    description: "Federation without trust in individuals; cooperation at planetary scale via cryptographic certainty"

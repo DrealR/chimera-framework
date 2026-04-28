@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Rook"
+  body_type: "Linear force projector -- unlimited range along ranks and files, zero diagonal capacity, second most valuable (5 points)"
+  domain: "chess"
+  scale: "local"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Ranks and files -- straight-line channels; rook flows only where channel exists"
+  flow_state: "pause"
+  breath_rate: "slow"
+  attractor: "Open files and the seventh rank where rook reaches maximum gravitational compression"
+  topology: "mixed"
+  entanglement: "high"
+  health: "scarred"
+  membrane: "semi-permeable"
+  hysteresis: "Castling is deepest scar -- rook surrenders corner sovereignty to protect king, one-time irreversible exchange"
+
+dna:
+  o_vs_i: "conditional"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The body that converts patience into devastation -- trapped at birth, dominant at death, powerful only when the structure opens to receive it."
+
+powers:
+  perceive: "strong"
+  govern: "strong"
+  project: "strong"
+  create: "weak"
+  release: "active"
+  primary_gap: "create"
+  gap_reason: "Rook cannot create structural conditions for power; it exploits structure others create"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Concentrated linear force deployed at the right moment through patience"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Total dependency on external structure; closed positions with no open files render rook powerless"
+  secondary: "Back-rank vulnerability; defender becomes trapped by the rank it must guard"
+  inversion_condition: "Closed positions without pawn breaks; rook becomes dead weight consuming points without function"
+
+cross_domain:
+  - connection: "Rook development as late-bloomer archetype"
+    domains_bridged: "Chess <> Human Development"
+    novelty: 0.8
+  - connection: "Castling as federation contract"
+    domains_bridged: "Chess <> Political Theory"
+    novelty: 0.9
+  - connection: "Open file dependency as infrastructure need"
+    domains_bridged: "Chess <> Economics"
+    novelty: 0.7
+  - connection: "Doubled rooks as compound federation"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.85
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Power and readiness are different things. A body can be strongest in its dimension yet useless without structural conditions. Before asking 'am I strong enough?' ask 'is the path open?'"
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE PATIENT"
+    description: "Power compiled through waiting; rook endures inactivity not from weakness but because strength requires structural preconditions"
+  - name: "THE LANE MASTER"
+    description: "Absolute dominion within its dimension; no piece matches rook authority on open file, gained through total dimensional commitment"
+  - name: "THE FEDERATOR"
+    description: "Every rook power configuration is collaborative; castling, doubling, seventh-rank invasion all prove chess is game of relationships"

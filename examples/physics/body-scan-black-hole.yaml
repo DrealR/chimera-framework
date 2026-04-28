@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Black Hole"
+  body_type: "Ultimate attractor-transformer — galactic anchor"
+  domain: "physics"
+  scale: "system"
+  lifespan: "functionally immortal on human timescales"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Spacetime curvature at extremes. The black hole IS a deformation of space, transforming matter, light, and information irreversibly."
+  flow_state: "dominant inhale"
+  breath_rate: "near-infinite at event horizon due to gravitational time dilation"
+  attractor: "The singularity — infinite curvature, zero volume, where every worldline inside the horizon terminates"
+  topology: "flowing"
+  entanglement: "extreme"
+  health: "paradoxical — locally sick (infinite density), globally healthy (maximally stable)"
+  membrane: "event horizon — absolute one-way membrane separating causal from non-causal"
+  hysteresis: "information paradox — deepest unresolved scar in theoretical physics"
+
+dna:
+  o_vs_i: "mixed-scale-dependent"
+  pause_quality: "strong"
+  not_force: "absent"
+
+skeleton: "The body that concentrates to serve — converting matter into galaxy structure, heavy elements, and gravitational order at the cost of visible light."
+
+powers:
+  perceive: "active"
+  govern: "maximal"
+  project: "active"
+  create: "active"
+  release: "partial"
+  primary_gap: "release"
+  gap_reason: "Event horizon is defined by refusal to release — structural property that makes a black hole what it is"
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "mixed"
+  prime: "Irreducible compression through no-hair theorem"
+  prime_type: "closed locally, open cosmologically"
+
+structural_weakness:
+  primary: "Information paradox — Hawking radiation may destroy information of everything consumed"
+  secondary: "Singularity as theoretical failure — infinite density where general relativity breaks down"
+  inversion_condition: "Through Hawking evaporation at cosmological timescales, returning energy after eons"
+
+cross_domain:
+  - connection: "Event horizon as one-way membrane"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.6
+  - connection: "Local I>O enabling global O>I"
+    domains_bridged: "Physics ↔ Serve-Extract Theory"
+    novelty: 0.9
+  - connection: "No-hair theorem as maximum compression"
+    domains_bridged: "Physics ↔ Information Theory"
+    novelty: 0.7
+  - connection: "Singularity as Pause without exhale"
+    domains_bridged: "Physics ↔ CHIMERA Law"
+    novelty: 0.8
+
+fruit:
+  type: "Paramecia"
+  core_insight: "I>O at one scale serves O>I at larger scale. The darkest body is structurally necessary. Trust both is required for galaxy formation and life."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE CONCENTRATOR"
+    description: "Maximum compression of matter, energy, information into minimum volume without limit"
+  - name: "THE ANCHOR"
+    description: "Galaxy-scale governance through gravitational structure enabling all orbits"
+  - name: "THE PARADOX"
+    description: "I>O locally, O>I cosmically — the body that takes everything and enables everything"

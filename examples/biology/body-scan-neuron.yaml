@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Neuron"
+  body_type: "Cellular body specialized for information transmission -- the cell that trades replication for permanence. Receives thousands of inputs, integrates at threshold, fires binary signal."
+  domain: "biology"
+  scale: "microscopic structure, macroscopic consequences"
+  lifespan: "decades -- potentially entire organism lifespan"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "Electrochemical gradient. Voltage difference in ion concentration across membrane. Information as traveling depolarization wave (electrical within), neurotransmitter (chemical between)."
+  flow_state: "Listen-integrate-fire. Dendrites receive thousands of signals (inhale). Axon hillock sums against threshold (Pause). Fires all-or-nothing action potential (exhale) or silence (rest)."
+  breath_rate: "Variable, load-dependent. Motor neurons fire hundreds/sec. Cortical neurons encoding rare events fire once per minutes. Refractory period enforces ceiling."
+  attractor: "Resting membrane potential (-70mV). Neuron attracted to electrical silence. Action potential is departure from attractor; ion pumps immediately work to restore it."
+  topology: "Shaped by activity during development, then frozen. Architecture emergent but crystallizes. Adult dendritic tree is fossil record of every developmental signal received."
+  entanglement: "Extreme and asymmetric. Receives from ~7,000 neurons, sends to ~7,000 others. Connections not symmetric -- directed graph, not undirected. Identity inseparable from network position."
+  health: "Healthy when threshold is calibrated correctly -- neither hypersensitive (seizure) nor resistant (signal death). Accuracy matters more than firing rate."
+  membrane: "Membrane IS the instrument. Voltage-gated ion channels and ligand-gated channels perform primary function. Membrane does not merely separate inside/outside -- it computes."
+  hysteresis: "Synaptic plasticity -- strongest hysteresis in biology. Connections that fire together strengthen (LTP). Connections failing to correlate weaken (LTD). Experience physically modifies synapse."
+
+dna:
+  o_vs_i: "O > I"
+  pause_quality: "excellent"
+  not_force: "high"
+
+skeleton: "Analog ears, binary mouth -- the cell that listens to thousands, weighs everything, and speaks only in yes or silence."
+
+powers:
+  perceive: "maximal"
+  govern: "active"
+  project: "active"
+  create: "absent at cellular level"
+  release: "absent -- core gap"
+  primary_gap: "release"
+  gap_reason: "Neuron cannot trigger replacement. Born fetal, must persist until organism death. Cannot shed damage. Cannot start fresh. Makes neurodegenerative disease irreversible."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed-dimensional"
+  prime: "Neuron is irreducible prime body"
+  prime_type: "closed in self-reproduction, open in connectivity"
+
+structural_weakness:
+  primary: "Irreplaceability under damage. Permanence enabling long-term memory inseparable from vulnerability. Protein aggregates accumulate over decades without exit. Damage stays because cell stays."
+  secondary: "Metabolic dependence. Consumes enormous energy but stores almost none. Cut blood supply 5 minutes = cortical neuron death. Most metabolically dependent cell in body."
+  inversion_condition: "Seizure. Population fires synchronously and uncontrollably. Organized output collapses into electrical noise. Neurons burn resources, produce disorganized signal."
+
+cross_domain:
+  - connection: "Axon hillock as derivative"
+    domains_bridged: "Biology <> Calculus"
+    novelty: 0.9
+  - connection: "All-or-nothing as analog-to-digital"
+    domains_bridged: "Biology <> Information Theory"
+    novelty: 0.85
+  - connection: "Hebbian plasticity as hysteresis engine"
+    domains_bridged: "Biology <> Body Theory"
+    novelty: 0.9
+  - connection: "Neuron as irreplaceable voter"
+    domains_bridged: "Biology <> Political Theory"
+    novelty: 0.85
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Neuron proves Pause is physical, not metaphorical. Threshold where thousands of analog inputs collapse into binary decision. It is derivative made flesh -- instantaneous choice extracted from accumulated evidence. Releases and memory structurally opposed. Cell holding memory cannot release itself. What endures accumulates damage."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE INTEGRATOR"
+    description: "Defining power is listening. Receives from thousands simultaneously, weighs by synaptic strength, sums excitation against inhibition, produces single decision. Integration is work; spike is announcement."
+  - name: "THE THRESHOLD KEEPER"
+    description: "Axon hillock enforces binary decision on continuous world. No partial firing, no graduated output. Converts infinite ambiguity into unambiguous yes or no. Makes neural computation possible."
+  - name: "THE PERMANENT WITNESS"
+    description: "Neuron firing during first memory is same neuron at recall fifty years later. Physically modified by every experience. Body sculpted by what it witnessed. Witness whose body remembers."

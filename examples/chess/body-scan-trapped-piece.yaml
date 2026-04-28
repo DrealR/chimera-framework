@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Trapped Piece"
+  body_type: "Pathological chess body -- a piece alive but functionally dead with no legal move that does not result in loss or severe deficit"
+  domain: "chess"
+  scale: "local"
+  lifespan: "variable"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Blocked -- the set of legal squares has collapsed to zero usable options, the medium that flows through healthy pieces has solidified into concrete"
+  flow_state: "frozen"
+  breath_rate: "slow"
+  attractor: "The square it occupies -- its own burial site and cage"
+  topology: "dominion"
+  entanglement: "maximum"
+  health: "pathological"
+  membrane: "closed"
+  hysteresis: "The Last Free Move -- the final moment when the piece could have gone elsewhere but chose the square that became its cell"
+
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "absent"
+
+skeleton: "The trapped piece is a body whose breath cycle has been sealed shut -- it takes a square, takes a roster slot, takes the player's attention, and gives nothing back."
+
+powers:
+  perceive: "absent"
+  govern: "absent"
+  project: "absent"
+  create: "absent"
+  release: "weak"
+  primary_gap: "all-five-powers"
+  gap_reason: "Pathological total systemic failure -- the trapped piece has collapsed from multi-dimensional body to zero-dimensional point, only sacrificial release remains"
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed"
+  prime: "No -- a piece reduced to worst configuration, composite of original nature and prison that negates it"
+  prime_type: "closed-all-dimensions"
+
+structural_weakness:
+  primary: "Trap instability -- not all traps are permanent, simple traps depend on single pawn or piece controlling escape"
+  secondary: "Sacrifice refutation -- the piece can sometimes be sacrificed for pawns or positional compensation, converting liability into tactical resource"
+  inversion_condition: "I>O deepens further when owner refuses to accept entombment and spends multiple tempi trying to liberate what is already dead"
+
+cross_domain:
+  - connection: "Trapped piece as sunk cost fallacy"
+    domains_bridged: "Chess <> Economics"
+    novelty: 0.75
+  - connection: "Trapping as strategic parasitism"
+    domains_bridged: "Chess <> Biology"
+    novelty: 0.9
+  - connection: "Trapped piece as frozen capital"
+    domains_bridged: "Chess <> Finance"
+    novelty: 0.85
+  - connection: "Self-trapping through overextension"
+    domains_bridged: "Chess <> Military"
+    novelty: 0.8
+
+fruit:
+  type: "Pathological"
+  core_insight: "Presence without function is worse than absence -- a captured piece adjusts, a trapped piece corrupts by existing. The gap between nominal value and functional value is the lie all I>O bodies tell."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE PARASITE"
+    description: "The trapped piece drains its own side through structure -- takes square, roster slot, and attention while returning nothing"
+  - name: "THE DECOY"
+    description: "Nominal value creates phantom material count, masking true balance and making opponent's functional advantage invisible in position evaluation"
+  - name: "THE DETONATOR"
+    description: "When sacrificed deliberately, the trapped piece becomes weapon -- releasing energy stored in the prison structures maintaining it"

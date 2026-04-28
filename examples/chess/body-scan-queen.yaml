@@ -1,0 +1,79 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Chess Queen"
+  body_type: "Chess piece -- maximum-range linear mover, composite of rook and bishop, highest material value (9 points)"
+  domain: "chess"
+  scale: "system"
+  lifespan: "variable"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "All linear geometry -- ranks, files, and diagonals simultaneously"
+  flow_state: "pause"
+  breath_rate: "irregular"
+  attractor: "Two opposing attractors: power (early deployment) and survival (delayed deployment)"
+  topology: "designed"
+  entanglement: "maximum"
+  health: "inflamed"
+  membrane: "open"
+  hysteresis: "Two scars: early deployment dogma and memory of brilliant queen sacrifices"
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "moderate"
+  not_force: "moderate"
+
+skeleton: "The body that can reach every square on the board and is punished for trying -- composite power without a single unique movement, teaching that the piece which does everything is also the piece whose loss ends everything."
+
+powers:
+  perceive: "strong"
+  govern: "absent"
+  project: "active"
+  create: "moderate"
+  release: "active"
+  primary_gap: "govern"
+  gap_reason: "Most powerful piece has no governance or structural organizing function despite maximum projection capacity"
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "mixed"
+  prime: "Amplification of existing position without structural uniqueness"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Composite without emergent property -- combines rook and bishop but creates no unique movement"
+  secondary: "Target surface proportional to power -- harassed by pieces worth a third of its value"
+  inversion_condition: "When reacting to threats rather than creating them; initiative loss flips O>I to I>O"
+
+cross_domain:
+  - connection: "Queen vs King as capability vs sovereignty"
+    domains_bridged: "Chess <> Governance"
+    novelty: 0.95
+  - connection: "B = E x C through the queen"
+    domains_bridged: "Chess <> Enhancement Theory"
+    novelty: 0.9
+  - connection: "Queen sacrifice as Release power"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.9
+  - connection: "Early queen as premature optimization"
+    domains_bridged: "Chess <> Software Engineering"
+    novelty: 0.85
+  - connection: "Queen vs two rooks as composite vs specialized"
+    domains_bridged: "Chess <> Federation Theory"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Enhancement without Consciousness is actively harmful. B = E x C is a warning. High Enhancement with low Consciousness produces worst outcomes, not best."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE TEMPTATION"
+    description: "Creates attentional gravity well pulling toward premature action; resisting is first test of chess consciousness"
+  - name: "THE AMPLIFIER"
+    description: "Multiplies whatever position contains; high C + queen = domination, low C + queen = catastrophe"
+  - name: "THE SACRIFICE"
+    description: "Carries chess's most dramatic Release; strongest asset sometimes worth more given away than held"

@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Multiplication"
+  body_type: "Math Object — binary operation-body that connects numbers"
+  domain: "math"
+  scale: "universal"
+  lifespan: "infinite"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Operand-product relationships. Two bodies enter, one exits. The BETWEEN is the connective tissue turning separate numbers into structured composites."
+  flow_state: "exhale"
+  breath_rate: "instantaneous"
+  attractor: "The multiplicative identity 1 — the fixed point where × does nothing. Every multiplicative structure orbits around 1."
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "Selective by domain — closed in integers, rationals, reals, but changes shape in matrices where it loses commutativity."
+  hysteresis: "Deep — carries evolutionary memory of scaling from Babylonian calculations to quantum operator algebra. It grew and expanded its definition with each extension."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "Multiplication is the operation that gives numbers internal structure. Without it, numbers are a list. With it, they are a lattice — composites have interiors, primes are irreducible, and every integer has unique factorization."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "dominant"
+  release: "active"
+  primary_gap: "release"
+  gap_reason: "Multiplication creates products but cannot undo them. There is no multiplicative undo — division is separate. A body that builds irreversibly accumulates structure without ability to simplify."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Neither — multiplication DEFINES primes. Without multiplication, prime has no meaning."
+  prime_type: "dimension"
+
+structural_weakness:
+  primary: "Irreversibility at zero — multiplication by 0 destroys information. You cannot recover original factors from a product of 0."
+  secondary: "Loss of commutativity at scale — commutative in scalars (a×b = b×a) but fails in matrices (AB ≠ BA). Domain-dependent elegance."
+  inversion_condition: "When multiplication becomes engine of compound extraction (interest, exponential inequality), it accelerates I>O patterns exponentially."
+
+cross_domain:
+  - connection: "Multiplication as body creation"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.9
+  - connection: "Distribution as reaching through"
+    domains_bridged: "Math ↔ Consciousness"
+    novelty: 0.8
+  - connection: "Complex multiplication as rotation"
+    domains_bridged: "Math ↔ Physics"
+    novelty: 0.6
+  - connection: "Commutativity as structural equality"
+    domains_bridged: "Math ↔ Ethics"
+    novelty: 0.7
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Multiplication is not a shortcut for addition. It gives numbers INTERNAL STRUCTURE. Without it, 12 is just the next number. With it, 12 is 2² × 3 — a body with parts, lattice, biography. Addition builds the number line. Multiplication builds the number UNIVERSE. It is the body-creation operation."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE CREATOR"
+    description: "Multiplication is the generative engine of arithmetic. Every composite is its offspring. Every algebraic structure with a product operation descends from it."
+  - name: "THE CONNECTOR"
+    description: "Multiplication creates relationships between numbers addition cannot see. Through multiplication, 2 and 3 are CO-CREATORS of 6."
+  - name: "THE SHAPESHIFTER"
+    description: "Multiplication changes its own rules to fit the dimension. Commutative in scalars, non-commutative in matrices, rotation in complex numbers."

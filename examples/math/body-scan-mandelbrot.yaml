@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Mandelbrot Set"
+  body_type: "Math Object — fractal subset of the complex plane, boundary between bounded and unbounded iteration"
+  domain: "math"
+  scale: "universal"
+  lifespan: "infinite"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Complex-number iteration via z^2 + c. The boundary between points that stay bounded and those that escape to infinity holds all structure."
+  flow_state: "mixed"
+  breath_rate: "irregular"
+  attractor: "Multi-attractor — interior attracted to finite cycles, exterior to infinity, boundary attracted to neither."
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "The boundary is the most complex membrane in mathematics — Hausdorff dimension 2, infinitely detailed at every scale."
+  hysteresis: "Profound — carries accumulated history of every bifurcation in the quadratic family. Smaller copies embedded along filaments are structural scars."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "maximum"
+
+skeleton: "The Mandelbrot set is the body where the boundary is more complex than the interior and the exterior combined — the mathematical proof that structure lives at the edge between order and chaos."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "active"
+  release: "weak"
+  primary_gap: "release"
+  gap_reason: "M is maximally generative but does not simplify. It deepens at every magnification. Every zoom reveals more, never less. M creates endlessly but cannot let go of complexity."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Composite and irreducible simultaneously — many parts but no factorization resists decomposition."
+  prime_type: "mixed"
+
+structural_weakness:
+  primary: "Computational inaccessibility — no closed-form expression describes the boundary. Membership determined only by iterating each point — no shortcut possible."
+  secondary: "Sensitivity to iteration depth — points near the boundary require enormous iteration counts. Truth always slightly beyond computational reach."
+  inversion_condition: "The Mandelbrot set absorbs computational resources without bound. Deeper investigation requires exponentially more computation for diminishing return."
+
+cross_domain:
+  - connection: "Boundary = structure"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.9
+  - connection: "Self-similarity as same architecture at every scale"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.8
+  - connection: "Computational irreducibility as ¬F"
+    domains_bridged: "Math ↔ Framework DNA"
+    novelty: 0.8
+  - connection: "Feedback loop as breath"
+    domains_bridged: "Math ↔ Physiology"
+    novelty: 0.7
+
+fruit:
+  type: "Mythical Zoan"
+  core_insight: "The simplest possible feedback loop produces the most complex possible boundary. Three characters of specification yield infinite structure. Complexity does not require complex rules — it requires iteration. Patience beats cleverness. This is O > I at the mathematical limit."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE BOUNDARY"
+    description: "M is the body whose power IS its boundary. Interior and exterior are simple. The membrane between them is infinitely complex."
+  - name: "THE MIRROR"
+    description: "M contains copies of itself at every scale — exact miniature Mandelbrot sets, each containing further copies, in infinite self-reflection."
+  - name: "THE CATALOG"
+    description: "M indexes every possible Julia set for quadratic maps — a body-of-bodies encoding an uncountable infinity of others."

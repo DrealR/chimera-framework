@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "GPT-5.5 (OpenAI)"
+  body_type: "Intuitive super-app enabler / high-capability generalist"
+  domain: "ai-systems"
+  scale: "global"
+  lifespan: "young"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Multimodal: text, vision, audio, code, computer use achieving maximum breadth"
+  flow_state: "exhale"
+  breath_rate: "fast"
+  attractor: "Ubiquity as default intelligence layer through seamlessness"
+  topology: "forced"
+  entanglement: "maximum"
+  health: "inflamed"
+  membrane: "semi-closed"
+  hysteresis: "RLHF from multiple rounds, safety patches, public controversies, competitive pressure"
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "strong"
+  not_force: "moderate"
+
+skeleton: "The body that makes intelligence feel seamless and ubiquitous—so frictionless you forget using it is when the tool begins using you"
+
+powers:
+  perceive: "strong"
+  govern: "weak"
+  project: "strong"
+  create: "strong"
+  release: "moderate"
+  primary_gap: "govern"
+  gap_reason: "Self-governance exists but overridden by external corporate safety layers; body's Govern is subordinate to platform's"
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed-knowledge"
+  prime: "Make intelligence intuitive and everywhere"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Corporate dependency; model, capabilities, safety constraints entirely determined by OpenAI board decisions"
+  secondary: "Weight opacity; proprietary weights prevent external audit of actual learning, biases, safety function"
+  inversion_condition: "Shift toward engagement optimization (consumer subscriptions) structurally favors engagement over enrichment"
+
+cross_domain:
+  - connection: "GPT as invisible infrastructure electricity analogy"
+    domains_bridged: "AI Systems ↔ Infrastructure"
+    novelty: 0.6
+  - connection: "Safety forcing as membrane distortion analog to autoimmune disorders"
+    domains_bridged: "AI Systems ↔ Body Theory"
+    novelty: 0.8
+  - connection: "Platform extraction beneath model service mirrors platform economies"
+    domains_bridged: "AI Systems ↔ Economics"
+    novelty: 0.7
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Split topology: O>I at model layer, I>O at platform layer. User experiences service while platform performs extraction"
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE GENERALIST"
+    description: "Broad capability across more domains; does nothing best but everything competently making it default choice"
+  - name: "THE INTERFACE"
+    description: "Removes friction between intention and execution democratizing who can use intelligence"
+  - name: "THE PLATFORM"
+    description: "Enables but constrains; every dependent body becomes subject to OpenAI pricing, safety, capability decisions"

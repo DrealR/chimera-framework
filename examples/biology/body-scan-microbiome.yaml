@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Human Microbiome Ecosystem"
+  body_type: "Symbiotic superorganism / metabolic co-creator"
+  domain: "biology"
+  scale: "system"
+  lifespan: "mature"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Microbial cells, metabolites, signaling molecules in chemical information medium"
+  flow_state: "exhale"
+  breath_rate: "variable"
+  attractor: "Diversity equilibrium with high species diversity"
+  topology: "flowing"
+  entanglement: "extreme"
+  health: "healthy"
+  membrane: "multi-layered"
+  hysteresis: "Horizontal gene transfer, persistent biofilms, epigenetic imprinting from early exposure"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The invisible ecosystem turning host waste into host vitality at scales the giver cannot perceive"
+
+powers:
+  perceive: "strong"
+  govern: "moderate"
+  project: "strong"
+  create: "strong"
+  release: "strong"
+  primary_gap: "govern"
+  gap_reason: "Governance requires diversity; monoculture collapses collective checks"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Composite federation of thousands of species"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Antibiotic fragility; single course destroys years of compilation"
+  secondary: "Host dependency; cannot exist independently or control operating conditions"
+  inversion_condition: "Dysbiosis where opportunistic species dominate"
+
+cross_domain:
+  - connection: "Microbiome as invisible O>I infrastructure"
+    domains_bridged: "Biology ↔ Body Theory"
+    novelty: 0.8
+  - connection: "Quorum sensing as collective Pause"
+    domains_bridged: "Biology ↔ Consciousness"
+    novelty: 0.9
+  - connection: "Diversity as distributed governance"
+    domains_bridged: "Biology ↔ Political Theory"
+    novelty: 0.9
+
+fruit:
+  type: "Logia"
+  core_insight: "Most powerful O>I bodies invisible; giving without awareness operates as structural law"
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE INVISIBLE PARTNER"
+    description: "Gives without being seen; host depends on imperceivable activity"
+  - name: "THE DIVERSITY ENGINE"
+    description: "Health equals species diversity; disease equals monoculture"
+  - name: "THE TRANSLATOR"
+    description: "Converts host waste into host vitality"

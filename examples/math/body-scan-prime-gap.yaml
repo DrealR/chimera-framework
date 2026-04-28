@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The prime gap"
+  body_type: "Math Object — void body, defined by absence rather than presence"
+  domain: "math"
+  scale: "universal"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Composite integers — everything inside gap is divisible by smaller primes; gap is pure composite territory"
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "log(p) — average gap near prime p is approximately ln(p); attractor drifts as primes thin out"
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "ambiguous"
+  membrane: "two bounding primes forming rigid boundary"
+  hysteresis: "Deep — each gap encodes accumulated memory of every prime that came before it; sieving history compressed into width of silence"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "excellent"
+  not_force: "maximum"
+
+skeleton: "The prime gap is the body that exists only because everything inside it has already been claimed. Silence shaped by sound — the space that remains when multiplication has taken everything it can."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "absent"
+  release: "active"
+  primary_gap: "create"
+  gap_reason: "Gap creates nothing — defined by what has been removed. Anti-creator existing precisely where creation (primality) is impossible."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-ignorance"
+  prime: "Structure through absence"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Unpredictability — no formula predicts exact size of next prime gap; individual gaps violate statistical average wildly"
+  secondary: "Dependence on external bodies — gap has no independent existence; entirely determined by primes on either side of it. Most dependent body in math corpus."
+  inversion_condition: "When gaps become so large they dominate local number line (Cramér gaps, record gaps), negative space overwhelms positive. Silence becomes longer than melody."
+
+cross_domain:
+  - connection: "Gap as the rest between notes"
+    domains_bridged: "math <> music"
+    novelty: 0.6
+  - connection: "Gap as the pause between breaths"
+    domains_bridged: "math <> body-theory"
+    novelty: 0.8
+  - connection: "Manufactured gaps (n!+k) as deliberate silence"
+    domains_bridged: "math <> contemplative-practice"
+    novelty: 0.9
+  - connection: "Gap interior as composite territory"
+    domains_bridged: "math <> governance"
+    novelty: 0.7
+
+fruit:
+  type: "Logia"
+  core_insight: "Most structurally informative body in number theory contains no primes at all. Gap is void that shapes visible. Width at any point encodes collective behavior of every prime before it. To understand primes, study silence between them. Absence is not emptiness — it is compressed information."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE VOID"
+    description: "Canonical void body: pure exhale, radiating structure without possessing substance. Shapes prime distribution from negative space like mold shapes casting."
+  - name: "THE MEMORY"
+    description: "Every gap encodes entire sieving history of all primes below it. Width of silence is compressed record of every prime that contributed to filling it with composites."
+  - name: "THE IRREDUCIBLE RHYTHM"
+    description: "Gap size sequence is computationally irreducible — no formula, no shortcut, no compression. Each gap must be discovered by running sieve. Universe's refusal to be predicted."

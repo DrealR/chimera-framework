@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The number 12"
+  body_type: "Math Object — highly composite number (HCN)"
+  domain: "math"
+  scale: "universal"
+  lifespan: "infinite"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Divisibility relationships. 12 flows when a whole needs to be split into parts — the medium of fair division at small scale."
+  flow_state: "exhale"
+  breath_rate: "moderate"
+  attractor: "The divisor lattice. Attention flows toward 12's interior structure — the rich network of factors pulling inward."
+  topology: "flowing"
+  entanglement: "high"
+  health: "healthy"
+  membrane: "semi-permeable — maximally open for its size with five doors in plus itself"
+  hysteresis: "Deep and civilizational — 12 months, 12 hours, 12 inches, 12 apostles, 12 zodiac signs, 12 notes. These are fossil records of cultures encountering its divisor structure."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "moderate"
+  not_force: "high"
+
+skeleton: "12 is the smallest body that maximizes internal connectivity. It is the federation principle expressed in arithmetic — the most parts that can all reach each other through shared structure."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "active"
+  release: "active"
+  primary_gap: "perceive"
+  gap_reason: "12 perceives broadly but shallowly. Its largest prime is 3, and it cannot perceive structure in dimensions anchored by larger primes."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Composite — 2² × 3. Federation of primes with maximum reducibility."
+  prime_type: "composite"
+
+structural_weakness:
+  primary: "Accessibility as shallowness — maximum partition accessibility trades depth for breadth. No factorization goes deeper than two levels."
+  secondary: "Cultural lock-in — 12's adoption into clocks and calendars became so compiled that the systems resist change despite better alternatives."
+  inversion_condition: "When 12 is treated as the ONLY valid partition base, it inverts from serving accessibility to enforcing convention."
+
+cross_domain:
+  - connection: "12 as the federation body"
+    domains_bridged: "Math ↔ Political Science"
+    novelty: 0.6
+  - connection: "12 as civilizational choice"
+    domains_bridged: "Math ↔ Anthropology"
+    novelty: 0.8
+  - connection: "12 as the opposite of a prime"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.9
+  - connection: "12 as the chromatic scale"
+    domains_bridged: "Math ↔ Music"
+    novelty: 0.8
+
+fruit:
+  type: "Paramecia"
+  core_insight: "The most powerful body at any given scale may not be the hardest or most irreducible. It may be the most divisible. 12 is powerful because it welcomes decomposition — offering more ways to be entered, split, shared, and recombined. Accessibility is a form of strength."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE FEDERATION"
+    description: "12 is the smallest body where two independent primes cooperate at non-trivial depth — structural proof that diversity plus cooperation produces more internal richness."
+  - name: "THE DOOR-MAKER"
+    description: "Where primes create walls, 12 creates doors. Six divisors are six entrances — maximum accessibility at minimum cost."
+  - name: "THE COMMONS"
+    description: "12 is the substrate of collective coordination. Time, space, music, measurement — every domain requiring fair division gravitates to 12."

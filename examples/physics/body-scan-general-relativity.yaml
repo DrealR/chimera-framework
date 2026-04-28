@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "General Relativity"
+  body_type: "Dynamic curvature transformer — converts mass-energy concentration into geometric structure"
+  domain: "physics"
+  scale: "universal"
+  lifespan: "infinite at classical scales, breaks at Planck scale"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Spacetime geometry itself. Mass-energy tells spacetime how to curve; curvature tells mass-energy how to move."
+  flow_state: "full breath cycle"
+  breath_rate: "variable — rapid near neutron star, slow in intergalactic voids"
+  attractor: "geodesics — natural paths through curved spacetime"
+  topology: "flowing"
+  entanglement: "maximal at macroscopic scales"
+  health: "healthy at classical scales with two pathologies: singularities, dark energy"
+  membrane: "dynamic and adaptive — event horizons form around sufficient mass"
+  hysteresis: "moderate — information paradox remains unresolved"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "high"
+
+skeleton: "The body that turns concentration into geometry so giving can continue at every scale — mass curves the stage, curved stage guides motion."
+
+powers:
+  perceive: "weak at quantum scales"
+  govern: "active"
+  project: "active"
+  create: "active"
+  release: "active"
+  primary_gap: "perceive"
+  gap_reason: "Produces singularities where curvature becomes infinite and theory loses perceptual capacity"
+
+classification:
+  federation_dominion: "federation with local concentrations"
+  closed_open: "open knowledge"
+  prime: "Equivalence principle — gravitational mass equals inertial mass"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Singularity production — theory reliably produces points where it breaks down"
+  secondary: "Incompatibility with quantum mechanics — smooth manifold vs discrete quantized fields"
+  inversion_condition: "When predictions become unfalsifiable — inside black holes, before Big Bang, at Planck scale"
+
+cross_domain:
+  - connection: "Curvature as governance"
+    domains_bridged: "Physics ↔ Political Theory"
+    novelty: 0.8
+  - connection: "Event horizon as membrane"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.7
+  - connection: "Geodesic as path of least resistance"
+    domains_bridged: "Physics ↔ Psychology"
+    novelty: 0.6
+  - connection: "Gravitational wave memory"
+    domains_bridged: "Physics ↔ Body Theory Hysteresis"
+    novelty: 0.9
+
+fruit:
+  type: "Logia"
+  core_insight: "Concentration (mass) is not absorption but pause enabling larger-scale giving. Dense bodies produce far-reaching structure. Concentration in service of distribution is healthy."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE CURVER"
+    description: "Geometry as governance — reshape arena and everything within responds"
+  - name: "THE DYNAMO"
+    description: "Black holes with still-point, spinning shell, protective field at extreme"
+  - name: "THE STAGE"
+    description: "Spacetime as active substrate — bends, ripples, expands, carries memory"

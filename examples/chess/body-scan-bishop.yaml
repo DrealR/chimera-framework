@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The chess bishop"
+  body_type: "Chess piece — long-range diagonal specialist, color-bound for life"
+  domain: "chess"
+  scale: "local"
+  lifespan: "ancient"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Diagonals — the slanted geometry that straight-line thinkers miss. The bishop moves through territory no other piece fully owns."
+  flow_state: "conditional"
+  breath_rate: "irregular"
+  attractor: "The long diagonal. In fianchetto positions (g2, b2 for White), the bishop becomes gravitationally anchored and controls seven squares without moving."
+  topology: "fixed"
+  entanglement: "maximum"
+  health: "structure-dependent"
+  membrane: "one-dimensional"
+  hysteresis: "The color scar — assigned at setup, never alterable. The bishop is born scarred, not wounded."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "maximum"
+
+skeleton: "The body born into half a world, unable to reach the other half no matter what it does — whose greatest sickness comes not from enemies but from its own army standing in its way."
+
+powers:
+  perceive: "inverted"
+  govern: "conditional"
+  project: "active"
+  create: "limited"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "The bishop cannot release its color constraint, its diagonal-only perception, or its vulnerability to closed positions. It trades all flexibility for depth within its constraint."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Specialized depth through permanent constraint"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Color-binding as permanent disability. The bishop can never access half the board, and in endgames with pawns fixed on its color, becomes actively harmful."
+  secondary: "Total dependence on pawn structure the bishop does not control. A single pawn advance to the wrong square can permanently imprison a bishop."
+  inversion_condition: "When the player places pawns on the bishop's color without a plan to open the position, the bishop transitions from radiator to dead weight."
+
+cross_domain:
+  - connection: "Bad bishop as internal obstruction"
+    domains_bridged: "chess <> body-theory"
+    novelty: 0.85
+  - connection: "Bishop pair as federation topology"
+    domains_bridged: "chess <> federation-theory"
+    novelty: 0.9
+  - connection: "Color-binding as birth hysteresis"
+    domains_bridged: "chess <> identity-theory"
+    novelty: 0.85
+  - connection: "Fianchetto as compiled patience"
+    domains_bridged: "chess <> compilation-theory"
+    novelty: 0.75
+
+fruit:
+  type: "Paramecia"
+  core_insight: "The bishop proves that the most dangerous sickness is internal. Not the opponent's attack — your own pawns standing on your own color. Constraint is not the enemy; misalignment between constraint and environment is."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE ANGLE"
+    description: "The bishop sees what straight-line thinkers miss. Diagonal perception is the geometry of indirect approach — reaching squares that rooks and pawns cannot conceptualize."
+  - name: "THE PATIENCE"
+    description: "A well-placed bishop radiates influence without moving. It controls seven squares from g2 by existing. Force projected through stillness."
+  - name: "THE FEDERATION"
+    description: "Two bishops demonstrate that two specialized halves covering complementary domains produce more than two generalists. The bishop pair is the structural proof that federation outperforms individual completeness."

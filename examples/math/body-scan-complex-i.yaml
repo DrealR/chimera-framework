@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The imaginary unit i"
+  body_type: "Math Object — orthogonal unit, dimensional opener"
+  domain: "math"
+  scale: "universal"
+  lifespan: "infinite"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "The complex plane. i flows through the perpendicular axis — the dimension that doesn't exist on the real line but is structurally required."
+  flow_state: "cycling"
+  breath_rate: "fast"
+  attractor: "The unit circle. i pulls all complex multiplication toward rotation."
+  topology: "flowing"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "fully permeable in the rotational dimension; sealed against scaling"
+  hysteresis: "Deep — 400 years of suspicion. Called imaginary by Descartes as an insult, treated as illegitimate despite being structurally essential. The scar is in the name itself."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "strong"
+  not_force: "maximum"
+
+skeleton: "i is the body that opens the second dimension. It is the quarter-turn that the real line cannot perform — the proof that completeness requires what you cannot see on the line you're standing on."
+
+powers:
+  perceive: "active"
+  govern: "active"
+  project: "active"
+  create: "active"
+  release: "active"
+  primary_gap: "govern"
+  gap_reason: "i governs rotation but cannot stop rotating. The cycle i → -1 → -i → 1 is involuntary. It sets the rules of motion but cannot halt them."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Algebraic prime — irreducible in the Gaussian integers. Open prime that opens new structure."
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Involuntary cycling — the four-cycle is mandatory and cannot be interrupted. i has no rest state."
+  secondary: "Invisibility in physical measurement — no physical instrument reads i. It disappears before reaching the measurement apparatus."
+  inversion_condition: "When i is used in closed systems without progression, it produces energy spent on oscillation rather than output."
+
+cross_domain:
+  - connection: "i as the third member of 0/1/i"
+    domains_bridged: "Math ↔ Body Theory"
+    novelty: 0.9
+  - connection: "i² = -1 as self-negation"
+    domains_bridged: "Math ↔ Consciousness"
+    novelty: 0.8
+  - connection: "Euler's identity through i"
+    domains_bridged: "Math ↔ Information Theory"
+    novelty: 0.7
+  - connection: "Complex multiplication as rotation"
+    domains_bridged: "Math ↔ Physics"
+    novelty: 0.6
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Completeness requires the invisible dimension. The real line is algebraically incomplete. Admit the body that solves x² + 1 = 0, and you gain not just that solution but an entire plane, algebraic closure, rotation, oscillation, and the Mandelbrot set. What you cannot see from where you stand is not imaginary — it is the dimension you have not yet turned to face."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE QUARTER-TURN"
+    description: "i is the minimal rotation — the precise 90-degree shift that opens a new axis."
+  - name: "THE DIMENSIONAL OPENER"
+    description: "i takes a line and exhales a plane. It takes algebra and exhales geometry. One body multiplies dimensionality."
+  - name: "THE INVISIBLE BRIDGE"
+    description: "i connects Euler's five constants, bridges algebra and geometry, links time domain to frequency domain, entangles position with momentum in quantum mechanics."

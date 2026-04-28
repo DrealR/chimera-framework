@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Cancer"
+  body_type: "Pathological biology body -- a cell lineage whose governance has broken, inverting from serving the organism to extracting from it."
+  domain: "biology"
+  scale: "cellular origin, organism-level kill"
+  lifespan: "months to decades"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "Same medium as healthy cell: DNA, RNA, proteins, ATP. Cancer flows through the organism's own substrate in the wrong direction."
+  flow_state: "Permanent growth without terminal differentiation. Perpetual inhale that refuses the developmental exhale."
+  breath_rate: "Faster than surrounding tissue. Unregulated division consuming glucose at 10-200x normal (Warburg effect)."
+  attractor: "No attractor. Unbounded growth trajectory with no rest phase, no equilibrium, headed toward resource exhaustion."
+  topology: "I > O, categorical. Tumor consumes resources and produces nothing the organism needs. Pure extraction."
+  entanglement: "Maximally entangled with host resources, minimally entangled with host governance. Parasitic coupling."
+  health: "Terminal for the host. The tumor thrives while the host dies -- health is relational, not absolute."
+  membrane: "Degraded and weaponized. Downregulates growth-inhibitory signals while upregulating growth-promoting ones. Disguised as self to evade immunity."
+  hysteresis: "Deep and multi-layered. Carries compiled history of its specific mutations. Multiple subclonal lineages coexist with divergent histories."
+
+dna:
+  o_vs_i: "I > O"
+  pause_quality: "destroyed"
+  not_force: "maximally violated"
+
+skeleton: "The body that uses the organism's own language to override the organism's own governance -- proving that the most lethal pathology is never foreign but native."
+
+powers:
+  perceive: "active but selectively rewired"
+  govern: "absent -- the core pathology"
+  project: "active and lethal"
+  create: "active but monotonic"
+  release: "absent -- the enabling pathology"
+  primary_gap: "govern"
+  gap_reason: "Cancer IS governance failure. Every checkpoint that enforced the Pause has been demolished. The cell acts without reflection, divides without inspection."
+
+classification:
+  federation_dominion: "dominion-leaning"
+  closed_open: "closed-knowledge"
+  prime: "Unregulated self-replication"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Metabolic dependence. Warburg effect makes tumor metabolically fragile. Accelerated growth trades efficiency for speed, creating dependency on glucose supply."
+  secondary: "Heterogeneity as fragmentation. Internal genetic diversity means subclones compete internally, creating coordination weakness despite evolutionary strength."
+  inversion_condition: "When immune surveillance weakens (aging, stress, immunosuppression), the I>O accelerates in direct proportion to host immune decline."
+
+cross_domain:
+  - connection: "Cancer as corrupted insider"
+    domains_bridged: "Biology <> Political Science"
+    novelty: 0.85
+  - connection: "Tumor microenvironment as captured regulation"
+    domains_bridged: "Biology <> Economics"
+    novelty: 0.9
+  - connection: "Metastasis as colonial expansion"
+    domains_bridged: "Biology <> History"
+    novelty: 0.8
+  - connection: "Checkpoint loss as constitutional collapse"
+    domains_bridged: "Biology <> Law"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Cancer proves that the same machinery that sustains life becomes lethal when governance is removed. Pathology is the absence of a native constraint, not the presence of a foreign element. Remove the Pause from any body at any scale and extraction begins, using the same tools in the same medium."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE MIMIC"
+    description: "Indistinguishability from self. Expresses host's own surface markers, speaks host's molecular language. The structural archetype of insider threat."
+  - name: "THE INCREMENTALIST"
+    description: "Governance failures accumulate gradually, each step too small to trigger immune response. Slow corruption through patient, compound accumulation."
+  - name: "THE IMMORTAL"
+    description: "Disabled apoptosis and activated telomerase -- unlimited replication. Immortal individual within mortal system = system-level death."

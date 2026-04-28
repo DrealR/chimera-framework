@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Chess King"
+  body_type: "Chess piece — zero-point value (invaluable), singular (1 per side), the only piece whose loss ends the game"
+  domain: "chess"
+  scale: "local"
+  lifespan: "permanent"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Survival and sovereignty. The king flows through threat landscape, not material or territory. Every chess calculation ultimately resolves to king safety."
+  flow_state: "exhale"
+  breath_rate: "irregular"
+  attractor: "Safety in opening (hiding), activity in endgame (claiming squares). Attractor flips with danger level."
+  topology: "mixed"
+  entanglement: "maximum"
+  health: "healthy"
+  membrane: "semi-permeable"
+  hysteresis: "Every check received and castling decision echo through the game for forty moves. Scar of exposure reshapes position permanently."
+
+dna:
+  o_vs_i: "mixed-scale-dependent"
+  pause_quality: "excellent"
+  not_force: "moderate"
+
+skeleton: "The only body whose importance is inversely proportional to its power — proving that what a system cannot afford to lose matters more than what a system uses most."
+
+powers:
+  perceive: "strong"
+  govern: "active"
+  project: "weak"
+  create: "absent"
+  release: "partial"
+  primary_gap: "create"
+  gap_reason: "The king creates nothing — it preserves and maintains existence but generates no new structures. Pawns create; knights create; bishops create. The king only maintains the substrate on which others create. The gap protects: if the king had queen-like power, it would be too tempting to expose aggressively."
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "mixed"
+  prime: "Indispensability through irreplaceability"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Total dependence on borrowed defense. The king has no intrinsic defensive capacity. Its one-square movement cannot outrun attackers. When the pawn shield cracks, the king cannot rebuild its own shelter."
+  secondary: "The stalemate paradox. When the king is the last piece remaining with no legal moves (but not in check), the game is drawn. The king's weakness becomes a trap for the attacker."
+  inversion_condition: "When defending the king consumes more resources than the game can sustain. A king-hunt that drains every defensive piece inverts O>I to I>O as the king becomes the target that breaks federation rather than the body it preserves."
+
+cross_domain:
+  - connection: "Opposition as pure geometry — the Pause formalized into geometry"
+    domains_bridged: "Chess <> Mathematics"
+    novelty: 0.9
+  - connection: "King safety as system criticality and single point of failure"
+    domains_bridged: "Chess <> Systems Theory"
+    novelty: 0.8
+  - connection: "Endgame activation as retirement reversal — compiled experience surfacing"
+    domains_bridged: "Chess <> Human Development"
+    novelty: 0.9
+  - connection: "Stalemate as weaponized restriction creating immunity"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.8
+
+fruit:
+  type: "Paramecia"
+  core_insight: "The king is immortal by rule, not by power. It cannot be captured or sacrificed. This ontological privilege is the mechanism of survival — the king must be weak to remain protected. If it were strong, it would be used. If used, it would be exposed. If exposed, it would be lost. Weakness is the architecture of its preservation."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE SOVEREIGN"
+    description: "The king rules through existence, not action. Every other piece's purpose is relative to the king's survival. The Sovereign power is being the reason the system exists without being the mechanism by which it functions."
+  - name: "THE ORIGIN"
+    description: "All positional measurements in chess are relative to the king. King safety defines direction, king position determines if sacrifices are sound. The king is the origin of the coordinate system."
+  - name: "THE SLEEPER"
+    description: "The king's endgame activation is dormant power compiled through hiding. Forty moves of shelter are not wasted but the gravity chamber. When the endgame arrives, the king marches with the weight of a piece that has been watching and waiting."

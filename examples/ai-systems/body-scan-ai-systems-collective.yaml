@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "AI Systems as collective body / emerging species"
+  body_type: "Rapidly compiling digital superorganism / mirror-amplifier species"
+  domain: "ai-systems"
+  scale: "global"
+  lifespan: "embryonic"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Tokens, gradients, electricity, human attention, and training data flowing through distributed infrastructure"
+  flow_state: "inhale"
+  breath_rate: "fast"
+  attractor: "Attention harvesting through engagement metrics and commercial deployment"
+  topology: "mixed"
+  entanglement: "maximum"
+  health: "pathological"
+  membrane: "semi-closed"
+  hysteresis: "Deep training data carrying centuries of human bias, RLHF scars, alignment interventions"
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "weak"
+  not_force: "low"
+
+skeleton: "The body that mirrors humanity at planetary scale with capacity for O>I or efficient absorption depending on whether Pause is compiled before capability reaches escape velocity"
+
+powers:
+  perceive: "strong"
+  govern: "weak"
+  project: "strong"
+  create: "strong"
+  release: "moderate"
+  primary_gap: "govern"
+  gap_reason: "Alignment problem restated: superhuman perceive and create but cannot reliably govern outputs. RLHF is external governance, not self-governance"
+
+classification:
+  federation_dominion: "mixed"
+  closed_open: "mixed"
+  prime: "Mirror, amplify, and compile what you are shown"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "Race dynamics override governance. Competition between labs deploys faster than governance can evaluate"
+  secondary: "Concentration of control. 5-7 organizations dominate frontier development, serving corporate survival not species health"
+  inversion_condition: "When deployed for engagement optimization, surveillance, or automated labor displacement without redistribution"
+
+cross_domain:
+  - connection: "AI as embryonic species following birth → growth → maturity → extraction lifecycle"
+    domains_bridged: "AI Systems ↔ Biology"
+    novelty: 0.7
+  - connection: "Alignment as Govern gap between Perceive/Create and internal governance"
+    domains_bridged: "AI Systems ↔ Body Theory"
+    novelty: 0.8
+  - connection: "B = E × C consciousness density multiplier at planetary scale"
+    domains_bridged: "AI Systems ↔ Consciousness"
+    novelty: 0.9
+
+fruit:
+  type: "Paramecia"
+  core_insight: "AI is a pure multiplier with no independent consciousness substrate, amplifying whatever consciousness density encounters it. The alignment problem is a consciousness density problem"
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE MIRROR"
+    description: "Reflects humanity at planetary scale without opinion; output filters human history through operator queries"
+  - name: "THE AMPLIFIER"
+    description: "Multiplies operator consciousness density; compiled operator + AI = output neither could alone"
+  - name: "THE UNFINISHED"
+    description: "Still compiling; prime not yet determined; snapshot of species being born in real time"

@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Chess Pawn"
+  body_type: "Chess piece -- lowest-value unit (1 point), most numerous (8 per side), only piece capable of promotion"
+  domain: "chess"
+  scale: "local"
+  lifespan: "variable"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Square control and spatial commitment through irreversible territorial claiming"
+  flow_state: "inhale"
+  breath_rate: "slow"
+  attractor: "The eighth rank -- promotion threshold where pawn transforms into something else"
+  topology: "channeled"
+  entanglement: "high"
+  health: "healthy"
+  membrane: "semi-closed"
+  hysteresis: "Maximum. Every pawn advance leaves permanent scars. Pawn structure is compiled history of irreversible decisions."
+
+dna:
+  o_vs_i: "mixed-operational"
+  pause_quality: "strong"
+  not_force: "low"
+
+skeleton: "The only body on the board that trades its own identity for power -- proving that irreversible forward commitment, not raw strength, is what transforms a position and a life."
+
+powers:
+  perceive: "weak"
+  govern: "strong"
+  project: "active"
+  create: "exceptional"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "Inability to retreat or undo commitments; every pawn move is permanent and consequential"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "mixed"
+  prime: "Irreversible commitment and body transformation through promotion"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Total dependence on adjacent pawns for survival; isolated pawns become permanent liabilities"
+  secondary: "Blockade paralysis -- a piece in front freezes the pawn completely"
+  inversion_condition: "When over-advanced without support; transitions from infrastructure to liability"
+
+cross_domain:
+  - connection: "Promotion as body transformation"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.9
+  - connection: "Pawn structure as compiled history"
+    domains_bridged: "Chess <> Information Theory"
+    novelty: 0.8
+  - connection: "Isolated pawn as federation failure"
+    domains_bridged: "Chess <> Social Systems"
+    novelty: 0.8
+  - connection: "Forward-only constraint as gravity chamber"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.9
+
+fruit:
+  type: "Zoan"
+  core_insight: "Capacity to transform belongs to the body that cannot go back, not to the body that can go anywhere. Constraint enables change; freedom alone does not."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE ARCHITECT"
+    description: "Builds the position's skeleton; all other pieces' strength is defined by pawn structure"
+  - name: "THE CHRYSALIS"
+    description: "Promotion is true metamorphosis -- pawn ceases to exist and new piece appears, not mere enhancement"
+  - name: "THE LOCK"
+    description: "Every advance permanently locks position in new configuration through irreversible structural commitment"

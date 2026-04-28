@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Weak Pawn Structure"
+  body_type: "Positional disease -- pathological skeleton configuration creating permanent liabilities (doubled pawns, isolated pawns, backward pawns, pawn islands)"
+  domain: "chess"
+  scale: "system"
+  lifespan: "permanent"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Defensive obligation -- the energy other pieces must spend protecting it, weak pawns siphon force inward not outward"
+  flow_state: "exhale"
+  breath_rate: "slow"
+  attractor: "The weakness itself -- opponent pieces gravitate toward it like antibodies toward infection"
+  topology: "dominion"
+  entanglement: "maximum"
+  health: "pathological"
+  membrane: "collapsed"
+  hysteresis: "The disease is the hysteresis -- accumulated scar of irreversible pawn decisions written into the skeleton's permanent record"
+
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "absent"
+
+skeleton: "A body that turned its own skeleton into a parasite -- the structure that should carry everything instead feeds on everything, proving that irreversible decisions made without structural foresight become permanent tax on every future move."
+
+powers:
+  perceive: "weak"
+  govern: "inverted"
+  project: "absent"
+  create: "absent"
+  release: "inverted"
+  primary_gap: "project"
+  gap_reason: "Weak pawn cannot project forward threat because advancing worsens weakness, projection capacity neutralized -- radiates defensive obligation instead"
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed"
+  prime: "Structural debt made permanent -- decision-consequence that cannot be repaid, renegotiated, or forgiven"
+  prime_type: "closed-all-axes"
+
+structural_weakness:
+  primary: "The weakness itself IS the body -- exists only as pathology, no healthy version, no internal recovery mechanism"
+  secondary: "Compensation can exceed cost (isolani in middlegame can be O>I) making the pathology ambiguous, but compensation expires as pieces trade and endgame approaches"
+  inversion_condition: "Temporary I>O inversion when isolated pawn generates sufficient piece activity, but inversion has expiration date as endgame approaches"
+
+cross_domain:
+  - connection: "Weak pawn as chronic disease"
+    domains_bridged: "Chess <> Medicine"
+    novelty: 0.9
+  - connection: "Irreversible structural debt"
+    domains_bridged: "Chess <> Economics"
+    novelty: 0.8
+  - connection: "Nimzowitsch's restraint principle through attentional capture"
+    domains_bridged: "Chess <> Body Theory"
+    novelty: 0.9
+  - connection: "Doubled pawns as blocked communication channel"
+    domains_bridged: "Chess <> Information Theory"
+    novelty: 0.8
+
+fruit:
+  type: "Anti-Zoan"
+  core_insight: "The skeleton IS the position -- pieces are visitors, pawns are residents. When skeleton is deformed, every organ compensates. Weak pawn structure teaches that permanent infrastructure mistakes impose ongoing costs no talent overcomes."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE PARASITE"
+    description: "Weak pawn feeds on its own side's energy through structure -- demands piece defense, surrenders outposts, creates targets for opponent"
+  - name: "THE MONUMENT"
+    description: "Permanent memorial to moment of creation, stands testifying to past decision that cannot be revised, teaches through existence"
+  - name: "THE GRAVITY WELL"
+    description: "Bends entire position's geometry toward itself, pieces orbit defensively and offensively, game's center of mass shifts toward weakness"

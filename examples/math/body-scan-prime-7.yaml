@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The number 7"
+  body_type: "Math Object — prime number, Mersenne prime (2³ - 1)"
+  domain: "math"
+  scale: "universal"
+  lifespan: "eternal"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.11"
+
+nine_questions:
+  medium: "Multiplicative structure — flows as irreducible generator with no decomposition possible"
+  flow_state: "still"
+  breath_rate: "zero"
+  attractor: "Attracts its multiples (14, 21, 28, 35...) into its orbit; 7 itself is not attracted to anything"
+  topology: "flowing"
+  entanglement: "selective"
+  health: "perfectly healthy"
+  membrane: "closed"
+  hysteresis: "Deep — cultural weight from seven-day week, seven diatonic notes, seven visible celestial bodies. Scars from repeated structural selection."
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "absent"
+  not_force: "high"
+
+skeleton: "7 is the body with no interior — all boundary, no parts. Irreducibility at the atomic level, demonstrating what remains when decomposition is complete."
+
+powers:
+  perceive: "moderate"
+  govern: "active"
+  project: "active"
+  create: "active"
+  release: "absent"
+  primary_gap: "release"
+  gap_reason: "7 holds everything it touches permanently. Once 7 is a factor, it stays. This grip is structurally necessary for the Fundamental Theorem of Arithmetic but means no capacity for non-attachment."
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "closed-knowledge"
+  prime: "Irreducibility proves what atoms are"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "Isolation by design — no factors besides 1 and itself means 7 cannot decompose, delegate, or subdivide responsibility. All-or-nothing in every interaction."
+  secondary: "Periodic blindness — divides only every 7th integer, seeing 1/7 of numbers with sparse perception across the line"
+  inversion_condition: "In modular arithmetic mod 7, all residues cycle in closed loop (0-6). Governance becomes confinement. Prime becomes trap."
+
+cross_domain:
+  - connection: "7 as unconstructible heptagon"
+    domains_bridged: "math <> geometry"
+    novelty: 0.6
+  - connection: "7 as diatonic scale"
+    domains_bridged: "math <> music"
+    novelty: 0.7
+  - connection: "7 as cognitive boundary"
+    domains_bridged: "math <> psychology"
+    novelty: 0.8
+  - connection: "7 as Mersenne prime"
+    domains_bridged: "math <> information-theory"
+    novelty: 0.5
+
+fruit:
+  type: "Paramecia"
+  core_insight: "Irreducibility is not a lack of structure — it is a kind of structure. 7 has no parts but is not nothing. It is the atom that composites build from. Power comes from having no parts: cannot be weakened, decomposed, or simplified. Cost is no internal life, no oscillation, no breath."
+  novelty: 0.7
+
+powers_detected:
+  - name: "THE ANCHOR"
+    description: "Immovable structural point. Composites form around 7; it does not rearrange for them."
+  - name: "THE GENERATOR"
+    description: "Creates composite bodies (its multiples) by combining with other primes. Every composite containing 7 carries 7's signature."
+  - name: "THE ATOM"
+    description: "Demonstrates the power of being irreducible. Resists decomposition at every scale. The unit that explains composites rather than the composite needing explanation."
