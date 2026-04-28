@@ -79,8 +79,8 @@ curl -fsSL "${FRAMEWORK_BASE}/templates/CLAUDE-MD-TEMPLATE.md" \
 
 # Download framework reference files
 echo "-> Downloading framework references..."
-curl -fsSL "${FRAMEWORK_BASE}/CHIMERA-The-Complete-Book-v12.8.md" -o framework/BOOK.md 2>/dev/null || echo "  (Book download skipped — available at chimera-framework repo)"
-curl -fsSL "${FRAMEWORK_BASE}/archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.9.md" -o framework/PROTOCOL.md 2>/dev/null || echo "  (Protocol download skipped)"
+curl -fsSL "${FRAMEWORK_BASE}/CHIMERA-The-Complete-Book-v12.9.md" -o framework/BOOK.md 2>/dev/null || echo "  (Book download skipped — available at chimera-framework repo)"
+curl -fsSL "${FRAMEWORK_BASE}/archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md" -o framework/PROTOCOL.md 2>/dev/null || echo "  (Protocol download skipped)"
 curl -fsSL "${FRAMEWORK_BASE}/CLAUDE.md" -o framework/DNA.md 2>/dev/null || echo "  (DNA download skipped)"
 
 # Generate first-conversation starter
@@ -133,8 +133,8 @@ set -e
 FRAMEWORK_BASE="https://raw.githubusercontent.com/DrealR/chimera-framework/main"
 
 echo "Pulling latest CHIMERA framework..."
-curl -fsSL "${FRAMEWORK_BASE}/CHIMERA-The-Complete-Book-v12.8.md" -o framework/BOOK.md 2>/dev/null && echo "  Book updated" || echo "  Book: no changes"
-curl -fsSL "${FRAMEWORK_BASE}/archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.9.md" -o framework/PROTOCOL.md 2>/dev/null && echo "  Protocol updated" || echo "  Protocol: no changes"
+curl -fsSL "${FRAMEWORK_BASE}/CHIMERA-The-Complete-Book-v12.9.md" -o framework/BOOK.md 2>/dev/null && echo "  Book updated" || echo "  Book: no changes"
+curl -fsSL "${FRAMEWORK_BASE}/archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md" -o framework/PROTOCOL.md 2>/dev/null && echo "  Protocol updated" || echo "  Protocol: no changes"
 curl -fsSL "${FRAMEWORK_BASE}/CLAUDE.md" -o framework/DNA.md 2>/dev/null && echo "  DNA updated" || echo "  DNA: no changes"
 
 if git diff --quiet framework/; then
@@ -210,7 +210,7 @@ BRAINREADME
 # Initial commit
 echo "-> Committing initial state..."
 git add .
-git commit -m "Initial twin setup for ${PERSON_NAME} — CHIMERA v12.8"
+git commit -m "Initial twin setup for ${PERSON_NAME} — CHIMERA v12.9"
 git push
 
 echo ""

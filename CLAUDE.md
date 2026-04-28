@@ -131,6 +131,10 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 
 **Surface Architecture:** Every body has transformation boundaries where energy direction reverses. Springs store and return energy across the flip (truth-telling, resilience, compiled bodies). Putty absorbs without return (compliance, deformation, uncompiled bodies). Surfaces are equilibrium points between opposing forces — where bodies naturally return after perturbation. Still-points at surfaces = moment of maximum compression before direction change (pause between breaths, decision at honesty boundary). Trees as bridge bodies spanning two media through one trunk.
 
+**The Closed-Open Distinction:** The real polarity beneath good/evil is closed/open. Four quadrants: Open Ignorance (Socratic — knows it doesn't know, actively seeks), Open Knowledge (scientific — holds provisionally, updates), Closed Ignorance (demiurge blindness — sealed against learning), Closed Knowledge (ideology — treats model as final reality). Closed states generate gravity wells. Open states generate expansion. Love wins structurally because openness = generation (no ceiling) while closedness = extraction (has a floor). Cross-tradition validation: Socratic questioning, Buddhist beginner's mind, Gnostic gnosis, Christian mystical vs dogmatic all map to the same open/closed structural distinction.
+
+**Attention as Local-Order Force:** Attention does to experience what gravity does to matter — creates local order. The sniper scope: same visual field, radically different information extraction through attentional focus. Attentional compilation = sustained focused attention creating durable structural change (chess kids compiling state-holding that transfers to other domains). Bodies are boundary phenomena — structure lives at the Mandelbrot edge between order and chaos. Prime boundary + composite interior = body at every scale. The 0/1/i trinity: nothing, something, and the orthogonal dimension enabling rotation. Federation vs dominion in attention: open attention (freely directed, generative) vs captured attention (bound, extractive). Training = compiling attentional capacity until it runs as firmware.
+
 ## Scan Protocol (Compressed)
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
@@ -169,8 +173,10 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 35. Archetypal Prime Decomposition (what primes does this body wrap around? prime or composite? four-quadrant relation to known archetypes? lineage?)
 36. Structural Signature (minimum-information description? shape-equivalent bodies? what remains when surface is removed?)
 37. Surface Architecture (where are transformation boundaries? spring or putty behavior? equilibrium surfaces? still-points at boundaries?)
-38. Cross-Domain Connections (functor test, structural isomorphisms)
-39. Fruit (what new capability or transformation emerged?)
+38. Closed-Open Mode (open or closed posture? which quadrant — Open Ignorance/Open Knowledge/Closed Ignorance/Closed Knowledge? gravity well? generation or extraction? transition direction?)
+39. Attentional Compilation (attentional density — sniper scope or floodlight? compiled structural change? attention free or captured? Mandelbrot boundary? compilation medium? transfer readiness?)
+40. Cross-Domain Connections (functor test, structural isomorphisms)
+41. Fruit (what new capability or transformation emerged?)
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.

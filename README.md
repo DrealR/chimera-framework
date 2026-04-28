@@ -29,7 +29,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v12.8](CHIMERA-The-Complete-Book-v12.8.md) — 106 books, the full philosophy.
+For the complete text: [The Complete Book v12.9](CHIMERA-The-Complete-Book-v12.9.md) — 108 books, the full philosophy.
 
 ---
 
@@ -115,8 +115,8 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 
 | Tool | What It Does |
 |------|-------------|
-| [Body Scan Protocol v3.9](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.9.md) | The complete fill-in template — 49 diagnostic steps |
-| [Body Scan System Prompt v2.9](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.9.md) | The AI system prompt for automated scans |
+| [Body Scan Protocol v3.10](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) | The complete fill-in template — 51 diagnostic steps |
+| [Body Scan System Prompt v2.10](archive/CHIMERA-BODY-SCAN-SYSTEM-PROMPT-v2.10.md) | The AI system prompt for automated scans |
 
 #### Example scans
 
@@ -176,9 +176,9 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v12.8 — 106 books (I through CVI). New in v12.8: Federation vs Dominion, Dimensional Architecture, Archetypal Primes, Numbers as Bodies, Surface Architecture
-- **Protocol:** v3.9 — 49 diagnostic steps including federation/dominion pattern, dimensional map, archetypal prime decomposition, structural signature, surface architecture
-- **System Prompt:** v2.9 — matched to protocol v3.9
+- **Book:** v12.9 — 108 books (I through CVIII). New in v12.9: The Closed-Open Distinction, Attention as Local-Order Force
+- **Protocol:** v3.10 — 51 diagnostic steps including closed-open mode read, attentional compilation assessment
+- **System Prompt:** v2.10 — matched to protocol v3.10
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
 - **Autonomous Growth:** Explorer + Challenger agents scan new dimensions daily with quality verdicts
@@ -189,7 +189,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v12.8), all protocol versions (v3.1 through v3.9), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v12.9), all protocol versions (v3.1 through v3.10), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 
