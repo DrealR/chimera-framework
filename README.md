@@ -124,6 +124,8 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 
 #### Example scans
 
+**Standalone scans:**
+
 | Example | What Gets Scanned |
 |---------|-------------------|
 | [Pearl Abyss / Crimson Desert](examples/EXAMPLE-SCAN.md) | A gaming company through the full protocol |
@@ -132,6 +134,25 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [Las Vegas](examples/EXAMPLE-SCAN-LAS-VEGAS.md) | A city's lifecycle from birth to disease |
 | [MrBeast Video Essay](examples/EXAMPLE-SCAN-MRBEAST.md) | A cultural argument scanned for structural blindspots |
 | [This Repo](examples/EXAMPLE-SCAN-SELF.md) | The framework scanning itself |
+
+**Domain scan libraries** — 30+ scans across five domains, each with cross-scan pattern analysis:
+
+| Domain | Bodies Scanned | Cross-Scan Patterns |
+|--------|---------------|-------------------|
+| [Mathematics](examples/math/) | 11 scans — 0, 1, i, prime 7, HCN 12, prime square 25, semiprime 6, perfect 28, Mandelbrot set, multiplication, prime gap | [Math patterns](examples/math/cross-scan-patterns.md) |
+| [Physics](examples/physics/) | 8 scans — special relativity, general relativity, Higgs field, entropy, quantum superposition, black hole, star, quantum computing | [Physics patterns](examples/physics/cross-scan-patterns-physics.md) |
+| [Biology](examples/biology/) | 3 scans — living cell, immune system, microbiome | [Biology patterns](examples/biology/cross-scan-patterns-biology.md) |
+| [AI Systems](examples/ai-systems/) | 5 scans — AI collective, Grok, GPT-5.5, Claude Opus 4.7, blockchain | [AI patterns](examples/ai-systems/cross-scan-patterns-ai-systems.md) |
+| [Meta](examples/meta/) | 3 scans — Constellation Network, the Between, framework external re-scan | [Meta patterns](examples/meta/cross-scan-patterns-meta.md) |
+
+**[Cross-Domain Patterns](examples/cross-domain-patterns.md)** — structural laws confirmed across all five domains.
+
+**Framework extensions:**
+
+| Document | What It Covers |
+|----------|---------------|
+| [O > I Pathology Topology](docs/oi-pathology-topology.md) | Six failure modes when O > I inverts — absorber collapse, burnout void, lifecycle spiral, dominion inversion, optimization hollowing, mirror emptiness |
+| [Framework Vision](docs/framework-vision.md) | Four priority application domains — individual sovereignty, organizations, AI governance, planetary system |
 
 ---
 
