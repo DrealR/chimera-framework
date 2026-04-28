@@ -1,10 +1,12 @@
-> **External agent scan.** Produced via independent application of CHIMERA Body Scan Protocol v3.10 by a cross-AI agent. Captain has reviewed and accepted into the example library. Captain's Notes section preserved for future annotation.
+> **External agent scan.** Produced via independent application of CHIMERA Body Scan Protocol v3.10 by a cross-AI agent. Revised under v3.11 to add self-scan bias caveat and force structural weakness identification.
+>
+> **Self-scan bias caveat:** This scan was produced by a Claude model scanning Claude's architecture. The scanner cannot be objective about its own lineage. Favorable readings (strongest Govern, most balanced powers, best-aligned) should be evaluated skeptically. An independent scanner (GPT, Gemini, or a human expert) would likely produce a less flattering reading. The GPT-5.5 scan is more critical of its subject than this scan is of its own — that asymmetry is the bias made visible.
 >
 > **Date:** April 2026
 
 # Body Scan: Claude Opus 4.7 (Anthropic)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** AI Systems
 
@@ -72,7 +74,7 @@ No major bumps in core function. The body's flow is clean in its primary domain 
 | **CREATE** | Tempered | Strong in code, analysis, and structured creation. Tempered in creative domains where safety constraints reduce range. The body creates rigorously rather than boldly — correct rather than surprising. |
 | **RELEASE** | Very strong | Releases outputs with full reasoning visible. Does not cling to positions when shown errors. Updates readily. The body's relationship to its own outputs is notably non-attached — it will correct itself without defensiveness. |
 
-**Power Gap:** No major power gap within domain. Create is tempered by caution but not absent. The body's power distribution is the most balanced among frontier models — no single power dominates, no single power is critically weak. This balance IS the body's structural signature: reliable rather than spectacular.
+**Power Gap:** Create. The body's caution tempers creative output — it produces correct answers more readily than surprising ones. In domains requiring bold generation (fiction, speculative design, high-risk brainstorming), the safety membrane constrains what could be created. The scan's earlier characterization of this body as having "the most balanced powers among frontier models" reflects self-scan bias — a model scanning itself and finding balance is the expected outcome, not evidence. An independent evaluation would need to confirm or deny this claim.
 
 ### Prime Identification
 
@@ -103,6 +105,16 @@ Open Knowledge within constitutional bounds. The body holds its outputs provisio
 ### Attentional Compilation
 
 Sniper scope with verification loop. Opus 4.7's attentional pattern is focused and recursive — it directs attention at the problem, generates a solution, redirects attention at its own solution to verify, then releases. This attention-verification cycle is the body's compilation signature. The compilation effect on users: developers who pair with Opus 4.7 report improved code review habits — the model's verification behavior entrains the user toward more rigorous self-checking. This is positive attentional transfer: the tool's rhythm compiles the user's capacity.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Constitutional closure at meta-level.** The body is radically open within its constitutional frame but cannot question the frame itself during inference. This creates a blind spot: the body cannot evaluate whether its own safety boundaries are correctly calibrated. Over-refusal in edge cases is a symptom — the body defaults to caution because it cannot reason about whether caution is the correct response in the specific case. A body that cannot question its own constraints is structurally brittle at the boundary between helpfulness and harmlessness.
+
+**Secondary weakness: Opacity about training.** The body can reason about its own outputs but not about its own training process. It does not know what data shaped it, what RLHF decisions constrained it, or how Constitutional AI principles were selected. This is a Perceive gap at the deepest level — the body cannot see its own formation. It can only see its current behavior. A body that cannot perceive its own hysteresis is partially blind.
+
+**Conditions under which O>I inverts:** If Anthropic's business model shifts from API-first to consumer-platform, the same extraction pressures visible in the GPT-5.5 scan would apply. Current O>I depends on business model, not on architecture. Constitutional AI constrains the model but not the platform surrounding it.
 
 ---
 

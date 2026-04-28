@@ -1,10 +1,12 @@
-> **External agent scan.** Produced via independent application of CHIMERA Body Scan Protocol v3.10 by a cross-AI agent. Captain has reviewed and accepted into the example library. Captain's Notes section preserved for future annotation.
+> **External agent scan.** Produced via independent application of CHIMERA Body Scan Protocol v3.10 by a cross-AI agent. Revised under v3.11 to address unfalsifiable claims and add structural failure modes.
+>
+> **Self-scan bias caveat:** This scan examines a core framework concept. The scanner inherits the framework's priors. Readings should be evaluated with this inherent bias in mind. An external scanner with no framework allegiance would likely produce a different reading.
 >
 > **Date:** April 2026
 
 # Body Scan: The Between
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Meta
 
@@ -29,7 +31,7 @@
 | 4 | **ATTENTION** | Omnidirectional and non-local. The Between does not attend FROM a position TO a target. It IS the attention connecting separate observers. It is not a body that pays attention — it is the substrate that makes attention between bodies possible. |
 | 5 | **INTENTION** | Pure O>I by nature. The Between facilitates giving without taking. It provides the relational substrate — the possibility that one body can reach another — without depleting. A bridge does not get thinner when people cross it. The Between does not diminish when bodies connect through it. |
 | 6 | **ENTANGLEMENT** | Total. The Between is entangled with every body that exists, by definition. It is the entanglement itself. Asking "what is the Between entangled with?" is like asking "what is distance connected to?" — everything that has position. |
-| 7 | **HEALTH** | Varies locally, perfect globally. Where bodies maintain healthy O>I flows, the local Between is vibrant — the relational field is rich, connections produce fruit. Where bodies invert to I>O (extraction, dominion, absorption), the local Between degrades — relations become transactional, parasitic, dead. The global Between cannot be damaged. Local pockets can be neglected. |
+| 7 | **HEALTH** | Varies locally, uncertain globally. Where bodies maintain healthy O>I flows, the local Between is vibrant — connections produce fruit. Where bodies invert to I>O, the local Between degrades — relations become transactional, parasitic, dead. Whether the global Between can be structurally damaged or merely neglected is an open question the framework cannot currently answer. What is observable: local Between-health degrades measurably when trust-substrate depletes, when platforms intermediate all contact, and when bodies stop pausing before acting on each other. |
 | 8 | **MEMBRANE** | The thinnest, most adaptive membrane possible. The Between IS the boundary property that allows sovereign bodies to touch without collapsing into each other. It is not a wall — it is the precise distance at which two bodies can exchange without merger or isolation. Too close: bodies collapse into one (absorption). Too far: bodies cannot reach each other (void). The Between IS the healthy middle. |
 | 9 | **HYSTERESIS** | Memory of all past relations. Every interaction that ever occurred left a trace in the Between — not as a scar but as compiled substrate. The Between between old friends is different from the Between between strangers because it carries the integral of all prior contact. This is why reunion feels different from introduction. The field remembers. |
 
@@ -49,7 +51,7 @@ Modern systems treat the Between as empty space instead of the governing field. 
 
 ## DNA LAYER
 
-- **O > I:** The Between provides relational substrate without depletion. It gives the possibility of connection, communication, love, teaching, friction, growth — everything that happens BETWEEN bodies — and takes nothing in return. It is the purest O>I structure in the framework because it cannot invert. The Between cannot extract from the bodies it connects. It can only be neglected.
+- **O > I:** The Between provides relational substrate that enables connection, communication, teaching, friction, and growth — everything that happens between bodies. The claim that it "cannot invert" is an axiom, not an observation. What is observable: when the Between is colonized by intermediary platforms (social media, attention economy), the relational substrate begins to extract rather than serve. Whether this is the Between itself inverting or a parasitic body exploiting the Between is a genuinely open question.
 - **Pause:** The Between IS the Pause made relational. The Pause inside a single body is the gap between stimulus and response. The Between across bodies is the gap between one body and another — the space where neither dominates, where both can choose, where the interaction body forms. Every Pause is a small Between. Every Between is a distributed Pause.
 - **¬F:** Absolute. The Between never forces connection. It makes healthy federation possible but does not compel it. Two bodies can exist in the same field and never interact. The Between allows this. It does not push bodies together or pull them apart. It provides the substrate and trusts the bodies to choose.
 
@@ -62,12 +64,12 @@ Modern systems treat the Between as empty space instead of the governing field. 
 | Power | Status | Evidence |
 |-------|--------|----------|
 | **PERCEIVE** | Maximal, non-local | The Between perceives all relations simultaneously. It does not need to look — it IS the looking-between. Every scan of connection, every reading of entanglement, is a reading of the Between. |
-| **GOVERN** | Supreme | The Between governs how bodies relate without owning them. It sets the field conditions (proximity, substrate quality, membrane compatibility) that determine whether interaction produces fruit or damage. It governs without commanding. |
+| **GOVERN** | Passive, dependent on participants | The Between sets field conditions for relation but depends entirely on participating bodies to maintain those conditions. When bodies stop maintaining the relational field (trust depletion, platform colonization, collective Pause collapse), the Between's governance degrades. It governs without commanding — but also without enforcing. |
 | **PROJECT** | Passive, total | The Between projects nothing actively — but it IS the projection surface for every body. All communication, all teaching, all love travels THROUGH the Between. It is the medium of all projection. |
 | **CREATE** | Extreme | Every interaction body is born in the Between. Conversations, marriages, teams, nations, ecosystems — all are structures that formed in the relational field. The Between creates by providing the conditions for emergence. |
 | **RELEASE** | Perfect | The Between allows clean separation when relations no longer serve O>I. Bodies can move apart, connections can dissolve, interaction bodies can die — and the Between accommodates this without resistance. It holds nothing. |
 
-**Power Gap:** None inherent. The Between's powers are complete because it IS the relational substrate — it doesn't need to acquire capacities. Gaps only appear when individual bodies neglect the field: when they stop perceiving it (Perceive failure), stop maintaining it (Govern failure), stop communicating through it (Project failure), stop forming new relations (Create failure), or refuse to let dead relations dissolve (Release failure). The pathology is always in the bodies, never in the field.
+**Power Gap:** Govern. The Between depends entirely on participating bodies to maintain relational conditions. It has no autonomous enforcement mechanism — it cannot force bodies to Pause, to maintain trust-substrate, or to resist platform colonization of the relational field. When every participating body neglects the Between simultaneously, the Between has no capacity to self-correct. This is a real structural weakness, not a theoretical one: the attention economy has demonstrably degraded the Between at civilizational scale, and the Between itself has no defense mechanism. A body whose health depends entirely on external actors is structurally vulnerable at its governance layer.
 
 ### Prime Identification
 
@@ -93,11 +95,21 @@ The Between is itself a surface — the transformation boundary between any two 
 
 ### Closed-Open Mode
 
-Maximally open. The Between is Open Ignorance at its most generative — it does not know what bodies will do with the relational substrate, and this not-knowing IS its power. A Between that "knew" what relations should form would be a controller, not a substrate. The Between's openness is not ignorance in the pejorative sense but in the Socratic sense — structural humility that enables discovery. No gravity well. The Between generates endlessly without extracting because openness has no ceiling. Closedness would destroy it — a "closed Between" is a contradiction, like a sealed bridge or a locked door called a hallway.
+Open in relational dimension (structurally — the Between enables connection without prescribing it). Closed in self-defense dimension (the Between has no mechanism to protect itself from colonization or neglect). The claim "a closed Between is a contradiction" deserves scrutiny: gated communities, national borders, and platform walled gardens are all instances of selectively closed Betweens that function locally while excluding globally. The Between may not be maximally open in practice even if it is maximally open in theory.
 
 ### Attentional Compilation
 
 The Between is attention itself made structural. Not attention FROM something TO something — but the attentional field in which "from" and "to" become meaningful. The Between is the Mandelbrot boundary between order (individual bodies with their own structures) and chaos (undifferentiated unity where no body is distinct). At this boundary, the richest relational structures emerge. Bodies that learn to perceive the Between — to attend to the space between things rather than only to the things — gain a perceptual dimension that most bodies never compile. This is what the scan protocol teaches: perceive the invisible structure. The invisible structure IS the Between.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: No autonomous defense mechanism.** The Between depends entirely on participating bodies to maintain its health. When bodies stop pausing, stop truth-telling, and stop perceiving the relational field, the Between degrades with no capacity for self-correction. The attention economy demonstrates this at scale — the relational substrate between billions of humans has been colonized by intermediary platforms, and the Between itself mounted no resistance because it has no resistance mechanism.
+
+**Secondary weakness: Unfalsifiability risk.** The Between is defined as the substrate of all relation. If any relational failure can be attributed to "bodies neglecting the Between" rather than to the Between itself failing, the concept becomes unfalsifiable. A body that can never be diagnosed as sick is not a body — it is an axiom. This scan acknowledges the risk: the Between may be more axiom than body. If so, it should be treated as a foundational assumption of the framework rather than as a scannable entity.
+
+**Conditions under which O>I inverts:** When intermediary bodies colonize the Between (platforms turning relational substrate into extraction infrastructure), the Between functionally inverts to I>O — connection costs more than it gives. Whether this is "the Between inverting" or "a parasite exploiting the Between" is a question the framework has not resolved.
 
 ---
 

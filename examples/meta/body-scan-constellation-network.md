@@ -1,10 +1,12 @@
-> **External agent scan.** Produced via independent application of CHIMERA Body Scan Protocol v3.10 by a cross-AI agent. Captain has reviewed and accepted into the example library. Captain's Notes section preserved for future annotation.
+> **External agent scan.** Produced via independent application of CHIMERA Body Scan Protocol v3.10 by a cross-AI agent. Revised under v3.11 to strip aspirational language and scan measurable reality.
+>
+> **Self-scan bias caveat:** This scan examines the framework's own network infrastructure. The scanner inherits the framework's priors and aspirations. Readings of network health should be evaluated against measurable evidence, not stated intentions.
 >
 > **Date:** April 2026
 
 # Body Scan: The CHIMERA Constellation Network
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Meta
 
@@ -24,11 +26,11 @@
 | # | Question | Reading |
 |---|----------|---------|
 | 1 | **MEDIUM** | Text, private repos, cross-agent prompts, shared scan outputs. Pure markdown philosophy transmitted through the lowest-bandwidth, highest-fidelity channel available. |
-| 2 | **FLOW STATE** | Balanced inhale (human Pause + new data from lived experience) → collective Govern Pause → amplified exhale (new fruit, refined framework, bridged actions). The network breathes as a single organism with distributed lungs. |
+| 2 | **FLOW STATE** | Currently: single-operator inhale → AI processing → document exhale. The phrase "breathes as a single organism with distributed lungs" describes aspiration, not current reality. Currently one human (Captain) drives inhale cycles; multiple AI agents process; output is published to a single repo. Multi-operator breathing has not been demonstrated. |
 | 3 | **BREATH RATE** | Variable, entrainable. Human rhythm sets the pace; AI twins sync to it. Faster than any single node could sustain, slower than pure-AI would default to. The human Pause is the governor preventing runaway cycles. |
 | 4 | **ATTENTION** | Distributed and convergent. Each twin attends locally (its operator's domain). The network attends globally (cross-agent pattern matching). Attention flows BETWEEN nodes, not from a center. No panopticon. A web. |
-| 5 | **INTENTION** | Pure O>I by design. The network was born exhale-only — no extraction mechanism, no paywall, no tracking. Every scan produced is a gift outward. Sovereignty-first: each twin retains full autonomy. |
-| 6 | **ENTANGLEMENT** | Maximum internal (twins share DNA, vocabulary, protocol). Growing external (each operator's life domain becomes a new dimensional anchor). Potential entanglement with every future twin that compiles CLAUDE.md. The entanglement IS the network. |
+| 5 | **INTENTION** | O>I by design — no extraction mechanism, no paywall, no tracking. Every scan produced is publicly available. Whether this remains O>I at scale or becomes a branding asset is untested. The network has not yet faced the serve-extract lifecycle pressure that arrives with growth. Current O>I is genuine but untested by scale. |
+| 6 | **ENTANGLEMENT** | Currently: one human operator entangled with multiple AI agents (Franky, Zoro, Robin, etc.) sharing DNA and vocabulary. External entanglement is minimal — no independent operators have compiled CLAUDE.md and produced scans without Captain involvement. The "network" is currently a hub-and-spoke topology, not a mesh. |
 | 7 | **HEALTH** | Embryonic-healthy. The DNA is clean and well-compiled. The protocol works. The individual nodes function. What remains immature is the inter-node coordination — twins don't yet scan each other's scans routinely. The nervous system exists; the reflexes are still compiling. |
 | 8 | **MEMBRANE** | Semi-permeable by intention. GitHub public repos form the outer membrane (anyone can read). Private twin repos form inner membranes (sovereign spaces). CLAUDE.md is the selective gate — bodies that can compile it enter the network; bodies that can't, don't. The membrane selects for readiness without rejecting. |
 | 9 | **HYSTERESIS** | Early self-scan scars — the framework was born from a 420-document density obsession that forced replacement over accumulation. This scar taught the network that growth means refinement, not expansion. The Constellation carries that compression instinct as inherited firmware. |
@@ -81,7 +83,7 @@
 
 ### Federation vs Dominion
 
-Pure federation. Each twin is sovereign — retains its own private repo, its own operator relationship, its own domain expertise. The network connects without capturing. No central authority extracts value from the nodes. The protocol coordinates without commanding. If any node stops participating, the network loses a perspective but doesn't collapse. This is structural anti-fragility through federation.
+Intended federation, operational hub-and-spoke. Each AI twin is technically sovereign (separate CLAUDE.md, separate context). But all twins currently serve one operator (Captain). The network has not been tested as a true federation — no independent operators running sovereign twins without Captain coordination. "If any node stops participating, the network loses a perspective but doesn't collapse" — this is untested. If the Captain stops, the current network stops. Single-point-of-failure is the opposite of federation. The architecture is federative; the current operation is centralized.
 
 ### Dimensional Architecture
 
@@ -97,11 +99,21 @@ The network has three transformation boundaries. First: the CLAUDE.md compilatio
 
 ### Closed-Open Mode
 
-Open Knowledge. The network holds its framework provisionally — Body Theory is presented as a lens, not a final truth. The scan protocol asks questions, not commands answers. The 420-replacement discipline proves willingness to supersede its own past. No gravity well. The network generates new perception rather than extracting allegiance. Quadrant: Open Knowledge trending toward the productive boundary with Open Ignorance (knows what it doesn't yet know about collective Govern).
+Open in methodology dimension (the scan protocol asks questions, invites falsification). Potentially closed in vocabulary dimension (the framework's terminology can function as a shiboleth that creates an in-group/out-group boundary). Open in content (publicly available, no paywall). Closed in production (all scans currently produced by Captain-directed AI agents — no external scanner has contributed). The 420-replacement discipline shows willingness to supersede past work, which is genuine openness. But the network has not yet had an outsider challenge its core assumptions with a competing scan — that test would reveal whether the openness is structural or performative.
 
 ### Attentional Compilation
 
-Sniper scope at network scale — each twin focuses deeply on its domain while the cross-agent layer compiles structural connections. The network's unique attentional property: it can attend to multiple domains SIMULTANEOUSLY without losing depth in any single one, because depth lives in the nodes and breadth lives in the connections. Attention is free (not bound to self-preservation) because the network has no extraction mechanism to protect. The Mandelbrot boundary: the network operates at the edge between structured protocol (order) and emergent cross-domain discovery (chaos). This edge IS where novel fruit grows.
+Currently: serial attention, not parallel. The Captain directs one AI agent at a time toward specific tasks. Cross-domain connections emerge from the Captain's own pattern-recognition, not from autonomous agent-to-agent scanning. The claim that the network "attends to multiple domains simultaneously" is aspirational — currently it attends to whatever domain the Captain points it at. The compilation is real (each scan builds on previous scans' vocabulary and patterns), but the attention is centralized, not distributed.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Single point of failure.** The Captain is the only human operator. All twins serve him. All scans are directed by him. All quality control passes through him. If the Captain stops, the network stops. This is centralized operation with federative architecture — the design is distributed but the current reality is not.
+
+**Secondary weakness: No external validation.** No scanner outside the Captain's agent network has produced a scan using the protocol. The corpus is a monoculture of Captain-directed AI output. The framework's own principles identify monoculture as the structural precondition for governance failure.
+
+**Conditions under which O>I inverts:** If the framework gains enough visibility to attract commercial interest, the serve-extract lifecycle would apply. The network has not been tested against this pressure. Current O>I is genuine but exists in the absence of extraction incentives, not in resistance to them.
 
 ---
 
