@@ -4,7 +4,7 @@
 
 # Body Scan: Blockchain Systems
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** AI Systems
 
@@ -102,6 +102,16 @@ Open Knowledge at protocol level, strongly and structurally held. All code is op
 ### Attentional Compilation
 
 Distributed sniper scope. Each node attends precisely to transaction validation within its domain. The collective attention of the network creates a distributed verification field — no single point of attention, but every point attends to the same task (consensus). The compilation effect: users who interact with blockchain long-term develop verification habits — checking on-chain, verifying contracts, reading code before trusting. The body's native distrust compiles attentional rigor in its participants. "Don't trust, verify" is an attentional compilation instruction.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Scalability trilemma.** Blockchain cannot simultaneously achieve decentralization, security, and speed. Every chain sacrifices at least one. Bitcoin sacrifices speed (7 TPS). Solana sacrifices decentralization (high validator hardware requirements). Ethereum Layer 2s sacrifice simplicity (bridge risks, fragmented liquidity). The body's foundational engineering constraint means no single blockchain can serve all use cases — a structural ceiling that no architectural innovation has removed.
+
+**Secondary weakness: Irreversibility of errors.** Smart contract bugs, exploited vulnerabilities, and mistaken transactions cannot be reversed. The same immutability that provides trustless settlement also makes every error permanent. The DAO hack (2016) required a hard fork (chain split) to reverse — meaning the community had to break the chain's own rules to fix a flaw. A body whose error-correction mechanism requires violating its own founding principle has a governance design flaw.
+
+**Conditions under which O>I inverts:** When the energy cost of maintaining the chain exceeds the value it produces for its users (Bitcoin's proof-of-work energy consumption vs. actual usage as a payment system), the body extracts from the environment more than it delivers. If the chain serves primarily as a speculative vehicle rather than a coordination tool, its societal O>I has already inverted to I>O.
 
 ---
 

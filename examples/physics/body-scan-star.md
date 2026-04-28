@@ -4,7 +4,7 @@
 
 # Body Scan: Star (Main-Sequence / The Sun)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -67,7 +67,7 @@ No bumps during main sequence — this is the longest unobstructed flow state of
 | **CREATE** | Maximal | Stellar nucleosynthesis — the creation of elements. Hydrogen becomes helium, helium becomes carbon, carbon becomes oxygen, and in massive stars, the chain continues to iron. Supernova nucleosynthesis creates everything heavier: gold, uranium, plutonium. Stars are the only bodies that create the periodic table. |
 | **RELEASE** | Maximal | The star releases continuously for billions of years. 3.8 x 10^26 watts — every second, the Sun converts 4.3 million tonnes of mass into energy (E = mc^2) and radiates it outward. It holds nothing back. The photon that took 170,000 years to reach the surface is released instantly upon arrival. |
 
-**Power Gap:** None for a main-sequence star in its prime. All five powers are active and strong. The star is the only body besides quantum superposition with no power gap. This structural completeness is why stars are the universe's primary body — everything else is downstream.
+**Power Gap:** Govern (self-regulation). The star cannot regulate its own fuel consumption. Fusion rate is determined by mass, temperature, and pressure — the star has no mechanism to slow down, speed up, or pause its burning. It is locked into its evolutionary track from the moment it ignites. A body that cannot choose its own consumption rate is a body governed by its physics rather than governing itself. The star serves magnificently but has zero sovereignty over how fast it serves — and this fixed rate guarantees its eventual death.
 
 ### Prime Identification
 
@@ -98,6 +98,16 @@ Open Knowledge. The star's internal state is known (helioseismology), its future
 ### Attentional Compilation
 
 The star compiles attention through gravitational focus. Every body in the solar system is gravitationally attending to the Sun — orbiting it, drawn to it, structured by it. This is passive attentional compilation: the star does not seek attention but generates it through mass. Biologically, every photosynthetic organism on Earth is a compiled attention structure aimed at the Sun — leaves orient toward it, circadian rhythms synchronize to it, seasons are defined by the planet's angle relative to it. The star compiles attention across kingdoms of life without trying.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Self-consumption.** The star is powered by fusing its own fuel. Every photon it radiates brings it closer to fuel exhaustion. The body that gives the most (pure O>I radiation for billions of years) does so by consuming itself. This is not sustainable — it is deferred self-destruction. The most generous body in the universe is structurally suicidal, just on a very long timescale.
+
+**Secondary weakness: Catastrophic end-state.** Stars above ~8 solar masses end as supernovae — explosions that destroy the star and irradiate everything within light-years. The body that spent billions of years serving its planetary system annihilates that system at death. Red giant expansion (for Sun-like stars) consumes inner planets. The star's death inverts its entire lifetime of service — the body that gave everything destroys everything it gave to.
+
+**Conditions under which O>I inverts:** At end-of-life. Red giant expansion, planetary nebula ejection, supernova explosion, or gravitational collapse into a white dwarf/neutron star/black hole. Every star eventually transitions from the most O>I body in the universe to a body that actively destroys its environment. The inversion is guaranteed by physics — no star avoids it.
 
 ---
 

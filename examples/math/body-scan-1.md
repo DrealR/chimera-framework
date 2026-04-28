@@ -1,6 +1,6 @@
 # Body Scan: The Number 1
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -94,6 +94,16 @@ Open knowledge. 1 "knows" its role completely (identity element) and holds this 
 ### Attentional Compilation
 
 1 is the sniper scope at rest — focused on everything simultaneously because it exerts no selective pressure. Maximum field, zero extraction. The attentional equivalent of silence — present everywhere, interfering nowhere.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Generative sterility.** 1 × n = n. The identity element creates nothing new. It participates in every multiplication and transforms none of them. This is its defining strength and its defining limitation — a body that cannot generate novelty is structurally dependent on other bodies to produce anything interesting. 1 is the most connected and least creative body in multiplication.
+
+**Secondary weakness: Invisibility as vulnerability.** Because 1 changes nothing, it is often ignored. In prime factorizations, 1 is excluded by convention. In most mathematical contexts, 1 is treated as trivially present rather than structurally significant. The body that holds the entire multiplicative structure together is the body most likely to be overlooked. Structural importance without visibility is a form of fragility — if the identity element were removed, everything collapses, but no one notices it until it's gone.
+
+**Conditions under which O>I inverts:** 1 cannot invert to I>O in standard arithmetic — it is structurally incapable of extraction. This is unusual. Most bodies CAN invert under some condition. 1's inability to invert is itself a limitation: it cannot defend, resist, or push back against any operation. It simply allows.
 
 ---
 

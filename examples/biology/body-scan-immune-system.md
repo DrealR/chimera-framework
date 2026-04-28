@@ -4,7 +4,7 @@
 
 # Body Scan: The Immune System
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Biology
 
@@ -102,6 +102,16 @@ Open Knowledge at its structural best. The adaptive immune system holds its curr
 ### Attentional Compilation
 
 Clonal selection IS attentional compilation. When a B-cell encounters its matching antigen, it proliferates massively — the immune system physically builds more detection hardware for the active threat. After clearance, most clones die but memory cells persist — compiled attention stored as cellular infrastructure. The immune system's attention is the most literally compiled attention in biology: encountering a threat permanently increases detection sensitivity for that specific pattern.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Autoimmunity.** The immune system's pattern-recognition can misidentify self-tissue as foreign. When this happens, the body's defense system becomes its attacker — destroying joints (rheumatoid arthritis), nerve insulation (multiple sclerosis), or insulin-producing cells (type 1 diabetes). A defense system that cannot reliably distinguish self from non-self is structurally dangerous. The Govern gap (self-regulation failure) is the immune system's defining vulnerability.
+
+**Secondary weakness: Overreaction (cytokine storms).** The immune system can amplify its own inflammatory response beyond what the threat requires. Positive feedback loops between immune cells produce runaway inflammation that damages the host more than the pathogen does. COVID-19 deaths were frequently caused not by the virus but by the immune system's own overreaction. The body's defense system can kill the body it defends through excessive governance.
+
+**Conditions under which O>I inverts:** Chronic inflammation. When the immune system maintains a low-grade inflammatory state without a clear threat (obesity, chronic stress, environmental toxins), it shifts from defending the body (O>I) to slowly degrading it (I>O). Chronic inflammation is now implicated in heart disease, cancer, neurodegeneration, and depression. The immune system's sustained low-level activation may be the most common I>O inversion in human biology.
 
 ---
 

@@ -1,6 +1,6 @@
 # Body Scan: The Number 28 (Second Perfect Number)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -96,6 +96,16 @@ Open knowledge. 28 "knows" it is perfect and holds this knowledge openly — its
 ### Attentional Compilation
 
 Trinocular sniper scope. 28 extracts information through three independent channels (2, 4, 7) — one more than 6. This is the minimum configuration for volumetric attention. Two channels = a plane. Three channels = a space. 28 is the smallest perfect number that sees in three dimensions. The triangular layer (T₇) adds a fourth mode: cumulative attention, seeing the whole as the sum of sequential parts.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Rarity as isolation.** Perfect numbers are vanishingly rare — only 51 known as of 2024, and all known examples above 6 are even. 28 exists in near-total isolation from other perfect numbers. Its nearest perfect neighbor is 496, seventeen times its size. A body type this rare has no community, no support structure, no federation with peers. Perfection is lonely.
+
+**Secondary weakness: Generative sterility.** Like 6, 28 maintains perfect equilibrium (1+2+4+7+14=28) but generates no new patterns. It is a fixed point — stable, balanced, complete, and therefore unable to evolve. The cost of perfection is stasis. 28 can sustain itself indefinitely but cannot produce anything beyond itself.
+
+**Conditions under which O>I inverts:** 28 is structurally O=I (divisor sum equals the number), which means it is at the exact threshold between giving and taking. Any perturbation — adding a factor, removing a factor — tips the balance. 28 cannot absorb disruption and remain perfect. Its equilibrium is exact and therefore fragile.
 
 ---
 

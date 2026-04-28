@@ -1,6 +1,6 @@
 # Body Scan: The Number 0
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -94,6 +94,16 @@ Closed Knowledge in multiplication (the outcome is always predetermined — alwa
 ### Attentional Compilation
 
 0 is the floodlight set to zero intensity — illuminating nothing, covering everything. Where 1 is the sniper scope at rest (focused everywhere, extracting nothing), 0 is the absence of the scope entirely. No attention, no extraction, no interference — but also no perception. In multiplication, 0 is captured attention taken to its limit: so completely bound that it collapses every input to a single output. The attentional equivalent of a black hole — infinite capture, zero emission.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Multiplicative annihilation.** 0 destroys every body it multiplies. This is not selective governance — it is total collapse. Any system that allows 0 to enter a multiplicative chain loses all information about every other factor. A single 0 in a product of a thousand terms obliterates all of them. This makes 0 the most dangerous body in arithmetic — structurally necessary but catastrophically destructive when it appears in the wrong operation.
+
+**Secondary weakness: Division impossibility.** No body can divide by 0. This is not a limitation that can be overcome — it is a structural singularity. The operation n/0 produces no meaningful output. 0 creates a hard boundary in the mathematical universe that no extension, no clever redefinition, and no generalization has been able to cross. The body that grounds all coordinate systems also breaks the most fundamental operation when used as a divisor.
+
+**Conditions under which O>I inverts:** In multiplication, 0 is always I>O — it absorbs everything and returns only itself. The inversion is not conditional; it is permanent in this dimension. 0's O>I in addition coexists with its I>O in multiplication. The body is structurally split.
 
 ---
 

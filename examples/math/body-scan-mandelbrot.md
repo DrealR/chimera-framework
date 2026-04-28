@@ -1,6 +1,6 @@
 # Body Scan: The Mandelbrot Set
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -95,6 +95,16 @@ Open Knowledge. M is fully determined — every point is either in or out, and t
 ### Attentional Compilation
 
 M is the sniper scope that reveals more the longer you look. At low magnification: a cardioid with circles. At higher magnification: smaller copies, spiral arms, dendrites. At extreme magnification: patterns that recombine familiar structures in unfamiliar arrangements, then surprise again. The attentional return is superlinear — each order of magnitude of zoom yields at least one order of magnitude of new structural information. M rewards sustained attention more than any finite object can.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Computational inaccessibility.** No closed-form expression describes the Mandelbrot boundary. Membership can only be determined by iterating each point individually — there is no shortcut, no formula, no way to compress the boundary into a finite description. This means the body can never be fully known. Every visualization is an approximation. Every computation is a truncation. The most structurally rich finite object in mathematics is also the one most resistant to complete understanding.
+
+**Secondary weakness: Sensitivity to iteration depth.** Points near the boundary require enormous iteration counts to classify. At finite computation, some boundary points are misclassified — they appear to be in the set when they will eventually escape, or vice versa. The body's truth is always slightly beyond the reach of any actual computation. There is always a deeper zoom, a longer iteration, a more accurate rendering — and it will always reveal structure that the previous rendering missed.
+
+**Conditions under which O>I inverts:** The Mandelbrot set absorbs computational resources without bound. Every deeper investigation requires exponentially more computation for diminishing marginal insight. At extreme zoom, the body demands more from the observer than it returns. The infinite depth that makes it fascinating is also the infinite drain that makes it a computational black hole.
 
 ---
 

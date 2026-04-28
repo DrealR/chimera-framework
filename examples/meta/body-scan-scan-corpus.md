@@ -4,7 +4,7 @@
 
 # Body Scan: The CHIMERA Scan Corpus
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Meta
 
@@ -104,6 +104,16 @@ Open Knowledge, provisionally held. The corpus treats every scan as a hypothesis
 ### Attentional Compilation
 
 The corpus compiles attentional capacity in its readers through repetition-with-variation. Reading one scan teaches the section structure. Reading five scans across different domains teaches the vocabulary. Reading fifteen scans teaches the pattern-recognition that makes the framework's structural laws visible. The attentional compilation is gradual and cumulative — each scan adds a data point that makes the next scan more readable. The transfer readiness is high: a reader who has compiled the corpus's attentional pattern can scan new bodies independently, without the corpus. The corpus is a training set for the reader's perception, not a permanent dependency. Sniper scope: the corpus focuses attention precisely on structural features (membrane, breath, O>I, skeleton) and trains the reader to perceive these features in bodies the corpus has never scanned.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Scanner monoculture.** All scans in the corpus were produced by the same operator directing AI agents. No independent scanner has produced a scan using the protocol. This means the corpus demonstrates protocol usability for one user, not protocol validity across users. If a different scanner produced significantly different results for the same body, the protocol would be measuring the scanner rather than the body. This test has never been performed.
+
+**Secondary weakness: Selection bias.** Bodies chosen for scanning were selected by the framework's creator, who naturally selects bodies the framework handles well. Adversarial bodies (bodies that might break the protocol, resist framework vocabulary, or produce incoherent scans) have not been systematically tested. A corpus with 100% successful scans is either scanning with a perfect tool or scanning only compatible subjects.
+
+**Conditions under which O>I inverts:** When the corpus is cited as evidence FOR the framework rather than as demonstrations OF the framework's application. Evidence requires independent replication and adversarial testing. Demonstrations show capability but do not prove validity. If the corpus is used to claim the framework is "proven" rather than "demonstrated," it has become marketing material — extracting credibility rather than providing insight.
 
 ---
 

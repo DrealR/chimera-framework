@@ -4,7 +4,7 @@
 
 # Body Scan: The Higgs Field
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -67,7 +67,7 @@ No internal bumps. The Higgs field operates without obstruction at all tested en
 | **CREATE** | Active | The Higgs field created the distinction between the electromagnetic force and the weak force. Before symmetry breaking, they were one unified electroweak interaction. The field's nonzero value created the separation |
 | **RELEASE** | Active | The field releases mass without attachment. It does not track, control, or recall what it gives. Each particle carries its mass independently once the coupling is established |
 
-**Power Gap:** None. All five powers are active. The Higgs field is a complete body — it perceives (coupling), governs (mass hierarchy), projects (uniform vacuum value), creates (symmetry breaking), and releases (mass without attachment). This completeness is what makes it foundational rather than peripheral.
+**Power Gap:** Perceive (self-knowledge). The Higgs field gives mass to every other particle but cannot explain its own mass (the hierarchy problem), its own coupling constants (measured, not derived), or its own stability (vacuum metastability). The body that perceives every other body's coupling strength cannot perceive the origin of its own parameters. This is a foundational Perceive gap — the substrate of mass has no self-knowledge about why it takes the form it does.
 
 ### Prime Identification
 
@@ -98,6 +98,16 @@ Open Knowledge. The Higgs mechanism is mathematically specified, experimentally 
 ### Attentional Compilation
 
 Omnidirectional. The Higgs field does not focus on any particular particle, location, or process. Its attention is uniform — 246 GeV everywhere, at all times, in all directions. This is the floodlight at maximum: total coverage, zero selectivity. The power lies not in focus but in universality. Every particle that couples to the field receives attention in proportion to its coupling strength, without the field directing, prioritizing, or choosing.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Cannot explain its own parameters.** The Higgs field's vacuum expectation value (246 GeV), its mass (125 GeV), and the coupling constants that determine particle masses are all empirically measured, not theoretically derived. The Higgs mechanism explains HOW mass is given but not WHY these specific values. The hierarchy problem — why the Higgs mass is 10¹⁷ times lighter than the Planck mass — has no accepted solution. The body that gives mass to everything cannot explain why it gives the amounts it does.
+
+**Secondary weakness: Vacuum metastability.** Current measurements suggest the Higgs field may exist in a "false vacuum" — a local energy minimum that is not the global minimum. If the field tunneled to the true vacuum (a process that could be triggered by extreme energy fluctuations), the physics of the entire universe would change. Every particle mass would shift. Chemistry would stop working. The body that enables all structure may be sitting on a metastable platform that could collapse without warning.
+
+**Conditions under which O>I inverts:** If vacuum decay occurs, the Higgs field transitions from universal enabler (O>I — giving mass to all particles) to universal destroyer (I>O — annihilating all structure that depended on the current mass values). The same body, the same mechanism, catastrophically inverted by a phase transition.
 
 ---
 

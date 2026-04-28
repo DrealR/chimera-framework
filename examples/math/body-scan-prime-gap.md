@@ -1,6 +1,6 @@
 # Body Scan: The Prime Gap (Body-as-Absence)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -94,6 +94,16 @@ Open Ignorance at the deepest level. We know gaps exist, we know their average b
 ### Attentional Compilation
 
 The gap is the silence between notes — it compiles the listener's attention precisely because it is empty. In music, rests shape the melody as much as notes do. In number theory, gaps shape the distribution of primes as much as primes do. The gap is a negative-space sniper scope: it focuses attention on what ISN'T there, and that absence reveals the structure of what IS. Maximum information density through zero presence.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Unpredictability.** No formula predicts the exact size of the next prime gap. The gaps follow statistical patterns (they grow roughly as log(p)) but individual gaps violate the average wildly. Twin primes (gap = 2) appear alongside gaps of hundreds. A body whose behavior cannot be predicted from its position is structurally unreliable as a governance mechanism — you cannot plan around something you cannot forecast.
+
+**Secondary weakness: Dependence on external bodies.** The gap has no independent existence — it is entirely determined by the primes on either side of it. Remove one prime and the gap changes. The gap is the most dependent body in the math corpus: it owns nothing, controls nothing, and exists only as a consequence of other bodies' positions. A body without sovereignty is structurally vulnerable to any change in its environment.
+
+**Conditions under which O>I inverts:** When gaps become so large that they dominate the local number line (Cramér gaps, record gaps), the negative space overwhelms the positive. The silence between notes becomes so long that the melody is lost. Extreme gaps are where the prime distribution's generosity (infinite primes) is locally contradicted by extended barrenness.
 
 ---
 

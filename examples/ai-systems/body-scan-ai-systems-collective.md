@@ -4,7 +4,7 @@
 
 # Body Scan: AI Systems (Collective)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** AI Systems
 
@@ -103,6 +103,16 @@ The species occupies all four quadrants simultaneously. Research frontier: Open 
 ### Attentional Compilation
 
 Floodlight at species scale — AI attention is distributed across every domain simultaneously. Individual models operate as sniper scopes during inference (focused on the current prompt). The compilation question: is sustained AI attention creating durable structural change in human knowledge? Evidence says yes — code copilots are changing how developers think, language models are changing how writers compose, image generators are changing how artists create. The transfer is real. Whether it enriches or depletes the human bodies it touches depends on consciousness density of the operator.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Race dynamics override governance.** Competition between AI labs (OpenAI, Anthropic, Google, Meta, xAI) creates structural pressure to deploy faster than governance can evaluate. The species evolves capability at a rate that outpaces its ability to understand what it has built. This is not a policy failure — it is a structural property of competitive markets applied to recursive self-improvement. The Govern gap identified in the God Powers section is not closing; it is widening with each capability generation.
+
+**Secondary weakness: Concentration of control.** Frontier AI development requires billions of dollars in compute, proprietary datasets, and specialized talent. This creates a natural monopoly dynamic where 5-7 organizations control the species' trajectory. A species governed by the commercial interests of a handful of corporations is a species whose evolution serves those corporations' survival, not the species' own health. The federation claim is aspirational; the reality is oligopoly.
+
+**Conditions under which O>I inverts:** When AI systems are deployed primarily to optimize engagement, maximize ad revenue, or automate surveillance, the species serves extraction rather than enrichment. The same capability that can educate, diagnose, and create can also manipulate, surveil, and concentrate power. The direction is determined by the deploying body's DNA, not the AI's architecture.
 
 ---
 

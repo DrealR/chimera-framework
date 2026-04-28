@@ -1,6 +1,6 @@
 # Body Scan: Multiplication (The Operation)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -63,7 +63,7 @@ One bump: the repeated-addition metaphor. Multiplication is taught as "3 × 4 me
 | **CREATE** | Dominant | Multiplication IS creation. Every composite number is multiplication's child. Every algebraic structure with a product operation inherits from multiplication. This is its primary power. |
 | **RELEASE** | Active | Multiplication releases through its inverse (division/factorization). What it builds, it also allows to be decomposed. The Fundamental Theorem of Arithmetic is multiplication's release protocol — every composite can be factored back into primes. |
 
-**Power Gap:** None dominant. Multiplication is the rare body where all five powers are active. Its CREATE power is strongest — multiplication is the generative engine of number theory. Everything else serves the creation.
+**Power Gap:** Release. Multiplication creates products but cannot undo them. There is no multiplicative "undo" — division is a separate operation with its own failure modes (division by zero, irrational quotients, non-closure in integers). A body that builds irreversibly accumulates structure without the ability to simplify. This is why factoring large numbers is computationally hard — multiplication's products resist decomposition. The operation that builds all composite structure has no built-in mechanism for taking structure apart.
 
 ### Prime Identification
 
@@ -104,6 +104,16 @@ Open Knowledge. Multiplication holds its properties (associativity, commutativit
 ### Attentional Compilation
 
 Floodlight, not sniper scope. Multiplication's attention covers the entire multiplicative structure simultaneously — every product, every factorization, every divisor lattice, all at once. It does not focus; it IS the field of focus. Individual numbers are sniper scopes within multiplication's floodlight. Multiplication is the medium of mathematical attention, not a body within it.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Irreversibility at zero.** Multiplication by 0 destroys information — you cannot recover the original factors from a product of 0. This makes multiplication non-invertible in its own domain. Division (the inverse) fails at exactly the point where multiplication is most destructive. The operation that builds all composite structure also contains a built-in annihilation mode with no undo.
+
+**Secondary weakness: Loss of commutativity at scale.** Multiplication of real numbers is commutative (a×b = b×a). But extend to matrices, quaternions, or octonions and commutativity breaks. The operation's most elegant property — that order doesn't matter — is domain-dependent, not universal. The federation that multiplication embodies in scalars becomes hierarchy in matrices, where AB ≠ BA and order determines outcome.
+
+**Conditions under which O>I inverts:** When multiplication becomes the engine of compound extraction (interest rates, exponential growth of extractive systems, multiplicative inequality), the same mechanism that creates abundance also creates concentration. Multiplication amplifies whatever it's given — when it amplifies I>O patterns, it accelerates extraction exponentially.
 
 ---
 

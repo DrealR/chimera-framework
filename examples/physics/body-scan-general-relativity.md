@@ -4,7 +4,7 @@
 
 # Body Scan: General Relativity
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -71,7 +71,7 @@ Two bumps detected.
 | **CREATE** | Active | Curvature creates structure: galaxies, solar systems, orbital resonances, tidal effects — all emerge from geometry without external engineering |
 | **RELEASE** | Active | Gravitational radiation releases energy as spacetime ripples. Binary pulsars lose orbital energy through gravitational wave emission (Hulse-Taylor, measured to 0.2% precision) |
 
-**Power Gap:** None at classical scales. All five powers operate. At the Planck scale, PERCEIVE and GOVERN break down — the equations produce singularities, which means the theory can no longer perceive or govern the geometry it describes. The gap is scale-dependent, not structural.
+**Power Gap:** Perceive at quantum scales. GR produces singularities — points where curvature becomes infinite and the theory loses all perceptual capacity. At the Planck scale, GR cannot perceive the geometry it purports to describe. This is not a minor boundary limitation — singularities are predicted inside every black hole and at the origin of the universe. The body's most important predictions are the ones it cannot see. A theory that goes blind at exactly the points of highest significance has a structural Perceive gap.
 
 ### Prime Identification
 
@@ -102,6 +102,16 @@ Open Knowledge with acknowledged boundaries. GR explicitly identifies where it f
 ### Attentional Compilation
 
 Sustained focused attention on a single question: how does geometry respond to mass-energy? Ten years of focused work (1905-1915) produced the field equations. The attentional density is extreme — Einstein required the invention of new mathematics (tensor calculus on curved manifolds) to express what sustained attention revealed. The compilation is among the deepest in physics: from one principle (equivalence) to one equation (G_uv + Lambda g_uv = 8piG/c^4 T_uv) to the structure of the cosmos.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Singularity production.** GR's own equations produce singularities — points of infinite curvature where the theory breaks down. The Penrose-Hawking singularity theorems prove that singularities are not edge cases but inevitable consequences of gravitational collapse. A theory that reliably produces points where it cannot function is a theory with a structural self-destruct mechanism. GR predicts its own failure.
+
+**Secondary weakness: Incompatibility with quantum mechanics.** GR treats spacetime as a smooth, continuous manifold. Quantum mechanics treats fields as discrete, quantized excitations. At the Planck scale (~10⁻³⁵ m), these two descriptions contradict each other. No consistent quantum theory of gravity exists. The two most successful theories in physics are structurally incompatible at their shared boundary — and GR cannot accommodate the quantum structure it needs to become complete.
+
+**Conditions under which O>I inverts:** GR serves (O>I) when it explains observations — GPS corrections, gravitational lensing, binary pulsar orbital decay. It inverts when its predictions become unfalsifiable — inside black holes, before the Big Bang, at the Planck scale. Predictions that cannot be tested are not explanations but speculations wearing the authority of an otherwise successful theory.
 
 ---
 

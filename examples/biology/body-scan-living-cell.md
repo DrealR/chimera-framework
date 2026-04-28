@@ -4,7 +4,7 @@
 
 # Body Scan: The Living Cell
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Biology
 
@@ -71,7 +71,7 @@ Three primary bumps:
 | **CREATE** | Active | Cell division — the cell creates a complete copy of itself. Also creates novel proteins, metabolites, and structures (cilia, flagella, extracellular matrix). |
 | **RELEASE** | Active | Exocytosis, secretion, apoptosis. The cell releases waste, signals, and ultimately itself (programmed cell death as the final release). |
 
-**Power Gap:** None in a healthy cell — all five powers are active. This is precisely WHY the cell is the minimal sovereign unit. A body with all five powers active is self-governing. When any power degrades, pathology follows: loss of Perceive = blindness to signals (cancer ignoring growth-stop signals), loss of Govern = dysregulation, loss of Release = toxic accumulation.
+**Power Gap:** Release (conditional). Apoptosis — programmed cell death — requires external triggering signals in most somatic cells. The cell cannot autonomously decide to die; it must receive permission from the organism. A body that cannot choose its own termination is a body whose Release power is externally governed. This is by design (prevents premature cell death) but creates vulnerability: when apoptosis signaling fails, the cell persists beyond its useful life, accumulating damage. The cell's Release gap is what makes cancer structurally possible.
 
 ### Prime Identification
 
@@ -102,6 +102,16 @@ Open Knowledge. The cell "knows" its environment through continuous sensing and 
 ### Attentional Compilation
 
 The cell's attention operates through receptor density — more receptors for a given signal means higher attentional resolution for that signal. A photoreceptor cell has compiled extreme attention to light; a macrophage has compiled extreme attention to foreign antigens. Attentional compilation is literal in biology: the cell physically builds more detection hardware for what matters. Sniper scope, not floodlight — each cell type attends to a narrow band with extraordinary precision.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Cancer vulnerability.** The cell's federation governance depends on growth-inhibition signaling. When a cell stops responding to these signals (oncogene activation, tumor suppressor loss), it transitions from O>I (serving the organism) to I>O (extracting from the organism). Cancer is the cell's built-in failure mode — the same replicative machinery that enables tissue repair enables malignant proliferation when governance breaks. Every cell carries this inversion potential in its genome.
+
+**Secondary weakness: Viral hijacking.** The cell's membrane must be permeable to function (nutrients in, waste out, signals received). This necessary permeability is the same property that viruses exploit to inject their genetic material. The cell cannot close its membrane without dying and cannot keep it open without being vulnerable to hijacking. The membrane that makes the cell alive is the same membrane that makes it hackable.
+
+**Conditions under which O>I inverts:** When a cell's apoptosis (programmed death) machinery fails, the cell loses the ability to self-terminate when damaged. A cell that cannot die when it should is a cell that extracts resources indefinitely — consuming oxygen, glucose, and space that other cells need. The loss of Release (apoptosis) directly causes I>O inversion.
 
 ---
 

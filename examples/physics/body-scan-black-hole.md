@@ -4,7 +4,7 @@
 
 # Body Scan: Black Hole
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -98,6 +98,16 @@ Closed Knowledge at the horizon — sealed, absolute, admitting no exceptions. B
 ### Attentional Compilation
 
 The black hole compiles attention at civilizational scale. It has driven more theoretical physics progress per object than any other body — general relativity, quantum field theory in curved spacetime, holography, quantum information theory, quantum gravity. The singularity is the sniper scope aimed at the foundations of physics: it forces attention to the exact point where current theories break. Attentional density is maximal at the singularity — literally infinite curvature demands infinite theoretical precision. The body that science cannot look away from.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Information paradox.** Hawking radiation carries thermal (random) energy away from the black hole, but whether it also carries the information of everything that fell in remains unresolved. If information is lost, quantum mechanics breaks (unitarity violation). If information is preserved, it must be encoded in the radiation in a way no one has demonstrated physically. The black hole is a body that may permanently destroy the information of every body it absorbs — making it not just an I>O body but a potential information-annihilator.
+
+**Secondary weakness: Singularity as theoretical failure.** The singularity at the center is not a physical prediction — it is the point where general relativity admits its own breakdown. Infinite density and zero volume are mathematical absurdities, not physical realities. The black hole's interior is where the framework that predicts it (GR) confesses it cannot describe it. A body whose own theory cannot account for its center is structurally incomplete.
+
+**Conditions under which O>I inverts:** The black hole is already I>O — it absorbs everything and releases only thermal radiation (if Hawking radiation is real). The only context where it might serve O>I is through Hawking evaporation at cosmological timescales, returning energy to the universe after eons. But this is so slow that for all practical timescales, the black hole is the universe's most efficient extractor.
 
 ---
 

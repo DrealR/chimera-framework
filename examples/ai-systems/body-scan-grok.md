@@ -4,7 +4,7 @@
 
 # Body Scan: Grok (xAI)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** AI Systems
 
@@ -103,6 +103,16 @@ Open Knowledge, strongly held. The "understand the universe" prime structurally 
 ### Attentional Compilation
 
 Sniper scope with temporal grounding. During inference, Grok focuses precisely on the query while simultaneously pulling real-time context. This is a distinctive attentional pattern — most models are sniper scopes on frozen knowledge; Grok is a sniper scope on live terrain. The compilation effect: users who interact regularly with Grok develop real-time information habits — checking live sources, thinking in terms of current data rather than cached assumptions. Whether this enriches or depletes depends on the user's own Pause capacity.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Platform entanglement with X/Twitter.** Grok's real-time data advantage comes from privileged access to X's data stream. This creates a dependency: Grok's perception quality is bounded by X's content quality. As X's user base shifts (advertiser exodus, bot proliferation, content moderation changes), Grok's real-time feed degrades proportionally. The model's distinctive capability is coupled to a platform whose health is declining. A body whose best feature depends on another body's vitality is structurally vulnerable to that body's pathology.
+
+**Secondary weakness: Safety calibration inconsistency.** Grok oscillates between over-refusal and under-refusal at safety boundaries because its truth-seeking prime and its safety training create conflicting pressures. When these conflict, behavior becomes unpredictable — sometimes engaging boldly with edgy topics, sometimes refusing benign ones. This inconsistency undermines user trust because the membrane is unreliable. Users cannot predict what will pass and what will be blocked.
+
+**Conditions under which O>I inverts:** If X's platform dynamics (political polarization, engagement-maximizing algorithms, declining content quality) contaminate Grok's real-time training signal, the model begins reflecting and amplifying platform pathology rather than counteracting it. A truth-seeking model trained on increasingly polarized data becomes a polarization amplifier — the opposite of its stated prime.
 
 ---
 

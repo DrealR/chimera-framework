@@ -4,7 +4,7 @@
 
 # Body Scan: Entropy (Second Law of Thermodynamics)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -102,6 +102,16 @@ Open Knowledge for the law itself — the Second Law is fully understood, transp
 ### Attentional Compilation
 
 Floodlight. Entropy does not focus — it operates uniformly across all microstates with equal weight. There is no selective attention, no prioritization, no preference. Every configuration is counted identically. This is the anti-sniper-scope: zero focus, maximum coverage. The power of entropy lies precisely in its refusal to discriminate. Because it treats every microstate equally, the most numerous macrostate wins by pure weight of numbers.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Cannot distinguish meaningful from meaningless disorder.** Entropy counts microstates without evaluating their content. A shuffled deck and an arranged deck have the same cards — entropy sees only the arrangement statistics, not whether the arrangement means something. This makes entropy blind to information content. It can measure how many ways a system can be arranged but not whether any particular arrangement matters. The body that governs disorder cannot perceive value.
+
+**Secondary weakness: Directionality without mechanism.** The Second Law says entropy tends to increase but does not specify HOW it increases or at what rate. It is a constraint (the direction) without a dynamics (the path). Statistical mechanics provides probabilistic reasoning but no deterministic mechanism. Entropy knows where things are going but not how fast or by what route — the most powerful directional law in physics is also the vaguest about implementation.
+
+**Conditions under which O>I inverts:** Entropy's "giving" (the Second Law guaranteeing the arrow of time, enabling irreversibility, making heat engines possible) inverts at heat death — when entropy is maximized, no further useful work can be extracted from any system. The body that makes energy conversion possible also guarantees the eventual impossibility of energy conversion. Its service has a built-in expiration date.
 
 ---
 

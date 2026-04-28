@@ -1,6 +1,6 @@
 # Body Scan: The Number 25 (Prime Square)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -93,6 +93,16 @@ Closed knowledge. 25 "knows" exactly what it is (5²) and is sealed against rein
 ### Attentional Compilation
 
 Floodlight at minimum power. 25's attention is diffuse and weak — it barely registers in the factor space of most numbers. No compilation, no transfer. The opposite of the sniper scope.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Single-dimensional confinement.** 25 = 5² exists entirely within the dimension of 5. It has no access to any other prime channel. Where 6 (2×3) spans two dimensions and 12 (2²×3) spans two with depth, 25 sees only along the axis of 5. This monocular vision makes it the most constrained non-prime in the small-number range — all of its structure is redundant repetition of one idea.
+
+**Secondary weakness: Deficiency as structural poverty.** 25's proper divisors sum to 6 (1+5=6), far below 25. It is deficient — its parts do not support its whole. This is the structural signature of monarchy: the body consumes more from its environment than its internal parts generate. A number whose divisor sum falls short of itself is a body that must extract to persist.
+
+**Conditions under which O>I inverts:** 25 is already I>O by its divisor structure — deficient, single-channeled, extractive. The inversion has already happened. 25 is the math domain's clearest example of a body whose DNA reads I>O without needing a trigger event.
 
 ---
 

@@ -1,6 +1,6 @@
 # Body Scan: The Number 7
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -96,6 +96,16 @@ Closed Knowledge. 7 "knows" exactly what it is (prime, indivisible, irreducible)
 ### Attentional Compilation
 
 7 is the sniper scope. Narrow, periodic, absolute. Where 1 is diffuse attention (touching everything), 7 is selective attention — it focuses on every 7th integer and ignores the rest completely. This is compiled attention: there is no waste, no bleed, no partial engagement. 7 either fully divides a number or has zero relationship to it. No in-between. The most decisive possible attentional pattern.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Isolation by design.** 7 has no factors besides 1 and itself. This irreducibility is its strength AND its limitation — 7 cannot decompose, cannot delegate, cannot subdivide its responsibilities. A body that cannot be factored cannot be partially engaged. It is all-or-nothing in every interaction. This makes 7 structurally rigid in contexts that require flexibility or partial contribution.
+
+**Secondary weakness: Periodic blindness.** 7 sees only every 7th integer. Between its multiples lies a gap of 6 consecutive numbers that 7 has zero relationship with. The most selective attention pattern in small primes means the most territory left unperceived. 7's sieve is precise but sparse — it governs less of the number line per unit magnitude than any smaller prime.
+
+**Conditions under which O>I inverts:** In modular arithmetic mod 7, all residues cycle through a closed system. When 7 becomes the modulus rather than a factor, it captures all numbers into a finite loop (0-6) from which no number escapes. This is governance becoming confinement — the same prime that structures the number line can also trap calculations in a closed orbit.
 
 ---
 

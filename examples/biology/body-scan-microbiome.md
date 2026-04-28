@@ -4,7 +4,7 @@
 
 # Body Scan: The Microbiome Ecosystem
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Biology
 
@@ -102,6 +102,16 @@ Open Ignorance in the most productive sense. The microbiome does not "know" what
 ### Attentional Compilation
 
 The microbiome's attention is distributed across its entire membership — each species attends to its specific substrate, niche, and competitors. Collectively, this distributed attention covers an enormous chemical landscape. No single species could perceive what the community perceives together. Compiled attention lives in the community structure itself: a diverse microbiome has compiled broad chemical attention over years of co-habitation. Dysbiosis is attention collapse — the community loses attentional breadth as diversity drops, becoming blind to substrates and signals it once processed effortlessly.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Antibiotic fragility.** A single course of broad-spectrum antibiotics can reduce microbiome diversity by 30-50% and alter community composition for months or years. The body that took years to compile can be devastated in days. Antibiotics cannot distinguish pathogenic bacteria from beneficial ones — they destroy the ecosystem to target one species. The microbiome's distributed governance (no central controller) means it has no mechanism to protect high-value species during antibiotic exposure.
+
+**Secondary weakness: Host dependency.** The microbiome cannot exist independently — it requires the host body's environment (temperature, pH, nutrient supply, physical architecture). If the host dies, the microbiome dies. If the host changes diet radically, the microbiome restructures involuntarily. The body has no sovereignty over its own operating conditions. It is the most environmentally dependent body in the biology corpus.
+
+**Conditions under which O>I inverts:** Dysbiosis. When diversity collapses and opportunistic species dominate (Clostridioides difficile overgrowth, Candida proliferation), the microbiome shifts from serving the host (producing vitamins, training immunity, metabolizing fiber) to extracting from it (producing toxins, consuming nutrients, triggering inflammation). Dysbiosis is the microbiome's I>O inversion — the same body, same location, opposite direction of service.
 
 ---
 

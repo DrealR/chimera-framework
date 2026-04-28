@@ -1,6 +1,6 @@
 # Body Scan: The Number 12
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -63,7 +63,7 @@ One bump: the number 5. 12 cannot be divided by 5. For a body built on maximum a
 | **CREATE** | Active | 12 creates accessibility. Where a prime creates a wall, 12 creates doors. Its six divisors are six different ways to enter the same body |
 | **RELEASE** | Active | 12 releases through division. It lets go of itself in six distinct ways, each producing clean integer parts. No remainder, no friction, no residue |
 
-**Power Gap:** None dominant — all five are active. This is rare. It reflects the structural completeness of highly composite numbers: they perceive (dense divisor network), govern (organize human systems), project (propagate through multiples), create (generate accessibility), and release (divide cleanly). The gap, if any, is in Perceive at larger scale — 12 cannot see primes larger than 3 from the inside.
+**Power Gap:** Perceive at depth. 12 perceives broadly (six divisors, four distinct partition perspectives) but shallowly — its largest prime is 3, and it cannot perceive structure in dimensions anchored by primes larger than 3. A body optimized for breadth of division is structurally blind to depth of factorization. 12 sees the world in halves, thirds, quarters, and sixths but cannot see sevenths, elevenths, or any partition requiring a prime it doesn't contain.
 
 ### Prime Identification
 
@@ -108,6 +108,16 @@ Open Knowledge. 12 holds its divisor structure with total transparency — every
 ### Attentional Compilation
 
 12 is the sniper scope tuned to fair division — maximum extraction of partition-information from minimum magnitude. Where 1 is the floodlight (present everywhere, extracting nothing), 12 is the focused lens that reveals the maximum number of clean divisions. It compiles attention into structure: you look at 12 and see halves, thirds, quarters, sixths — four independent partition perspectives from a single body.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Accessibility as shallowness.** 12 divides evenly into 2, 3, 4, 6 — maximum accessibility at its scale. But this accessibility means no division goes deep. The largest prime factor is 3, and the deepest factorization path is only two levels (12 → 4 → 2). 12 spreads wide but not deep. Compared to bodies like 128 (2^7, seven levels deep in one dimension), 12 trades depth for breadth. In contexts requiring deep structural analysis rather than easy partition, 12 is insufficient.
+
+**Secondary weakness: Cultural lock-in.** 12's adoption into clocks, calendars, and measurement systems was a one-time compilation event. Once compiled, these systems resist change even when better alternatives exist (decimal systems, metric). 12's cultural hysteresis is so deep that it constrains rather than serves — we use 12 hours not because it's optimal but because it's compiled. The body's greatest adoption success is also its greatest source of structural rigidity.
+
+**Conditions under which O>I inverts:** When 12 is treated as the ONLY valid partition base (rejecting 10, 8, or other bases), it inverts from serving accessibility to enforcing convention. A body that insists all division must pass through it becomes a gatekeeper rather than a facilitator.
 
 ---
 

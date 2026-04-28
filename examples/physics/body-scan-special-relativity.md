@@ -4,7 +4,7 @@
 
 # Body Scan: Special Relativity
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -67,7 +67,7 @@ No internal bumps. Flow through the Lorentz transformations is completely unobst
 | **CREATE** | Active | E = mc^2 — mass and energy are interconvertible. The theory created the understanding that matter is frozen energy |
 | **RELEASE** | Active | Light releases at c universally, holding nothing back, attaching to no frame |
 
-**Power Gap:** None. All five powers are active. This is rare — most bodies show at least one gap. Special relativity's completeness within its domain is what makes it a structural foundation rather than a working model.
+**Power Gap:** Perceive (gravity). SR cannot perceive gravitational effects — curved spacetime, tidal forces, gravitational time dilation. The theory is structurally blind to the most pervasive force shaping large-scale structure in the universe. SR's domain (flat spacetime) is an idealization that nowhere exists exactly in the real universe. A body that cannot perceive the most common feature of its environment has a permanent Perceive gap that requires a different body (GR) to fill.
 
 ### Prime Identification
 
@@ -98,6 +98,16 @@ Open Knowledge. Special relativity holds its truths provisionally — it knows i
 ### Attentional Compilation
 
 Sniper scope. Special relativity focuses with absolute precision on one question — how do measurements transform between inertial frames? — and extracts the maximum possible information from that focus. Zero waste. Every consequence (time dilation, length contraction, mass-energy equivalence, relativistic momentum) follows from two postulates and sustained attention to their implications. The attentional density is among the highest in the history of physics.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Limited domain.** Special relativity applies only in flat spacetime — no gravity, no acceleration, no curvature. The moment mass is present (always, in the real universe), SR becomes an approximation. The theory that unifies space and time cannot handle the most common feature of physical reality (gravity). Its elegance is purchased at the cost of applicability. GR supersedes it in every real-world context.
+
+**Secondary weakness: Counterintuitive predictions undermine adoption.** Time dilation, length contraction, and the relativity of simultaneity violate every human intuition about space and time. Over a century after its publication, SR remains poorly understood by most educated people. A theory that is structurally correct but perceptually alien to its users has a compilation problem — the insight is available but the membrane between the theory and human intuition is thick.
+
+**Conditions under which O>I inverts:** When relativistic effects are invoked to justify claims outside SR's domain (philosophical conclusions about the "nature of time," claims about consciousness based on reference-frame arguments), the theory's authority is borrowed for purposes it does not support. A theory being used beyond its domain of validity is a theory being extracted from — its credibility consumed without corresponding insight produced.
 
 ---
 

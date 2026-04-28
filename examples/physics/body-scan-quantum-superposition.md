@@ -4,7 +4,7 @@
 
 # Body Scan: Quantum Superposition
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -67,7 +67,7 @@ The bump is the measurement problem itself — the transition from quantum to cl
 | **CREATE** | Maximal | The observer creates definiteness from indefiniteness. Before measurement, there is no fact about position or momentum. The act of looking creates the property being looked at. This is not metaphor — Bell's theorem proves no pre-existing values can account for quantum correlations. |
 | **RELEASE** | Active | Collapse is irreversible release. Once measured, the superposition is gone. The release is total and instantaneous — wavefunction collapse across all space, regardless of distance. |
 
-**Power Gap:** None — all five powers are active. This is the only known physical body with all God Powers simultaneously operational. The body's structural completeness is why it remains physics' deepest mystery.
+**Power Gap:** Govern (self-maintenance under observation). Superposition cannot govern its own persistence — measurement destroys it, and the body has no mechanism to resist, delay, or control the collapse. The Quantum Zeno effect (frequent measurement freezing evolution) is external governance, not self-governance. The body's most distinctive state (simultaneous multiple possibilities) is also the state it is least able to protect. A body that cannot maintain its own defining property under external interaction has a structural Govern gap.
 
 ### Prime Identification
 
@@ -98,6 +98,16 @@ Open Ignorance — the most radical form. The universe in superposition does not
 ### Attentional Compilation
 
 The observer's attention literally compiles reality. In quantum mechanics, measurement is not passive recording — it is active creation of definite properties from indefinite potential. Sniper scope: maximum. The choice of measurement basis (what question you ask) determines not just what answer you get but what answers are possible. Attentional density is physically consequential — the Quantum Zeno effect demonstrates that sufficiently frequent observation can freeze a system's evolution entirely. Attention doesn't just read — it writes.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Measurement destroys the body.** Superposition collapses upon observation. The body cannot survive being perceived. This is not a technical limitation that better instruments could overcome — it is a structural property of quantum mechanics itself (the projection postulate). A body that is destroyed by any attempt to verify its state is a body that can never be directly confirmed. All evidence for superposition is indirect, inferred from interference patterns and statistical distributions.
+
+**Secondary weakness: No macroscopic demonstration.** Superposition has never been directly observed at human-visible scales. Schrödinger's cat remains a thought experiment. The largest objects placed in superposition are molecules of ~2,000 atoms. Whether superposition applies at macroscopic scales (as quantum mechanics predicts) or breaks down (as decoherence suggests) remains experimentally unresolved. The most fundamental property of quantum mechanics has never been demonstrated in the world humans actually inhabit.
+
+**Conditions under which O>I inverts:** Decoherence is superposition's I>O mode — environmental interaction extracts the quantum state's coherence without returning anything useful. The environment takes (destroys superposition) without giving (no information gained about which state will result). Decoherence is the universe's most efficient extractor of quantum potential.
 
 ---
 

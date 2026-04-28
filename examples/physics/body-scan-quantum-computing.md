@@ -4,7 +4,7 @@
 
 # Body Scan: Quantum Computing Systems
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Physics
 
@@ -98,6 +98,16 @@ Open Ignorance at the frontier — the field candidly acknowledges what it does 
 ### Attentional Compilation
 
 Maximum attentional compilation at civilizational scale. Quantum computing has attracted more concentrated intellectual, financial, and institutional attention than any other pre-commercial technology in history. Governments (US, China, EU, Japan), tech giants (Google, IBM, Microsoft, Amazon), and thousands of researchers are all focused on the same problem: extending the Pause. The body compiles attention because it promises exponential leverage — the sniper scope is trained on the most consequential engineering challenge of the century. Whether that attention converts to practical capability or remains aspirational will define the field's next decade.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Decoherence fragility.** Quantum states are destroyed by any interaction with the environment — thermal noise, electromagnetic interference, even cosmic rays. The coherence time of current qubits is measured in microseconds to milliseconds. The body's primary capability (superposition) is also its primary vulnerability: the more qubits entangled, the more fragile the system becomes. Scaling quantum computing means scaling fragility. No other computing paradigm has this inverse relationship between power and robustness.
+
+**Secondary weakness: Error correction overhead.** Current estimates require 1,000-10,000 physical qubits per logical qubit for fault-tolerant computation. A useful quantum computer with 1,000 logical qubits would need millions of physical qubits — most of which exist only to correct errors in the others. The body spends the vast majority of its resources maintaining itself rather than doing useful work. This is a metabolic crisis: the organism consumes more energy in self-maintenance than it produces in output.
+
+**Conditions under which O>I inverts:** If quantum advantage remains limited to narrow, academic problems (factoring, simulation of quantum systems) while classical computing continues improving, the massive investment in quantum computing becomes extraction without return. The body would be consuming societal resources (talent, capital, attention) without delivering proportionate value — the definition of I>O at civilizational scale.
 
 ---
 

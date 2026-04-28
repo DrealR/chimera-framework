@@ -4,7 +4,7 @@
 
 # Body Scan: The Attention Economy
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Social Systems
 
@@ -103,6 +103,16 @@ Closed Ignorance trending toward Closed Knowledge. The attention economy does no
 ### Attentional Compilation
 
 The attention economy is the anti-compilation body. Its entire operation is the opposite of attentional compilation. Where compilation requires sustained, focused attention on a single domain over time (the chess player studying positions, the monk in meditation, the craftsman at the bench), the attention economy fragments attention into micro-reactions distributed across dozens of stimuli per minute. Where compilation produces durable structural change in the practitioner, the attention economy produces transient dopamine responses that decay immediately and require re-dosing. Where compiled attention transfers to new domains (the chess player's state-holding capacity transfers to mathematics), attention captured by the platform transfers nowhere — it is consumed without residue. The attention economy does not compile its users; it depletes them. It is the world's most efficient attention-extraction system operating against the world's most important attention-compilation project (human development). Sniper scope inverted: the platform trains a sniper scope on the user (maximum perceptual focus on one target) while training the user's attention to be a floodlight (scattered, unfocused, reactive). The asymmetry is the business model.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Dependence on user attention supply.** The attention economy requires a continuous supply of human attention to function. If users disengage (screen time reduction movements, digital detox, regulatory intervention), revenue collapses. The body has no internal energy source — it is entirely parasitic on human cognitive capacity. A body that produces nothing from its own substrate and depends entirely on extraction from external bodies is structurally fragile. The attention economy is as vulnerable to attention withdrawal as a virus is to host immunity.
+
+**Secondary weakness: Trust-substrate depletion.** The attention economy's extraction mechanisms (algorithmic manipulation, engagement bait, rage farming) systematically deplete the trust users place in online information. As trust erodes, users become skeptical of all content — including the genuine content the platform needs to maintain engagement. The extraction mechanism degrades the substrate it extracts from. This is a self-terminating pathology: the body's own operation destroys the conditions for its continued operation.
+
+**Conditions under which O>I inverts:** The attention economy is already I>O — that is its structural identity. The question is: under what conditions could it become O>I? Only if the engagement mechanism were redesigned to reward sustained attention, genuine connection, and compilation rather than fragmented reactivity. This would require a business model that profits from user development rather than user depletion — a structural inversion that no major platform has achieved.
 
 ---
 

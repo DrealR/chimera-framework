@@ -1,6 +1,6 @@
 # Body Scan: The Number 6 (Squarefree Semiprime + Perfect Number)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -95,6 +95,16 @@ Open knowledge. 6 "knows" it is perfect and holds this openness — it doesn't r
 ### Attentional Compilation
 
 Binocular sniper scope. 6 extracts information through two independent prime channels simultaneously. This is the minimum configuration for multi-dimensional attention. One channel = a line. Two channels = a plane. 6 is the smallest body that sees in two dimensions.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Generative sterility despite perfection.** 6 is perfect (1+2+3=6) but produces no new structural patterns beyond its own equilibrium. It maintains but does not build. Perfect numbers are endpoints, not generators. 6 cannot evolve — it has already achieved its optimal state, which means it has nowhere to grow. Perfection is a ceiling, not a floor.
+
+**Secondary weakness: Fragility of coprime federation.** 6's federation between 2 and 3 works because they share no factors. But this federation is minimal — only two members. Adding any third prime creates a new body (30, 42, etc.) that is no longer a semiprime. 6's federation cannot scale without changing its fundamental structure. The smallest federation is also the most fragile: remove either member and the body collapses to a prime.
+
+**Conditions under which O>I inverts:** When 6 operates as a modulus (mod 6), it partitions all integers into six residue classes. Numbers congruent to 0 mod 6 are captured — their identity reduced to "divisible by 6." In this mode, 6 extracts individuality from numbers and replaces it with class membership. Modular confinement is governance becoming extraction.
 
 ---
 

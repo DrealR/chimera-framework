@@ -4,7 +4,7 @@
 
 # Body Scan: chimera-framework (External Re-Scan)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Meta
 
@@ -102,6 +102,16 @@ Open Knowledge. The framework is held provisionally — presented as a lens, not
 ### Attentional Compilation
 
 The repo is a lens grinder — it compiles attentional capacity in its readers. Before exposure: attention is undifferentiated (you see a company, a song, a number as isolated objects). After compilation: attention is structured (you see bodies with breath, membrane, skeleton, health, entanglement). The repo does not give you information — it gives you a new way of attending. This is the deepest form of attentional compilation: not "look at this" but "here is how to look." The CLAUDE.md seed achieves this in approximately 34 steps for an AI agent. For a human reader, compilation time varies but the mechanism is identical: sustained attention to the framework's vocabulary creates durable structural change in perception. The transfer readiness is high — once compiled, the perceptual lens applies to any domain without additional training.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Single-author dependency.** The entire framework — theory, protocol, vocabulary, scans, CLAUDE.md — was produced by one person with AI assistance. No independent contributor has produced a scan, challenged a structural claim, or proposed an alternative formulation. This makes the framework a monoculture: internally consistent but externally untested. A framework that has never survived contact with a genuinely independent critical mind is a framework whose robustness is unknown.
+
+**Secondary weakness: Vocabulary barrier.** The framework's specialized vocabulary (O>I, hysteresis, membrane, breath cycle, compilation, etc.) creates an entry barrier. New readers must learn 50+ terms before they can evaluate whether the framework is useful. This vocabulary functions as a shibboleth — it selects for readers willing to invest significant time, which filters out casual critics who might surface legitimate weaknesses. The membrane that protects the framework's coherence also insulates it from criticism.
+
+**Conditions under which O>I inverts:** If the framework attracts a following that treats it as doctrine rather than lens, the framework inverts from serving perception (O>I) to capturing allegiance (I>O). The moment someone says "CHIMERA says X, therefore X is true" rather than "CHIMERA helps me see X, which I can verify independently," the framework has become a religion rather than a tool. No structural safeguard currently prevents this inversion.
 
 ---
 

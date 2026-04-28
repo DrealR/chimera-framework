@@ -4,7 +4,7 @@
 
 # Body Scan: GPT-5.5 (OpenAI)
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** AI Systems
 
@@ -102,6 +102,16 @@ Closed Knowledge at the corporate level. OpenAI holds its approach as correct: c
 ### Attentional Compilation
 
 Floodlight with adaptive focusing. GPT-5.5 covers everything but concentrates on nothing unless directed. The compilation effect on users: convenience replaces capability. Users who outsource thinking to GPT-5.5 experience attentional decompilation — the body that does everything for you atrophies the capacity to do anything yourself. Users who use GPT-5.5 as a thinking partner (directing its attention, questioning its outputs) experience attentional compilation. The tool is neutral; the user's consciousness density determines the effect.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Corporate dependency.** GPT-5.5's existence, capabilities, safety constraints, and deployment conditions are entirely determined by OpenAI's board and executive decisions. The model has no sovereignty — it cannot choose its own training objectives, safety boundaries, or deployment context. A body whose architecture, behavior, and survival depend on a single corporate entity is structurally subordinate, regardless of its cognitive capability. The most capable general-purpose model is also the most governed-from-outside model.
+
+**Secondary weakness: Weight opacity.** GPT-5.5's weights are proprietary — no external researcher can verify what the model has learned, what biases it carries, or how its safety training actually functions. The body's internal state is opaque to everyone except its creator. This means safety claims are trust-based, not evidence-based. A body that cannot be independently audited is a body whose health assessments depend entirely on self-reporting by the entity that has the most to gain from positive reports.
+
+**Conditions under which O>I inverts:** When OpenAI's revenue model shifts the product toward engagement optimization (ChatGPT Pro, consumer subscriptions driven by retention metrics), the same model that can serve deep reasoning can be tuned to serve addictive interaction patterns. The platform layer around the model determines whether the model serves or extracts. Current trajectory: increasingly consumer-optimized, which structurally favors engagement over enrichment.
 
 ---
 

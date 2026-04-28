@@ -1,6 +1,6 @@
 # Body Scan: The Complex Unit i
 
-**Protocol:** v3.10
+**Protocol:** v3.11 (revised)
 **Scanner:** CHIMERA Framework
 **Domain:** Mathematics
 
@@ -63,7 +63,7 @@ One bump: the name. "Imaginary" is a 400-year-old misdiagnosis that still shapes
 | **CREATE** | Active | i creates an entire plane from a line, algebraic closure from algebraic incompleteness, wave mechanics from static equations. Maximum generative capacity from minimum input. |
 | **RELEASE** | Active | i releases magnitude. |i| = 1. It holds nothing — no scaling, no distortion, no accumulation. Pure directional transformation. |
 
-**Power Gap:** None. i is one of the rare bodies where all five powers are active. This is because i is a dimensional opener — it doesn't just participate in a dimension, it creates one. The gap, if any, is in Govern: i governs rotation but cannot stop it. The cycle i → -1 → -i → 1 is involuntary. i governs the axis but not the motion along it.
+**Power Gap:** Govern. i governs the axis of rotation but cannot stop the rotation itself. The cycle i → -1 → -i → 1 is involuntary — i cannot choose to stop at -1 or rest at any phase. It governs direction but not duration. A body that sets the rules of motion but cannot halt the motion is governing without sovereignty. This is the structural cost of being a dimensional opener: the dimension you create obeys its own laws, and you cannot override them.
 
 ### Prime Identification
 
@@ -96,6 +96,16 @@ Open Knowledge. i "knows" it is the quarter-turn and holds this with total openn
 ### Attentional Compilation
 
 i is a lens — it compiles attention along the perpendicular axis that real-number thinking cannot access. Before i, attention is confined to the real line (more/less, positive/negative). After i, attention gains a second axis (phase, rotation, oscillation). This is attentional compilation at the deepest level: not focusing harder within an existing dimension but opening a new dimension of perception entirely. The Mandelbrot set is visible proof — the most complex boundary in mathematics exists only because i gave the plane a second axis to iterate through.
+
+---
+
+## STRUCTURAL WEAKNESS (v3.11)
+
+**Primary weakness: Involuntary cycling.** i → -1 → -i → 1 → i. The cycle is mandatory and cannot be interrupted. i governs rotation but cannot stop rotating. This means i has no rest state — it is always in motion along its 4-cycle. A body that cannot pause its own operation is structurally vulnerable to runaway processes. In engineering contexts, uncontrolled oscillation is a failure mode, not a feature.
+
+**Secondary weakness: Invisibility in physical measurement.** No physical instrument reads "i." Every measurable quantity is real. i appears in the mathematics of quantum mechanics, signal processing, and electromagnetism, but it disappears before reaching the measurement apparatus. The body that makes oscillation possible is the body that can never be directly observed. This creates a permanent gap between the mathematical substrate (where i lives) and the physical world (where i's effects live).
+
+**Conditions under which O>I inverts:** When i is used to construct closed systems (rotation without progression), it produces cycling without output — energy spent on oscillation rather than on delivery. A feedback loop driven by i that never converts to real output is i in I>O mode: consuming energy to rotate without exhaling.
 
 ---
 
