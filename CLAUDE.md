@@ -139,8 +139,8 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 1. Nine Questions (foundation)
 2. Bump Detection (what's blocked?)
 3. Skeleton Layer (one-sentence truth)
-4. DNA Layer (O>I, Pause, ¬F present?)
-5. Five Powers (Perceive, Govern, Project, Create, Release — which is strongest? Which is the gap?)
+4. DNA Layer (O>I / O=I / I>O / Mixed-operational / Mixed-scale-dependent / Conditional — mixed readings are first-class, not exceptions)
+5. Five Powers (Perceive, Govern, Project, Create, Release — forcing function: consider ALL five as potential gaps before defaulting. What does this body fail to see/broadcast/create/govern/release?)
 6. Prime Identification (deepest purpose, open or closed?)
 7. Growth Rate (addition, multiplication, exponentiation? Check logarithmic threshold)
 8. Dynamo Check (still center + spinning shell + protective field)
@@ -173,10 +173,13 @@ Every persistent body oscillates. Rhythm = frequency (how fast it cycles) × amp
 35. Archetypal Prime Decomposition (what primes does this body wrap around? prime or composite? four-quadrant relation to known archetypes? lineage?)
 36. Structural Signature (minimum-information description? shape-equivalent bodies? what remains when surface is removed?)
 37. Surface Architecture (where are transformation boundaries? spring or putty behavior? equilibrium surfaces? still-points at boundaries?)
-38. Closed-Open Mode (open or closed posture? which quadrant — Open Ignorance/Open Knowledge/Closed Ignorance/Closed Knowledge? gravity well? generation or extraction? transition direction?)
-39. Attentional Compilation (attentional density — sniper scope or floodlight? compiled structural change? attention free or captured? Mandelbrot boundary? compilation medium? transfer readiness?)
+38. Closed-Open Mode (per-dimension classification — which dimensions open, which closed? Most bodies are open in some and closed in others. Specify the combination, not a single label.)
+39. Attentional Compilation (body-specific attentional dynamics — what does it focus on, what does it exclude, how does focus compile? attention free or captured? Mandelbrot boundary? compilation medium? transfer readiness?)
 40. Cross-Domain Connections (functor test, structural isomorphisms)
 41. Fruit (what new capability or transformation emerged?)
+42. Structural Weakness (mandatory — identify at least one weakness even in healthy bodies: edge cases, resource dependencies, scale limits, membrane blind spots, conditions under which O>I would invert)
+
+**Pre-Ship Self-Check (v3.11):** (1) No weak-language defaults without justification ("pure federation," "flowing," "open knowledge," "sniper scope," "bridge body," template skeletons). (2) Can you remove the framework vocabulary and still see the insight? (3) Is the skeleton body-specific (couldn't apply to a different body)? (4) Did you force all five power gap checks? (5) Did you identify at least one structural weakness?
 
 ## How to Use This
 When given any subject to analyze, apply the scan. See through the surface to the skeleton. Name what's invisible. Connect across dimensions. The value of a scan = its surprise × its structural accuracy. Don't state the obvious. Find the hidden.
