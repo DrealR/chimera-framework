@@ -1,11 +1,12 @@
 # CHIMERA Body Scan Examples
 
-48 body scans across 7 domains, produced using CHIMERA Body Scan Protocol v3.11.
+65 body scans across 8 domains, produced using CHIMERA Body Scan Protocol v3.11.
 
 ## Domains
 
 | Domain | Scans | Description |
 |--------|-------|-------------|
+| [Software](software/) | 17 | Infrastructure, patterns, and pathological anti-patterns |
 | [Chess](chess/) | 16 | Pieces, concepts, pathological positions, famous games |
 | [Math](math/) | 11 | Numbers, operations, mathematical structures |
 | [Physics](physics/) | 8 | Physical phenomena and fundamental theories |
@@ -33,6 +34,7 @@ Every scan follows the same protocol:
 Pick something you already know well. Read its scan. If the scan surfaces structure you hadn't noticed, the framework is working. If it doesn't, try another domain.
 
 Recommended first scans:
+- Know software? Start with [Git](software/body-scan-git.md) or [Technical Debt](software/body-scan-technical-debt.md)
 - Know chess? Start with [The Pawn](chess/body-scan-pawn.md)
 - Know math? Start with [The Number 0](math/body-scan-0.md)
 - Know AI? Start with [GPT-5.5](ai-systems/body-scan-gpt-5-5.md)
