@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Internet (Late-Stage AI Saturation, 2026)"
+  body_type: "Public communication substrate / attention economy host"
+  domain: "social-systems"
+  scale: "planetary"
+  lifespan: "~30 years in current form; entering substrate-collapse phase"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12.1"
+
+nine_questions:
+  medium: "Human attention + content + algorithmic curation + advertising revenue + platform infrastructure"
+  flow_state: "inverted — humans inhale algorithmically curated content; bots exhale at rates impossible for humans to match"
+  breath_rate: "pathologically accelerated — original hours/days compressed to milliseconds"
+  attractor: "Engagement metrics (views, clicks, time-on-platform) regardless of what produces them"
+  topology: "Originally federated (independent sites, RSS, email); compressed into platform oligopoly"
+  entanglement: "Total with 5+ billion users but asymmetric — platforms see all of users; users see only what platforms render"
+  health: "Late-stage pathology; membrane integrity collapsing; autoimmune moderation responses"
+  membrane: "Originally permeable-to-humans, impermeable-to-non-humans; AI saturation dissolved the second boundary"
+  hysteresis: "Scars from every prior platform collapse (Usenet → AOL → MySpace → Facebook → present); each generation forgot the last"
+
+dna:
+  o_vs_i: "I>O (originally O>I; inverted through platform optimization for extraction)"
+  pause_quality: "catastrophically collapsed — systematically engineered out as friction"
+  not_force: "low — choice architecture, algorithmic delivery, dopamine engineering, dark patterns"
+
+skeleton: "A communication substrate built on the assumption that traces correspond to humans, now hosting an exponentially growing population of trace-generators that no longer require humans to produce them — and platforms whose business model depends on counting traces rather than verifying substance"
+
+powers:
+  perceive: "asymmetric god-tier — platforms perceive everything about users; users perceive nothing about platforms"
+  govern: "concentrated — handful of platforms govern attention of billions without democratic accountability"
+  project: "pathological maximum — every user constantly projected at by content optimized to capture them"
+  create: "inverted — now creates synthetic reality faster than humans can create authentic reality"
+  release: "none — no apoptosis, no garbage collection, no pass-option; permanence is total"
+  primary_gap: "release"
+  gap_reason: "The internet has no native mechanism for letting go — content persists indefinitely, users cannot truly delete data, attention captured cannot be returned"
+
+classification:
+  federation_dominion: "dominion (originally federation; federation-to-dominion flip 2005-2020)"
+  closed_open: "closed-ignorance at platform level; open at protocol level (the protocols still work, the platforms built on them don't)"
+  prime: "A communication substrate that has lost the capacity to distinguish messages from noise because the cost of generating noise has dropped below the cost of attention required to evaluate it"
+  prime_type: "closed — late-stage substrate pathology in scale-collapse phase"
+
+structural_weakness:
+  primary: "Membrane substrate failure — built on human-to-trace mapping assumption that AI saturation has broken; every system, metric, and business model depends on the broken assumption"
+  secondary: "Capital-induced Pause collapse — friction engineered out because it reduces metrics; no protective gap between content generation and consumption"
+  inversion_condition: "When AI-generated traffic + content + decisions exceed human equivalents across all major platforms simultaneously; some platforms have already crossed individually"
+
+cross_domain:
+  - connection: "Same structural pattern as cancer — uncontrolled replication without governance, no apoptosis; bot ecosystem IS cancer at communication scale"
+    domains_bridged: "Social Systems ↔ Biology"
+    novelty: 0.8
+  - connection: "Same structural pattern as memory leak — accumulation without Release; the internet does not forget"
+    domains_bridged: "Social Systems ↔ Software"
+    novelty: 0.7
+  - connection: "Structurally a fourth member of the Pathological Triad — same architecture: native camouflage + accumulation without release + host-language weaponization"
+    domains_bridged: "Social Systems ↔ Multi-Body"
+    novelty: 0.9
+  - connection: "Same federation-to-dominion arc as charismatic Govern mobilization engine at communication-substrate scale"
+    domains_bridged: "Social Systems ↔ Social Systems (historical)"
+    novelty: 0.7
+
+fruit:
+  type: "Late-stage social-systems pathology with structural exit analysis"
+  core_insight: "The internet's pathology is one structural problem across all platforms: capital optimizes for metrics, AI breaks the metrics' relationship to substance, platforms double down on AI, the value-creating substrate gets cannibalized. Structural solutions require small substrates, web-of-trust, provenance chains, and Pause restoration."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE ASYMMETRIC PERCEIVE"
+    description: "Platforms see users completely; users see platforms not at all — this power makes every other pathological dynamic possible"
+  - name: "THE COLLAPSED PAUSE"
+    description: "A substrate without rest; removing every gap between stimulus and response means the substrate loses the ability to distinguish what it's responding to"
+  - name: "THE PHANTOM AUTHORITY"
+    description: "Systems whose authority comes from numbers become uninhabitable when those numbers can be manufactured; the numbers continue driving decisions after they stop meaning anything"
