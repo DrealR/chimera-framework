@@ -44,7 +44,8 @@ Recommended first scans:
 
 ## Framework Validation
 
-- [META-SCAN-SYNTHESIS v3](META-SCAN-SYNTHESIS-v3.md) — Third audit of the 71-scan corpus (current)
+- [META-SCAN-SYNTHESIS v4](META-SCAN-SYNTHESIS-v4.md) — Fourth audit of the 79-scan corpus including multi-body scans (current)
+- [META-SCAN-SYNTHESIS v3](META-SCAN-SYNTHESIS-v3.md) — Third audit (71 scans)
 - [META-SCAN-SYNTHESIS v2](META-SCAN-SYNTHESIS-v2.md) — Second audit (65 scans)
 - [META-SCAN-SYNTHESIS v1](META-SCAN-SYNTHESIS.md) — First audit (32 scans)
 - [Inter-Rater Reliability Test](inter-rater-test-special-relativity.md) — Two independent scanners, same body, 85.7% convergence
