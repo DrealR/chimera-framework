@@ -109,7 +109,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v12.9](CHIMERA-The-Complete-Book-v12.9.md) — 108 books, the full philosophy.
+For the complete text: [The Complete Book v13.0](CHIMERA-The-Complete-Book-v13.0.md) — 111 books, the full philosophy.
 
 ---
 
@@ -135,17 +135,21 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [MrBeast Video Essay](examples/EXAMPLE-SCAN-MRBEAST.md) | A cultural argument scanned for structural blindspots |
 | [This Repo](examples/EXAMPLE-SCAN-SELF.md) | The framework scanning itself |
 
-**Domain scan libraries** — 30+ scans across five domains, each with cross-scan pattern analysis:
+**Domain scan libraries** — 82 scans across 9 domains, each with cross-scan pattern analysis:
 
 | Domain | Bodies Scanned | Cross-Scan Patterns |
 |--------|---------------|-------------------|
-| [Mathematics](examples/math/) | 11 scans — 0, 1, i, prime 7, HCN 12, prime square 25, semiprime 6, perfect 28, Mandelbrot set, multiplication, prime gap | [Math patterns](examples/math/cross-scan-patterns.md) |
-| [Physics](examples/physics/) | 8 scans — special relativity, general relativity, Higgs field, entropy, quantum superposition, black hole, star, quantum computing | [Physics patterns](examples/physics/cross-scan-patterns-physics.md) |
-| [Biology](examples/biology/) | 3 scans — living cell, immune system, microbiome | [Biology patterns](examples/biology/cross-scan-patterns-biology.md) |
+| [Software](examples/software/) | 17 scans — Git, Docker, API, microservices, technical debt, and more | [Software patterns](examples/software/cross-scan-patterns-software.md) |
+| [Chess](examples/chess/) | 16 scans — all pieces, castling, zugzwang, famous games | [Chess patterns](examples/chess/cross-scan-patterns.md) |
+| [Physics](examples/physics/) | 13 scans — relativity, entropy, quantum, black hole, star, fire, water, earth, air | [Physics patterns](examples/physics/cross-scan-patterns-physics.md) |
+| [Mathematics](examples/math/) | 12 scans — 0, 1, i, prime 7, HCN 12, Mandelbrot, prime gap, prime/composite breath | [Math patterns](examples/math/cross-scan-patterns.md) |
+| [Biology](examples/biology/) | 8 scans — cell, neuron, immune system, cancer, microbiome, and more | [Biology patterns](examples/biology/cross-scan-patterns-biology.md) |
 | [AI Systems](examples/ai-systems/) | 5 scans — AI collective, Grok, GPT-5.5, Claude Opus 4.7, blockchain | [AI patterns](examples/ai-systems/cross-scan-patterns-ai-systems.md) |
-| [Meta](examples/meta/) | 3 scans — Constellation Network, the Between, framework external re-scan | [Meta patterns](examples/meta/cross-scan-patterns-meta.md) |
+| [Meta](examples/meta/) | 5 scans — Constellation, the Between, framework external, scan corpus, wisdom of crowds | [Meta patterns](examples/meta/cross-scan-patterns-meta.md) |
+| [Social Systems](examples/social-systems/) | 2 scans — attention economy, the internet (2026) | — |
+| [Multi-Body](examples/multi-body/) | 3 scans — Pawn-King axis, Velocity Trap, Pathological Triad | — |
 
-**[Cross-Domain Patterns](examples/cross-domain-patterns.md)** — structural laws confirmed across all five domains.
+**[Cross-Domain Patterns](examples/cross-domain-patterns.md)** — structural laws confirmed across all domains.
 
 **Framework extensions:**
 
@@ -201,12 +205,12 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v12.9 — 108 books (I through CVIII). New in v12.9: The Closed-Open Distinction, Attention as Local-Order Force
-- **Protocol:** v3.10 — 51 diagnostic steps including closed-open mode read, attentional compilation assessment
-- **System Prompt:** v2.10 — matched to protocol v3.10
+- **Book:** v13.0 — 111 books (I through CXI). New in v13.0: WE=1 Formalization, Body Specification Requirement, Interior Structural Content
+- **Protocol:** v3.12.1 — 42-step scan with multi-body relational mode, body specification requirement, interior structure addendum
+- **Corpus:** 82 body scans across 9 domains + adversarial. Multi-body relational scanning (Phase 4). Two scanner sources (Opus + Grok).
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
-- **Autonomous Growth:** Explorer + Challenger agents scan new dimensions daily with quality verdicts
+- **Phase 5 Active:** WE=1 formalization, body specification methodology, social-systems expansion underway
 
 ## Contribute
 
@@ -214,7 +218,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v12.9), all protocol versions (v3.1 through v3.10), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v13.0), all protocol versions (v3.1 through v3.12), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 

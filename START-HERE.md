@@ -54,11 +54,11 @@ Your twin is live in 5 minutes. No books required. [Full details](README.md#i-wa
 
 ### I want to read the philosophy
 
-Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md), then [The Love Equation](body-theory/LOVE-EQUATION.md). Those three give you the foundation. The [complete book](CHIMERA-The-Complete-Book-v12.9.md) has 108 books for when you want the full depth.
+Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md), then [The Love Equation](body-theory/LOVE-EQUATION.md). Those three give you the foundation. The [complete book](CHIMERA-The-Complete-Book-v13.0.md) has 111 books for when you want the full depth.
 
 ### I want to scan something specific
 
-Grab the [Body Scan Protocol](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — a fill-in template that walks you through 51 diagnostic steps. Or look at [example scans](examples/) to see how the protocol reads a gaming company, a film, a city, and calculus.
+Grab the [Body Scan Protocol](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — a fill-in template that walks you through the diagnostic steps. Or look at [82 example scans](examples/) across 9 domains — software, chess, physics, math, biology, AI, meta, social systems, and multi-body relational composites.
 
 ---
 
