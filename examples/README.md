@@ -1,6 +1,6 @@
 # CHIMERA Body Scan Examples
 
-71 body scans across 8 domains + adversarial, produced using CHIMERA Body Scan Protocol v3.11/v3.12. All standard scans have companion YAML data files (70/71) for programmatic querying.
+79 body scans across 9 domains + adversarial, produced using CHIMERA Body Scan Protocol v3.11/v3.12/v3.12.1. All standard scans have companion YAML data files for programmatic querying.
 
 ## Domains
 
@@ -8,12 +8,13 @@
 |--------|-------|-------------|
 | [Software](software/) | 17 | Infrastructure, patterns, and pathological anti-patterns |
 | [Chess](chess/) | 16 | Pieces, concepts, pathological positions, famous games |
+| [Physics](physics/) | 13 | Physical phenomena, fundamental theories, and elemental bodies |
 | [Math](math/) | 11 | Numbers, operations, mathematical structures |
-| [Physics](physics/) | 8 | Physical phenomena and fundamental theories |
+| [Biology](biology/) | 8 | Cells, organs, processes, and pathological bodies |
 | [AI Systems](ai-systems/) | 5 | AI models and digital systems |
 | [Meta](meta/) | 4 | The framework scanning itself |
-| [Biology](biology/) | 8 | Cells, organs, processes, and pathological bodies |
 | [Social Systems](social-systems/) | 1 | Social structures and economies |
+| **[Multi-Body](multi-body/)** | **3** | **Relational scans — composites of existing bodies (Phase 4)** |
 
 ## How to Read a Scan
 
@@ -48,6 +49,14 @@ Recommended first scans:
 - [META-SCAN-SYNTHESIS v1](META-SCAN-SYNTHESIS.md) — First audit (32 scans)
 - [Inter-Rater Reliability Test](inter-rater-test-special-relativity.md) — Two independent scanners, same body, 85.7% convergence
 - [Adversarial Scan: A Lie](adversarial-scan-a-lie.md) — Testing framework boundaries with a body designed to deceive
+
+## Multi-Body Relational Scans (Phase 4)
+
+The [multi-body/](multi-body/) directory contains the first canonical multi-body relational scans — composites that read what bodies BECOME when they interact. Methodology: [Multi-Body Relational Protocol](../body-theory/MULTI-BODY-RELATIONAL-PROTOCOL.md).
+
+- [Pawn-King Axis](multi-body/body-scan-pawn-king.md) — Protection and purpose are structurally inseparable
+- [The Velocity Trap](multi-body/body-scan-git-debt-microservice.md) — Distributed autonomy without distributed perception
+- [The Pathological Triad](multi-body/body-scan-pathological-triad.md) — The Pause is the universal cure for pathology
 
 ## Thought Experiments
 

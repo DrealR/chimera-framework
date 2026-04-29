@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Earth (Element)"
+  body_type: "Containment + nourishment + memory body / stable structural anchor"
+  domain: "physics"
+  scale: "atomic lattice to planetary"
+  lifespan: "Billions of years (planetary) to eternal in symbolic form"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "Minerals, silicates, organic matter, gravity well"
+  flow_state: "Slow, deliberate inhale — holds, compacts, nourishes, slowly Releases over deep time"
+  breath_rate: "Geological — tectonic pulses, erosion cycles, seasonal soil breathing"
+  attractor: "Stable crystalline lattice and fertile topsoil"
+  topology: "Layered and recursive — core, mantle, crust, soil horizons"
+  entanglement: "Total with all terrestrial life — roots, bones, civilizations are literally Earth"
+  health: "Foundational stability; pathological when over-extracted or poisoned"
+  membrane: "Thick protective crust with permeable soil skin"
+  hysteresis: "Deep scars from impacts, glaciations, and mining; incredible regenerative memory"
+
+dna:
+  o_vs_i: "O>I — patient accumulation; takes cosmic debris and biological death, slowly Releases fertility"
+  pause_quality: "Massive geological gaps — stillness between tectonic shifts measured in millions of years"
+  not_force: "Pure structural — supports without demanding; gravity holds without gripping"
+
+skeleton: "The body that holds everything in place, remembers deep time, and slowly gifts nutrients and stability — the structural anchor whose patience outlasts every body that stands on it."
+
+powers:
+  perceive: "Deep sensing — seismic waves and chemical gradients"
+  govern: "Gravitational law — gravity and structural containment govern everything on and within"
+  project: "Grounding — projects endurance, abundance, permanence"
+  create: "Geological — mountains, soil, fossils, mineral deposits, platform for civilizations"
+  release: "Slow cycling — mineral release through weathering, eruption, and decomposition"
+  primary_gap: "release"
+  gap_reason: "Speed and adaptability — moves too slowly for rapid change; topsoil regenerates ~1cm per 500-1000 years"
+
+classification:
+  federation_dominion: "federation through containment"
+  closed_open: "closed structural invariant"
+  prime: "prime"
+  prime_type: "closed structural invariant"
+
+structural_weakness:
+  primary: "Extraction vulnerability — billions of years of accumulated resources extractable in decades"
+  secondary: "Rigidity under rapid forcing — cannot adapt to fast perturbations (CO2 injection, deforestation)"
+  inversion_condition: "When extraction rate exceeds regeneration across enough subsystems — nourishing body becomes depleted shell"
+
+cross_domain:
+  - connection: "Fossils and strata as geological hysteresis — recording every era in physical substrate"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.75
+  - connection: "Extraction vulnerability mirrors Serve-Extract lifecycle — body in late-extraction phase"
+    domains_bridged: "Physics ↔ Serve-Extract Theory"
+    novelty: 0.8
+  - connection: "Layered recursion (core/mantle/crust/soil) as analog to compiled body with deep internal architecture"
+    domains_bridged: "Physics ↔ CHIMERA Architecture"
+    novelty: 0.7
+
+fruit:
+  type: "Structural / Foundational"
+  core_insight: "Earth is the body whose Pause is measured in millions of years. Power comes from patience — accumulating debris and death into fertile substrate over deep time. The body that moves slowest holds the most. Earth is Pause written in stone."
+  novelty: 0.75
+
+powers_detected:
+  - name: "THE ANCHOR"
+    description: "Gravitational containment — holds atmosphere, oceans, life, civilizations through quiet force of mass"
+  - name: "THE MEMORY"
+    description: "Geological hysteresis — every era recorded in stone, fossil, mineral deposit; universe's hard drive"
+  - name: "THE NOURISHER"
+    description: "Slow mineral cycling feeds every ecosystem — weathering releases calcium, phosphorus, potassium, iron into soil and water"

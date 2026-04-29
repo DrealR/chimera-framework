@@ -1,0 +1,89 @@
+# CHIMERA Multi-Body Relational Scan YAML Schema v1.0
+# Extension of the single-body schema for composite body scans.
+# The YAML feeds the future simulator; the markdown feeds human understanding.
+
+schema_version: "1.0"
+scan_type: "multi-body-relational"
+
+# --- COMPOSITE IDENTITY ---
+identity:
+  composite_name: ""       # Name of the composite body
+  mode: ""                 # diagnostic / comparative / generative
+  domain: ""               # single domain or "cross-domain"
+  component_count: 0       # number of component bodies
+  scan_date: ""            # YYYY-MM-DD
+  protocol_version: ""     # e.g., "v3.12.1"
+
+# --- COMPONENTS ---
+components:
+  - subject: ""            # Name of the component body
+    domain: ""             # Domain of the component
+    skeleton: ""           # One-sentence skeleton (from existing scan)
+    dna: ""                # O>I / I>O / mixed / conditional
+    primary_gap: ""        # Primary power gap
+    federation_dominion: "" # federation / dominion / mixed
+
+# --- RELATIONAL TOPOLOGY ---
+relational_topology:
+  overall: ""              # federation / dominion / mixed
+  entrainment_direction: "" # which body entrains which, or "none"
+  friction_points: ""      # where productive friction occurs
+
+# --- COMPOSITE NINE QUESTIONS (compressed) ---
+nine_questions:
+  medium: ""
+  flow_state: ""
+  breath_rate: ""
+  attractor: ""
+  topology: ""
+  entanglement: ""
+  health: ""
+  membrane: ""
+  hysteresis: ""
+
+# --- COMPOSITE DNA ---
+dna:
+  o_vs_i: ""
+  pause_quality: ""
+  not_force: ""
+
+# --- COMPOSITE SKELETON ---
+skeleton: ""
+
+# --- EMERGENT POWER GAP ---
+emergent_gap:
+  power: ""               # perceive / govern / project / create / release
+  reason: ""              # why this gap is emergent (not inherited)
+
+# --- STRUCTURAL SIGNATURE ---
+structural_signature: ""   # bracket notation: [x + y + z]
+
+# --- CLASSIFICATION ---
+classification:
+  federation_dominion: ""
+  closed_open: ""
+  prime: ""
+  prime_type: ""
+
+# --- STRUCTURAL WEAKNESS ---
+structural_weakness:
+  primary: ""
+  secondary: ""
+  inversion_condition: ""
+
+# --- CROSS-DOMAIN ---
+cross_domain:
+  - connection: ""
+    domains_bridged: ""
+    novelty: 0.0
+
+# --- FRUIT ---
+fruit:
+  type: ""                # relational-structural / diagnostic-structural / comparative-structural
+  core_insight: ""
+  novelty: 0.0
+
+# --- POWERS DETECTED ---
+powers_detected:
+  - name: ""
+    description: ""

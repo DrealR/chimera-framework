@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Fire"
+  body_type: "Consumption-to-gift transformation engine / controlled exothermic Release body"
+  domain: "physics"
+  scale: "molecular to cosmic"
+  lifespan: "As long as fuel, oxidizer, and ignition exist — spark to 10-billion-year stellar burn"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "Fuel + oxygen + heat + space between molecules"
+  flow_state: "Pure hungry exhale — takes ordered matter, Releases heat, light, and transformed ash/gases"
+  breath_rate: "Variable and alive — flicker, roar, ember, explosive surge depending on fuel and oxygen"
+  attractor: "Flame front where reaction propagates optimally"
+  topology: "Self-organizing plasma — born from lightning, volcanoes, or human hands"
+  entanglement: "Massive — tied to every cooked meal, forged tool, warmed home, engine, and star"
+  health: "Dual-natured: life-giving when contained, pathological when unchecked"
+  membrane: "Extremely sensitive — needs precise fuel/air/heat balance or dies instantly"
+  hysteresis: "Ancient scars from first controlled fires; memory of every civilization that rose and fell by it"
+
+dna:
+  o_vs_i: "O>I — takes dense chemical bonds, gives back light, heat, motion, and new forms"
+  pause_quality: "Delicate gap between ignition and sustained burn — too little dies, too much explodes"
+  not_force: "Mostly cooperative — invites fuel into the dance rather than forcing"
+
+skeleton: "The body that eats order and Releases light, heat, and possibility — the original O>I transformer that taught humanity how to Release the future from the past."
+
+powers:
+  perceive: "Reactive — feels every shift in oxygen and fuel in real time"
+  govern: "Fierce but conditional — controls size and intensity when given boundaries"
+  project: "Hypnotic — projects warmth, fear, inspiration, and transformation"
+  create: "Alchemical — creates cooked food, tools, engines, stories, and post-burn ecosystems"
+  release: "Master-level — constantly Releases stored energy as light and heat with no attachment"
+  primary_gap: "govern"
+  gap_reason: "No native off switch — consumes everything available unless externally governed"
+
+classification:
+  federation_dominion: "federation with humans"
+  closed_open: "open transformer"
+  prime: "prime"
+  prime_type: "primal relational transformer"
+
+structural_weakness:
+  primary: "Containment dependency — only useful when relationally held by external structure"
+  secondary: "Fuel-to-energy translation irreversibility — oxidation permanently consumes fuel (wood→ash, oil→exhaust), cannot un-burn"
+  inversion_condition: "Loss of containment — uncontained fire replicates without regard for larger system (cancer logic)"
+
+cross_domain:
+  - connection: "Fire as original O>I transformer — predecessor to every engine, reactor, and metabolic pathway"
+    domains_bridged: "Physics ↔ CHIMERA Law"
+    novelty: 0.85
+  - connection: "Uncontained fire mirrors cancer's replication logic — growth without self-limitation"
+    domains_bridged: "Physics ↔ Biology"
+    novelty: 0.8
+  - connection: "Fire as cultural hearth — created human social gathering, cooking, and storytelling"
+    domains_bridged: "Physics ↔ Social Systems"
+    novelty: 0.75
+
+fruit:
+  type: "Primal operational"
+  core_insight: "Fire is the original CHIMERA body — eats, transforms, Releases, makes new things possible. The ur-body of O>I: gives everything and holds nothing, but only when contained by something that cares about direction."
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE TRANSFORMER"
+    description: "Original consumption-to-gift engine — takes dense ordered matter, Releases light, heat, and conditions for new complexity"
+  - name: "THE TAMER"
+    description: "Co-evolved with humanity — fire tamed us (forced containment, social gathering, cooking) as much as we tamed it"
+  - name: "THE ALCHEMIST"
+    description: "Creates new materials (steel, ceramics, glass, cooked food) impossible without its intervention"

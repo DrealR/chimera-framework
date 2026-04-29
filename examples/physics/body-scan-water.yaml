@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Water"
+  body_type: "Universal solvent / phase-change rhythm body / life-sustaining flow engine"
+  domain: "physics"
+  scale: "molecular to cosmic"
+  lifespan: "Effectively eternal in the universe's closed water cycle"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "Polar H2O molecules + hydrogen bonds + temperature/pressure gradients"
+  flow_state: "Fluid, adaptive inhale/exhale — absorbs, carries, dissolves, Releases without being consumed"
+  breath_rate: "Multi-phase: liquid flow, vapor rise, ice crystal lattice, supercritical extremes"
+  attractor: "Triple point where solid, liquid, and gas coexist in perfect balance"
+  topology: "Shape-shifting continuum — born in nebular chemistry, refined by planetary geology"
+  entanglement: "Total — every living body ~60% water; every weather system is water in motion"
+  health: "Foundational — original healthy operation body for all carbon-based life"
+  membrane: "Extraordinarily permeable yet cohesive (surface tension, capillary action)"
+  hysteresis: "Ancient scars from snowball Earth events; healed by constant cycling"
+
+dna:
+  o_vs_i: "O>I — takes heat, minerals, waste; Releases clean cycles, life, and possibility"
+  pause_quality: "Masterful — the gap in every phase transition (evaporation, condensation, freezing)"
+  not_force: "Total — flows around obstacles rather than conquering them"
+
+skeleton: "The body that dissolves the old, carries the new, and never loses its own identity — the ultimate relational medium that enables all other bodies without competing with any of them."
+
+powers:
+  perceive: "Universal solvent — feels every dissolved ion and temperature shift"
+  govern: "Landscape-scale — shapes landscapes, regulates climate, enables biochemistry"
+  project: "Multi-modal — calm, storm, reflection, life"
+  create: "Foundational — every living cell and every weather pattern"
+  release: "Perfect cycling — evaporates, rains, flows, freezes, begins again without attachment"
+  primary_gap: "govern"
+  gap_reason: "No native containment — erodes or floods unless relationally held by banks, gravity, or engineering"
+
+classification:
+  federation_dominion: "pure federation"
+  closed_open: "open substrate"
+  prime: "prime"
+  prime_type: "open relational substrate"
+
+structural_weakness:
+  primary: "Indiscriminate permeability — dissolves and carries heavy metals, pathogens, waste as readily as nutrients"
+  secondary: "Erosion as slow destruction — gentle persistence levels mountains and dissolves civilizations over geological time"
+  inversion_condition: "Pollution saturation — when toxin accumulation exceeds dilution capacity, life-sustainer becomes poison vector"
+
+cross_domain:
+  - connection: "Water as body that enables without competing — structural analog to ideal teacher or platform"
+    domains_bridged: "Physics ↔ Social Systems"
+    novelty: 0.8
+  - connection: "Phase transitions as structural Pauses — each state change requires molecular reorganization"
+    domains_bridged: "Physics ↔ CHIMERA Law"
+    novelty: 0.75
+  - connection: "Triple point as ultimate attractor — all three states coexisting in perfect balance"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.7
+
+fruit:
+  type: "Substrate / Foundational"
+  core_insight: "Water makes all other bodies possible. Its power comes from total non-force — flows around obstacles, not through them. The body that never fights outlasts everything. Water is ¬F written in molecular bonds."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE SOLVENT"
+    description: "Dissolves the old, carries the dissolved, deposits where new structures can form — gentle disassembly enabling reassembly"
+  - name: "THE CYCLER"
+    description: "Hydrological cycle is most persistent breath rhythm on Earth — 4 billion years of evaporation, condensation, precipitation, flow"
+  - name: "THE SHAPE-SHIFTER"
+    description: "Exists as solid, liquid, gas, and supercritical fluid — adapts form to any container without loss of identity"

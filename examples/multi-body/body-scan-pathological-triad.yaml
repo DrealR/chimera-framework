@@ -1,0 +1,94 @@
+schema_version: "1.0"
+scan_type: "multi-body-relational"
+
+identity:
+  composite_name: "The Pathological Triad"
+  mode: "comparative"
+  domain: "cross-domain"
+  component_count: 3
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12.1"
+
+components:
+  - subject: "Cancer"
+    domain: "biology"
+    skeleton: "The body that uses the organism's own language to override the organism's own governance."
+    dna: "I>O"
+    primary_gap: "govern"
+    federation_dominion: "dominion-leaning"
+  - subject: "Memory Leak"
+    domain: "software"
+    skeleton: "The body that forgot how to exhale — acquiring without releasing, growing without shedding."
+    dna: "I>O"
+    primary_gap: "release"
+    federation_dominion: "dominion"
+  - subject: "Zugzwang"
+    domain: "chess"
+    skeleton: "Awareness without freedom — every option is a wound, consciousness without the Pause is torture."
+    dna: "I>O"
+    primary_gap: "release"
+    federation_dominion: "dominion"
+
+relational_topology:
+  overall: "dominion — first all-dominion composite in the corpus"
+  entrainment_direction: "none — bodies exist in separate dimensions"
+  friction_points: "comparative — no real interaction, structural parallels surface through clustering"
+
+nine_questions:
+  medium: "the host system's own substrate — cells, memory addresses, board positions"
+  flow_state: "inverted inhale — continuous intake, zero release"
+  breath_rate: "accelerating toward collapse — each body's tempo increases as pathology compounds"
+  attractor: "the collapse point — threshold where accumulated pathology exceeds host capacity"
+  topology: "parasitic — born from host's own mechanisms, growing within host's own boundaries"
+  entanglement: "maximum with host, zero with each other"
+  health: "pathological relationally, healthy intrinsically — cancer cells are vigorous, leaked memory is correctly allocated, zugzwang positions are legal"
+  membrane: "camouflaged — each pathology mimics host-native signals"
+  hysteresis: "integral of deferred governance — each is the accumulation of skipped Pauses"
+
+dna:
+  o_vs_i: "I>O"
+  pause_quality: "absent"
+  not_force: "inverted"
+
+skeleton: "Three bodies from three domains sharing one architecture: the system's own language turned against its own governance, growing by retaining what should be released, invisible until the host can no longer compensate — pathology is not invasion but the failure to exhale."
+
+emergent_gap:
+  power: "govern"
+  reason: "the composite reveals governance failure as the universal root — Release failure IS governance failure at a deeper level"
+
+structural_signature: "[native camouflage + accumulation without release + host-language weaponization]"
+
+classification:
+  federation_dominion: "dominion"
+  closed_open: "closed-ignorance"
+  prime: "the failure to exhale"
+  prime_type: "closed"
+
+structural_weakness:
+  primary: "selection bias — all three components are I>O dominion, so the finding may be circular"
+  secondary: "failure-to-exhale finding may be tautological restatement of I>O classification"
+  inversion_condition: "finding breaks if a pathological O>I body exists (e.g., cytokine storm, autoimmune response)"
+
+cross_domain:
+  - connection: "Serve-Extract Lifecycle — all three are in Late Extraction phase"
+    domains_bridged: "Cross-domain ↔ Body Theory lifecycle"
+    novelty: 0.8
+  - connection: "Closed-Open Distinction — all three are structurally closed to the signal that would cure them"
+    domains_bridged: "Cross-domain ↔ Body Theory epistemology"
+    novelty: 0.7
+  - connection: "Trust-substrate depletion — each pathology erodes the host's ability to trust itself"
+    domains_bridged: "Cross-domain ↔ Construction Spectrum"
+    novelty: 0.9
+
+fruit:
+  type: "comparative-structural"
+  core_insight: "Pathology has universal architecture independent of domain: growth by accumulation, host-language camouflage, invisibility until threshold, accelerating tempo toward collapse. The Pause is the literal structural cure in every domain (apoptosis, garbage collection, pass-option)."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE CAMOUFLAGE"
+    description: "Universal pathological power — looking like a legitimate part of the host while extracting"
+  - name: "THE THRESHOLD"
+    description: "Invisible line between compensating and collapsing"
+  - name: "THE PAUSE-CURE"
+    description: "The Pause as universal mechanism preventing or curing pathology across all domains"

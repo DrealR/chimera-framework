@@ -1,0 +1,73 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Air"
+  body_type: "Invisible medium of motion / communication + breath carrier"
+  domain: "physics"
+  scale: "molecular gas to planetary atmosphere"
+  lifespan: "Eternal cycling through planetary respiration"
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12"
+
+nine_questions:
+  medium: "N2, O2, CO2, trace gases + pressure gradients"
+  flow_state: "Constant invisible exhale/inhale — moves, carries, connects, disperses"
+  breath_rate: "Rapid and chaotic — winds, jet streams, turbulence, human breathing cycles"
+  attractor: "High-pressure to low-pressure gradients and the breath itself"
+  topology: "Fluid and boundary-less until it meets Earth or Water"
+  entanglement: "Every breath by every living thing; every sound wave and scent"
+  health: "Life-sustaining when balanced; pathological when polluted or stagnant"
+  membrane: "Extremely permeable — mixes instantly"
+  hysteresis: "Scars from mass extinction oxygen crashes and modern pollution events"
+
+dna:
+  o_vs_i: "O>I — generous circulation; takes exhaled CO2, Releases fresh O2 via photosynthetic partnership"
+  pause_quality: "Brief — between gusts and in the still point of breath; shortest, most frequent Pause of elemental bodies"
+  not_force: "Total — flows around resistance, never confronts"
+
+skeleton: "The invisible body that carries breath, sound, scent, and storm — the great connector whose power is proportional to its invisibility."
+
+powers:
+  perceive: "Carrier-level — carries sound, smell, pressure information without originating it"
+  govern: "Atmospheric-scale — circulation and weather govern climate, seasons, habitability"
+  project: "Symbolic — projects freedom, inspiration, change, breath"
+  create: "Dispersive — creates weather, enables music, disperses seeds, oxidizes metals"
+  release: "Constant — dispersal and mixing; nothing held, everything shared"
+  primary_gap: "perceive"
+  gap_reason: "No containment or memory — forgets and scatters everything; preserves nothing unlike Earth (stone) or Water (channels)"
+
+classification:
+  federation_dominion: "maximum federation"
+  closed_open: "open carrier"
+  prime: "prime"
+  prime_type: "open relational carrier"
+
+structural_weakness:
+  primary: "No memory, no structure — retains nothing; every signal dissipates, every pattern reorganizes"
+  secondary: "Contamination transparency — carries pollutants as readily as oxygen; invisible poisoning"
+  inversion_condition: "Atmospheric composition shift beyond habitable range — Venus as end-state of air's O>I inversion"
+
+cross_domain:
+  - connection: "Power proportional to invisibility — structural analog to infrastructure, plumbing, operating systems"
+    domains_bridged: "Physics ↔ Social Systems / Technology"
+    novelty: 0.8
+  - connection: "Air's no-memory vs Earth's total-memory — elemental polarity of flow and structure"
+    domains_bridged: "Physics ↔ Body Theory"
+    novelty: 0.75
+  - connection: "Breath as literal interface between Air and biological bodies — most intimate entanglement"
+    domains_bridged: "Physics ↔ Biology"
+    novelty: 0.7
+
+fruit:
+  type: "Carrier / Relational"
+  core_insight: "Air disappears into its function. The more essential it becomes, the less visible. Maximum ¬F — never confronts, never holds, never insists. The most important body in any system is often the one nobody sees."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE CONNECTOR"
+    description: "Carries breath, sound, scent, heat between all bodies simultaneously — universal mediation without preference"
+  - name: "THE INVISIBLE ESSENTIAL"
+    description: "Most noticed in absence — suffocation, vacuum, stillness reveal what constant presence conceals"
+  - name: "THE DISPERSER"
+    description: "Seeds, spores, pollen, moisture, heat distributed globally through atmospheric circulation without intent"

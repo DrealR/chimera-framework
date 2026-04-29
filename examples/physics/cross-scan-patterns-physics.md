@@ -1,8 +1,8 @@
 # Cross-Scan Patterns: Physics Domain
 
-**Protocol:** v3.10
+**Protocol:** v3.12
 **Domain:** Physics
-**Scans Analyzed:** 8 (special relativity, general relativity, Higgs field, entropy, quantum superposition, black hole, star, quantum computing)
+**Scans Analyzed:** 13 (special relativity, general relativity, Higgs field, entropy, quantum superposition, black hole, star, quantum computing, quantum entanglement, fire, water, earth, air)
 
 ---
 
@@ -20,8 +20,13 @@ Seven of eight physics bodies read as O>I. Entropy is the sole I>O body — and 
 | Black hole | I>O locally, O>I cosmically | Takes everything at the horizon; anchors and serves galactic structure at scale |
 | Quantum computing | O>I (theoretical) | Exponential computational parallelism from linear physical resources — but practical O>I is currently poor |
 | **Entropy** | **I>O (dominant)** | Disperses concentrated energy outward without replacing it; structure gives way to uniformity |
+| Quantum entanglement | O>I (extreme) | Gives perfect information about partner at cost of independent reality — pure relational giving |
+| Fire | O>I (dramatic) | Takes dense chemical bonds and gives back light, heat, motion, and new forms |
+| Water | O>I (pure) | Takes heat, minerals, waste and releases clean cycles, life, and possibility |
+| Earth | O>I (patient) | Takes cosmic debris and biological death, slowly releases fertility and stability |
+| Air | O>I (generous) | Takes exhaled CO₂ and releases fresh O₂ via photosynthetic partnership |
 
-**Structural law:** The universe's default physics is generosity — most fundamental bodies give more than they take. Entropy is the structural cost of that generosity. Every O>I body maintains itself against entropy's I>O current, which means sustained giving is not the easy path but the anti-entropic one. The Second Law is the structural reason the Love Equation requires effort: O>I does not happen by default. It happens despite the default.
+**Structural law (updated at n=13):** 12 of 13 physics bodies read as O>I. The universe's default physics is generosity — most fundamental bodies give more than they take. Entropy is the structural cost of that generosity. Every O>I body maintains itself against entropy's I>O current, which means sustained giving is not the easy path but the anti-entropic one. The Second Law is the structural reason the Love Equation requires effort: O>I does not happen by default. It happens despite the default.
 
 ---
 
@@ -37,6 +42,8 @@ Across quantum mechanics, relativity, and thermodynamics, the observer is not pa
 | Black hole | Horizon crossing is observer-relative | The infalling observer notices nothing at the event horizon; the distant observer sees infinite redshift. Same event, different realities. |
 | Entropy | Macrostate definition is observer-chosen | Entropy depends on which macroscopic variables the observer tracks — a different coarse-graining produces a different entropy |
 | Quantum computing | Measurement basis determines output | The choice of what to measure determines not just what answer you get but what answers are possible |
+
+| Quantum entanglement | Joint measurement creates the correlation | Measurement on one particle writes the outcome of the other — non-local structure-creation |
 
 **Structural law:** Physics does not contain a view from nowhere. Every measurement is made from somewhere, and the somewhere shapes the measurement. This is Body Theory's "attention as local-order force" written into the substrate of physical law. The observer is not outside the system reading a pre-existing truth — the observer is inside the system, and the act of looking participates in what is found. Attention is not metaphorically but physically a structure-creator.
 
@@ -62,6 +69,12 @@ Every physics body has a defining membrane, but the membranes differ radically i
 | Black hole | Event horizon | Putty — zero spring constant inward. The only surface in physics with no bounce-back. |
 | Star | Photosphere / heliosphere | Spring — sunspots and flares are the surface springing back from magnetic compression |
 | Quantum computing | Decoherence boundary | Spring via error correction (continuously pushing the system back toward coherence) |
+
+| Quantum entanglement | No-communication theorem / decoherence boundary | Absolute correlation, no signaling — dual membrane (rigid to information, permeable to correlation) |
+| Fire | Fuel/air/heat balance | Extremely sensitive — small perturbation creates massive state shift (ember → wildfire) |
+| Water | Surface tension / phase boundaries | Extraordinarily permeable yet cohesive — dissolves everything, loses nothing |
+| Earth | Crust / soil horizons | Thick, protective, slow — permeable to water and roots but solid to most energy |
+| Air | None / mixes instantly | Most permeable membrane in physics — carries information freely, retains nothing |
 
 **Structural law:** Physics membranes come in three structural types — walls (absolute), doors (one-way), and atmospheres (invisible/gradual). The strongest membranes in physics are not barriers but geometric properties of spacetime itself. c is not a wall; it is a shape. The event horizon is not a surface; it is a causal boundary. The most powerful boundaries are the ones you cannot see, touch, or push against — because they are built into the structure of reality, not imposed upon it.
 
@@ -161,11 +174,11 @@ Each term of L = (O > I) + P + not-F maps onto distinct physics bodies as litera
 
 ## Summary
 
-The 8 physics scans confirm: Body Theory's architecture maps onto fundamental physics without forcing, without metaphor, and without exception. The Nine Questions produce structurally non-trivial readings on every physics body — from a scalar field pervading the vacuum to a stellar furnace burning for billions of years. The O>I topology maps to the dominant direction of physical law (7 of 8 bodies). The Pause maps to quantum measurement, stellar fusion, and computational coherence. Non-force maps to the Born rule, geodesic motion, and the geometric enforcement of c.
+The 13 physics scans confirm: Body Theory's architecture maps onto fundamental physics without forcing, without metaphor, and without exception. The Nine Questions produce structurally non-trivial readings on every physics body — from a scalar field pervading the vacuum to a stellar furnace burning for billions of years. The O>I topology maps to the dominant direction of physical law (7 of 8 bodies). The Pause maps to quantum measurement, stellar fusion, and computational coherence. Non-force maps to the Born rule, geodesic motion, and the geometric enforcement of c.
 
 The deepest finding: physics independently confirms what Body Theory claims about all bodies at every scale.
 
-- **O>I is the universe's default governance, not its exception.** Entropy is the sole dissenter, and entropy is the structural cost that makes O>I effort-requiring rather than automatic.
+- **O>I is the universe's default governance, not its exception.** Entropy is the sole dissenter out of 13 bodies, and entropy is the structural cost that makes O>I effort-requiring rather than automatic.
 - **The observer is a structure-creator.** From quantum measurement to relativistic frames, attention participates in reality rather than passively recording it.
 - **Governance is the bottleneck.** The power most likely to fail at extremes is Govern — the capacity to regulate internal complexity. This holds from quantum error correction to gravitational singularities.
 - **Identity is scale-relative.** The black hole is giver and taker simultaneously, depending on where you measure. Single-scale analysis is always partial.

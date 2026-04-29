@@ -1,0 +1,88 @@
+schema_version: "1.0"
+scan_type: "multi-body-relational"
+
+identity:
+  composite_name: "The Pawn-King Axis"
+  mode: "diagnostic"
+  domain: "chess"
+  component_count: 2
+  scan_date: "2026-04-28"
+  protocol_version: "v3.12.1"
+
+components:
+  - subject: "Pawn"
+    domain: "chess"
+    skeleton: "The only body that trades its own identity for power — proving that irreversible forward commitment transforms a position and a life."
+    dna: "mixed-operational"
+    primary_gap: "release"
+    federation_dominion: "federation"
+  - subject: "King"
+    domain: "chess"
+    skeleton: "The only body whose importance is inversely proportional to its power — what a system cannot afford to lose matters more than what it uses most."
+    dna: "mixed-scale-dependent"
+    primary_gap: "create"
+    federation_dominion: "dominion"
+
+relational_topology:
+  overall: "federation in function, dominion in status"
+  entrainment_direction: "phase-dependent — pawns entrain middlegame, king entrains endgame"
+  friction_points: "identity exchange blocked — king can never become pawn, pawn can never retreat"
+
+nine_questions:
+  medium: "board geometry + move legality + positional structure"
+  flow_state: "phase-dependent breathing — pawns exhale structure, king inhales behind shelter"
+  breath_rate: "asymmetric polyrhythm — pawn's irreversible clock + king's cautious oscillation"
+  attractor: "the promotion square"
+  topology: "designed asymmetry"
+  entanglement: "maximum in endgames — K+P vs K is the foundational evaluation unit"
+  health: "healthy when pawn protects king AND king supports pawn advancement"
+  membrane: "rigid — king cannot cross uncovered lines, pawns cannot retreat"
+  hysteresis: "the oldest relationship in chess — 1500+ years of accumulated theory"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "excellent"
+  not_force: "high"
+
+skeleton: "The relationship proving protection and purpose are structurally inseparable — the weakest piece shelters the most important, the most important gives the weakest its meaning."
+
+emergent_gap:
+  power: "perceive"
+  reason: "neither piece perceives the other's constraints — the pawn cannot see the king's vulnerability, the king cannot feel the pawn's irreversibility"
+
+structural_signature: "[irreversible commitment + fragile importance]"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "structural interdependence without mutual perception"
+  prime_type: "open"
+
+structural_weakness:
+  primary: "relationship only works under formal rules — remove chess rules and the federation collapses"
+  secondary: "endgame brittleness — single tempo error collapses the axis into a draw"
+  inversion_condition: "when pawn structure blocks king activity, protection inverts to imprisonment"
+
+cross_domain:
+  - connection: "parent-child structural dependency"
+    domains_bridged: "Chess ↔ Social Systems"
+    novelty: 0.8
+  - connection: "immune system serving organism it cannot perceive"
+    domains_bridged: "Chess ↔ Biology"
+    novelty: 0.7
+  - connection: "git history giving mutable codebase integrity"
+    domains_bridged: "Chess ↔ Software"
+    novelty: 0.6
+
+fruit:
+  type: "relational-structural"
+  core_insight: "Functional federation does not require mutual perception — structural interdependence can sustain relationships where neither body understands the other's reality."
+  novelty: 0.8
+
+powers_detected:
+  - name: "THE OPPOSITION"
+    description: "The winning technique that is pure Pause — forcing the other side to act first"
+  - name: "THE SHELTER"
+    description: "The weakest piece creating strongest protection through positional structure"
+  - name: "THE CORONATION"
+    description: "Transformation of least powerful body into most powerful through irreversible commitment"
