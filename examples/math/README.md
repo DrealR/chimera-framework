@@ -1,6 +1,6 @@
 # Math Domain Scans
 
-11 body scans applying the CHIMERA framework to numbers, operations, and mathematical structures.
+12 body scans applying the CHIMERA framework to numbers, operations, and mathematical structures.
 
 ## Numbers
 
@@ -27,6 +27,7 @@
 |------|----------|-----|
 | [Mandelbrot Set](body-scan-mandelbrot.md) | Infinite boundary from finite rule — complexity from simplicity | O>I |
 | [Prime Gap](body-scan-prime-gap.md) | Body-as-absence — the space between primes | Mixed |
+| [Prime/Composite Breath](body-scan-prime-composite-breath.md) | The integers breathe — expanding into composite richness then contracting to prime indivisibility | O>I |
 
 ## Cross-Domain Patterns
 
@@ -36,6 +37,7 @@ Math scans surface patterns visible across all domains:
 - **Primes** (7) → irreducibility, resistance to decomposition
 - **Rotation** (i) → accessing orthogonal dimensions
 - **Boundary phenomena** (Mandelbrot) → complexity at edges, simplicity at centers
+- **Structural breath** (Prime/Composite Breath) → expansion/contraction cycles with unique interior structure
 
 ---
 

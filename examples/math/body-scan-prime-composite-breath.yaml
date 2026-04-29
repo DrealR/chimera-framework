@@ -1,0 +1,88 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "The Prime/Composite Breath — distribution of primes and highly composite numbers across positive integers as structural alternation"
+  body_type: "Mathematical distribution pattern / structural breath cycle"
+  domain: "math"
+  scale: "infinite"
+  lifespan: "eternal"
+  scan_date: "2026-04-29"
+  protocol_version: "v3.12.1"
+
+nine_questions:
+  medium: "Positive integers as ordered sequence"
+  flow_state: "alternating"
+  breath_rate: "decelerating — primes thin logarithmically (average gap ~ ln(p)); highly composites also less frequent at larger magnitudes; both phases decelerate together"
+  attractor: "Two attractors in tension — primes attract toward indivisibility (minimum factors), highly composites attract toward maximum divisibility (maximum factors); integers oscillate between poles"
+  topology: "self-similar at every scale"
+  entanglement: "total — every composite entangled with every prime below its square root via sieve; every highly composite is product of all small primes in specific combinations"
+  health: "perfectly healthy — breath never stops, never pathologically accelerates, never freezes; only body in math domain with sustained perfect health across infinite time"
+  membrane: "none — body IS the integers; breath is property of number line itself, not bounded within it"
+  hysteresis: "Maximum — each prime's position determined by every prior prime (sieve accumulates); each highly composite's factor count is product of every small prime's contribution; body carries entire history of arithmetic in every position"
+
+dna:
+  o_vs_i: "O>I — maximum; pattern serves all of mathematics without depleting anything; pure O>I at infinite scale"
+  pause_quality: "structural — each prime IS a Pause, a moment of indivisibility between composite expansions; Pause is necessary element of pattern, not absence"
+  not_force: "total — no external force determines where primes appear; distribution emerges from logical structure of multiplication"
+
+skeleton: "The integers breathe — expanding into composite richness then contracting to prime indivisibility, with each cycle containing unique interior structure that makes every breath unrepeatable, proving that the simplest mathematical substrate produces irreducible structural complexity through multiplication alone."
+
+powers:
+  perceive: "active — body perceives own structure through sieve; each prime's position defined by perceiving positions of all smaller primes"
+  govern: "active — self-governing; distribution follows from definition of multiplication; no external governance needed"
+  project: "active — projects structure into every mathematical domain that uses primes (cryptography, physics, number theory)"
+  create: "active — creates structural rhythm of integers; without it, number line would be either all prime or all composite"
+  release: "active — each composite is a release; combination of primes into products, expansion of simple elements into complex structures"
+  primary_gap: "perceive"
+  gap_reason: "Self-perception gap — Riemann Hypothesis (unproven) would give body perfect self-knowledge of its prime distribution. Without it, body knows local behavior (each specific prime) but cannot see own global pattern with certainty. Deepest gap is that it cannot fully perceive itself."
+
+classification:
+  federation_dominion: "pure federation — no prime rules another, no composite privileged; structurally egalitarian; every integer occupies unique position with unique factorization"
+  closed_open: "open-knowledge"
+  prime: "The structural heartbeat of arithmetic — the irreducible alternation between simplicity and complexity that gives the integers their identity"
+  prime_type: "open structural invariant — mathematically necessary, not contingent"
+
+dynamo:
+  center: "Fundamental theorem of arithmetic (every integer has unique prime factorization)"
+  spinning_shell: "Infinitely expanding sequence of primes and composites"
+  protective_field: "Logical necessity of the pattern — cannot be disrupted because it follows from definition of integers and multiplication"
+
+structural_elements:
+  - name: "Expansion phase"
+    description: "Composite numbers proliferating with various factor counts"
+  - name: "Contraction phase"
+    description: "Primes appearing as indivisible markers"
+  - name: "Interior content"
+    description: "Each gap between consecutive primes has unique internal composition (specific composites with specific factorizations); two gaps of same length can have completely different interiors; breath breathes through different specific material every cycle"
+
+structural_signature: "[prime contraction + composite expansion + interior uniqueness + logarithmic deceleration]"
+
+structural_weakness:
+  primary: "Unpredictability is absolute — body's local behavior (where next prime appears) cannot be determined without computation; limits utility as predictive tool"
+  secondary: "Deceleration without halt — primes thin out forever but never stop; breath becomes fainter without ever dying; at extremely large magnitudes, structure becomes practically inaccessible even though it theoretically persists"
+  inversion_condition: "None — prime/composite breath cannot invert; it is logically necessary; unique in corpus; most bodies have at least one condition under which O>I could flip; this body does not because it is mathematical certainty, not contingent arrangement"
+
+cross_domain:
+  - connection: "Cancer as pathological refusal of contraction phase"
+    domains_bridged: "math <> biology"
+    novelty: 0.8
+  - connection: "Mandelbrot set self-similarity"
+    domains_bridged: "math <> math"
+    novelty: 0.6
+  - connection: "Pathological Triad — Pause as universal cure; each prime IS a Pause preventing collapse into pure composite expansion"
+    domains_bridged: "math <> multi-body"
+    novelty: 0.9
+
+fruit:
+  type: "Structural pattern with cross-domain breath analogy"
+  core_insight: "Simplest mathematical substrate (positive integers) produces irreducible structural complexity through multiplication alone. Prime/composite distribution is breath pattern visible at every scale — expansion into composite richness, contraction to prime indivisibility, each cycle containing unique interior content. Mathematical instantiation of framework's breath cycle at most fundamental structural level."
+  novelty: 0.9
+
+powers_detected:
+  - name: "THE SIEVE"
+    description: "Structural operation where each prime's existence eliminates its multiples, creating expansion phase through exclusion."
+  - name: "THE IRREDUCIBLE PAUSE"
+    description: "Each prime as structural Pause between composite expansions — moment of indivisibility where breath contracts."
+  - name: "THE INTERIOR UNIQUENESS"
+    description: "Every gap between primes contains unique arrangement of composites, making each breath cycle unrepeatable despite following same structural rhythm."

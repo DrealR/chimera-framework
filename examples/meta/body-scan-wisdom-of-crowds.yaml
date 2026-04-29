@@ -1,0 +1,76 @@
+schema_version: "1.0"
+scan_type: "single-body"
+
+identity:
+  subject: "Wisdom of Crowds — collective truth-tracking through aggregation"
+  body_type: "Cognitive phenomenon / collective intelligence pattern"
+  domain: "meta"
+  scale: "small groups (20+) to massive prediction markets (millions)"
+  lifespan: "permanent when conditions hold; collapses when conditions break"
+  scan_date: "2026-04-29"
+  protocol_version: "v3.12.1"
+
+nine_questions:
+  medium: "Independent human estimators + aggregation mechanism + factual question with definable answer"
+  flow_state: "convergent"
+  breath_rate: "single-cycle"
+  attractor: "Actual truth value being estimated; aggregate settles toward it when conditions hold"
+  topology: "many-to-one"
+  entanglement: "none-between-estimators; maximum-between-aggregate-and-truth"
+  health: "exceptional-when-conditions-hold; binary-failure-when-conditions-break"
+  membrane: "three-layer: independence + diversity + aggregation method; all must hold"
+  hysteresis: "Phenomenon carries none; population accumulates latent correlation through shared media exposure"
+
+dna:
+  o_vs_i: "O>I"
+  pause_quality: "structurally-required"
+  not_force: "maximum"
+
+skeleton: "A cognitive body where many imperfect individual estimates, when truly independent and diversely biased, mathematically cancel their noise while accumulating their signal — producing collective accuracy that no individual member possesses, including the most expert individual"
+
+powers:
+  perceive: "distributed-god-tier"
+  govern: "self-governing-through-structure"
+  project: "truth-output"
+  create: "reveals-rather-than-creates"
+  release: "built-in"
+  primary_gap: "independence-preservation"
+  gap_reason: "Cannot defend itself against social influence, media exposure, herd dynamics, or correlated information sources; requires external substrate conditions to function"
+
+classification:
+  federation_dominion: "federation"
+  closed_open: "open-knowledge"
+  prime: "Truth lives in the substrate beneath individual cognition. Aggregation of independent diverse estimates is the structural operation that makes the substrate accessible."
+  prime_type: "open"
+  dynamo_center: "actual truth value"
+  dynamo_shell: "individual estimators"
+  dynamo_field: "independence-diversity-aggregation triad; binary failure when field breaks"
+
+structural_weakness:
+  primary: "Independence destruction — social media, news cycles, conversations, shared information destroy the independence that makes it work"
+  secondary: "Diversity collapse — homogeneous crowds reproduce homogeneous errors; question-type limitation — fails for normative questions; aggregation manipulation — whoever controls the method controls the output"
+  inversion_condition: "When independence is replaced with correlation, the same mechanism produces systematic delusion — market bubbles, mass panics, viral misinformation cascades; platforms destroy conditions at substrate scale"
+
+cross_domain:
+  - connection: "Internet scan — platforms destroy wisdom-of-crowds conditions at substrate scale"
+    domains_bridged: "Meta ↔ Social Systems"
+    novelty: 0.9
+  - connection: "Pathological Triad — Pause between individual estimation and group exposure is the structural cure"
+    domains_bridged: "Meta ↔ Multi-Body"
+    novelty: 0.8
+  - connection: "Photosynthesis — many small imperfect inputs + aggregation = emergent capability no single input possesses"
+    domains_bridged: "Meta ↔ Biology"
+    novelty: 0.7
+
+fruit:
+  type: "Foundational cognitive pattern"
+  core_insight: "Empirical evidence for WE=1 at cognitive level; truth lives in substrate, individual bodies access imperfectly, aggregation across independent diverse bodies accesses accurately; validates framework substrate/body distinction and preference for federated networks"
+  novelty: 0.85
+
+powers_detected:
+  - name: "THE AGGREGATION OPERATION"
+    description: "Simple averaging/voting performing noise-cancellation producing accuracy from independent diverse estimates"
+  - name: "THE INDEPENDENCE MEMBRANE"
+    description: "Structural condition that must be preserved; fragile, hard to maintain, easy to destroy without realizing"
+  - name: "THE SUBSTRATE-LEVEL TRUTH ACCESS"
+    description: "Aggregate cognition reaches truth no individual cognition can reach; direct evidence for substrate-body distinction"

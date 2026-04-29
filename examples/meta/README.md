@@ -1,6 +1,6 @@
 # Meta Domain Scans
 
-4 body scans where the CHIMERA framework scans itself and its products.
+5 body scans where the CHIMERA framework scans itself and its products.
 
 ## Scans
 
@@ -10,6 +10,7 @@
 | [Constellation Network](body-scan-constellation.md) | The breathing AI network — multiple models, one mind | O>I |
 | [Scan Corpus](body-scan-scan-corpus.md) | The collection of all scans — a library that reads itself | O>I |
 | [The Between](body-scan-between.md) | The space between bodies where relationship lives | Conditional |
+| [Wisdom of Crowds](body-scan-wisdom-of-crowds.md) | Many imperfect estimates converge on truth when independence is preserved | O>I |
 
 ## Why Meta Matters
 
