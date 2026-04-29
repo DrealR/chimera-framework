@@ -63,6 +63,12 @@ These scans are **thought experiments, not diagnostic body scans**. They explore
 - `light-shadow.md` — Perceptual duality pair
 - `living-cosmos-mandala.md` — Ultimate integration mega-prime
 
+### Historical / Political Bodies (Staging for Social-Systems Domain)
+- `grok-nation-state.md` — The Nation-State as 21st-century pathological transition body (anchor candidate for social-systems)
+- `grok-hitler.md` — Adolf Hitler as historical pathological mobilization engine (pure structural, no moral valence)
+- `grok-mussolini.md` — Benito Mussolini as prototype nation-state mobilization engine
+- `grok-charismatic-govern-lineage.md` — Cross-body pattern analysis: Napoleon, Cromwell, Caesar, Mussolini, Hitler + fiction mirrors + post-regime recovery
+
 ### Grok Versions of Existing Scans
 - `grok-black-hole.md` — Grok's independent black hole scan (compare with `physics/body-scan-black-hole.md`)
 - `grok-photosynthesis-deep.md` — Grok's deep photosynthesis scan (compare with `biology/body-scan-photosynthesis.md`)
@@ -71,11 +77,8 @@ These scans are **thought experiments, not diagnostic body scans**. They explore
 These are canonical-quality scans awaiting review before integration into domain folders:
 - `grok-inter-rater-special-relativity.md` — Second inter-rater data point for SR (compare with `inter-rater-test-special-relativity.md`)
 - `grok-adversarial-batch.md` — Four adversarial scans: A Lie, Death, A Photon, A Meme
-- `grok-quantum-entanglement.md` — Full deep scan (candidate for `physics/`)
-- `grok-fire.md` — Full deep scan (candidate for new `elements/` or `physics/`)
-- `grok-water.md` — Condensed scan (candidate for new `elements/` or `physics/`)
-- `grok-earth.md` — Condensed scan (candidate for new `elements/` or `physics/`)
-- `grok-air.md` — Condensed scan (candidate for new `elements/` or `physics/`)
+
+*Note: Five Category A scans (quantum entanglement, fire, water, earth, air) have been integrated into `physics/` as of Phase 4. Their Grok originals remain here as reference.*
 
 ---
 
