@@ -44,7 +44,8 @@ Recommended first scans:
 
 ## Framework Validation
 
-- [META-SCAN-SYNTHESIS v5](META-SCAN-SYNTHESIS-v5.md) — Fifth audit of the 82-scan corpus — Phase 5 launch (current)
+- [META-SCAN-SYNTHESIS v6](META-SCAN-SYNTHESIS-v6.md) — Sixth audit — v3.12.3 methodology review, structural debt diagnosis (current)
+- [META-SCAN-SYNTHESIS v5](META-SCAN-SYNTHESIS-v5.md) — Fifth audit of the 82-scan corpus — Phase 5 launch
 - [META-SCAN-SYNTHESIS v4](META-SCAN-SYNTHESIS-v4.md) — Fourth audit (79 scans, multi-body focus)
 - [META-SCAN-SYNTHESIS v3](META-SCAN-SYNTHESIS-v3.md) — Third audit (71 scans)
 - [META-SCAN-SYNTHESIS v2](META-SCAN-SYNTHESIS-v2.md) — Second audit (65 scans)
