@@ -109,7 +109,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v13.0](CHIMERA-The-Complete-Book-v13.0.md) — 111 books, the full philosophy.
+For the complete text: [The Complete Book v13.1](CHIMERA-The-Complete-Book-v13.1.md) — 111 books, the full philosophy.
 
 ---
 
@@ -205,12 +205,12 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v13.0 — 111 books (I through CXI). New in v13.0: WE=1 Formalization, Body Specification Requirement, Interior Structural Content
-- **Protocol:** v3.12.1 — 42-step scan with multi-body relational mode, body specification requirement, interior structure addendum
-- **Corpus:** 82 body scans across 9 domains + adversarial. Multi-body relational scanning (Phase 4). Two scanner sources (Opus + Grok).
+- **Book:** v13.1 — 116 books (I through CXVI). New in v13.1: Sequence Specification, Sequence-to-Structure Bodies, Cognitive Subsystems, Substrate Accumulation, Flow vs Transaction
+- **Protocol:** v3.12.3 — temporal layer integration: bodies are configurations with formative histories operating through substrates that accumulate
+- **Corpus:** 82 body scans across 9 domains + adversarial. Multi-body relational scanning. Two scanner sources (Opus + Grok).
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
-- **Phase 5 Active:** WE=1 formalization, body specification methodology, social-systems expansion underway
+- **Phase 5 Active:** v3.12.3 temporal layer, WE=1 with three epistemological anchors, sequence-to-structure unification
 
 ## Contribute
 
@@ -218,7 +218,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v13.0), all protocol versions (v3.1 through v3.12), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v13.1), all protocol versions (v3.1 through v3.12), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 

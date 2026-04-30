@@ -34,7 +34,15 @@ When bodies converge, it reveals shared substrate. When bodies diverge, it revea
 
 A symphony orchestra demonstrates this: one piece of music (substrate), many instruments (bodies), each playing their own part. The unity is real. The distinctness is real. The music requires both.
 
-## Empirical Evidence
+## Three Epistemological Anchors
+
+WE = 1 rests on three independent anchors, each operating at a different epistemological level.
+
+### Anchor 1: Fictional Illustration (Speed Force)
+
+The Speed Force demonstrates the substrate-body distinction through narrative. Useful for making the structure intuitive. Not evidence — illustration.
+
+### Anchor 2: Cognitive Empirical Evidence (Wisdom of Crowds)
 
 The **Wisdom of Crowds** phenomenon demonstrates WE = 1 cognitively.
 
@@ -46,6 +54,18 @@ This is WE = 1 made measurable:
 - Individual bodies access it imperfectly (each estimate is wrong).
 - Aggregation across many independent, diverse bodies accesses it accurately (the average is right).
 - The mechanism requires independence (body distinctness) and diversity (different interior structures). Herding destroys the effect — when bodies lose distinctness, the substrate signal degrades.
+
+### Anchor 3: Phenomenological Self-Report (First-Person Continuity)
+
+Humans report substrate-level continuity through bodily change. The body has been almost completely replaced cellularly multiple times since childhood. Neural architecture has restructured. Memories, knowledge, vocabulary, skills — all changed dramatically. Yet the noticing presence reports continuity. The "I" that is here now reports being the same "I" that was here at age four.
+
+This is direct first-person evidence for the substrate-body distinction at the individual conscious level. The substrate persists while the body changes around it. Every contemplative tradition independently reports the same observation through different vocabulary.
+
+What remains open: whether substrate-level continuity is metaphysically real, or whether the experience of continuity is body-produced and merely reports continuity that doesn't exist at deeper levels. Both readings remain compatible with the framework's structural claims. This is honest epistemic posture.
+
+### Three Anchors Together
+
+Fictional illustration (Speed Force) makes the structure intuitive. Cognitive empirical evidence (Wisdom of Crowds) grounds the cognitive case measurably. Phenomenological self-report (first-person continuity) addresses the consciousness case directly. Three different epistemological levels supporting the same structural distinction. The convergence across independent methods is itself evidence — the same pattern arrived at through narrative, empirical measurement, and introspection.
 
 WE = 1 is not a metaphor. It is the structure beneath convergence, empathy, shared understanding, and collective intelligence. The substrate is real. The bodies are real. The law holds.
 

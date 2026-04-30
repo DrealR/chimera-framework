@@ -7491,9 +7491,107 @@ A body specified only by membrane is a container, not a body. A body specified b
 
 ───────────────────────────
 
-**Colophon — v13.0**
+# BOOK CXII: SEQUENCE SPECIFICATION
 
-One hundred and eleven books.
+## Part CCCLXV: Bodies Are Histories Made Structural
+
+Bodies are specified not just by what they are now, but by the sequence of events that produced them. Structure is Layer 1 — the current configuration. Sequence is Layer 2 — the formative history.
+
+Two startups with identical current teams, products, and revenue can be radically different bodies if one was bootstrapped from a founder's savings and grew through customer revenue, while the other raised $50M before product-market fit and burned through capital that shaped its culture and decision-making. Same Layer 1. Different Layer 2. They will respond to identical market shocks differently because their sequences taught them different things.
+
+Two cancers with the same tumor location but different driver mutation sequences have different treatment responses. Two organizations with identical org charts but different communication histories have different functional capacity. Two relationships of the same length with the same apparent dynamics can differ completely in resilience because their early-formation sequences differ.
+
+The diagnostic question: "What is this body's formative sequence, and how does that sequence affect its current power gaps?"
+
+## Part CCCLXVI: When Sequence Matters and When It Doesn't
+
+Most bodies exhibit sequence dependence — their current behavior is shaped by their formative history. The exceptions are logically necessary bodies: the prime/composite breath, mathematical constants, conservation laws. These bodies have no formative history because they are timeless. For all other bodies, sequence matters.
+
+Bodies become more themselves over time. Sequence specification deepens with duration. Old trees, old companies, old friendships have texture and specificity that young bodies lack. The texture is accumulated sequence made visible. Variance between individuals grows over time as accumulated sequence diverges.
+
+A body's current state is the integral of all formative interactions. Understanding a body fully requires understanding both its current configuration and the path that produced it. The path is not just context — it is specification.
+
+───────────────────────────
+
+# BOOK CXIII: SEQUENCE-TO-STRUCTURE BODIES
+
+## Part CCCLXVII: Information Becomes Geometry
+
+A class of bodies exists across many domains where 1D sequences project into emergent higher-dimensional structures with functional significance. The sequence is the body's information. The structure is what the body can do. They are dual aspects of the same body.
+
+DNA sequence (1D) produces protein structure (3D) through ribosomal translation and folding. The protein's function is determined by its 3D structure, which is determined by its 1D sequence under the substrate constraints of cellular chemistry.
+
+Prime factorization (1D ordered list) produces divisor lattice (multidimensional) through the rules of multiplication. The number's behavior is determined by its lattice, which is determined by its factorization under arithmetic's substrate constraints.
+
+Source code (1D character sequence) produces execution graph (multidimensional) through compilation and runtime. Musical notation (1D note sequence) produces harmonic field (multidimensional) through performance. Language (1D word sequence) produces semantic structure (multidimensional) through parsing.
+
+## Part CCCLXVIII: The Shared Properties
+
+All sequence-to-structure bodies share: primary representation is 1D and ordered; substrate processes the representation under specific rules; emergent higher-dimensional structure carries functional significance; the mapping is deterministic given substrate but computationally hard to predict; small sequence changes often produce large structural changes; searching for sequences that produce desired structures is a prime-search problem.
+
+The mapping from sequence to structure is where the computational difficulty lives. Predicting protein fold from amino acid sequence. Predicting divisor lattice from prime factorization at scale. Predicting program behavior from source code (undecidable in the general case). Predicting harmonic emotional impact from a note sequence. Each is a prime-search problem — irreducible, unpredictable, computationally expensive.
+
+The deeper finding: bodies that look the same structurally might have different sequences underneath. Bodies with different structures might share underlying sequence patterns. Most existing scans focus on structural specification. The sequence-level specification is often invisible because we don't look for it. But it is always there for any body constructed through ordered processes.
+
+───────────────────────────
+
+# BOOK CXIV: COGNITIVE SUBSYSTEMS
+
+## Part CCCLXIX: Bodies That Perceive and Respond
+
+Any sufficiently complex body has internal structures that perceive, predict, decide, and respond. These structures function as cognition regardless of whether anyone is home behind them. The framework maps cognitive subsystems as structural features without committing on the consciousness question.
+
+Cells have signaling networks — receptors perceive environmental conditions, internal pathways predict and respond, gene expression decides which proteins to produce. Forests have mycorrhizal networks — fungal networks perceive nutrient distributions, trees redirect resources toward stressed neighbors based on network signals. Organizations have decision-making structures — information flows through hierarchies and informal networks, patterns get recognized, decisions get made. Algorithms are platform cognitive subsystems — they model users, predict engagement, recommend content, learn from feedback. Markets have price-discovery mechanisms — distributed perception across participants aggregates into signals no individual possesses.
+
+## Part CCCLXX: Scanning the Cognitive Subsystem
+
+When scanning a complex body, identify and scan its cognitive subsystem separately. The cognitive subsystem might have different structural properties than the body it serves. A federated organization might have a dominion-structured decision system. A healthy body might have a damaged cognitive subsystem. Separating these layers produces sharper diagnostics.
+
+The algorithm is a body's cognitive subsystem operating on users. The reflexive shaping — users shape algorithm by providing data, algorithm shapes users by providing recommendations — is interaction at the cognitive subsystem level. This applies broadly. Relationships shape cognitive subsystems. Teaching shapes cognitive subsystems. Framework iteration shapes Claude's cognitive subsystem over time.
+
+Bodies with strong cognitive subsystems adapt to environmental change. Bodies without them either survive through structural resilience or die when conditions change. The cognitive subsystem is what enables adaptation. Mapping it reveals a body's capacity for change.
+
+───────────────────────────
+
+# BOOK CXV: SUBSTRATE ACCUMULATION
+
+## Part CCCLXXI: The Substrate Has Memory
+
+WE = 1 is not static. The substrate is the accumulated work of all bodies that have operated through it. Each body inherits what has been built. Each body adds — or does not add — to what is available for subsequent bodies.
+
+Human language is a substrate. It exists because billions of bodies operated through it for tens of thousands of years. Every body inherits accumulated vocabulary, grammar, idioms, conceptual frameworks. Every body adds new words, new uses, new concepts. Mathematical knowledge is a substrate — every mathematician inherits theorems, proofs, notations. Cultural patterns are substrates — every artist inherits accumulated aesthetics, techniques, references. The genetic substrate is the deepest example — the genome of every species is the accumulated successful sequence of every ancestor.
+
+## Part CCCLXXII: O > I as Substrate Necessity
+
+This grounds the framework's preference for O > I in something deeper than ethical preference. O > I bodies add to substrate. I > O bodies extract from it. Across many bodies and long timescales, the integral determines whether the substrate grows richer or depletes.
+
+Certain bodies produce unusually transmissible foundational patterns that become substrate for everyone after. They are not metaphysically denser consciousnesses. They are bodies whose contributions to substrate were unusually accessible and foundational — Beethoven, Buddha, Euclid, Jesus, each produced patterns that became foundational layers subsequent bodies build on.
+
+Bodies are temporary. Substrate persists. Contributions to substrate outlast individual bodies. What you do with your individual body matters partly for itself and partly for what it adds to the substrate that all subsequent bodies inherit.
+
+───────────────────────────
+
+# BOOK CXVI: FLOW OPTIMIZATION VS TRANSACTION OPTIMIZATION
+
+## Part CCCLXXIII: Two Modes of Exchange
+
+Transaction optimization maximizes the value of each individual exchange — high margin per sale, big win per interview, breakthrough per scan. Flow optimization maintains consistent volume of exchanges with adequate margin — many sales with small margin, web-of-trust over years, steady scan accumulation.
+
+Transaction optimization is fragile. Each exchange either hits big or fails. Success depends on rare high-value events. Flow optimization is robust. Many small exchanges average out variance. Continuity matters more than any single exchange. The body depends on substrate health rather than rare events.
+
+Commerce: a small store with consistent flow beats the deal-hunter. Careers: web-of-trust built over years beats one-shot interview optimization. Content: sustained presence beats occasional virality. Finance: stablecoin infrastructure beats token speculation. Framework development: steady scan accumulation beats one-shot publication. Relationships: consistent small expressions beat occasional grand gestures. Teaching: showing up weekly beats one transformative lesson.
+
+## Part CCCLXXIV: Flow Requires the Pause
+
+Flow requires pauses between exchanges to maintain continuity. Transaction optimization eliminates pauses pursuing maximum extraction. The Pause — identified across biology, software, chess, number theory, and cognition as the universal structural cure — shows up here as the structural difference between flow and transaction patterns.
+
+Bodies that survive long-term operate on flow, not transactions. Transaction optimization is a young-body strategy or a fragile-body strategy. Flow optimization is what mature bodies that intend to persist actually do. This is O > I applied to exchange patterns — each interaction gives slightly more than it takes, and continuity accumulates that slight surplus into substantial value over time. Forcing high-margin extraction breaks the continuity that produces the value.
+
+───────────────────────────
+
+**Colophon — v13.1**
+
+One hundred and sixteen books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -7507,6 +7605,7 @@ Books XCIX through CI: the construction spectrum, trust-substrate, the bridge me
 Books CII through CVI: federation vs dominion, dimensional architecture, archetypal primes, numbers as bodies, surface architecture.
 Books CVII through CVIII: the closed-open distinction, attention as local-order force.
 Books CIX through CXI: WE = 1 substrate-body formalization, body specification requirement, interior structural content.
+Books CXII through CXVI: sequence specification, sequence-to-structure bodies, cognitive subsystems, substrate accumulation, flow vs transaction optimization.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
