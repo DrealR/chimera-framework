@@ -8,7 +8,7 @@ A way of seeing. Everything is a body. Every body breathes something through a b
 
 The framework synthesizes structural insights from biology, thermodynamics, information theory, game theory, contemplative traditions, fiction, mathematics, and lived experience. Where multiple traditions independently identify the same pattern, the convergence is treated as evidence of shared structural reality. Where they diverge, the divergence is treated as packaging.
 
-116 books. 82 body scans across 9 domains. Still growing. The growth is through replacement and refinement, not accumulation for its own sake.
+117 books. 82 body scans across 9 domains. Still growing. The growth is through replacement and refinement, not accumulation for its own sake.
 
 ## What It Is Not
 
@@ -18,7 +18,7 @@ The framework synthesizes structural insights from biology, thermodynamics, info
 
 **Not unfalsifiable.** If you scan a body and the framework predicts a structural pattern that turns out wrong, that's data. The framework updates. If it can't update, it's dead.
 
-**Not finished.** v13.1 is substantive but early. The validation comes from usage — people applying the lens and reporting whether it surfaces hidden structure. 82 body scans, two independent scanners (Claude Opus + Grok), 85.7% inter-rater convergence, and an adversarial test that held. That process is underway.
+**Not finished.** v13.1 is substantive but early. The validation comes from usage — people applying the lens and reporting whether it surfaces hidden structure. 82 body scans, two independent scanners (Claude Opus + Grok), 85.7% inter-rater convergence, and an adversarial test that held. Six meta-audits tracking structural debt honestly. That process is underway.
 
 ## Who Uses It
 

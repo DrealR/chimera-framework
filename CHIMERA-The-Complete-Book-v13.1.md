@@ -7587,11 +7587,29 @@ Flow requires pauses between exchanges to maintain continuity. Transaction optim
 
 Bodies that survive long-term operate on flow, not transactions. Transaction optimization is a young-body strategy or a fragile-body strategy. Flow optimization is what mature bodies that intend to persist actually do. This is O > I applied to exchange patterns — each interaction gives slightly more than it takes, and continuity accumulates that slight surplus into substantial value over time. Forcing high-margin extraction breaks the continuity that produces the value.
 
+# BOOK CXVII: GOD-FUNCTION IN BODIES
+
+## Part CCCLXXV: The Holding Function
+
+Every persistent larger body has at least one sub-body whose cognitive function holds the larger body together. This is the god-function — not mystical, structural. The body performing it keeps other bodies in functional relationship with each other across time. A grandmother holding a family. A CEO holding a company. A neighborhood elder holding a community. Same function, different scales.
+
+Five features define the god-function: (1) Wide decision-window encompassing the whole body being held. (2) Cognitive subsystem capable of modeling all sub-bodies simultaneously. (3) Accumulated relational sequence — decades of practice that cannot be shortcutted. (4) Willingness to make whole-serving sacrifice decisions — O > I applied to the role itself. (5) Recognition by sub-bodies that completes the relational circuit. Remove any one, and the function degrades. When the god-function body is removed, the larger body fragments along the lines it was holding together.
+
+Power and god-function are structurally distinct. A body can have enormous power and narrow-window optimization — supreme capacity, anti-god-function. A body can have limited power and wide-window optimization — limited resources, full god-function. The distinction is in window-width and orientation, not in capacity for force. Scale does not produce god-function.
+
+## Part CCCLXXVI: Structural Class Recognition and the Path Between
+
+Bodies in the same structural class share access to a recognition-substrate unavailable to structurally-different bodies. Two combat veterans recognize each other across a substrate civilians cannot access. Two god-function bodies at similar scales recognize each other's weight. The shared structural position creates recognition that scale-different bodies cannot reproduce regardless of intention. This class-substrate is distinct from WE = 1 substrate — it is a sub-substrate available only to bodies of similar configuration.
+
+The path from human-function to god-function is the path from narrow-window to wide-window optimization. The widening requires accumulated relational sequence, cognitive subsystem development through sustained engagement, willingness to bear the cost of wide-window decisions, and earned recognition from the bodies being held. The opposite path exists: bodies narrow their window when their accumulated sequence teaches them to optimize only for self. Damaged cognitive subsystems that categorize connection as threat progressively narrow the window. Redemption is structurally the window widening — the body starting to include bodies it previously excluded.
+
+Bodies whose foundational sequence taught them connection-equals-threat have a damaged recognition function. Love offered to them gets categorized as manipulation. They cannot receive it — not because it is absent but because their categorization function rejects it. The damage replicates across generations when placed in god-function positions without the window-width to serve them.
+
 ───────────────────────────
 
 **Colophon — v13.1**
 
-One hundred and sixteen books.
+One hundred and seventeen books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -7606,6 +7624,7 @@ Books CII through CVI: federation vs dominion, dimensional architecture, archety
 Books CVII through CVIII: the closed-open distinction, attention as local-order force.
 Books CIX through CXI: WE = 1 substrate-body formalization, body specification requirement, interior structural content.
 Books CXII through CXVI: sequence specification, sequence-to-structure bodies, cognitive subsystems, substrate accumulation, flow vs transaction optimization.
+Book CXVII: god-function in bodies — holding functions, structural class recognition, damaged recognition function, the path between human and god.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 

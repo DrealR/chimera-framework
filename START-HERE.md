@@ -54,7 +54,7 @@ Your twin is live in 5 minutes. No books required. [Full details](README.md#i-wa
 
 ### I want to read the philosophy
 
-Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md), then [The Love Equation](body-theory/LOVE-EQUATION.md). Those three give you the foundation. The [complete book](CHIMERA-The-Complete-Book-v13.1.md) has 116 books for when you want the full depth.
+Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md), then [The Love Equation](body-theory/LOVE-EQUATION.md). Those three give you the foundation. The [complete book](CHIMERA-The-Complete-Book-v13.1.md) has 117 books for when you want the full depth.
 
 ### I want to scan something specific
 
