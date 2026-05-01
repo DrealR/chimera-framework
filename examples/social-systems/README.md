@@ -1,13 +1,14 @@
 # Social Systems Domain Scans
 
-2 body scans applying the CHIMERA framework to social structures and communication substrates.
+3 body scans applying the CHIMERA framework to social structures, political bodies, and communication substrates.
 
 ## Scans
 
-| Scan | Skeleton | DNA |
-|------|----------|-----|
-| [Attention Economy](body-scan-attention-economy.md) | The system that converts human attention into revenue — I>O at scale | I>O |
-| [The Internet (2026)](body-scan-internet.md) | A communication substrate built on the assumption that traces correspond to humans, now broken by AI saturation | I>O (originally O>I) |
+| Scan | Protocol | Skeleton | DNA |
+|------|----------|----------|-----|
+| [Attention Economy](body-scan-attention-economy.md) | v3.11 | The system that converts human attention into revenue — I>O at scale | I>O |
+| [The Internet (2026)](body-scan-internet.md) | v3.11 | A communication substrate built on the assumption that traces correspond to humans, now broken by AI saturation | I>O (originally O>I) |
+| [The Augustan Principate](body-scan-augustan-rome.md) | v3.12.3 | Encoded monarchical power into republican institutions — working everywhere except at the single point of power transfer | Mixed (O>I citizens / I>O subjects) |
 
 ## Cross-Domain Patterns
 
@@ -19,11 +20,10 @@
 
 ## Staged Material (Pending v3.12 Review)
 
-4 historical/political scans in `thought-experiments/` awaiting integration:
-- Nation-State (anchor candidate)
+3 historical/political scans in `thought-experiments/` awaiting integration:
+- Nation-State (generic — superseded by Augustan Principate as bounded specification)
 - Hitler (historical mobilization engine)
 - Mussolini (prototype mobilization engine)
-- Charismatic Govern Lineage (cross-body pattern analysis)
 
 ---
 

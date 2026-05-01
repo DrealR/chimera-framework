@@ -1,6 +1,6 @@
 # CHIMERA Body Scan Examples
 
-83 body scans across 10 domains + adversarial, produced using CHIMERA Body Scan Protocol v3.11/v3.12/v3.12.1/v3.12.3. All standard scans have companion YAML data files for programmatic querying.
+84 body scans across 10 domains + adversarial, produced using CHIMERA Body Scan Protocol v3.11/v3.12/v3.12.1/v3.12.3. All standard scans have companion YAML data files for programmatic querying.
 
 ## Domains
 
@@ -13,7 +13,7 @@
 | [Biology](biology/) | 8 | Cells, organs, processes, and pathological bodies |
 | [AI Systems](ai-systems/) | 5 | AI models and digital systems |
 | [Meta](meta/) | 5 | The framework scanning itself |
-| [Social Systems](social-systems/) | 2 | Social structures, communication substrates, and economies |
+| [Social Systems](social-systems/) | 3 | Social structures, political bodies, and communication substrates |
 | **[Music](music/)** | **1** | **Songs and musical phenomena as living bodies (v3.12.3 validation)** |
 | **[Multi-Body](multi-body/)** | **3** | **Relational scans — composites of existing bodies (Phase 4)** |
 
