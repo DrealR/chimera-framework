@@ -23,7 +23,7 @@
 | 2 | **FLOW STATE** | Dual-phase. In addition, 0 is pure Pause — holding without changing. In multiplication, 0 is pure Exhale — radiating annihilation outward, collapsing everything to itself. |
 | 3 | **BREATH RATE** | Zero. 0 does not cycle. It is the stillness that precedes all cycling — the empty coordinate from which breath begins. |
 | 4 | **ATTRACTOR** | Depends on dimension. In multiplication, 0 is the ultimate attractor — everything multiplied by it collapses to it. In addition, 0 is invisible — nothing is drawn to it. Two gravitational profiles in one body. |
-| 5 | **TOPOLOGY** | Flowing — 0 emerged from the structure of counting itself. The recognition that "nothing" has a name, a position, and behavior. It was discovered, not invented. |
+| 5 | **TOPOLOGY** | Emergent — 0 surfaced from the structure of counting itself, arising when positional notation required a placeholder for "no quantity in this column." The recognition that "nothing" has a name, a position, and behavior was discovered through mathematical practice, not invented by decree. |
 | 6 | **ENTANGLEMENT** | Maximum in a strange direction. 0 does not divide anything (division by 0 is undefined). It is not a factor of any number. Yet every number contains 0 additively — remove yourself from any number and 0 is what remains. Entangled through absence rather than presence. |
 | 7 | **HEALTH** | Ambiguous. In addition, 0 is perfectly healthy — stable, unchanging, reliable. In multiplication, 0 exhibits void body behavior — pure exhale, no intake, annihilating everything it contacts. The question is whether this is cosmic void (necessary) or pathological void. |
 | 8 | **MEMBRANE** | In addition: fully transparent — everything passes through, nothing changes. In multiplication: fully opaque — nothing passes through, everything is absorbed. The only mathematical body whose membrane reverses completely between operations. |
@@ -73,7 +73,7 @@ One massive bump: division. 0 cannot be divided by. This is not a limitation but
 
 ### Federation vs Dominion
 
-Split configuration. In addition: pure federation. 0 flows through without capturing, a + 0 = a, perfect O = I. In multiplication: pure dominion. 0 captures everything — n x 0 = 0. Total extraction. The substrate flows inward and never returns. This makes 0 the only fundamental mathematical body that operates as both federation and dominion depending on which dimension it is acting in.
+Split configuration. In addition: federation where every body passes through unchanged — 0 flows through without capturing, a + 0 = a, perfect O = I, no extraction, no residue, no binding. In multiplication: total dominion — 0 captures everything, n x 0 = 0, absorbing all input and returning only itself. The substrate flows inward and never returns. This makes 0 the only fundamental mathematical body that operates as both federation and dominion depending on which dimension it is acting in.
 
 ### Dimensional Architecture
 

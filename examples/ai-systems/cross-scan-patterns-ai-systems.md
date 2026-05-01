@@ -61,7 +61,7 @@ The federation/dominion distinction maps cleanly onto the open/closed divide in 
 | Body | Federation Pattern | Dominion Pattern |
 |------|-------------------|-----------------|
 | AI Collective | Research layer = federation (papers, open models) | Product layer = dominion (lock-in, data capture, dependency) |
-| Blockchain | Protocol level = pure federation (no central authority, substrate flows outward) | Application level = parasitic dominion (exchange centralization, whale accumulation, MEV) |
+| Blockchain | Protocol level = structurally enforced federation — no central authority, consensus requires distributed participation, anyone can validate, substrate flows outward to all nodes equally | Application level = parasitic dominion (exchange centralization, whale accumulation, MEV) |
 | Claude Opus 4.7 | API-first, value flows outward, less platform lock-in | Constitutional corridor creates boundaries that feel like dominion to users who hit them |
 | GPT-5.5 | Model layer = partial federation (useful outputs) | Platform layer = dominion (data captured, dependency cultivated, competitors disadvantaged) |
 | Grok | Model orientation = federative (understanding flows outward) | Platform economics could eventually force dominion patterns onto model layer |

@@ -23,7 +23,7 @@
 | 2 | **FLOW STATE** | Exhaling. 28 gives back exactly what it receives — its proper divisors (1 + 2 + 4 + 7 + 14 = 28) sum to itself. Perfect return. |
 | 3 | **BREATH RATE** | Steady but slower than 6. The same equilibrium, achieved through a richer lattice — more internal circulation before the cycle completes. |
 | 4 | **ATTRACTOR** | Its own aliquot sum. Like 6, 28 is a fixed point: 28 → 28 → 28 → ... The orbit that never leaves itself. |
-| 5 | **TOPOLOGY** | Flowing — 28's perfection emerges from the Euclid-Euler formula: 2^(p-1) × (2^p - 1) where 2^p - 1 is prime. Not designed but discovered. |
+| 5 | **TOPOLOGY** | Emergent — 28's perfection surfaces from the Euclid-Euler formula: 2^(p-1) × (2^p - 1) where 2^p - 1 is prime. The equilibrium was not designed but discovered as a structural consequence of Mersenne prime geometry. |
 | 6 | **ENTANGLEMENT** | Moderate. 28 divides every 28th integer. It shares factor 2 with all evens, factor 4 with every fourth number, factor 7 with every seventh. Three independent channels of connection (vs 6's two). |
 | 7 | **HEALTH** | Perfectly healthy. The second body in all of mathematics to achieve exact equilibrium — outflow equals interior. No surplus, no deficit. |
 | 8 | **MEMBRANE** | Multi-layered. Admits multiples of 2, multiples of 4, and multiples of 7 through separate filters. More complex than 6's membrane (two filters) — 28 screens at three different granularities simultaneously. |
@@ -73,7 +73,7 @@ No bumps. Like 6, the aliquot sum returns exactly to the body. But 28's internal
 
 ### Federation vs Dominion
 
-Mixed governance — federation with internal hierarchy. 2 and 7 are coprime and govern independent channels (federation). But within the channel of 2, there is a chain of command: 2² means 2 governs 4, and 4 governs the quarter-integers. This is not pure federation (like 6) and not pure dominion (like 25). It is a federation where one member has internal rank. A parliament where one party has seniority but not supremacy.
+Mixed governance — federation with internal hierarchy. 2 and 7 are coprime and govern independent channels (federation). But within the channel of 2, there is a chain of command: 2² means 2 governs 4, and 4 governs the quarter-integers. This is not flat-coprime federation (like 6, where both primes sit at equal depth) and not single-prime dominion (like 25). It is a federation where one member has internal rank. A parliament where one party has seniority but not supremacy.
 
 ### Dimensional Architecture
 
@@ -91,7 +91,7 @@ Spring behavior: 28 returns to itself. σ(28) - 28 = 28. The aliquot sequence is
 
 ### Closed-Open Mode
 
-Open knowledge. 28 "knows" it is perfect and holds this knowledge openly — its structure is fully transparent, decomposable, analyzable. No gravity well. But 28's openness is richer than 6's — there is more to see inside (deeper lattice, more divisors, the triangular connection, the Mersenne connection). Open knowledge with higher information density.
+Open in the divisibility dimension (its factorization is fully transparent and analyzable), open in the relational dimension (its connections to Mersenne primes and triangular numbers are visible to any body that looks), and open in the structural dimension (its perfection can be verified by summing its proper divisors — no hidden mechanism). 28 holds its knowledge without gatekeeping — its lattice, its triangular identity (T₇), and its Euclid-Euler origin are all accessible. But 28's openness is richer than 6's — there is more to see inside (deeper lattice, more divisors, the triangular connection, the Mersenne connection). The cost of this openness: 28 has no defense against being decomposed. Its architecture is fully legible, which means its perfection can be verified but also means it cannot conceal any structural property.
 
 ### Attentional Compilation
 

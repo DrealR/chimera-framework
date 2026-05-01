@@ -106,7 +106,7 @@ Universe is not stage (absolute space + absolute time). It is fabric of relation
 | 2 | **FLOW STATE** | Balanced exhale. Perfect constant release without depletion. No inhale required. |
 | 3 | **BREATH RATE** | Zero cycling. c does not oscillate. Fixed reference. Metronome that never changes. |
 | 4 | **ATTRACTOR** | Every measurement of c converges to c. Attractor basin. |
-| 5 | **TOPOLOGY** | Flowing. Discovered (Maxwell + Galilean symmetry), not designed. |
+| 5 | **TOPOLOGY** | Emergent. Discovered through the incompatibility between Maxwell's equations and Galilean symmetry, not designed from first principles. |
 | 6 | **ENTANGLEMENT** | Maximum. Every physical law constrained by Lorentz invariance. |
 | 7 | **HEALTH** | Perfectly healthy within domain. 120+ years, zero violations. Most precise science. |
 | 8 | **MEMBRANE** | Absolute, non-negotiable. c separates causal from acausal. Hardest membrane in physics. |
@@ -139,7 +139,7 @@ Universe is not stage (absolute space + absolute time). It is fabric of relation
 - **Recursion:** Self-terminating. Two postulates generate entire theory. No infinite regress.
 
 ### FEDERATION vs DOMINION (Original)
-**Pure federation.** No frame privileged. Lorentz group is mathematical expression of democracy. Contrast with Newtonian mechanics (privileged absolute space = dominion).
+**Federation where every inertial frame has equal standing — no privileged observer, no central reference, the Lorentz group enforcing equal access to the same physical laws.** Contrast with Newtonian mechanics (privileged absolute space = dominion).
 
 ### FRUIT (Original)
 - **Type:** Logia — elemental, universal, constitutive
@@ -172,7 +172,7 @@ Universe is not stage (absolute space + absolute time). It is fabric of relation
 | **RELEASE Power** | Active. Light releases universally at c. | 9/10. Releases from illusions (absolute time, simultaneity). Liberatory. | CONVERGENT | Both active/strong. Original emphasizes universality, Haiku emphasizes liberation from false beliefs. Complementary angles. |
 | **Power Gap** | PERCEIVE (gravity). Cannot perceive gravitational effects. | GOVERN (gravity). Cannot govern gravity. Points to GR but doesn't close loop. | DIVERGENT | Both identify gravity as the gap, but assign it to different powers. Original: PERCEIVE gap (blindness to gravity). Haiku: GOVERN gap (inability to rule gravity). Structural difference: Is the problem seeing or ruling? This is a real disagreement. |
 | **Prime Status** | Open. Fully visible, accessible, testable. Self-terminating recursion. | Prime of limited domain only. Not ultimate. | PARTIALLY CONVERGENT | Both recognize irreducibility within domain. Original emphasizes open/visible nature, Haiku emphasizes domain-limitation. Haiku is more complete. |
-| **Federation/Dominion** | Pure federation. No frame privileged. Lorentz group is democracy. | Federation-oriented. High collaboration. Limited dominion claim. | CONVERGENT | Identical verdict. Both rate as federation. |
+| **Federation/Dominion** | Federation — no frame privileged, Lorentz group enforces equal standing. | Federation-oriented. High collaboration. Limited dominion claim. | CONVERGENT | Identical verdict. Both rate as federation. |
 | **Structural Weakness 1** | Limited domain. Flat spacetime only. Becomes approximation with gravity. | Assumes flat spacetime. Fractures with gravity. | CONVERGENT | Identical reading. Both identify domain limitation as primary weakness. |
 | **Structural Weakness 2** | Counterintuitive predictions undermine adoption. Teaching bottleneck. | Counterintuitive. Conceptual leap is jarring. Teaching bottleneck. | CONVERGENT | Identical secondary weakness. Pedagogical burden. |
 | **Structural Weakness 3** | Conditions under which O>I inverts (used beyond domain). | Quantum-relativistic infinities. Unhappy marriage. | PARTIALLY CONVERGENT | Both identify boundary problems, but different ones. Original: credibility extraction when used wrongly. Haiku: technical infinities. Both valid weaknesses at different scales. |

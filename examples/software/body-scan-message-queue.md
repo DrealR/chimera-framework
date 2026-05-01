@@ -73,7 +73,7 @@ Two bumps. First: **the ordering illusion.** Producers assume messages will be c
 
 ### Federation vs Dominion
 
-Federation -- as the enabling substrate. Consumer groups are pure federation: multiple consumers sharing the work of processing a single topic, each handling a subset of partitions, coordinating through the queue's group protocol. No single consumer dominates. If one dies, the others rebalance and absorb its partitions. The queue enables this federation without participating in it -- it is the commons, not a member. Dominion appears when a single producer monopolizes a topic's schema, forcing all consumers to conform to its format. Schema ownership is the queue's dominion vector.
+Federation -- as the enabling substrate. Consumer groups are federation without hierarchy: multiple consumers sharing the work of processing a single topic, each handling a subset of partitions, coordinating through the queue's group protocol, with no designated leader and automatic rebalancing when membership changes. No single consumer dominates. If one dies, the others rebalance and absorb its partitions. The queue enables this federation without participating in it -- it is the commons, not a member. Dominion appears when a single producer monopolizes a topic's schema, forcing all consumers to conform to its format. Schema ownership is the queue's dominion vector.
 
 ### Dimensional Architecture
 

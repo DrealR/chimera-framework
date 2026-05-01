@@ -76,7 +76,7 @@ Across every domain, distributed bodies with no central controller outperform ce
 
 | Domain | Federation | Dominion | Outcome |
 |--------|-----------|----------|---------|
-| **Mathematics** | 6 (2x3): two coprimes, pure federation, perfect number | 25 (5^2): one prime repeated, monarchy, deficient | Federation achieves equilibrium (O=I); dominion hoards (I>O) |
+| **Mathematics** | 6 (2x3): two coprimes in voluntary cooperation — each prime governs an independent channel (parity via 2, triadic structure via 3) with no hierarchy, perfect number | 25 (5^2): one prime repeated, monarchy, deficient | Federation achieves equilibrium (O=I); dominion hoards (I>O) |
 | **Physics** | Inertial frame equality: all observers share same laws, no privileged frame (Lorentz group) | Newtonian absolute space: implicitly privileged reference frame, invisible sovereign | Federation (special relativity) is experimentally verified for 120 years; dominion (absolute space) was wrong |
 | **Biology** | Microbiome: hundreds of species, niche partitioning, cross-feeding, self-governance through ecology | Dysbiosis: single species dominating depleted community (C. difficile after antibiotics) | Health = diversity (federation); disease = monoculture (dominion) |
 | **AI Systems** | Open-source AI: substrate flows outward, no central extraction; blockchain protocol: permissionless, no gatekeepers | Platform AI: data captured, users locked in, value extracted; MEV extraction, governance capture | Federation creates anti-fragility; dominion creates extraction cycles that collapse |
