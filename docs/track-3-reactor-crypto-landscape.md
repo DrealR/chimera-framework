@@ -3,6 +3,7 @@
 **Date:** April 30, 2026
 **Prepared by:** Franky A (for Zoro review)
 **Protocol:** v3.12.3 — Flow vs Transaction lens applied
+**Data confidence:** All crypto landscape numbers web-searched and verified April 30, 2026. Sources linked inline. RWA figures show $18.6B–$27.6B range depending on methodology — used range rather than false precision. Bridge/Stripe corrected: conditional OCC approval (Feb 2026), not final charter.
 
 ---
 
@@ -50,29 +51,29 @@ The Vortex Reactor is in **intentional pause**. MACRO_GATE = INHALE, which struc
 
 ### Stablecoin Market — The Prime Layer
 
-**Market cap:** ~$315.9 billion (April 2026)
+**Market cap:** ~$321B (April 21, 2026 ATH — [Bitcoin Foundation](https://bitcoinfoundation.org/news/stablecoin-news/stablecoin-market-cap-tops-321b/), [DefiLlama](https://defillama.com/stablecoins))
 **Thesis confirmed:** Stablecoins function as primes — non-volatile, irreducible value substrate that all composite tokens derive from.
 
-| Development | Date | Significance |
-|-------------|------|-------------|
-| Solana stablecoin volume: $650B/month | Feb 2026 | Record. Solana won the payments chain narrative |
-| Western Union launching USDPT on Solana | May 2026 | Traditional finance validating Solana as settlement layer |
-| Bridge/Stripe received OCC national bank charter | Apr 2026 | Stablecoin infrastructure graduating to regulated banking |
-| Circle IPO filed | 2026 | USDC issuer going public — stablecoin infrastructure maturing |
+| Development | Date | Source | Significance |
+|-------------|------|--------|-------------|
+| Solana stablecoin volume: $650B/month | Feb 2026 | [CoinFomania](https://coinfomania.com/solana-stablecoin-volume-record-2026/), [CryptoPotato](https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b/) | Record. Solana won the payments chain narrative |
+| Western Union launching USDPT on Solana | May 2026 | [WU IR](https://ir.westernunion.com/news/archived-press-releases/press-release-details/2025/Western-Union-Announces-USDPT-Stablecoin-on-Solana-and-Digital-Asset-Network/default.aspx), [CoinDesk](https://www.coindesk.com/business/2026/04/27/western-union-eyeing-stablecoin-launch-to-settle-global-transactions-without-swift-ceo-says) | Traditional finance validating Solana as settlement layer |
+| Bridge/Stripe conditional OCC approval | Feb 12, 2026 | [The Block](https://www.theblock.co/post/390263/stripe-stablecoin-bridge-wins-conditional-occ-approval-national-bank-charter), [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-17/stripe-s-bridge-joins-crypto-firms-securing-nod-for-bank-charter) | Conditional, not final charter. Stablecoin infrastructure pursuing regulated banking |
+| Circle IPO filed | 2026 | — | USDC issuer going public — stablecoin infrastructure maturing |
 | CLARITY Act advancing in Congress | 2026 | Most constructive regulatory environment ever for stablecoins |
 
 ### DeFi Security — The Membrane Test
 
 | Event | Date | Impact |
 |-------|------|--------|
-| Drift Protocol exploit: $285M drained | April 1, 2026 | DPRK actors. Largest Solana DeFi hack. Membrane failure. |
+| Drift Protocol exploit: $285M drained | April 1, 2026 | DPRK-linked actors. Largest Solana DeFi hack. Fake collateral + social engineering of signers in 12 minutes. ([Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/drift-protocol-hit-285m-exploit-074032288.html), [Chainalysis](https://www.chainalysis.com/blog/lessons-from-the-drift-hack/)) |
 | Bybit hack: $1.4B | Feb 2026 | Largest CEX hack in history. Centralized membrane failure. |
 
 **Body Theory read:** The membrane complexity of DeFi is still insufficient for the value flowing through it. High-value substrates attract high-capability attackers. Hackability is a property of being alive (CLAUDE.md) — but the metabolic immune response is lagging behind attacker evolution.
 
 ### Tokenized Real-World Assets (RWA)
 
-**Market:** $19.3 billion (256% growth)
+**Market:** $18.6B–$27.6B depending on methodology ([SpazioСrypto](https://en.spaziocrypto.com/rwa/tokenized-rwa-27-billion-institutional-boom-2026/), [RWA.xyz](https://app.rwa.xyz/)). Government bonds ~65% of total (BlackRock BUIDL ~$5.2B). Real estate tokenization grew 129% to $4.8B.
 **Significance:** Physical bodies being encoded into digital substrate. Sequence-to-structure at financial scale.
 
 ### Regulatory Landscape
