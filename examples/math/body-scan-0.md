@@ -77,7 +77,7 @@ Split configuration. In addition: pure federation. 0 flows through without captu
 
 ### Dimensional Architecture
 
-0 is embodied in the additive dimension as its identity element — the same structural role 1 plays in multiplication. But 0 also operates as: the origin of the number line (geometry), the empty set's cardinality (set theory), falsity (logic), the zero vector (linear algebra), the null element (abstract algebra). 0 is not a bridge body like 1. It is a ground body — the floor beneath the floor. Every coordinate system starts at 0. Every measurement is a distance from 0.
+0 is embodied in the additive dimension as its identity element — the same structural role 1 plays in multiplication. But 0 also operates as: the origin of the number line (geometry), the empty set's cardinality (set theory), falsity (logic), the zero vector (linear algebra), the null element (abstract algebra). 0 does not translate a principle across dimensions the way 1 carries the identity template. It is a ground body — the floor beneath the floor. Every coordinate system starts at 0. Every measurement is a distance from 0.
 
 ### Structural Signature
 

@@ -83,7 +83,7 @@ The deadlock is neither federation nor dominion -- it is the collapse of both in
 
 ### Dimensional Architecture
 
-The deadlock is embodied in the temporal dimension -- it exists because processes execute concurrently and their interleavings are non-deterministic. Its primary anchor is the scheduling of operations across time: the exact sequence of acquire-hold-request that produces the cycle. It operates through the resource dimension as the blocking medium (which lock, which file, which connection) and through the spatial dimension as the topology of dependency (which process connects to which). The deadlock is not a bridge body -- it is a collapse body, the point where concurrency's promise of parallel progress inverts into parallel paralysis.
+The deadlock is embodied in the temporal dimension -- it exists because processes execute concurrently and their interleavings are non-deterministic. Its primary anchor is the scheduling of operations across time: the exact sequence of acquire-hold-request that produces the cycle. It operates through the resource dimension as the blocking medium (which lock, which file, which connection) and through the spatial dimension as the topology of dependency (which process connects to which). The deadlock does not translate between dimensions -- it is a collapse body, the point where concurrency's promise of parallel progress inverts into parallel paralysis.
 
 ### Structural Signature
 

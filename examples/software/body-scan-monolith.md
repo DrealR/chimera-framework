@@ -77,7 +77,7 @@ Dominion that believes it is federation. The monolith presents itself as a coope
 
 ### Dimensional Architecture
 
-The monolith is embodied in the computational dimension -- its primary anchor is the single process, the single memory space, the single thread pool. It operates through the organizational dimension (team structure must mirror the monolith's structure -- Conway's Law), the temporal dimension (deployment cadence), and the reliability dimension (shared fate). The monolith is not a bridge body. It is the opposite -- a body that collapses all dimensions into one. Where microservices distribute across dimensions (separate processes, separate teams, separate deployment cadences), the monolith unifies them. This unification is efficient when dimensions align and catastrophic when they diverge.
+The monolith is embodied in the computational dimension -- its primary anchor is the single process, the single memory space, the single thread pool. It operates through the organizational dimension (team structure must mirror the monolith's structure -- Conway's Law), the temporal dimension (deployment cadence), and the reliability dimension (shared fate). The monolith does not translate between dimensions. It is the opposite -- a body that collapses all dimensions into one. Where microservices distribute across dimensions (separate processes, separate teams, separate deployment cadences), the monolith unifies them. This unification is efficient when dimensions align and catastrophic when they diverge.
 
 ### Structural Signature
 

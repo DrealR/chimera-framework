@@ -142,7 +142,7 @@ This endgame compiles attention through reduction. A chess player studying K+P v
 
 ## PRE-SHIP SELF-CHECK (v3.11)
 
-1. **No weak-language defaults:** Skeleton is specific to the escort-geometry identity, not a template phrase. No unearned "pure federation" or "bridge body" labels applied.
+1. **No weak-language defaults:** Skeleton is specific to the escort-geometry identity, not a template phrase. No unearned "pure federation" or generic connector labels applied.
 2. **Insight survives vocabulary removal:** "Outcomes in minimal systems are determined by relative position, not power" holds without any framework terminology.
 3. **Skeleton is body-specific:** "Bodyguard-escort relationship determines everything" could not describe a piece scan, an opening scan, or a different endgame.
 4. **All five god powers forced:** Perceive (geometric compression), Govern (binary absolutism), Project (single-threaded), Create (absent-then-decisive gap identified), Release (forced on defender). Primary gap: Create.

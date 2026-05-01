@@ -77,7 +77,7 @@ Federation — but as substrate, not participant. The open file enables federati
 
 ### Dimensional Architecture
 
-The open file is embodied in the structural dimension — pawn skeleton topology. It operates through the spatial dimension (vertical squares), the temporal dimension (created at a specific moment by a specific exchange, decaying if closed), and the strategic dimension (whoever controls it controls the vertical axis). Primary anchor: pawn structure. The open file is a surface phenomenon — it exists at the boundary between "position with pawns" and "position without pawns" on a given column. Bridge body status: yes. The open file bridges the two halves of the board vertically, connecting a player's back rank to the opponent's.
+The open file is embodied in the structural dimension — pawn skeleton topology. It operates through the spatial dimension (vertical squares), the temporal dimension (created at a specific moment by a specific exchange, decaying if closed), and the strategic dimension (whoever controls it controls the vertical axis). Primary anchor: pawn structure. The open file is a surface phenomenon — it exists at the boundary between "position with pawns" and "position without pawns" on a given column. The open file functions as a vertical transit channel, translating back-rank piece energy into enemy-territory penetration by converting pawn absence into a passage that connects a player's first rank to the opponent's, at the cost of bilateral accessibility (the opponent can use the same channel in reverse).
 
 ### Structural Signature
 
@@ -141,7 +141,7 @@ The open file compiles no attention of its own — it compiles the attention of 
 
 ## PRE-SHIP SELF-CHECK (v3.11)
 
-1. **No weak-language defaults:** Skeleton is specific to the open file ("highway built from wreckage"), not generic channel language. DNA readings justified per condition (mixed-operational with reasoning). No "pure federation" or "bridge body" without structural argument.
+1. **No weak-language defaults:** Skeleton is specific to the open file ("highway built from wreckage"), not generic channel language. DNA readings justified per condition (mixed-operational with reasoning). No "pure federation" or generic connector labels without structural argument.
 2. **Insight survives vocabulary removal:** Core insight — "the most powerful feature is a gap, not a piece" — holds without framework terminology.
 3. **Skeleton is body-specific:** "The body that exists only because something else was destroyed" cannot apply to any chess piece or generic concept. It is the open file.
 4. **All five power gaps forced:** Perceive (absent — infrastructure has no awareness), Govern (passive — governs by creating decisions), Project (occupant-dependent), Create (enables, does not produce), Release (involuntary — imposed by pawn exchange). Gap identified: Perceive.

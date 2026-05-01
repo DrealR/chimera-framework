@@ -83,7 +83,7 @@ Zugzwang is dominion at its most refined. The opponent does not attack, does not
 
 ### Dimensional Architecture
 
-Zugzwang is embodied in the temporal dimension -- it exists only because turns are sequential and mandatory. Its primary anchor is the turn-order rule, not the board's spatial structure. It operates through spatial and material dimensions as the damage medium: the forced move manifests as a spatial concession (losing a key square) or material loss (losing a pawn). Zugzwang is not a bridge body -- it is a collapse body, the point where the temporal and spatial dimensions become adversarial rather than cooperative.
+Zugzwang is embodied in the temporal dimension -- it exists only because turns are sequential and mandatory. Its primary anchor is the turn-order rule, not the board's spatial structure. It operates through spatial and material dimensions as the damage medium: the forced move manifests as a spatial concession (losing a key square) or material loss (losing a pawn). Zugzwang does not translate between dimensions -- it is a collapse body, the point where the temporal and spatial dimensions become adversarial rather than cooperative.
 
 ### Structural Signature
 

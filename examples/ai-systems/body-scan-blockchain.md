@@ -85,7 +85,7 @@ Pure federation at protocol level. No central authority captures value. Substrat
 
 ### Dimensional Architecture
 
-Blockchain is embodied in the cryptographic dimension — its primary anchor is mathematical proof (hashes, signatures, zero-knowledge proofs). It operates through economic (tokenomics, incentive design), social (governance, community), and temporal (block time, finality) dimensions. Bridge body between trustless mathematics and trust-requiring human coordination. The body's unique contribution: translating mathematical certainty into social coordination capacity. The surface between cryptographic proof and human governance is where blockchain does its most important and most fragile work.
+Blockchain is embodied in the cryptographic dimension — its primary anchor is mathematical proof (hashes, signatures, zero-knowledge proofs). It operates through economic (tokenomics, incentive design), social (governance, community), and temporal (block time, finality) dimensions. Translates mathematical certainty into social coordination capacity — converting cryptographic proofs (hashes, signatures, zero-knowledge proofs) into enforceable agreements between untrusting parties through consensus mechanisms, at the cost of computational overhead and finality delay. The body's unique contribution: translating mathematical certainty into social coordination capacity. The surface between cryptographic proof and human governance is where blockchain does its most important and most fragile work.
 
 ### Structural Signature
 

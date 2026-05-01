@@ -79,7 +79,7 @@ Federation — DNS is the oldest and most successful federation architecture on 
 
 ### Dimensional Architecture
 
-DNS is embodied in the naming dimension — its primary anchor is the human-readable namespace. It operates through the network dimension (UDP/TCP transport), the temporal dimension (TTL-driven cache lifecycle), the trust dimension (delegation chains, DNSSEC), and the political dimension (ICANN governance, ccTLD sovereignty, censorship). DNS is a bridge body spanning the human-language dimension and the machine-address dimension, performing continuous translation at the boundary. The transformation surface is the resolution itself — the moment where "google.com" becomes 142.250.80.46 is the phase transition between two incompatible naming systems.
+DNS is embodied in the naming dimension — its primary anchor is the human-readable namespace. It operates through the network dimension (UDP/TCP transport), the temporal dimension (TTL-driven cache lifecycle), the trust dimension (delegation chains, DNSSEC), and the political dimension (ICANN governance, ccTLD sovereignty, censorship). DNS translates human-readable names into machine-routable addresses, converting linguistic identity into network location through hierarchical delegation and recursive resolution. The transformation surface is the resolution itself — the moment where "google.com" becomes 142.250.80.46 is the phase transition between two incompatible naming systems.
 
 ### Structural Signature
 

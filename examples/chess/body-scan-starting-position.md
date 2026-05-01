@@ -77,7 +77,7 @@ Neither. Federation requires willing collaboration between distinct bodies. Domi
 
 ### Dimensional Architecture
 
-The starting position is embodied in the SPATIAL dimension — it is a pure arrangement, an architecture. It does not operate through the temporal dimension (no time has passed), the tactical dimension (no threats exist), or the strategic dimension (no plans have formed). It is a one-dimensional body: shape without motion, structure without function. The surface between the starting position and the game proper is the first move — a transformation boundary where a spatial body becomes a temporal one. Before: static geometry. After: living contest. The starting position is not a bridge body. It is the SHORE from which the bridge departs.
+The starting position is embodied in the SPATIAL dimension — it is a pure arrangement, an architecture. It does not operate through the temporal dimension (no time has passed), the tactical dimension (no threats exist), or the strategic dimension (no plans have formed). It is a one-dimensional body: shape without motion, structure without function. The surface between the starting position and the game proper is the first move — a transformation boundary where a spatial body becomes a temporal one. Before: static geometry. After: living contest. The starting position does not translate between dimensions. It is the SHORE from which all dimensional translation departs.
 
 ### Structural Signature
 

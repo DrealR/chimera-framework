@@ -81,7 +81,7 @@ Dominion at the horizon — pure I>O capture. Nothing escapes, nothing is return
 
 ### Dimensional Architecture
 
-Embodied in general relativity (primary anchor: spacetime curvature). Operates through: thermodynamics (Bekenstein-Hawking entropy, temperature), quantum mechanics (Hawking radiation, information paradox), information theory (holographic principle — surface area encodes volume information), astrophysics (galaxy formation, AGN feedback). The black hole is the ultimate bridge body — it forces general relativity and quantum mechanics to confront each other at its boundary. The next theory of physics will be born from this confrontation.
+Embodied in general relativity (primary anchor: spacetime curvature). Operates through: thermodynamics (Bekenstein-Hawking entropy, temperature), quantum mechanics (Hawking radiation, information paradox), information theory (holographic principle — surface area encodes volume information), astrophysics (galaxy formation, AGN feedback). The black hole is the ultimate dimensional collision point — it forces general relativity and quantum mechanics to confront each other at its boundary by encoding three-dimensional volumetric information onto a two-dimensional horizon surface, demanding a reconciliation that neither theory can provide alone. The next theory of physics will be born from this confrontation.
 
 ### Structural Signature
 

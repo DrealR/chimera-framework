@@ -76,7 +76,7 @@ Pure federation. 2 and 3 govern jointly, with no overlap and no conflict. They a
 
 ### Dimensional Architecture
 
-6 is embodied in TWO dimensions simultaneously — the dimension of 2 (evenness, parity, halving) and the dimension of 3 (thirds, triangularity, modular arithmetic mod 3). It is a bridge body at the smallest scale — carrying structure from one prime dimension to another. Compare to 25 (single dimension) — 6 is broader despite being smaller.
+6 is embodied in TWO dimensions simultaneously — the dimension of 2 (evenness, parity, halving) and the dimension of 3 (thirds, triangularity, modular arithmetic mod 3). It is the smallest-scale translator between independent prime dimensions — converting evenness (the 2-world of parity and halving) into triple-divisibility (the 3-world of thirds and triangularity) through coprime cooperation, where neither prime dominates and both contribute structural access the other cannot provide alone. Compare to 25 (single dimension) — 6 is broader despite being smaller.
 
 ### Structural Signature
 

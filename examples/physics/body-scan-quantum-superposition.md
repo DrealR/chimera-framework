@@ -81,7 +81,7 @@ Pure federation. Superposition distributes possibility without capturing any sin
 
 ### Dimensional Architecture
 
-Embodied in quantum mechanics (primary anchor). Operates through: mathematics (Hilbert space, linear algebra), information theory (qubits, quantum information), philosophy (measurement problem, consciousness debates), technology (quantum computing, cryptography). Superposition is a bridge body — it connects the mathematical dimension to the physical dimension in a way no classical body does. The wavefunction lives in Hilbert space (mathematical) but produces real effects in physical space.
+Embodied in quantum mechanics (primary anchor). Operates through: mathematics (Hilbert space, linear algebra), information theory (qubits, quantum information), philosophy (measurement problem, consciousness debates), technology (quantum computing, cryptography). Superposition translates mathematical possibility into physical actuality — it carries probability amplitudes from abstract Hilbert space into measurable outcomes in physical space through the Born rule, at the cost of destroying the superposition upon measurement. No classical body performs this translation. The wavefunction lives in Hilbert space (mathematical) but produces real effects in physical space.
 
 ### Structural Signature
 

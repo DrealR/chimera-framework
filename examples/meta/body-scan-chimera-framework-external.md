@@ -85,7 +85,7 @@ Pure federation, deliberately architected. The twin model (private repo + persis
 
 ### Dimensional Architecture
 
-The repo is embodied in the information dimension (pure text, markdown format). It operates through the philosophical dimension (Body Theory), the mathematical dimension (the Love Equation, structural signatures), the narrative dimension (One Piece archetypes, pop culture wrapping), the pedagogical dimension (examples, protocol, scan instructions), and the computational dimension (CLAUDE.md as AI compilation seed). The repo is a bridge body: it carries structural perception from the philosophical dimension into the computational dimension (AI agents), the practical dimension (applied scans), and the social dimension (twin-operator relationships). The CLAUDE.md file IS the bridge — philosophy encoded as compilation instructions.
+The repo is embodied in the information dimension (pure text, markdown format). It operates through the philosophical dimension (Body Theory), the mathematical dimension (the Love Equation, structural signatures), the narrative dimension (One Piece archetypes, pop culture wrapping), the pedagogical dimension (examples, protocol, scan instructions), and the computational dimension (CLAUDE.md as AI compilation seed). The repo translates structural perception from the philosophical dimension into the computational dimension (AI agents), the practical dimension (applied scans), and the social dimension (twin-operator relationships) — converting abstract Body Theory principles into executable AI compilation instructions through markdown-encoded protocol, at the cost of vocabulary density that gates entry. The CLAUDE.md file IS the bridge — philosophy encoded as compilation instructions.
 
 ### Structural Signature
 

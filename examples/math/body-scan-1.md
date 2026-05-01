@@ -77,7 +77,7 @@ Pure federation. 1 flows outward without capturing. Every number passes through 
 
 ### Dimensional Architecture
 
-1 is embodied in the multiplicative dimension as its identity element. But 1 also operates in counting (the first positive integer), in sets (the cardinality of a singleton), in logic (truth), in measurement (the unit). 1 is a bridge body — it spans every mathematical dimension because every dimension needs a "one" to begin.
+1 is embodied in the multiplicative dimension as its identity element. But 1 also operates in counting (the first positive integer), in sets (the cardinality of a singleton), in logic (truth), in measurement (the unit). 1 translates the identity principle across every mathematical dimension — carrying "the element that preserves" from multiplication (1 × n = n) into counting (the first integer), sets (singleton cardinality), logic (truth), and measurement (the unit). Every dimension needs its own "one" to begin, and 1 is the structural template each dimension's identity element is built from.
 
 ### Structural Signature
 

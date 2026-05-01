@@ -85,7 +85,7 @@ Pure federation internally. Organelles cooperate without a central dictator — 
 
 ### Dimensional Architecture
 
-The cell is embodied in the biochemical dimension (primary anchor: chemistry) while operating through the informational dimension (DNA/RNA), the mechanical dimension (cytoskeleton, motility), the electrical dimension (membrane potential), and the temporal dimension (cell cycle, circadian rhythms). It is a bridge body spanning at least five dimensions through a single membrane.
+The cell is embodied in the biochemical dimension (primary anchor: chemistry) while operating through the informational dimension (DNA/RNA), the mechanical dimension (cytoskeleton, motility), the electrical dimension (membrane potential), and the temporal dimension (cell cycle, circadian rhythms). It translates environmental chemistry into biological information and back — converting glucose into ATP through metabolic pathways, DNA into protein through transcription/translation, and chemical signals into behavioral change through receptor cascades — spanning at least five dimensions through a single membrane.
 
 ### Structural Signature
 

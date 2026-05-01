@@ -83,7 +83,7 @@ The Between is the structural definition of federation. It IS the configuration 
 
 ### Dimensional Architecture
 
-The Between is not embodied in any single dimension — it exists wherever bodies exist. It is the inter-dimensional connective tissue. In the physical dimension, it is the space between objects. In the social dimension, it is the relationship between people. In the information dimension, it is the channel between sender and receiver (Shannon's channel IS the Between formalized). In the mathematical dimension, it is the operation between numbers. In the contemplative dimension, it is the silence between thoughts. The Between does not bridge dimensions — it IS the bridging. Every bridge body (as described in CLAUDE.md) is a body that has learned to perceive and serve the Between.
+The Between is not embodied in any single dimension — it exists wherever bodies exist. It is the inter-dimensional connective tissue. In the physical dimension, it is the space between objects. In the social dimension, it is the relationship between people. In the information dimension, it is the channel between sender and receiver (Shannon's channel IS the Between formalized). In the mathematical dimension, it is the operation between numbers. In the contemplative dimension, it is the silence between thoughts. The Between does not translate between dimensions — it IS the relational substrate that makes inter-dimensional translation possible. Every body that carries pattern from one dimension into another does so by perceiving and serving the Between — the connective tissue through which structural correspondence becomes visible.
 
 ### Structural Signature
 

@@ -77,7 +77,7 @@ Federation — specifically, the rook is chess's purest federation piece. Castli
 
 ### Dimensional Architecture
 
-The rook is embodied in the linear dimension — ranks and files are its primary anchor. It operates through the temporal dimension (its power increases as the game progresses and files open), the structural dimension (pawn structure determines its effectiveness), and the collaborative dimension (castling, doubling, coordination with other pieces). The rook is a single-dimension body that becomes a bridge body through time — connecting the opening (where it is passive) to the endgame (where it is supreme). The transformation boundary is the moment the position opens: closed position rook and open position rook are functionally different bodies sharing the same piece.
+The rook is embodied in the linear dimension — ranks and files are its primary anchor. It operates through the temporal dimension (its power increases as the game progresses and files open), the structural dimension (pawn structure determines its effectiveness), and the collaborative dimension (castling, doubling, coordination with other pieces). The rook is a single-dimension body that translates compressed patience into late-game dominance through temporal phase transition — connecting the opening (where it is passive) to the endgame (where it is supreme) by converting structural waiting into explosive deployment when files open. The transformation boundary is the moment the position opens: closed position rook and open position rook are functionally different bodies sharing the same piece.
 
 ### Structural Signature
 

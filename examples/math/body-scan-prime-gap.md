@@ -77,7 +77,7 @@ Pure federation — involuntary. The gap emerges from the federation of all prim
 
 ### Dimensional Architecture
 
-The gap is embodied in the additive dimension (it is a difference, p_(n+1) - p_n) but its cause is multiplicative (composites are products of primes). It is a bridge body standing at the boundary between addition and multiplication — the two fundamental operations of arithmetic. The gap is measured additively but explained multiplicatively. This tension between its home dimension and its causal dimension is its defining architectural feature.
+The gap is embodied in the additive dimension (it is a difference, p_(n+1) - p_n) but its cause is multiplicative (composites are products of primes). It stands at the translation boundary between addition and multiplication — measured in one operation's currency (additive difference) but caused by the other operation's machinery (multiplicative sieving). The gap converts multiplication's exhaustive coverage of an interval into an additive distance between surviving primes. This tension between its home dimension and its causal dimension is its defining architectural feature.
 
 ### Structural Signature
 

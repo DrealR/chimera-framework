@@ -77,7 +77,7 @@ Operator-dependent. Under a grandmaster: federation -- the queen coordinates wit
 
 ### Dimensional Architecture
 
-The queen is embodied in the spatial dimension -- her identity IS her combined linear range across ranks, files, and diagonals. She operates through the temporal dimension (timing), the material dimension (9-point exchange calculations), and the psychological dimension (the opponent's fear of queen activity reshapes their decisions). She is NOT a bridge body. She amplifies within dimensions rather than transforming between them. A rook on an open file transforms the game's character. A queen on an active square makes the existing character louder.
+The queen is embodied in the spatial dimension -- her identity IS her combined linear range across ranks, files, and diagonals. She operates through the temporal dimension (timing), the material dimension (9-point exchange calculations), and the psychological dimension (the opponent's fear of queen activity reshapes their decisions). She does not translate between dimensions -- she amplifies within them rather than transforming between them. A rook on an open file transforms the game's character. A queen on an active square makes the existing character louder.
 
 ### Structural Signature
 

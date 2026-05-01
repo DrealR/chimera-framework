@@ -138,7 +138,7 @@ Technical debt compiles attention asymmetrically. For the team living with it, i
 
 ## PRE-SHIP SELF-CHECK (v3.11)
 
-1. **No weak-language defaults?** -- No "flowing," "bridge body," or template phrases applied. The skeleton is specific to technical debt as compound velocity extraction. Vocabulary is earned by the body, not pasted from the framework.
+1. **No weak-language defaults?** -- No "flowing" or template phrases applied. The skeleton is specific to technical debt as compound velocity extraction. Vocabulary is earned by the body, not pasted from the framework.
 2. **Remove framework vocabulary, insight survives?** -- Yes. Core insight: past shortcuts in codebases compound like financial debt, extracting future engineering capacity at increasing rates, and the most dangerous debt is the debt nobody can see. True in software, finance, infrastructure, and organizational design without any framework terminology.
 3. **Body-specific skeleton?** -- "A codebase that turned its own velocity into a tax" applies only to technical debt. Cannot be swapped onto another software body without falsification.
 4. **All five power gaps forced?** -- Yes. Perceive (absent), Govern (inverted), Project (collapsed), Create (denied), Release (forced). Each checked with specific evidence.

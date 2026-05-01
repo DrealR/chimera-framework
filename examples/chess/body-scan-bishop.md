@@ -80,7 +80,7 @@ Federation — but only in pairs. A single bishop is a half-body: powerful on it
 
 ### Dimensional Architecture
 
-The bishop is embodied in the diagonal dimension — its primary anchor is the set of all diagonal lines on its color complex. It operates through the strategic dimension (pawn structure evaluation, long-term planning) and the tactical dimension (pins, skewers, discovered attacks). The bishop is a single-dimension body: it cannot bridge to the orthogonal dimension. The knight is the opposite — a bridge body that changes color every move. The bishop's refusal to bridge is both its limitation and its identity.
+The bishop is embodied in the diagonal dimension — its primary anchor is the set of all diagonal lines on its color complex. It operates through the strategic dimension (pawn structure evaluation, long-term planning) and the tactical dimension (pins, skewers, discovered attacks). The bishop is a single-dimension body: it cannot reach the orthogonal dimension. The knight is the opposite — a color-alternating translator that converts diagonal position into orthogonal reach, crossing the color boundary every move at the cost of linear range. The bishop's inability to cross that boundary is both its limitation and its identity.
 
 ### Structural Signature
 

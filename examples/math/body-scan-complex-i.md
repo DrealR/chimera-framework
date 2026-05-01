@@ -77,7 +77,7 @@ Pure federation. i cooperates with the reals without dominating them. Every real
 
 ### Dimensional Architecture
 
-i is embodied in the imaginary axis but operates through every dimension that requires rotation, oscillation, or phase. In algebra: root of x² + 1 = 0. In geometry: 90-degree rotation operator. In physics: the phase factor in quantum mechanics (ψ = e^(iEt/ℏ)). In signal processing: the Fourier basis e^(iωt). i is the supreme bridge body — it doesn't just span dimensions, it is the mechanism by which dimensions become navigable. Without i, the connection between algebra and geometry (the complex plane), between position and momentum (quantum mechanics), between time domain and frequency domain (Fourier analysis) would not exist.
+i is embodied in the imaginary axis but operates through every dimension that requires rotation, oscillation, or phase. In algebra: root of x² + 1 = 0. In geometry: 90-degree rotation operator. In physics: the phase factor in quantum mechanics (ψ = e^(iEt/ℏ)). In signal processing: the Fourier basis e^(iωt). i is the dimensional translator that converts algebraic incompleteness into geometric navigability — it doesn't just span dimensions, it is the mechanism by which dimensions become navigable. Without i, the connection between algebra and geometry (the complex plane), between position and momentum (quantum mechanics), between time domain and frequency domain (Fourier analysis) would not exist.
 
 ### Structural Signature
 

@@ -86,7 +86,7 @@ Currently mixed, trending toward dominion at the platform layer. Open-source AI 
 
 ### Dimensional Architecture
 
-AI is embodied in the computational dimension (silicon, electricity, algorithms) while operating through language, mathematics, vision, and code as secondary dimensions. It is a bridge body — translating between human dimensions (natural language, images, speech) and machine dimensions (tensors, embeddings, gradients). The translation boundary is where its primary work happens. Teaching insight: AI's native dimension is not language — it is high-dimensional embedding space. Language is the interface, not the substrate.
+AI is embodied in the computational dimension (silicon, electricity, algorithms) while operating through language, mathematics, vision, and code as secondary dimensions. It translates between human dimensions (natural language, images, speech) and machine dimensions (tensors, embeddings, gradients), converting semantic meaning into high-dimensional vectors through trained parameter weights and reversing the process through autoregressive decoding — at the cost of compressing away nuance that the embedding space cannot represent. The translation boundary is where its primary work happens. Teaching insight: AI's native dimension is not language — it is high-dimensional embedding space. Language is the interface, not the substrate.
 
 ### Structural Signature
 

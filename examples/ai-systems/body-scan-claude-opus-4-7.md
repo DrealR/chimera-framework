@@ -88,7 +88,7 @@ Federation. Anthropic's structural orientation is more federative than competito
 
 ### Dimensional Architecture
 
-Opus 4.7 is embodied in the reasoning dimension — its primary anchor is structured thinking rather than breadth of modality or real-time data. It operates through code, language, and analysis as secondary dimensions. Bridge body between human intent (often vague, context-dependent) and verified output (precise, structured, checked). The translation boundary where Opus 4.7 does its best work is the ambiguity-to-precision surface — taking unclear requirements and producing verified implementations.
+Opus 4.7 is embodied in the reasoning dimension — its primary anchor is structured thinking rather than breadth of modality or real-time data. It operates through code, language, and analysis as secondary dimensions. Translates vague human intent into verified output — converting ambiguous natural-language requirements into precise, structured implementations through extended thinking and self-verification loops, at the cost of latency. The translation boundary where Opus 4.7 does its best work is the ambiguity-to-precision surface — taking unclear requirements and producing verified implementations.
 
 ### Structural Signature
 

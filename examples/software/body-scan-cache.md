@@ -77,7 +77,7 @@ The cache is federation infrastructure when healthy -- it amplifies the origin's
 
 ### Dimensional Architecture
 
-The cache is embodied in the temporal dimension -- its primary axis is the gap between "when data was fetched" and "when data is needed." It operates through the spatial dimension (CDN nodes distributed geographically), the computational dimension (avoiding redundant calculation), and the economic dimension (trading memory cost for compute savings). The cache is a bridge body between past and present, living at the surface where "what was true" meets "what is requested now."
+The cache is embodied in the temporal dimension -- its primary axis is the gap between "when data was fetched" and "when data is needed." It operates through the spatial dimension (CDN nodes distributed geographically), the computational dimension (avoiding redundant calculation), and the economic dimension (trading memory cost for compute savings). The cache translates temporal distance into access speed, converting slow present-tense origin queries into fast past-tense local lookups through stored replicas -- living at the surface where "what was true" meets "what is requested now," paying for speed with staleness.
 
 ### Structural Signature
 

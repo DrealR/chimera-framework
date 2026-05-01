@@ -142,7 +142,7 @@ The drawn endgame compiles the attention of recognition -- specifically, the abi
 
 ## PRE-SHIP SELF-CHECK (v3.11)
 
-1. **No weak-language defaults:** Skeleton specifies "mutual incapacity" and "what is missing from it" -- not template phrases. No unearned "bridge body" or "flowing" labels. O=I reading justified as paralysis, not mislabeled as balance.
+1. **No weak-language defaults:** Skeleton specifies "mutual incapacity" and "what is missing from it" -- not template phrases. No unearned generic connector labels or "flowing" defaults. O=I reading justified as paralysis, not mislabeled as balance.
 2. **Insight survives vocabulary removal:** "Every system has a minimum complexity threshold below which decisive outcomes become structurally impossible" holds without any framework terminology.
 3. **Skeleton is body-specific:** "Equilibrium not achieved through balance of power but through mutual incapacity" could not describe a piece, an opening, or a decisive endgame. It describes only the drawn endgame.
 4. **All five god powers forced:** Perceive (negative perception of impossibility), Govern (structure governs players), Project (cannot project -- gap identified), Create (architecturally absent -- co-primary gap), Release (completed historical process). Co-primary gap: Create and Project.

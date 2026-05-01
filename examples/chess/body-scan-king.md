@@ -77,7 +77,7 @@ Dominion that exists to enable federation. The king is the most dominion-structu
 
 ### Dimensional Architecture
 
-The king is embodied in the survival dimension -- its primary anchor is existence itself, not territory or material. It operates through the spatial dimension only when forced (check) or when the danger clears (endgame). The king does not bridge dimensions. The king defines the origin point of the coordinate system. Every square on the board has a distance-from-king measurement. Every tactical sequence has a threatens-the-king measurement. The king is not a bridge body -- it is the fixed point around which all other dimensional measurements are calculated.
+The king is embodied in the survival dimension -- its primary anchor is existence itself, not territory or material. It operates through the spatial dimension only when forced (check) or when the danger clears (endgame). The king does not translate between dimensions. The king defines the origin point of the coordinate system. Every square on the board has a distance-from-king measurement. Every tactical sequence has a threatens-the-king measurement. The king is not a connector or translator -- it is the fixed point around which all other dimensional measurements are calculated.
 
 ### Structural Signature
 

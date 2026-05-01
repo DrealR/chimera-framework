@@ -77,7 +77,7 @@ Federation that requires an external coordinator. Containers in a pod, a swarm, 
 
 ### Dimensional Architecture
 
-The container is embodied in the isolation dimension -- its primary anchor is the boundary between application and host. It operates through the deployment dimension (CI/CD pipelines, registries, orchestrators) and the networking dimension (service meshes, port mappings, DNS). The container is a bridge body between the development dimension and the production dimension: it carries the application across the gap between "written" and "running" while preserving the environment exactly. This bridge function is its civilizational contribution -- before containers, the development-to-production crossing was lossy, manual, and unrepeatable.
+The container is embodied in the isolation dimension -- its primary anchor is the boundary between application and host. It operates through the deployment dimension (CI/CD pipelines, registries, orchestrators) and the networking dimension (service meshes, port mappings, DNS). The container translates development intent into production execution, converting a developer's local environment into a deployable runtime artifact through deterministic image builds -- carrying the application across the gap between "written" and "running" while preserving the environment exactly. This translation function is its civilizational contribution -- before containers, the development-to-production crossing was lossy, manual, and unrepeatable.
 
 ### Structural Signature
 

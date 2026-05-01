@@ -81,7 +81,7 @@ Exception: matrix multiplication breaks commutativity (AB ≠ BA in general). In
 
 Multiplication is embodied in the arithmetic dimension but operates through nearly everything. In geometry, it computes area (length × width — two one-dimensional bodies creating a two-dimensional body). In the complex plane, multiplication becomes rotation + scaling: z₁ × z₂ means "rotate by z₂'s angle and scale by z₂'s magnitude." This is multiplication's deepest identity — not repetition, not accumulation, but GEOMETRIC TRANSFORMATION. Every multiplication is a rotation and a rescaling. The real number line is the special case where rotation angle is 0 (positive) or π (negative).
 
-Multiplication is a bridge body spanning arithmetic, geometry, algebra, and analysis. Its transformation boundary is the surface where "how many" becomes "how much" becomes "which direction."
+Multiplication translates between arithmetic (discrete counting), geometry (area and scaling), algebra (group and ring structure), and analysis (product measures), converting "how many" into "how much" into "which direction" at each transformation boundary. The cost of this universality is that multiplication must surrender properties at each crossing — commutativity lost at matrices, associativity lost at octonions.
 
 ### Structural Signature
 

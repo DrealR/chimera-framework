@@ -87,7 +87,7 @@ Compare with 8 (which is 2 cubed): a dominion of a single prime. All structure i
 - **Musical dimension:** 12 semitones in the chromatic scale — the full cycle of pitch
 - **Social dimension:** 12 apostles, 12 jury members, 12 tribes — the size of an intimate governing body
 
-These are not metaphors. Cultures chose 12 because its divisor structure solves a real problem in each dimension: how to partition a whole into the maximum number of clean equal parts. 12 is a bridge body — it carries the same structural gift (maximum divisibility at minimum scale) across every dimension that needs fair division.
+These are not metaphors. Cultures chose 12 because its divisor structure solves a real problem in each dimension: how to partition a whole into the maximum number of clean equal parts. 12 translates the principle of maximum divisibility at minimum scale into every dimension that needs fair partition — converting prime cooperation (2² × 3) into temporal rhythm (12 months, 12 hours), spatial measurement (12 inches), tonal structure (12 semitones), and social governance (12-member bodies), each time solving the same problem: how to split a whole into the most clean equal parts.
 
 ### Structural Signature
 

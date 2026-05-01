@@ -132,7 +132,7 @@ The weak pawn structure compiles attention asymmetrically. For the attacker, it 
 
 ## PRE-SHIP SELF-CHECK (v3.11)
 
-1. **No weak-language defaults?** -- No "flowing," "bridge body," or template phrases applied. The skeleton is specific to pathological pawn structure. Vocabulary is earned by the body, not pasted from the framework.
+1. **No weak-language defaults?** -- No "flowing," generic connector labels, or template phrases applied. The skeleton is specific to pathological pawn structure. Vocabulary is earned by the body, not pasted from the framework.
 2. **Remove framework vocabulary, insight survives?** -- Yes. Core insight: permanent infrastructure mistakes impose ongoing costs that no amount of talent compensates for. True in chess, finance, medicine, software architecture, and urban planning without any framework terminology.
 3. **Body-specific skeleton?** -- "A body that turned its own skeleton into a parasite" applies only to weak pawn structure. Cannot be swapped onto another chess body without falsification.
 4. **All five power gaps forced?** -- Yes. Perceive (distorted), Govern (inverted), Project (collapsed), Create (denied), Release (forced). Each checked with specific evidence.

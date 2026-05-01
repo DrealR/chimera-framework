@@ -77,7 +77,7 @@ Federation -- as the enabling substrate. Consumer groups are pure federation: mu
 
 ### Dimensional Architecture
 
-The queue is embodied in the temporal dimension -- its primary anchor is time (the gap between production and consumption). It operates through the spatial dimension (network topology, partition placement across brokers), the reliability dimension (replication factor, acknowledgment protocol), and the organizational dimension (team boundaries often align with topic boundaries -- the queue is the contract between teams). Bridge body: yes. The queue bridges the producer's reality and the consumer's reality, translating temporal coupling into spatial separation. It is the adapter between two clocks.
+The queue is embodied in the temporal dimension -- its primary anchor is time (the gap between production and consumption). It operates through the spatial dimension (network topology, partition placement across brokers), the reliability dimension (replication factor, acknowledgment protocol), and the organizational dimension (team boundaries often align with topic boundaries -- the queue is the contract between teams). The queue translates temporal coupling into spatial separation, converting the producer's fire-rate into the consumer's pull-rate through buffered persistence -- adapting two independent clocks into a shared channel at the cost of latency and ordering complexity.
 
 ### Structural Signature
 

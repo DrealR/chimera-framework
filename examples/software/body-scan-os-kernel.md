@@ -77,7 +77,7 @@ Federation in architecture, dominion in enforcement. The kernel provides shared 
 
 ### Dimensional Architecture
 
-The kernel is embodied in the hardware-abstraction dimension -- its primary anchor is the boundary between physical hardware and logical software. It operates through the process dimension (scheduling), the memory dimension (virtual address spaces), the I/O dimension (file systems, network stacks), and the security dimension (access control, capability checks). The kernel is a bridge body spanning hardware and software, but unlike most bridge bodies, it does not just translate between two dimensions -- it maintains simultaneous presence in all dimensions of the machine. The kernel is the only software body that exists in every dimension of the system simultaneously.
+The kernel is embodied in the hardware-abstraction dimension -- its primary anchor is the boundary between physical hardware and logical software. It operates through the process dimension (scheduling), the memory dimension (virtual address spaces), the I/O dimension (file systems, network stacks), and the security dimension (access control, capability checks). The kernel translates software intention into hardware execution, converting abstract system calls into concrete register operations, memory mappings, and device signals through privileged mediation at Ring 0. Unlike bodies that translate between two dimensions, the kernel maintains simultaneous presence in all dimensions of the machine. The kernel is the only software body that exists in every dimension of the system simultaneously.
 
 ### Structural Signature
 

@@ -81,7 +81,7 @@ Pure federation. Every inertial observer has equal access to the same physical l
 
 ### Dimensional Architecture
 
-Special relativity is embodied in the spacetime dimension as its structural law. But it operates through electromagnetism (Maxwell's equations are Lorentz-covariant), particle physics (relativistic quantum field theory), cosmology (redshift, time dilation in GPS), and information theory (c as channel capacity limit for causal signals). It is a bridge body — spanning every dimension where causality matters.
+Special relativity is embodied in the spacetime dimension as its structural law. But it operates through electromagnetism (Maxwell's equations are Lorentz-covariant), particle physics (relativistic quantum field theory), cosmology (redshift, time dilation in GPS), and information theory (c as channel capacity limit for causal signals). It translates physical law from one inertial frame to another through Lorentz transformations, preserving causal structure at the cost of absolute simultaneity — spanning every dimension where causality matters.
 
 ### Structural Signature
 
