@@ -112,6 +112,34 @@ Every wisdom tradition teaches calibrated friction management under different vo
 
 ---
 
+## Friction vs Opacity
+
+Friction and opacity are different physical properties that have been conflated. Separating them resolves apparent contradictions about whether the universe trends toward friction (it should) or toward transparency (it does).
+
+| Property | Definition | Framework Role |
+|----------|------------|----------------|
+| **Friction** | Resistance to flow between bodies in contact | Substrate of relationship, Pause, growth |
+| **Opacity** | Resistance to observation between bodies | Concealment, privacy, hiddenness |
+
+A substrate can be high-friction + high-transparency (chess, Garden community), low-friction + high-opacity (social media), or any other combination. **The Garden is high friction + high transparency.** Substrate-rich relationships, visible to all participants, where friction builds substrate and transparency makes it productive.
+
+The Tower's project: remove friction (kill substrate-building) while maintaining elite opacity (hide operations). Citizens get friction-removed and surveilled. Elites keep friction-rich relationships among themselves while being unwatched. Both errors cause simultaneous breakdown.
+
+**The species' transition:** We are losing opacity (good — the universe's gradient). We need to regain calibrated friction (also good — substrate-building). These are different dials moving in their correct directions.
+
+### Two Kinds of Privacy
+
+Not all opacity is demiurge-shaped. Bodies need rest cycles where they are not being observed.
+
+| Type | Function | Examples | Status |
+|------|----------|----------|--------|
+| **Opacity-as-rest** | Protects body during integration | Sleep, prayer, journal, therapy, family | Healthy — built into breath cycle |
+| **Opacity-as-extraction** | Hides damage from accountability | Elite secrecy, corporate opacity, empire strategy | Demiurge — structurally unstable |
+
+The Garden has private spaces. What the Garden doesn't have is systemic opacity protecting extraction at scale. Houses, communities, and families are bodies with healthy membranes — semi-permeable boundaries allowing flow while maintaining coherence.
+
+---
+
 ## The Nesting
 
 ```
