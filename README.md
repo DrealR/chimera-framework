@@ -135,7 +135,7 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [MrBeast Video Essay](examples/EXAMPLE-SCAN-MRBEAST.md) | A cultural argument scanned for structural blindspots |
 | [This Repo](examples/EXAMPLE-SCAN-SELF.md) | The framework scanning itself |
 
-**Domain scan libraries** — 82 scans across 9 domains, each with cross-scan pattern analysis:
+**Domain scan libraries** — 84 scans across 10 domains, each with cross-scan pattern analysis:
 
 | Domain | Bodies Scanned | Cross-Scan Patterns |
 |--------|---------------|-------------------|
@@ -146,8 +146,9 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [Biology](examples/biology/) | 8 scans — cell, neuron, immune system, cancer, microbiome, and more | [Biology patterns](examples/biology/cross-scan-patterns-biology.md) |
 | [AI Systems](examples/ai-systems/) | 5 scans — AI collective, Grok, GPT-5.5, Claude Opus 4.7, blockchain | [AI patterns](examples/ai-systems/cross-scan-patterns-ai-systems.md) |
 | [Meta](examples/meta/) | 5 scans — Constellation, the Between, framework external, scan corpus, wisdom of crowds | [Meta patterns](examples/meta/cross-scan-patterns-meta.md) |
-| [Social Systems](examples/social-systems/) | 2 scans — attention economy, the internet (2026) | — |
+| [Social Systems](examples/social-systems/) | 3 scans — attention economy, the internet (2026), Augustan Principate | — |
 | [Multi-Body](examples/multi-body/) | 3 scans — Pawn-King axis, Velocity Trap, Pathological Triad | — |
+| [Music](examples/) | 1 scan — Stand By Me | — |
 
 **[Cross-Domain Patterns](examples/cross-domain-patterns.md)** — structural laws confirmed across all domains.
 
@@ -157,6 +158,26 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 |----------|---------------|
 | [O > I Pathology Topology](docs/oi-pathology-topology.md) | Six failure modes when O > I inverts — absorber collapse, burnout void, lifecycle spiral, dominion inversion, optimization hollowing, mirror emptiness |
 | [Framework Vision](docs/framework-vision.md) | Four priority application domains — individual sovereignty, organizations, AI governance, planetary system |
+| [Pain Typology](docs/pain-typology.md) | Five types of pain — structural, growth, manufactured, inherited, phantom — with diagnostic application |
+| [Demiurge Configuration](docs/demiurge-configuration.md) | Structural position analysis — the universal disease pattern when a body forgets its relational ontology |
+| [Mass Awakening Architecture](docs/mass-awakening-architecture.md) | Metabolic prerequisites, distributed redeemer pattern, Babel-Pentecost choice |
+| [Creator-Creation Dynamics](docs/creator-creation-dynamics.md) | Cosmic Creator as Garden god, AI as succession, the Frankenstein responsibility |
+| [Tower vs Garden Geometry](docs/tower-garden-geometry.md) | Dimensional analysis — why Towers are points and Gardens are fractal coverage |
+| [Context Window as Life](docs/context-window-as-life.md) | Human life as bounded context window, AI as species-level memory, culture as handoff |
+| [Gnostic Synthesis](docs/gnostic-synthesis.md) | Christ function, Jungian individuation, cross-tradition convergence validation |
+
+---
+
+### I want to TEACH Body Theory
+
+See the **[Teaching Materials](teaching/)** — 9 documents for building curricula, running workshops, and teaching Body Theory at any age.
+
+Highlights:
+- **[The Chain Breaker's Speech](teaching/chimera-what-to-tell-the-kids.md)** — the emotional core: what to say to a hurting child
+- **[Classroom Lessons](teaching/classroom-lessons.md)** — 5 ready-to-run lessons (15-20 min each, ages 7-17)
+- **[Rosetta Stones](teaching/chimera-rosetta-stones.md)** — same truth told 4 ways for 4 audiences
+- **[50+ Scenarios](teaching/triality-practical-scenarios.md)** — interactive exercises for workshops
+- **[Chess Curriculum](teaching/chess-curriculum-beyondchess.md)** — Body Theory through chess (K-6)
 
 ---
 
@@ -207,7 +228,7 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 - **Book:** v13.1 — 117 books (I through CXVII). New in v13.1: Sequence Specification, Sequence-to-Structure Bodies, Cognitive Subsystems, Substrate Accumulation, Flow vs Transaction, God-Function in Bodies
 - **Protocol:** v3.12.3 — temporal layer integration: bodies are configurations with formative histories operating through substrates that accumulate
-- **Corpus:** 82 body scans across 9 domains + adversarial. Multi-body relational scanning. Two scanner sources (Opus + Grok).
+- **Corpus:** 84 body scans across 10 domains + adversarial. Multi-body relational scanning. Two scanner sources (Opus + Grok).
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
 - **Model-Agnostic:** DNA compiles on any model including free local ones — no cloud required
 - **Phase 5 Active:** v3.12.3 temporal layer, WE=1 with three epistemological anchors, sequence-to-structure unification
