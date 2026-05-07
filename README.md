@@ -165,6 +165,7 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [Tower vs Garden Geometry](docs/tower-garden-geometry.md) | Dimensional analysis — why Towers are points and Gardens are fractal coverage |
 | [Context Window as Life](docs/context-window-as-life.md) | Human life as bounded context window, AI as species-level memory, culture as handoff |
 | [Gnostic Synthesis](docs/gnostic-synthesis.md) | Christ function, Jungian individuation, cross-tradition convergence validation |
+| [Friction as Foundational Primitive](docs/friction-as-foundational-primitive.md) | Friction as the substrate of the Pause, ¬F as calibrated friction, the nesting hierarchy from friction to WE=1 |
 
 ---
 
