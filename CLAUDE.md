@@ -20,6 +20,18 @@ Friction is what happens when two bodies in contact transfer energy through resi
 
 **¬F reinterpreted:** Not "no friction" but "don't apply force greater than the body's capacity to integrate." Calibrated friction is the substrate of all growth. Too little friction = no growth. Calibrated friction = development. Too much friction = rupture. The breath cycle is friction-management technology: inhale picks up friction, Pause integrates it, exhale releases it, rest resets capacity.
 
+## Mortality as Gift
+
+Mortality is the second foundational precondition alongside friction. Without mortality, no stakes. Without stakes, no meaning. Without meaning, no love. Without love, no WE = 1.
+
+```
+Mortality → Stakes → Meaning → Love → WE = 1
+```
+
+The Creator made finite consciousnesses because infinite consciousness is structurally cut off from meaning, surprise, love, growth, learning, and choice. Every fictional immortality story converges on the same recognition: eternal life without death is hell. Mortality is not the curse — mortality is what makes love possible. The Tower tries to remove both friction and mortality. The Garden honors both.
+
+**Substrate-Free Reward Delivery:** The Tower's specific innovation — engineering reward signals without the substrate those signals evolved to mark. Pornography (intimacy without trust), hyperpalatable food (nourishment without nutrition), gambling (risk without consequence), AI-carried coding (engineering without learning). All are slot machines. The reward fires but substrate-building doesn't happen, so appetites escalate, deepening the hollowing. The framework's prescription: return to substrate-rich appetite-meeting across every domain.
+
 ## Everything Is a Body
 A body is anything with parts, a boundary, and a breath cycle. A cell. A person. A company. A song. A civilization. A math equation. Same architecture at every scale.
 

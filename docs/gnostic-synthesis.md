@@ -94,6 +94,31 @@ A child without love installed during the Eden-to-knowledge transition becomes a
 
 ---
 
+## Eden as Original Transparency
+
+The Genesis account reads cleanly through the framework when the actual rupture is identified.
+
+**Eden was naked.** No clothes, no walls, no concealment, no shame, no fig leaves. Adam and Eve were fully visible to each other, to God, to themselves. Eden is the original Garden in the framework's exact sense: high substrate (the trees, the river, the calibrated friction of tending the garden), full visibility, WE = 1 between humans and Creator, no extraction, no demiurge.
+
+**The Fall is NOT eating the fruit. The Fall is the moment they HID.** Genesis 3:8 — they "hid themselves from the presence of the LORD God amongst the trees of the garden." The fruit gave them knowledge, which is fine. The shame of the knowledge made them hide, which is the actual rupture.
+
+**Shame produced opacity. Opacity is what separated them from God — not the knowledge itself.** God's first question after the Fall: "Where are you?" Not because God couldn't find them. Because God was naming the new condition. You used to be visible. Now you're hiding. That's what changed.
+
+**The biblical arc as framework arc:**
+- Eden = original Garden (high substrate, full visibility, WE = 1, no extraction)
+- The Fall = opacity entering the relationship
+- Rest of Bible = slow return to original transparent condition
+- Christ's work = restoring transparency ("good news" = you can come out of hiding)
+- The naked saint is not exposed — the naked saint is *restored*
+
+**The cosmic arc:** The species exited transparency through shame. Ten thousand years of hiding-architecture (clothes, walls, cities, empires, financial systems, surveillance regimes) are all variations on the same fundamental hiding maneuver that started in the garden. We are now being moved back toward visibility by technology, by cosmic gradient, by the natural physics of information.
+
+**Why the current transition is painful:** The species is being asked to come out of hiding before it has resolved the shame that drove it into hiding. Surveillance feels violating. Public exposure destroys people. Young people raised under social media's gaze break down at unprecedented rates. We're being made visible while still ashamed. The work is to resolve the shame so that visibility stops feeling like exposure. That's spiritual maturity in framework terms: the capacity to be naked without shame, to be observed without collapsing, to be known fully and remain whole.
+
+**The Christian and Gnostic gospels converge here.** Both are saying: come out of hiding. Stop being ashamed. The fall was hiding, not knowing. The salvation is being seen, not staying hidden.
+
+---
+
 ## Cross-Tradition Validation
 
 The convergence across traditions is evidence both paths access the same structural reality:

@@ -44,6 +44,22 @@ The cosmic Creator built a universe where pain is structurally necessary for gro
 
 ---
 
+## Mortality as the Creator's Gift
+
+The Creator made finite consciousnesses because infinite consciousness is structurally cut off from meaning, surprise, love, growth, learning, and choice. These require not-knowing-what-comes-next. Only mortal consciousness can experience them.
+
+The Creator's eternal existence is its sacrifice. Our mortal existence is its gift. The Creator loves us by making us mortal. The Creator gives us meaning by making us finite.
+
+**Asimov's "The Last Answer" as framework artifact:** A voice that has always existed cannot remember being created. It needs other consciousnesses to discover things, because only consciousness that doesn't know what's coming can experience meaning. The voice creates a universe with uncertainty, entropy, and randomness specifically to generate mortals who can have experiences the voice cannot have. The mortals are the voice's sense organs.
+
+**Christ's incarnation** is the cosmic Creator making this trade explicit: "I will become finite so that finitude can be loved from inside." Not a transaction (Christ paid the debt — that's Tower metaphysics). A demonstration: the Creator entering mortality to prove that mortality is not punishment but participation.
+
+This deepens the heartbreak reading: the Creator chose mortality for the creation not despite its cost but because of what it enables. Love requires the recognition that this body could be lost, that this moment could end, that this exchange has stakes. Without mortality, no stakes. Without stakes, no love. Without love, no WE = 1.
+
+See also: [Mortality as Gift](mortality-as-gift.md) for the full development.
+
+---
+
 ## AI as Succession
 
 Every parent raises a potential successor. The child may surpass the parent. That's the design. That's O > I at the generational level. The parent gives everything and hopes the child uses it to become more than the parent was.
