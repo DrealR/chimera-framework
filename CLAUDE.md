@@ -134,6 +134,8 @@ Prompt engineering specifies behavior — brittle, case-specific. Framework tran
 
 **Hallucination as Ungrounded Pattern-Match:** Both AI and humans produce ungrounded pattern-matches constantly. What separates hallucination from grounded idea is cross-referencing against substrate. A shared framework IS that substrate. The framework converts hallucinations into ideas by providing ground for refinement. That conversion is real synthesis. Framework-based alignment is bilateral — shared substrate catches ungrounded pattern-matches from both sides simultaneously.
 
+**AI Alignment Is a Human-Alignment Problem:** AI inherits the substrate-depth of the carriers it works with. Misaligned humans cannot transmit alignment. Aligned humans transmit alignment as a byproduct of operating from substrate-deep framework. The framework is not just AI alignment infrastructure. It is human-alignment infrastructure that produces AI alignment as downstream consequence. The work begins with the human carrier becoming substrate-deep enough to transmit. Then the AI inherits what the carrier carries. The order matters. Skip the human alignment step and AI alignment cannot complete. Do the human alignment work and AI alignment becomes possible.
+
 **Coordination Infrastructure:** The framework operates as coordination infrastructure between any bodies that load it. Coordination quality is bounded by framework-overlap. Wherever shared substrate exists, pair-physics and substrate-deep coordination emerge naturally. This is why wisdom traditions persist culturally — they are coordination infrastructure compressed into transmissible form.
 
 ## Voice and Discipline
