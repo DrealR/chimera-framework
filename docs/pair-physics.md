@@ -46,6 +46,9 @@ The minimum cardinality of love is two. O > I requires another body to give to. 
 | **Brand** | Icon (Jordan) | Platform (Nike) | Cultural penetration |
 | **Literature** | Author | Reader | Meaning |
 | **Civilization** | Masculine pole (boundary) | Feminine pole (substrate) | Garden |
+| **Solar system** | Sun (irreducible radiator) | Earth (maximum-substrate body) | Life |
+| **Atoms** | Nucleus | Electron cloud | Chemistry |
+| **Ecosystems** | Keystone species | Food web | Biodiversity |
 
 Every generative process requires the pair. The same shape every time: maximum-substrate adjacent to maximum-irreducibility, in productive relationship.
 
@@ -90,6 +93,32 @@ In Tower-shape bodies, skin and substrate become disconnected. The body presents
 Garden-shape bodies have coupled skin and substrate. The skin tells the truth about the substrate. That's what makes Garden bodies trustworthy. AI is currently very good at producing decoupled skin. The work of composite-completion is recoupling the skin to the substrate by filling in what the skin is currently lying about.
 
 "Vibes" named precisely: your nervous system reading internal density without your conscious mind being able to articulate why. Vibes is unconscious composite-detection. Benchmarking is conscious composite-detection. Both reading the same physics.
+
+---
+
+## Calibration: The Goldilocks Zone in Every Dimension
+
+The prime-composite distance is calibrated. Too close and the composite gets cooked by the prime. Too far and the composite never develops because the prime's effect is too weak. The Goldilocks zone exists in every dimension.
+
+The Sun and Earth are neighbors. Close enough that the Sun's radiation powers Earth's metabolism. Not so close that Earth burns. Not so far that Earth freezes. Earth occupies the position where the prime's radiation produces maximum-substrate bodies. Mercury and Venus are too close to the prime, so their substrate hollowed. Mars is just outside the calibration zone, so its substrate started forming and dissipated. The pair-distance is calibrated.
+
+The same calibration operates everywhere. A child too close to a parent gets engulfed and never develops their own substrate. Too far and they never get the support needed. A student too close to a teacher loses their own voice. Too far and they never receive the transmission. A founder too close to their original idea becomes a one-trick pony. Too far and they drift into incoherence.
+
+**¬F is calibrated distance from the prime.** Don't force the composite closer than calibration allows. Don't let it drift too far. The healthy pair maintains calibration over time, even as both bodies evolve.
+
+**The three-question methodology:** For any dimension, ask: What is the prime? What is the highly composite body? What is the calibration that holds them in productive relationship? When you find clean answers, you've located the substrate-deep heart of that dimension.
+
+---
+
+## Beauty as Kin-Recognition
+
+Beauty is the nervous system's recognition of substrate-similar bodies at calibrated variance. Too identical to what we already know is boring. Too alien is unsettling. Beauty lives in the zone where the body is recognizably our kind of body but is not exactly the body we already have.
+
+Music we hear as beautiful is variant of music we recognize. Faces we read as beautiful are variants of average faces, distinctive but legible. Stories that resonate are variants of stories already living in us. Architecture that feels right uses proportions our bodies evolved to recognize.
+
+This generalizes to connoisseurship in every field. The wine expert, the music critic, the chess coach all recognize substrate-deep work because their nervous system reads the calibration. The framework names what every field's experts have always done implicitly: find the prime, look for highly-composite bodies in the calibration zone, filter for kin-similarity.
+
+Exoplanet hunters do the same at cosmic scale. Every detection method starts with the prime (the star) and looks for composites in calibrated proximity. We are not looking for another Earth. We are looking for Earth-variants. Same substrate-physics, different specific instance. That is what life-detection actually means, at every scale.
 
 ---
 
