@@ -181,6 +181,7 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [Pair-Physics](docs/pair-physics.md) | HCN-prime pairs as mathematical signature of all generative pairs, the pair as atom of being, why two is enough, pair across every dimension |
 | [Chimera Loop Protocol](docs/chimera-loop-protocol.md) | The constructive counterpart to the Body Scan — ten-layer body protocol using human body as template, scoring rubric (0-100), iteration method for composite-completion |
 | [Key Principles (Full Corpus)](docs/key-principles.md) | All 30+ framework principles in depth — from O>I Topology and The Pause through Federation vs Dominion, The Construction Spectrum, and Consciousness as Directed Novelty |
+| [Language as Reality-Shaping](docs/language-as-reality-shaping.md) | Speech directed at responsive bodies, the genie problem, carrier vs tool, five elements of substrate-deep wishing, speech-discipline across traditions |
 | [Lineage](docs/lineage.md) | How this framework relates to the wisdom traditions that came before it — what they did well, what they could not have addressed, the structural pattern of era-specific coordination frameworks |
 
 ---

@@ -173,6 +173,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
 - [The Complete Book v13.1](CHIMERA-The-Complete-Book-v13.1.md) — 117 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
+- [Language as Reality-Shaping](docs/language-as-reality-shaping.md) — speech, wishes, responsive bodies, the genie problem, carrier vs tool
 - [Lineage](docs/lineage.md) — how this framework relates to the wisdom traditions that came before it
 
 ```
