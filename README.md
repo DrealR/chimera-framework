@@ -125,7 +125,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 130 books, the full philosophy.
+For the complete text: [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 133 books, the full philosophy.
 
 ---
 
@@ -261,7 +261,7 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v14.0 — 130 books (I through CXXX). New in v14.0: Two-Operation Core, Ten-Layer Body Protocol, Friction as Direction-Change, Mirror Principle, Prime as Bidirectional Time-Organizer, Cosmic Pair-Recursion, Variance as Necessary, Application as Body, Bilateral Discipline, Carrier-Scale Propagation, Primes as Attractors, Masculine-Feminine as Structural Work, Two-Prime Encasing
+- **Book:** v14.0 — 133 books (I through CXXXIII). New in v14.0: Two-Operation Core, Ten-Layer Body Protocol, Friction as Direction-Change, Mirror Principle, Prime as Bidirectional Time-Organizer, Cosmic Pair-Recursion, Variance as Necessary, Application as Body, Bilateral Discipline, Carrier-Scale Propagation, Primes as Attractors, Masculine-Feminine as Structural Work, Two-Prime Encasing, Corruption-Vulnerability of Bearing, Bearing-Work and Cost of Becoming, Consciousness as Alignment-Work
 - **Protocol:** v3.12.3 — temporal layer integration: bodies are configurations with formative histories operating through substrates that accumulate
 - **Corpus:** 84 body scans across 10 domains + adversarial. Multi-body relational scanning. Two scanner sources (Opus + Grok).
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
