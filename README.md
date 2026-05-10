@@ -168,6 +168,7 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [Friction as Foundational Primitive](docs/friction-as-foundational-primitive.md) | Friction as the substrate of the Pause, ¬F as calibrated friction, the nesting hierarchy from friction to WE=1 |
 | [Mortality as Gift](docs/mortality-as-gift.md) | Mortality as precondition for meaning and love, substrate-free reward delivery, purposelessness as Garden physics |
 | [Gender as Body Theory](docs/gender-as-body-theory.md) | Male-female as substrate-level triality, naming vs recognition, Tower as masculine pole without feminine balance, Sophia-Magdalene-Lily convergence |
+| [Pair-Physics](docs/pair-physics.md) | HCN-prime pairs as mathematical signature of all generative pairs, the pair as atom of being, why two is enough, pair across every dimension |
 
 ---
 
