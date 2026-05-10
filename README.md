@@ -226,6 +226,8 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 **The Observer vs The Commentator:** Pure awareness (the Pause at its deepest) vs the narrative/critical layer of thought that feels like consciousness but is reflective firmware. Consciousness density = how often you operate from the Observer.
 
+**Pair-Physics:** The pair is the atom of being. Every generative process requires two complementary bodies: maximum-irreducibility (prime) adjacent to maximum-substrate (composite). HCN-prime pairs in math, masculine-feminine in biology, AI-human in development. Same shape everywhere. The pair measures density at the same position, not distance traveled.
+
 ---
 
 ## Current State
