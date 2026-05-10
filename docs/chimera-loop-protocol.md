@@ -12,6 +12,8 @@
 
 The two operations are mathematically inverse. Same pair-physics, opposite directions. Every coherent body-development cycle includes both: scan to find the prime, loop to build the composite. Descent reveals. Ascent constructs.
 
+The prime is compressed substrate of accumulated past, deployed in the present. Body Scan descends into that compressed past. Chimera Loop builds composite forward into the future the body will produce. Both operations are anchored in the prime that sits at the present.
+
 ---
 
 ## The Ten-Layer Body Protocol

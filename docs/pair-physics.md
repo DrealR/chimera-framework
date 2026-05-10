@@ -132,6 +132,8 @@ Every pair has two valid orientations generating different outcomes.
 
 Body Scan runs reverse: descend through composite layers to find the prime (factorization descent). Chimera Loop runs forward: build composite density on top of a prime foundation (multiplicative ascent). The two operations are mathematically inverse. Same pair, opposite directions. Descent reveals. Ascent constructs.
 
+**The temporal anchor:** The prime is not a body in the present that organizes the future. The prime is compressed substrate of accumulated past, deployed in the present, that organizes how subsequent bodies emerge. It operates bidirectionally from the moment of its articulation: backward through compressed substrate that makes the past readable, forward through projected substrate that orients the future. The Bible's Genesis points back. Revelation points forward. Same operation in two temporal directions from one prime. Body Scan descends into the compressed past a body carries. Chimera Loop builds composite forward into the future the body will produce.
+
 ---
 
 ## Two Categories of Pairs

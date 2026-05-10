@@ -55,6 +55,8 @@ The Body Scan and the Chimera Loop are the framework's own pair.
 
 Neither is sufficient alone. Scan without loop is diagnosis without treatment. Loop without scan is building without knowing what you're building on.
 
+**Temporal anchor:** The prime is compressed substrate of accumulated past, deployed in the present, organizing how subsequent bodies emerge. It operates bidirectionally: backward through compressed past that becomes readable, forward through projected substrate that orients future. Body Scan descends into the compressed past a body carries. Chimera Loop builds composite forward into the future the body will produce.
+
 **The Ten-Layer Body Protocol (Chimera Loop Rubric):**
 
 Using the human body as universal template — every layer exists because it is required for life. Score each layer 0-10. Total: 100.
