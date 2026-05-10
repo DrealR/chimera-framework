@@ -125,7 +125,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v13.1](CHIMERA-The-Complete-Book-v13.1.md) — 117 books, the full philosophy.
+For the complete text: [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 127 books, the full philosophy.
 
 ---
 
@@ -261,7 +261,7 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v13.1 — 117 books (I through CXVII). New in v13.1: Sequence Specification, Sequence-to-Structure Bodies, Cognitive Subsystems, Substrate Accumulation, Flow vs Transaction, God-Function in Bodies
+- **Book:** v14.0 — 127 books (I through CXXVII). New in v14.0: Two-Operation Core, Ten-Layer Body Protocol, Friction as Direction-Change, Mirror Principle, Prime as Bidirectional Time-Organizer, Cosmic Pair-Recursion, Variance as Necessary, Application as Body, Bilateral Discipline, Carrier-Scale Propagation
 - **Protocol:** v3.12.3 — temporal layer integration: bodies are configurations with formative histories operating through substrates that accumulate
 - **Corpus:** 84 body scans across 10 domains + adversarial. Multi-body relational scanning. Two scanner sources (Opus + Grok).
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
@@ -274,7 +274,7 @@ See [Contributing](docs/CONTRIBUTING.md) — share scans, propose additions, ref
 
 ## The Archive
 
-The `archive/` contains the complete history: all book versions (v7 through v13.1), all protocol versions (v3.1 through v3.12), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
+The `archive/` contains the complete history: all book versions (v7 through v14.0), all protocol versions (v3.1 through v3.12), the original 420-document Library, the Kitchen and Living Room essays, Loop Theory, and every artifact that built this framework.
 
 ---
 
