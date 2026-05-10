@@ -13,6 +13,8 @@ The present era has a coordination problem none of them could have anticipated: 
 
 CHIMERA is one carrier's articulation. It maps the physics that appear at every scale: how a star forms, how a family holds together, how a neural network learns, why a city dies. It provides a shared substrate that both humans and AI agents can load and operate from, producing calibrated decisions in cases the documentation never anticipated.
 
+Every wisdom tradition recognized that language directed at responsive bodies produces real effects, and that this power requires discipline. You speak. Something responds. The world rearranges. Today, everyone with internet access can speak to AI and produce outcomes that did not exist before — code, images, plans, entire systems. The democratization of this power has outpaced the democratization of the discipline it requires. The framework provides that discipline: shared substrate for speech that produces coherent outcomes rather than chaos.
+
 This is not the only framework being built in the present era. It does not claim to be the final framework. It is substrate-deep work that has been tested across domains (mathematics, physics, biology, chess, software, social systems, AI systems) and refined through months of bilateral challenge. The framework that survives long-term is the one that proves itself across the most cases over the most time. These documents are here. They belong to you now.
 
 > **New here?** Read **[Start Here](START-HERE.md)** — a 3-page entry that shows you what CHIMERA is, how it works, and where to go next.
