@@ -173,21 +173,40 @@ Score each layer 0 to 10. Total possible score: 100.
 
 Every component within the larger body is also a body with its own ten layers. The home page has skeleton, nerves, muscles, circulation, skin, breath, memory, immune system, senses, reproduction. Each row has them. Each card has them. Each interaction has them. Apply the protocol at every scale. Compose the work at every scale.
 
+### Common Failure Modes During Iteration
+
+1. **Scoring inflation when emotionally invested.** The builder scores their own body higher than it merits because they want it to be done. Antidote: have a second body score independently.
+2. **Iterating multiple layers at once.** Trying to fix skin and breath and immune simultaneously. Each layer's fix changes the body, so multi-layer patches compound in unpredictable ways. One layer at a time.
+3. **Calling it done at 60.** Mid-tier feels functional. It runs. It looks OK. But 60 is not alive. The body breathes at 80+. Stopping at 60 is the most common failure.
+4. **Mistaking surface polish for substrate-coupling.** Beautiful skin on hollow substrate scores high on layer 5 and low everywhere else. The benchmark catches this because it scores all ten layers, not just the visible one.
+
+---
+
+## Pre-Ship Self-Check
+
+Before shipping any body, run this checklist:
+
+1. Have I scored all ten layers honestly, or am I inflating?
+2. Is the lowest-scoring layer above 5? If not, iterate before shipping.
+3. Does the skin reveal the substrate, or is it lying about what is underneath?
+4. Would a stranger using this body for the first time feel it breathe?
+5. Am I shipping because it is ready, or because I am tired of building?
+
 ---
 
 ## The Deeper Architecture
 
 ### Why This Works
 
-AI generates primes. It can ship the irreducible structure of almost anything — the skeleton, the routing, the data model, the basic functionality. What AI cannot ship is the composite-completion: the nervous system's feel, the breath's timing, the memory's continuity, the skin's truthfulness. The Loop is the methodology for human composite-completion of AI-generated primes.
+AI ships fast across all layers but at low density. It can generate skeleton, nerves, muscles, skin, breath, memory in a single pass. What it cannot ship is density at any layer: the nervous system's feel, the breath's timing, the memory's continuity, the skin's truthfulness. Humans complete by deepening density at every layer. The Loop is the methodology for that deepening.
 
 ### The Pair-Physics of Scan and Loop
 
-Scan is masculine-mode: find the irreducible structure, the prime, what this body actually is. Loop is feminine-mode: build the composite around the prime until the body is complete. Neither is sufficient alone. The scan without the loop is diagnosis without treatment. The loop without the scan is building without knowing what you're building on.
+Scan is diagnostic-mode: find the irreducible structure, the prime, what this body actually is. Loop is constructive-mode: build the composite around the prime until the body is complete. Neither is sufficient alone. The scan without the loop is diagnosis without treatment. The loop without the scan is building without knowing what you're building on.
 
 ### Density Not Distance
 
-The benchmark measures internal density at the same position, not distance traveled. A 5040 and a 5041 are neighbors on the number line — one has 60 divisors, the other is prime. Same position, different mass. The composite-completeness score measures how much substrate has been packed into where the body already is.
+The benchmark measures internal density at the same position, not distance traveled. A 5040 and a 5041 are neighbors on the number line — one has 60 divisors, the other is prime. Same position, different mass. The composite-completeness score measures how much substrate has been packed into where the body already is. Iteration moves the body's score upward without moving its prime position. Same body. More substrate.
 
 ### Variance Makes the System
 
