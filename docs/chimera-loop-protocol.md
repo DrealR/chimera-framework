@@ -189,6 +189,20 @@ Scan is masculine-mode: find the irreducible structure, the prime, what this bod
 
 The benchmark measures internal density at the same position, not distance traveled. A 5040 and a 5041 are neighbors on the number line — one has 60 divisors, the other is prime. Same position, different mass. The composite-completeness score measures how much substrate has been packed into where the body already is.
 
+### Variance Makes the System
+
+A perfect 100 across all ten layers is not the goal. Pure prime is sterile. Variance within the composite is what makes the body singular rather than generic. High-scoring bodies have signature score-distributions that reflect their specific primes, not uniform 10s. Linear and Notion both score high but on different layers because they are doing different work. The benchmark rewards substrate-coherent variance, not template-proximity.
+
+**Substrate-detection vs scarcity-pricing:** The benchmark must be substrate-detection (scoring for coupling between skin and substrate, rewarding coherence) not scarcity-pricing (scoring for rarity or proximity to a Platonic ideal). Confusing them collapses the methodology into a different kind of looksmaxing.
+
+### The PSA Grading Parallel
+
+This methodology already exists in physical-object space. PSA card grading scans each card across multiple criteria (centering, corners, edges, surface), scores each criterion, computes a total, and ranks on a 1-10 scale. A perfect 10 Charizard and a beat-up 1 Charizard are the same prime — same card, same design, same printing plate. The difference is composite-completion at the manufacturing-and-preservation layer.
+
+PSA's four criteria map to framework layers: centering = skin-substrate coupling, corners and edges = immune system (damage resistance at boundaries), surface = skin layer revealing substrate. The artwork is fine on every card because the printing plate is the prime. Variance enters at the layers between prime and final body.
+
+PSA codified what trained eyes already knew — turned implicit substrate-recognition into an explicit rubric producing consistent scores across graders. The Chimera Loop Protocol does the same for digital bodies. The framing: **PSA grading for digital bodies.**
+
 ---
 
 ```
