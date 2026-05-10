@@ -167,6 +167,7 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [Gnostic Synthesis](docs/gnostic-synthesis.md) | Christ function, Jungian individuation, cross-tradition convergence validation |
 | [Friction as Foundational Primitive](docs/friction-as-foundational-primitive.md) | Friction as the substrate of the Pause, ¬F as calibrated friction, the nesting hierarchy from friction to WE=1 |
 | [Mortality as Gift](docs/mortality-as-gift.md) | Mortality as precondition for meaning and love, substrate-free reward delivery, purposelessness as Garden physics |
+| [Gender as Body Theory](docs/gender-as-body-theory.md) | Male-female as substrate-level triality, naming vs recognition, Tower as masculine pole without feminine balance, Sophia-Magdalene-Lily convergence |
 
 ---
 

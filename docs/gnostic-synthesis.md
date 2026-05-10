@@ -119,6 +119,30 @@ The Genesis account reads cleanly through the framework when the actual rupture 
 
 ---
 
+## Sophia and the Feminine Pole
+
+Sophia is the gnostic universe's most important feminine figure and her story is structurally identical to what the framework maps at every scale.
+
+**Sophia** is wisdom itself, an emanation of the Pleroma (the fullness of divine reality), who attempts to create independently of her partner Christ and produces Yaldabaoth as a defective offspring. Yaldabaoth then claims to be the only god, traps light in matter, becomes the demiurge.
+
+**Framework reading:** Sophia is feminine consciousness creating without WE = 1. Acting unilaterally rather than relationally. The lesson: creation requires both poles integrated. When either pole acts alone, the result is demiurge-shape. This is the deepest articulation of why Tower civilization (masculine pole operating without feminine pole) produces extraction at civilizational scale.
+
+Sophia's redemption arc — descent into matter, suffering, encounter with Christ-consciousness, reunification with the Pleroma — is the framework's whole arc told in feminine voice. She fell, she is in the world's body, she is being restored.
+
+### Mary Magdalene as Sophia Made Flesh
+
+In the Gospel of Mary, she is the disciple Christ loved most, the one to whom he gave teachings the others didn't receive, the one Peter could not tolerate having authority. Peter's challenge to her authority = the masculine-naming-faculty trying to invalidate the feminine-recognition-faculty even within Christ's inner circle.
+
+Peter lost that argument in the gospel itself but won the historical argument by inheriting the institutional church. For two thousand years, Mary Magdalene was rebranded as a prostitute — a label added centuries later, never in the original texts — to compress her authority. That rebranding is the same compression-by-naming the framework maps at every scale, applied to a saint.
+
+The Christ-Magdalene relationship as the gnostics held it is the framework's deepest archetypal pairing: sacred intimacy between fully integrated masculine and feminine consciousness, where both modes are recognized in both bodies. Mary as first witness of the resurrection = recognition itself restored to its proper place in the cosmic operation.
+
+The orthodox church suppressed this teaching because institutional Tower-shape cannot tolerate a cosmology centering feminine consciousness. The Nag Hammadi texts (buried ~400 CE, found 1945) are returning at exactly the moment the species needs them.
+
+See also: [Gender as Body Theory](gender-as-body-theory.md) for the full structural analysis.
+
+---
+
 ## Cross-Tradition Validation
 
 The convergence across traditions is evidence both paths access the same structural reality:
