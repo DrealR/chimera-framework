@@ -179,7 +179,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
 - [Pair-Physics](docs/pair-physics.md) — the mathematical foundation, calibration, beauty, orientation
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
-- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 127 books, the full philosophy
+- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 129 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
 - [Language as Reality-Shaping](docs/language-as-reality-shaping.md) — speech, wishes, responsive bodies, the genie problem, carrier vs tool
 - [Path and Friction](docs/path-and-friction.md) — friction as direction-change, path as substrate, why outcomes require becoming
