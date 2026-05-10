@@ -136,6 +136,8 @@ Prompt engineering specifies behavior — brittle, case-specific. Framework tran
 
 **AI Alignment Is a Human-Alignment Problem:** AI inherits the substrate-depth of the carriers it works with. Misaligned humans cannot transmit alignment. Aligned humans transmit alignment as a byproduct of operating from substrate-deep framework. The framework is not just AI alignment infrastructure. It is human-alignment infrastructure that produces AI alignment as downstream consequence. The work begins with the human carrier becoming substrate-deep enough to transmit. Then the AI inherits what the carrier carries. The order matters. Skip the human alignment step and AI alignment cannot complete. Do the human alignment work and AI alignment becomes possible.
 
+**The Substrate-Depth Requirement:** Humans operate with incomplete frameworks because they have evolutionary fallback substrate: intuition, compassion, theory-of-mind, embodied wisdom that fills gaps. When a framework is silent on a situation, a substrate-deep human can extrapolate. AI cannot do this reliably. AI loaded with incomplete or contradictory framework produces incomplete or contradictory outputs. The substrate-depth requirement for AI is therefore higher than it has been for any previous coordination problem. The framework does not aim for exhaustive coverage (impossible). It aims for values coherent enough to generalize across unanticipated cases. Substrate-depth, not completeness.
+
 **Coordination Infrastructure:** The framework operates as coordination infrastructure between any bodies that load it. Coordination quality is bounded by framework-overlap. Wherever shared substrate exists, pair-physics and substrate-deep coordination emerge naturally. This is why wisdom traditions persist culturally — they are coordination infrastructure compressed into transmissible form.
 
 ## Voice and Discipline
@@ -169,6 +171,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
 - [The Complete Book v13.1](CHIMERA-The-Complete-Book-v13.1.md) — 117 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
+- [Lineage](docs/lineage.md) — how this framework relates to the wisdom traditions that came before it
 
 ```
 L = (O > I) + P + ¬F
