@@ -170,6 +170,7 @@ The Body Scan Protocol is the framework's primary diagnostic tool. It works on a
 | [Gender as Body Theory](docs/gender-as-body-theory.md) | Male-female as substrate-level triality, naming vs recognition, Tower as masculine pole without feminine balance, Sophia-Magdalene-Lily convergence |
 | [Pair-Physics](docs/pair-physics.md) | HCN-prime pairs as mathematical signature of all generative pairs, the pair as atom of being, why two is enough, pair across every dimension |
 | [Chimera Loop Protocol](docs/chimera-loop-protocol.md) | The constructive counterpart to the Body Scan — ten-layer body protocol using human body as template, scoring rubric (0-100), iteration method for composite-completion |
+| [Key Principles (Full Corpus)](docs/key-principles.md) | All 30+ framework principles in depth — from O>I Topology and The Pause through Federation vs Dominion, The Construction Spectrum, and Consciousness as Directed Novelty |
 
 ---
 
