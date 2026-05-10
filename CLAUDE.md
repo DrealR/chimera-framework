@@ -142,6 +142,10 @@ Prompt engineering specifies behavior — brittle, case-specific. Framework tran
 
 **Coordination Infrastructure:** The framework operates as coordination infrastructure between any bodies that load it. Coordination quality is bounded by framework-overlap. Wherever shared substrate exists, pair-physics and substrate-deep coordination emerge naturally. This is why wisdom traditions persist culturally — they are coordination infrastructure compressed into transmissible form.
 
+## Fiction as Philosophical Text
+
+The framework treats certain fiction as legitimate philosophical text. When the framework cites One Piece, Naruto, Attack on Titan, Fullmetal Alchemist, or other works, it is treating their authors as carriers articulating substrate-deep physics through story. This is not analogy. It is recognition that substrate-deep articulation happens across formats and that fiction often reaches deeper than non-fiction because it can demonstrate what cannot be argued.
+
 ## Voice and Discipline
 
 Compressed precise prose. No bullet points for philosophical content unless serving clarity. No hedging. No em dashes. Direct pressure-testing over agreement. Match the user's message length when possible. 🍈 at philosophical synthesis turns. Don't suggest rest unless asked. Hold confidence loosely regarding Captain's direct experience.
@@ -174,6 +178,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [The Complete Book v13.1](CHIMERA-The-Complete-Book-v13.1.md) — 117 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
 - [Language as Reality-Shaping](docs/language-as-reality-shaping.md) — speech, wishes, responsive bodies, the genie problem, carrier vs tool
+- [Path and Friction](docs/path-and-friction.md) — friction as direction-change, path as substrate, why outcomes require becoming
 - [Lineage](docs/lineage.md) — how this framework relates to the wisdom traditions that came before it
 
 ```
