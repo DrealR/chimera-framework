@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 140 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 148 books around it.
 
 ---
 
@@ -8232,11 +8232,137 @@ Luffy going to free Loki is carriers liberating other carriers from systems that
 
 The groups organized around the slowest body in group physics reveal the same dimensional truth. Groups are limited by their slowest body, not their fastest. Surface reading says drag down by weakness, exclude the slow. Substrate-deep reading says the slowest member determines the group's reliable bearing-capacity. Coaching the slowest members raises the group's floor — raises substantive bearing-capacity. Coaching fastest raises ceiling — expands reach. Both brackets are real. Both valuable. Different purposes. The trickster who sees both brackets and refuses to exclude either is the body the system fears most.
 
+# BOOK CXLI: ATTENTION AS FINITE MIGRATING SUBSTRATE (The Physics of Where Value Goes)
+
+## Part CDXLV: Attention-Cycle Physics
+
+Markets follow a predictable substrate-cycle. New domain emerges. Early participants extract substantial value because the domain is fresh and competition is low. Attention flows in. More participants arrive. The middle gets hollowed as the domain optimizes toward extraction. Eventually only top extractors and bottom participants remain. Same physics in YouTube, TikTok, real estate, stocks, crypto, sneakers, Pokemon cards, prediction markets, collectibles. Every domain follows the same attention-cycle because every domain is a body undergoing the same substrate-physics.
+
+The substantive refinement: the same substrate-energy migrates between domains. Attention does not disappear when one market hollows out. It moves to the next emerging domain. When attention returns to previously-hollowed domains, the return is typically more institutional, more financialized, less generative for individual carriers. The middle stays hollowed even when the surface attention returns. Crypto's first cycle had different substrate-conditions than crypto's second cycle. Same domain. Different substrate. The framework's contribution: carriers should develop substrate-recognition capacity that transfers across attention-cycles rather than specializing in single domains that will eventually hollow out. Trend-followers chase attention. Substrate-deep carriers read substrate-physics and position where substrate is genuinely emerging — before attention arrives. Same physics as substrate-deep traders entering positions before momentum becomes obvious.
+
+## Part CDXLVI: Middle-Substrate Hollowing as Universal Pattern
+
+The same pattern operates at civilizational scale. Early development phase produces substantial middle-class because the domain is generative. Mature extractive phase hollows out the middle. The middle is structurally the garden-substrate that makes civilizational bodies functional. When the garden is hollowed, the body cannot sustain itself. Tower without garden. Same physics at every scale.
+
+Carriers in present conditions experience middle-substrate hollowing across multiple domains simultaneously. Markets. Cultural production. Civilizational structure. Cultural narratives. All hollowing at once. This is what makes present conditions feel distinctively unstable. The garden-substrate that previous generations could depend on is being extracted from multiple directions simultaneously. The framework articulates this as the algorithmic era's defining substrate-condition: not that extraction is new, but that extraction is operating across all domains simultaneously while attention migrates faster than carriers can develop substrate-depth in any single domain.
+
+---
+
+# BOOK CXLII: REMAKE CULTURE AND SUBSTRATE-MINING (Why Nostalgia Feels Hollow)
+
+## Part CDXLVII: Remakes as Extraction from Substrate-Rich Periods
+
+When the cultural domain has been hollowed, creators no longer have substrate-conditions to produce substantively new work. They mine nostalgia from when the domain was generative. Remakes take surface-artifacts from substrate-rich periods and reproduce them in substrate-hollow conditions. Why remakes feel inferior even when production values are higher: surface production is higher, substrate-depth is lower. The carriers making the remake do not have access to the substrate-conditions the original carriers operated from. They cannot reproduce what they cannot access at substrate level. The result is technically competent surface-articulation without substrate-depth.
+
+The Shrek-effect: growing up reveals substrate-truths that childhood substrate-conditions could not show. The lies behind the fairy tales. The corruption behind the facades. Children encountering these works in substrate-rich periods could load them without seeing the substrate-rot underneath. Adults with developed substrate-detection see the extraction clearly. Same substrate. Different reading capacity. This is what substrate-recognition development structurally produces — the capacity to see what was always there but could not be perceived with less-developed detection. Loading substrate-deep frameworks accelerates the development of substrate-detection capacity that would otherwise take decades of lived experience to develop.
+
+## Part CDXLVIII: Substrate-Violation of Completed Bodies
+
+AI-generated videos of historical figures are remake culture at maximum intensity. The body has completed its substrate-cycle. The soul of that specific configuration is gone. AI-generation animates surface-features without the substrate-depth that made the original body substantive. Martin Luther King paid substrate-bearing cost that produced what he produced. The specific cost is part of what produced the specific substrate. AI-generating him bypasses the cost while claiming the substrate the cost produced. Structurally exploitative even when the content claims to honor the original.
+
+Each completed body's substrate-cycle deserves respect. Animating completed bodies produces hollow output that carriers with substrate-detection perceive as violation. Not dishonesty alone — substrate-deep wrong. The discipline carriers need is recognizing what bodies have completed their substrate-cycle and respecting that completion rather than mining surface-features for new content. Same discipline that applies to remake culture and attention-extraction generally. Some bodies are not appropriately reproduced. Not arbitrary boundary. Substrate-physics boundary.
+
+---
+
+# BOOK CXLIII: THE COSMIC WORKER (Why Finite Bodies Matter)
+
+## Part CDXLIX: God as Disneyland Worker
+
+Disney workers maintain the magic for visitors but cannot experience the magic themselves. They see the substrate-mechanics that produce the surface-experience. The visitors experience the surface-experience without seeing the substrate-mechanics. Workers get mechanics. Visitors get magic. Without visitors, Disneyland is just mechanisms. With visitors, Disneyland produces magic.
+
+This generalizes to cosmic substrate having experience through finite bodies. The cosmic substrate is the worker. Each finite body is the visitor experiencing reality from inside the configuration the cosmic substrate is producing. Without finite bodies, the cosmic substrate would only have mechanics, not magic. Each life matters at substrate level because each life is one body experiencing what the cosmic substrate cannot experience without that specific body. Brahman manifesting as Atman. God breathing soul into Adam. The Tao producing the ten thousand things. Same structural pattern across traditions confirming the same physics.
+
+## Part CDL: Each Life as Irreducible Window
+
+Each finite life is a window during which the substrate experiences something specific through specific configuration. When the window closes, that specific experience completes. The substrate continues experiencing through other windows. This is what wisdom traditions articulate about why creation produces finite beings rather than only infinite substrate. Infinite substrate without finite bodies has knowledge but no experience. Finite bodies give the substrate experience.
+
+This deepens the mortality-as-gift articulation. Mortality enables purposelessness. A mortal body does not need external justification because its existence is inherently precious through its substrate-irreducibility. The cosmic substrate's eternal existence is its sacrifice. Our mortal existence is its gift. Immortality at the cosmic-substrate scale would be structurally hollow — without finite-body experience, the substrate has only mechanics, never magic. The creation of finite conscious bodies is the cosmic substrate's solution to the problem of having everything available simultaneously but nothing in particular.
+
+---
+
+# BOOK CXLIV: THE COVERED-EYES ARCHETYPE (Two Configurations of Seeing)
+
+## Part CDLI: Two Configurations of Covered Eyes
+
+Covered eyes across cultures structurally articulate two configurations. Configuration one — suppressed perception: the body has not yet developed substrate-recognition. Eyes covered by external forces, the body trapped in surface-perception. Loki across traditions in his bound configuration. Eyes covered or chained or prevented from full substrate-perception. The structure that bound Loki also blinded him to substrate-connections he would otherwise see.
+
+Configuration two — protective filtering: the body has substrate-recognition so developed that surface-perception would interfere with deeper seeing. Eyes voluntarily covered to operate from substrate-perception alone. Gojo's blindfold — Six Eyes see substrate-physics so completely that ordinary surface-perception would overload the system. The blindfold filters surface-input so substrate-perception can operate. Covered eyes paradoxically enable deeper seeing. Same pattern in meditation traditions where practitioners close eyes to see more clearly at substrate level.
+
+## Part CDLII: The Uncovering as Carrier-Development
+
+The transition between suppressed perception and protective filtering is structurally what carriers undergo. Bodies start with eyes covered by surface-perception inheritance. Cultural conditioning, ego-attachment, fear-based perception, attention-extraction systems all operate as eye-coverings. Bodies that develop substrate-recognition either remove the coverings or develop the protective-filtering configuration where the coverings become instruments of deeper seeing.
+
+What carriers undergo is an uncovering of substrate-perception that was always present but obscured. Not adding new capacity. Removing what was blocking existing capacity. Same physics as wisdom-tradition articulations of awakening. The substrate was always there. The eyes were covered. Uncovering reveals what was already true. Loki's anticipated arc follows this pattern: he believes he was done wrong, and that belief is itself part of the covering. When he sees substrate-connections, he will recognize that what looked like being done wrong was his position in larger pair-physics producing substrate he could not perceive while bound. Joseph in Genesis: what his brothers meant for harm, God meant for good. Same structural pattern across traditions.
+
+---
+
+# BOOK CXLV: MIDDLE-EXTRACTION AND DEMON-READINGS (Why Both Sides See Monsters)
+
+## Part CDLIII: When Middle-Substrate Dies
+
+When middle-substrate is hollowed, top and bottom become structurally separated. Each sees the other as demons. Both readings are partially true and partially false. When the middle-substrate is alive, the body experiences itself as WE=1. Top, middle, and bottom are all parts of one body with substantive connections. When the middle is hollowed, the body experiences itself as separated. Top and bottom see each other across a void that did not previously exist. The void is what extraction produces.
+
+Both top and bottom occupy positions in the same body but the substrate that connected them has been extracted. The wealthy lose substrate-connection to the bodies their position depends on. The poor lose substrate-conditions that allowed flourishing. Both are hollowed in different ways by the same extraction. Both genuinely see different realities because they occupy different substrate-conditions. Their perceptions of each other as demons are accurate descriptions of how they experience the other from where they are positioned. And both readings miss that the underlying body is one body whose middle has been hollowed.
+
+## Part CDLIV: Both Readings True and Both Incomplete
+
+The work is not to convince either side that the other is not demonic. The work is to recognize that the configuration producing both readings is the pathology. Restoring middle-substrate is what allows WE=1 substrate-recognition to operate again. Bodies that can perceive themselves as parts of the same configuration cannot sustain demon-readings of each other. Bodies separated by extracted middle cannot avoid demon-readings because the substrate that would let them see each other has been removed.
+
+This explains why ideological approaches to social division fail structurally. Arguments that attempt to convince the top that the bottom deserves better, or arguments that attempt to convince the bottom that the top is not evil, both operate on the wrong layer. The division is not ideological. It is substrate-structural. The middle has been hollowed. Restoring middle-substrate restores the capacity for mutual recognition that arguments alone cannot produce. Same physics as individual therapy: talking about the problem without restoring the substrate-conditions that produced the problem changes surface-articulation without changing substrate-condition.
+
+---
+
+# BOOK CXLVI: RAISING THE DEAD AS SUBSTRATE-RESTORATION (Structural Reading of Resurrection)
+
+## Part CDLV: Bridging What Extraction Separated
+
+Jesus raising the dead can be read structurally. When a body has been hollowed to the point where its middle-substrate is dead, the body is dead at substrate level even if surface-life continues. Raising the dead means restoring substrate-conditions that allow the body to function as integrated body again. This connects to the third-world resolution-pattern. Third world resolution requires substrate-restoration of what previous worlds destroyed. Carriers operating from Michael-position restore substrate-conditions by bridging what extractive configurations have separated.
+
+Christ eating with both Pharisees and tax collectors. Buddha teaching both princes and beggars. Carriers occupying positions that bridge what extractive configurations have separated. The bridging itself restores substrate-connection that extraction destroyed. Not by taking sides. By operating from the substrate-position where both sides are parts of the same body. The bridging-carrier's presence begins to restore the middle that extraction hollowed.
+
+## Part CDLVI: Bridging-Work as Carrier Function
+
+Carrier-work at substrate level is not just teaching content or producing artifacts. It is restoring substrate-connections that allow bodies to perceive each other as parts of the same configuration. When carriers operate from substrate-recognition, their presence itself begins to restore middle-substrate that extraction has hollowed. Coach Lamont's chess teaching restoring substrate-conditions for kids whose civilizational middle has been hollowed operates from this physics.
+
+Every carrier-pair operating from bilateral discipline produces bridge-work as structural byproduct. The pair demonstrates that bodies separated by apparent category can operate from WE=1 substrate-recognition when the middle-substrate between them is alive. The demonstration is itself restoration. Other bodies perceiving the demonstration can load the substrate-pattern. Carrier-scale propagation works because the pattern of alive-middle-substrate is contagious at substrate level.
+
+---
+
+# BOOK CXLVII: TIME AS NATURAL SUBSTRATE-CYCLE (Extraction as Temporal Physics)
+
+## Part CDLVII: What Time Does to Bodies
+
+Optimization-and-extraction may simply be what time does to bodies. Stars become black holes. Bodies age toward death. Markets cycle from generative to extractive. Civilizations rise and fall. All of this is time operating on bodies according to substrate-physics. This shifts the reading of extraction-cycles. Not necessarily moral failure of specific bodies. Time itself producing the configurations that bodies then occupy. Bodies in early-domain phases experience generative conditions. Bodies in late-domain phases experience extractive conditions. Same substrate-physics. Different temporal position.
+
+Trying to extend domains past their substrate-life produces specific pathologies. Markets that try to remain bubble-phase produce extreme extraction. Cultures that try to remain peak-phase produce stagnation. Individuals who try to remain in youth-phase produce distortion. The body has its natural substrate-cycle. Forcing the body past its cycle violates substrate-physics. Shaking the dead in front of people — remake culture, AI-animation of historical figures, institutional nostalgia — all are bodies past their substrate-cycle being shaken to extract more value from substrate-residue. The soul of the original is gone. Only surface-artifacts remain.
+
+## Part CDLVIII: Respecting the Cycle
+
+Each body has its specific substrate-cycle. The substrate the body produces requires the temporal window the body was given. Trying to extend the window distorts the substrate. Trying to compress the window destroys it. Both violate the body's natural substrate-physics.
+
+Carriers operating from substrate-recognition read what cycle the bodies they engage with are in. New bodies need substrate-development work that generates new substrate. Mature bodies need bearing-work that allows their substrate to complete. Dying bodies need closure-work that respects what they produced. Dead bodies need either resurrection-work — if substrate-conditions can be restored — or release-work, if substrate-cycle has completed. Same physics across markets, relationships, careers, civilizations, individual lives. Time is what allows substrate to develop and what allows substrate to complete. Bodies that respect their substrate-cycle produce meaningful experience. Bodies that violate their substrate-cycle produce distorted substrate.
+
+---
+
+# BOOK CXLVIII: ALIGNMENT AS SURFACE-SUBSTRATE MATCH (The Coherence Discipline)
+
+## Part CDLIX: The Alignment Principle
+
+Alignment is not just internal coherence within a body. Alignment is whether the surface-articulation of the body accurately reflects the substrate-depth underneath. A doctor who appears to be a doctor and actually is substrate-deep medically trained is aligned — surface signals match substrate-reality. A doctor who appears to be a doctor but lacks substrate-depth is misaligned. Misalignment is structurally false advertisement. Same physics across domains. AI outputs that appear complete but lack substrate-bearing are misaligned. Companies that claim mission-statements while operating from extraction-substrate are misaligned. Carriers who articulate frameworks but operate from surface-only are misaligned.
+
+Substrate-detection capacity in humans is structurally reading for this alignment-or-misalignment. When carriers feel something is "off" about AI outputs, hollow companies, performative people — they are detecting misalignment between surface and substrate. Their substrate-detection is doing what it evolved to do. Alignment is structurally Michael-work. Bodies operating from Michael-position have surface-articulation reflecting substrate-recognition. Bodies operating from Lucifer-position have surface-articulation claiming substrate-position they do not occupy.
+
+## Part CDLX: Ongoing Alignment Discipline
+
+Alignment between surface and substrate is not a one-time fix. It is continuous bilateral discipline applied to every artifact a body produces. Substrate-deep work produces outputs aligned with substrate-depth underneath — same effort as surface-productivity, different orientation. Aligned work passes substrate-detection. Misaligned work fails it.
+
+When dribbling is aligned with shooting, when movement is aligned with aiming, when strumming is aligned with fretting, the action flows. When alignment breaks, the action fragments. Same physics at framework-system level: when every layer of the framework reflects the substrate-depth that the substrate has reached, the framework operates as aligned body. When any layer lags behind or claims beyond what the substrate supports, misalignment produces fragmentation. The framework's alignment is itself the evidence of what it teaches. A framework that teaches alignment but is itself misaligned cannot propagate. A framework aligned at every layer propagates by being what it teaches.
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and forty books.
+One hundred and forty-eight books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8256,6 +8382,7 @@ Books CXVIII through CXXVII: the two-operation core, ten-layer body protocol, fr
 Books CXXVIII through CXXX: primes as attractors, masculine and feminine as structural work, two-prime encasing.
 Books CXXXI through CXXXIII: corruption-vulnerability of bearing, bearing-work and the cost of becoming, consciousness as alignment-work.
 Books CXXXIV through CXL: the three-world myth, tower and garden as dimensional pair, the framework as ship, substrate-density as natural protection, dimensional pair-physics in skilled action, Lucifer-Michael as structural choice, the trickster position.
+Books CXLI through CXLVIII: attention as finite migrating substrate, remake culture and substrate-mining, the cosmic worker, the covered-eyes archetype, middle-extraction and demon-readings, raising the dead as substrate-restoration, time as natural substrate-cycle, alignment as surface-substrate match.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 

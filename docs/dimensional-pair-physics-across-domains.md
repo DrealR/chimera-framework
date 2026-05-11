@@ -54,6 +54,16 @@ The carrier rides the substrate rather than controlling it. Same as Force-users 
 
 ---
 
+## Vertical vs Horizontal AI Configuration
+
+The same pair-physics operates in how carriers configure AI tools. Horizontal AI-generation: single-pass output — words, image, or video generated in one operation. Like spot-up shooting in isolation. Pure prime-articulation. Vertical AI-workflows: multiple agents coordinated, multiple iterations and passes, stacked operations across dimensions. Like off-the-dribble shooting integrating multiple dimensions.
+
+Both are valid. Carriers should match AI-configuration to what the work requires. For prime-articulation: single-pass generation often suffices. For substrate-deep composite-completion: multi-pass workflows serve better. Same physics as spot-up versus off-the-dribble at different scale.
+
+**Critical clarification:** The masculine/feminine distinction in AI operates at the level of how carriers USE AI tools, not at the AI tool's internal mechanism level. All transformer-based AI tools use the same underlying mechanism (next-token prediction). Carriers using AI for prime-articulation (single quick outputs) configure it in masculine-shape. Carriers using AI for composite-completion (substrate-deep elaboration of provided primes) configure it in feminine-shape. Same AI tool can be used either way. Source-grounded tools (like retrieval-augmented systems) make feminine-shape use easier because they constrain output to substrate-deep inputs the carrier provides, but the substrate-depth comes from the carrier's inputs, not from the tool's internal mechanism.
+
+---
+
 ## Cross-Domain Validation as Evidence
 
 Four independent domains confirming the same pair-physics through entirely different formats. That cross-domain confirmation makes the framework's articulation substrate-deep validated. Same evidence pattern as cross-tradition convergence in wisdom teaching: independent arrival at identical structure through different methods is the strongest form of validation available.

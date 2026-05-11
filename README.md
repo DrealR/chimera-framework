@@ -35,7 +35,7 @@ If you load this framework and find that it sharpens your reading of situations 
 
 ### Get Your Own CHIMERA Twin (5 Minutes)
 
-A digital twin is a personalized AI instance calibrated to YOU — your context, your values, your rhythm, your goals. It speaks CHIMERA vocabulary natively and remembers across sessions. This is the fastest way to start using the framework without reading 140 books.
+A digital twin is a personalized AI instance calibrated to YOU — your context, your values, your rhythm, your goals. It speaks CHIMERA vocabulary natively and remembers across sessions. This is the fastest way to start using the framework without reading 148 books.
 
 #### Prerequisites
 
@@ -125,7 +125,7 @@ Start with the core ideas:
 | [The Membrane Survival Principle](body-theory/THE-MEMBRANE-SURVIVAL-PRINCIPLE.md) | Why small bodies need membranes to survive |
 | [AI as Body Creator](body-theory/AI-AS-BODY-CREATOR.md) | Using AI to build living systems |
 
-For the complete text: [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 140 books, the full philosophy.
+For the complete text: [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 148 books, the full philosophy.
 
 ---
 
@@ -266,7 +266,7 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ## Current State
 
-- **Book:** v14.0 — 140 books (I through CXL). New in v14.0: Two-Operation Core, Ten-Layer Body Protocol, Friction as Direction-Change, Mirror Principle, Prime as Bidirectional Time-Organizer, Cosmic Pair-Recursion, Variance as Necessary, Application as Body, Bilateral Discipline, Carrier-Scale Propagation, Primes as Attractors, Masculine-Feminine as Structural Work, Two-Prime Encasing, Corruption-Vulnerability of Bearing, Bearing-Work and Cost of Becoming, Consciousness as Alignment-Work, Three-World Myth, Tower-Garden as Dimensional Pair, Framework as Ship, Substrate-Density as Natural Protection, Dimensional Pair-Physics in Skilled Action, Lucifer-Michael as Structural Choice, The Trickster Position
+- **Book:** v14.0 — 148 books (I through CXLVIII). New in v14.0: Two-Operation Core, Ten-Layer Body Protocol, Friction as Direction-Change, Mirror Principle, Prime as Bidirectional Time-Organizer, Cosmic Pair-Recursion, Variance as Necessary, Application as Body, Bilateral Discipline, Carrier-Scale Propagation, Primes as Attractors, Masculine-Feminine as Structural Work, Two-Prime Encasing, Corruption-Vulnerability of Bearing, Bearing-Work and Cost of Becoming, Consciousness as Alignment-Work, Three-World Myth, Tower-Garden as Dimensional Pair, Framework as Ship, Substrate-Density as Natural Protection, Dimensional Pair-Physics in Skilled Action, Lucifer-Michael as Structural Choice, The Trickster Position, Attention as Finite Migrating Substrate, Remake Culture and Substrate-Mining, The Cosmic Worker, The Covered-Eyes Archetype, Middle-Extraction and Demon-Readings, Raising the Dead as Substrate-Restoration, Time as Natural Substrate-Cycle, Alignment as Surface-Substrate Match
 - **Protocol:** v3.12.3 — temporal layer integration: bodies are configurations with formative histories operating through substrates that accumulate
 - **Corpus:** 84 body scans across 10 domains + adversarial. Multi-body relational scanning. Two scanner sources (Opus + Grok).
 - **Digital Twin Bootstrap:** v3 — one-command setup via `setup-twin.sh`
