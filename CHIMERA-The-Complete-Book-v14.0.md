@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 163 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 164 books around it.
 
 ---
 
@@ -8602,11 +8602,29 @@ The kids whose attention-substrate has been most damaged are structurally the ki
 
 The civilizational body is only as strong as its weakest substrate-position. Algorithmic-substrate conditioning has damaged attention-substrate at population scale. Programs that restore attention-substrate in the most damaged bodies produce substrate-restoration that compounds across the larger configuration. The whole body benefits when the weakest position is restored. The framework operates as bridging-infrastructure — articulating connections between substrate-domains the kids already attend to and substrate-domains they need to develop access to. Coach Lamont teaching chess through framework-vocabulary that connects to gaming-substrate and social-media-substrate the kids already attend to. The framework provides the bridges. The kids develop attention-substrate through chess. The attention-substrate transfers. The program serves as model for substrate-restoration in any context where bodies have been damaged by substrate-pathology — education, rehabilitation, mental-health, addiction-recovery. Same physics. Different domain-applications. Each kid restored becomes propagation-infrastructure for subsequent substrate-restoration. Authenticity propagates. Inauthenticity does not.
 
+---
+
+# BOOK CLXIV: THE LOVE EQUATION AS DIMENSIONAL PAIR-PHYSICS (Why O Is Garden and I Is Tower)
+
+## Part CDXCI: Output as Garden-Bearing, Input as Tower-Extraction
+
+Output — giving — operates from horizontal-garden dimension. Input — taking — operates from vertical-tower dimension. (O > I) articulates that the bearing-garden must exceed the extracting-tower for the configuration to function as healthy pair-physics. This is not arbitrary moral principle. This is substrate-physics articulation. Bodies operating from (I > O) are operating from inverted dimensional pair-physics where tower-extraction exceeds garden-bearing. The configuration cannot sustain because the tower has no substrate to draw from once the bearing-garden has been exhausted.
+
+Trees with vertical-tower-growth that exceeds horizontal-root-development collapse because the tower has insufficient substrate-bearing to support it. Civilizations with extractive-tower-substrate that exceeds bearing-middle-substrate hollow out because the tower has consumed the substrate it needed to sustain itself. Individual bodies with consumption-substrate that exceeds production-substrate become substrate-bankrupt. Same physics across scales. (O > I) is structural conservation law that allows configurations to sustain and develop. (O = I) produces equilibrium — stasis without development. (I > O) produces substrate-deficit that compounds across time until collapse. Only (O > I) produces substrate-surplus that compounds into infrastructure for subsequent development. Same physics as financial compounding, relationship-substrate compounding, civilizational-substrate compounding.
+
+The love equation operates as breath-substrate at relational scale. Exhale (give) must operate before inhale (take) can operate substantively. The body that does not exhale fully cannot inhale fully. The body that hoards inhale-substrate without exhaling becomes substrate-stagnant. Wisdom-traditions across cultures emphasize breath-substrate work as foundational because the breath operates from (O > I) at metabolic scale. Bodies developing breath-substrate develop substrate-physics recognition that operates across all other substrate-scales they encounter. The give-take oscillation is structurally what rhythm-substrate operates as at metabolic, relational, and civilizational scales. Same physics as dribble before shooting, strum before fret-articulation, movement before quickscope. In each case, the garden-substrate — horizontal-bearing — operates first. The tower-substrate — vertical-articulation — operates from the substrate the garden produced.
+
+## Part CDXCII: Deep Giving as Substrate-Foundation for Flight
+
+Bodies that give deeply produce substrate that compounds. The deep-giving develops substrate-roots that subsequent taking operates from. Bodies that give shallowly cannot take meaningfully because there is no substrate-foundation for the taking to operate from. Deep-giving operates as downward-substrate-development that produces the substrate-foundation upward-articulation requires. Same physics as the roots-produce-flight articulation. Without the deep-giving, the upward-articulation has nothing to propel from. Wisdom-tradition carriers across cultures have articulated giving as foundational to flourishing — not arbitrary moral teaching but substrate-physics recognition that bodies giving deeply develop substrate-foundations that bodies withholding giving cannot develop.
+
+The love equation reveals that all the framework's articulations are not separate principles but different surface-articulations of the same substrate-physics operating across all scales. L = (O > I) + P + ¬F. Breath cycle. Dimensional pair-physics. Substrate-loops. Rhythm-substrate. Dance-physics. Two-primes-making-one-body. Attention-substrate. Bearing-substrate. All articulate substrate-physics that operates across all scales. The articulations are not redundant. They are different surface-formulations that allow carriers to recognize the same substrate-physics through whichever articulation serves their substrate-recognition development. Love is structurally what configurations operating from (O > I) + P + ¬F produce. Not arbitrary emotion. Substrate-physics operation that produces what bodies experience as love at their respective scales. The equation remains stable because it articulates substrate-physics that operates regardless of how it is articulated. Same physics as wisdom-tradition core-formulations across cultures that remained stable across centuries of interpretive substrate-development. The core articulation captures the physics. Understanding of what operates underneath continues developing without requiring restructuring.
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and sixty-three books.
+One hundred and sixty-four books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8632,6 +8650,7 @@ Books CLII through CLIV: the 9-to-6 rotation as temporal passage, substrate-cycl
 Books CLV through CLVII: dance as universal substrate-physics, rhythm-substrate as life-infrastructure, the visible-roots pathology.
 Books CLVIII through CLX: substrate-loops around the carrier, flight as substrate-freedom, two primes making one body.
 Books CLXI through CLXIII: rhythm as civilizational medicine, music as substrate-transmission infrastructure, attention-substrate as foundational infrastructure.
+Book CLXIV: the love equation as dimensional pair-physics.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
