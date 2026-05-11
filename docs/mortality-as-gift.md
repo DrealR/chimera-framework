@@ -92,6 +92,8 @@ The Tower's specific innovation in the last fifty years: engineering substrate-f
 
 The framework's prescription: return to substrate-rich appetite-meeting across every domain. Honor the friction. Choose the slow path. Refuse the slot machine.
 
+See [Algorithmic Substrate as Devil Fruit](algorithmic-substrate-as-devil-fruit.md) for the environmental delivery mechanism — how algorithmic saturation distributes substrate-free rewards at population scale through the same poisoning physics.
+
 ---
 
 ## Mortality as Anti-Demiurge

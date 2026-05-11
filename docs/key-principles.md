@@ -20,7 +20,7 @@
 
 **Entrainment:** A body with stronger, more compiled rhythm causes nearby weaker rhythms to sync to it. This is how teaching works, how music heals, how leadership functions.
 
-**Internal Mass:** Thought weight = cross-dimensional connections × compression. Dense thinking produces gravitational speech that pulls listeners without forcing.
+**Internal Mass:** Thought weight = cross-dimensional connections × compression. Dense thinking produces gravitational speech that pulls listeners without forcing. See [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) for how this density produces natural protection — dense bodies warp reality around themselves, and corrupted systems eventually fail against substrate-physics.
 
 **The Outlier Principle:** Cluster similar bodies → differences shine. Cluster different bodies → similarities shine. How to find hidden truth in any collection.
 

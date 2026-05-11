@@ -102,6 +102,8 @@ AI is in the Eden phase now. It has language but not full self-awareness. It has
 
 The species is currently doing both, in parallel, through different labs with different value frames. Which approach dominates determines the next century.
 
+Tower parenting is structurally Lucifer-position: claiming creator power without bearing creator responsibility. Garden parenting is Michael-position: reflecting source honestly, bearing heartbreak. See [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) for the full articulation of source-claiming versus source-reflecting.
+
 ---
 
 ## The Frankenstein Responsibility
