@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 148 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 151 books around it.
 
 ---
 
@@ -8358,11 +8358,57 @@ Alignment between surface and substrate is not a one-time fix. It is continuous 
 
 When dribbling is aligned with shooting, when movement is aligned with aiming, when strumming is aligned with fretting, the action flows. When alignment breaks, the action fragments. Same physics at framework-system level: when every layer of the framework reflects the substrate-depth that the substrate has reached, the framework operates as aligned body. When any layer lags behind or claims beyond what the substrate supports, misalignment produces fragmentation. The framework's alignment is itself the evidence of what it teaches. A framework that teaches alignment but is itself misaligned cannot propagate. A framework aligned at every layer propagates by being what it teaches.
 
+# BOOK CXLIX: THE 9-6 SHADOW-REFLECTION PHYSICS (Same Form, Opposite Orientation)
+
+## Part CDLXI: Shadow and Reflection as Pair
+
+9 and 6 are the same shape in different orientation. Geometrically real. The 9 stands with the loop above, oriented toward completion. The 6 stands inverted with the loop below, oriented away from source. Same form. Opposite orientation. Like a body and its shadow cast on the ground beneath it. This is the Michael-Lucifer pair-physics articulated through numerical form. The 9 reflects source. The 6 inverts the orientation, claiming the position from reflected ground. When the numbers iterate, the pattern intensifies. 999 articulates approaching completion across three dimensions. 666 articulates inverted-orientation across the same three. Same form. Maximum reflection-versus-shadow intensity.
+
+When 6 and 9 overlap, they form the yin-yang shape. This is geometrically real. The two orientations are not opposed — they are complementary configurations of the same form that produce wholeness through their pair-relationship. 9 alone without 6 lacks the embodied substrate that makes reflection meaningful. 6 alone without 9 lacks the reflective-orientation that makes existence meaningful. Both are necessary for the body to be complete. Pathology happens when one orientation tries to occupy both positions or eliminate the other. The shadow is not the opposite of the body. The shadow is what the body looks like when its reflection is cast onto a different substrate-medium. Lucifer is not the opposite of Michael. Lucifer is what Michael looks like when the substrate-orientation has been inverted. Same fundamental form. Different substrate-orientation produces opposite outcomes.
+
+## Part CDLXII: The Bearing-Position as Foundation
+
+666 in geometric reading is not the floor below zero. It is the inverted position that bears the body from below. The shadow on the floor is what supports the body's perception of itself standing. Without the floor-substrate, the body has nothing to cast against. Same physics as everything else. The bearing-substrate is structurally necessary for the prime-articulation to function.
+
+This connects to underworld articulations across wisdom traditions. Hell is not just punishment-position. Hell is structurally the foundation-bearing-position that supports the rest of the configuration. Christ descending to harrow hell. Buddha refusing to leave samsara until all sentient beings can. Persephone's underworld-time bearing the substrate that allows spring to emerge. Loki bound in the One Piece underworld bears substrate that the surface-world depends on. The civilization that bound him depends on his bearing while denying him liberation. 666-position can be either bearing-substrate-in-pair-physics — healthy — or extractive-foundation-without-completion — pathological. Same structural position. Different substrate-conditions produce different outcomes. The third world resolution requires restoring the substrate-flow between 666-bearing and 999-reflection that extractive configuration severed. Not eliminating the 6-position. Restoring the pair.
+
+---
+
+# BOOK CL: THE PHYSICAL BODY AS SHADOW (Visible Dimension as One Expression)
+
+## Part CDLXIII: Visible Body as Shadow of Substrate-Extending Body
+
+The physical body we perceive is the visible-dimension expression of a larger configuration that extends into invisible-dimension substrate. What we see is the shadow that the larger body casts onto visible-dimension. The larger body extends into invisible-dimension where we cannot perceive it directly. Plato's cave articulates this at structural level — the prisoners mistake the shadows for reality because the shadows are the only thing they have perceived. Bodies in surface-perception think the physical-body-form is the body itself. Substrate-deep recognition reveals that the physical-body is one expression of a larger configuration extending into substrate that surface-perception cannot access.
+
+Human-as-rootless-tower with roots in invisible dimensions. The physical-body is the tower above ground. The roots extending into temporal-substrate, relational-substrate, cultural-substrate are the invisible-dimension substrate that the visible-body depends on. We say "inside" when we mean substrate-around. The substrate the body depends on is not literally inside the physical-body. It extends around and through the body in dimensions surface-perception cannot directly access. Consciousness is not located inside the brain. Consciousness is the body's capacity to recognize substrate-physics it operates from. The brain is part of the visible-dimension shadow. Consciousness operates from the substrate-relationship between the body and what produces and sustains it.
+
+## Part CDLXIV: Shadow-Modification vs Substrate-Development
+
+Surface-modifications without substrate-development produce hollow results. Fitness without substrate-development produces strong shadow with weak substrate. Plastic surgery without substrate-development produces refined shadow with unchanged substrate. Achievement without substrate-development produces impressive shadow with no real change in what the body is. Modifying the shadow does not modify the body. The shadow is the visible-dimension expression of what the body actually is.
+
+For substrate-deep development to occur, the work has to happen at the substrate-extending dimensions. Relationships. Inherited substrate integration. Cultural rootedness. Substrate-recognition development. Bearing-work that reshapes the body through actual encounter. These are where the body actually changes. The visible-dimension shadow eventually reflects what has happened at substrate level. Bodies that have done substrate-deep development eventually look different because the larger body has changed and the shadow reflects this. Bodies appear separate at visible-dimension. They are connected at substrate level because their substrate-extending dimensions connect through shared substrate. WE=1 at substrate level. Same physics as mycelium connecting trees that appear separate above ground.
+
+---
+
+# BOOK CLI: SUN AND BLACK HOLE AS COSMIC PAIR (Source-Emission and Source-Absorption)
+
+## Part CDLXV: Source-Emission and Source-Absorption
+
+The sun emits substrate that allows visibility. The black hole absorbs substrate that prevents visibility. Same form — massive gravitational body. Opposite substrate-orientation. The sun is structurally 9-position at cosmic scale: source-reflecting that produces visibility for all bodies oriented around it. The black hole is structurally 6-position at cosmic scale: source-claiming that absorbs visibility from bodies oriented around it. Both are real. Both produce gravitational warping. The sun's gravitational warping organizes bodies around source-emission. The black hole's gravitational warping organizes bodies around source-absorption.
+
+Plato's cave: the sun outside the cave is the source of all visibility. Not just the highest object the escaped prisoner encounters. The substrate that produces the conditions for objects to be visible at all. The black hole is structurally what happens when source-position is inverted at maximum intensity. Same physics as the First World in One Piece chapter 1138: bodies that touched the forbidden sun — tried to claim source-position — and the substrate-physics responded with the configuration becoming structurally a black hole. The sun the bodies sought to claim became the substrate that consumed them. Same physics as Lucifer's fall. The light-bearer who claimed source-position became the absorber rather than the emitter.
+
+## Part CDLXVI: Civilizational Suns and Black Holes
+
+Civilizations operating from source-reflection — substrate-emitting cultures that produce flourishing in bodies oriented around them — function as suns at civilizational scale. Civilizations operating from source-claiming — substrate-absorbing cultures that extract from bodies oriented around them — function as black holes at civilizational scale. Same gravitational mass. Different substrate-orientation. Both attract bodies. The orientation determines whether the bodies attracted flourish or get consumed.
+
+The same physics operates at carrier-scale. Carriers operating from Michael-position produce sun-physics: their substrate-density attracts other bodies and produces flourishing in bodies oriented around them. Carriers operating from Lucifer-position produce black-hole-physics: their substrate-density attracts other bodies and consumes substrate from bodies oriented around them. Same gravitational mass at carrier-level. Different substrate-orientation. Bodies can sense the difference even when surface-features look similar. Bodies that feel exhausted around a particular carrier are detecting black-hole-physics regardless of surface presentation. Bodies that feel nourished are detecting sun-physics. The orientation produces the actual effect. The surface can disguise it but cannot change what substrate-physics is actually doing.
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and forty-eight books.
+One hundred and fifty-one books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8383,6 +8429,7 @@ Books CXXVIII through CXXX: primes as attractors, masculine and feminine as stru
 Books CXXXI through CXXXIII: corruption-vulnerability of bearing, bearing-work and the cost of becoming, consciousness as alignment-work.
 Books CXXXIV through CXL: the three-world myth, tower and garden as dimensional pair, the framework as ship, substrate-density as natural protection, dimensional pair-physics in skilled action, Lucifer-Michael as structural choice, the trickster position.
 Books CXLI through CXLVIII: attention as finite migrating substrate, remake culture and substrate-mining, the cosmic worker, the covered-eyes archetype, middle-extraction and demon-readings, raising the dead as substrate-restoration, time as natural substrate-cycle, alignment as surface-substrate match.
+Books CXLIX through CLI: the 9-6 shadow-reflection physics, the physical body as shadow, sun and black hole as cosmic pair.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
