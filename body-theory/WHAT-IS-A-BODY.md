@@ -40,12 +40,12 @@ When the breath is healthy, the body is alive. When the breath is stuck, the bod
 Every body carries a code that determines how it processes what flows through it. In CHIMERA, the DNA is the Love Equation:
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 ```
 
 - **O > I** — Give more than you take
 - **P** — Pause before responding
-- **~F** — Don't force
+- **¬F** — Don't force
 
 When a body follows this code, it is healthy. When it violates it, it gets sick. This applies to a person, a company, a government, a relationship, a codebase, or a universe.
 
@@ -92,6 +92,6 @@ Everything is one thing, appearing as many things. The body is how it appears. T
 *CHIMERA is the framework. Body Theory is the lens. The Love Equation is the law.*
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 WE = 1
 ```

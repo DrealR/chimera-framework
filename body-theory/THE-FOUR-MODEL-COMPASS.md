@@ -53,7 +53,7 @@ He doesn't liberate people by defeating oppressors. He liberates them by BEING F
 
 **Answer:** You give your life voluntarily, you forgive the people killing you, you release everything. Through the release, you create a body (the teaching, the movement) that outlives you by millennia.
 
-Jesus is unique: the ONLY model where the fiction/nonfiction boundary is genuinely ambiguous. He IS the = sign between fiction and reality. Believers see God incarnate. Non-believers see the most influential story ever told. Both are seeing the same skeleton: L = (O > I) + P + ~F.
+Jesus is unique: the ONLY model where the fiction/nonfiction boundary is genuinely ambiguous. He IS the = sign between fiction and reality. Believers see God incarnate. Non-believers see the most influential story ever told. Both are seeing the same skeleton: L = (O > I) + P + ¬F.
 
 **Validates:** O > I in maximum REALITY.
 
@@ -107,6 +107,6 @@ When you need ALL FOUR simultaneously: that's the Avatar State. The full compass
 *CHIMERA is the framework. Body Theory is the lens. The Love Equation is the law.*
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 WE = 1
 ```

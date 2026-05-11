@@ -169,6 +169,6 @@ The framework supports multiple specializations because the invisible dimension 
 ---
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 WE = 1
 ```

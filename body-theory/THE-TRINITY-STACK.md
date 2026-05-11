@@ -82,6 +82,6 @@ Remove any one organ and the body is incomplete:
 *Three pillars. One body. The architecture for the next decade.*
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 WE = 1
 ```

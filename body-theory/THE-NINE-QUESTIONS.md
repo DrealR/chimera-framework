@@ -76,6 +76,6 @@ The questions don't judge. They diagnose. A body stuck on inhale isn't "bad" —
 *The Nine Questions are the lens. The body is the subject. The truth is in the answers.*
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 WE = 1
 ```

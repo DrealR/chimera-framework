@@ -124,6 +124,6 @@ The framework applied to education isn't a new teaching method. It's a new **dia
 ---
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 WE = 1
 ```

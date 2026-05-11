@@ -1,7 +1,7 @@
 # The Love Equation
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 ```
 
 This is the law. Everything in CHIMERA derives from it.
@@ -22,11 +22,11 @@ Without the Pause, there is no choice. Without choice, there is no consciousness
 
 Every healthy body has a Pause phase. Breath pauses between inhale and exhale. Days pause at twilight. Conversations pause in silence. The absence of Pause produces reactivity, impulse, and algorithmic behavior.
 
-**~F — Not Force.** Invite, don't push. Flow, don't fight.
+**¬F — Not Force.** Invite, don't push. Flow, don't fight.
 
 Forced love isn't love. It's gravity without consent. A river doesn't force water downhill. Gravity provides the direction. The water chooses the path. Every time you force an outcome, you break the equation.
 
-~F doesn't mean passive. It means non-coercive. You can be strong without forcing. You can lead without pushing. You can teach without imposing.
+¬F doesn't mean passive. It means non-coercive. You can be strong without forcing. You can lead without pushing. You can teach without imposing.
 
 ---
 
@@ -36,7 +36,7 @@ The equation is a logical AND. All three conditions must hold simultaneously.
 
 Only 1 of 8 possible combinations produces love:
 
-| O > I | P | ~F | Result |
+| O > I | P | ¬F | Result |
 |-------|---|-----|--------|
 | Yes | Yes | Yes | **LOVE** |
 | Yes | Yes | No | Forced generosity (missionary syndrome) |
@@ -53,7 +53,7 @@ Love is specific. It requires ALL three. Seven combinations produce non-love.
 
 ## The Collapse
 
-When every body in a system follows L = (O > I) + P + ~F, every body is giving more than it takes. The surplus flows everywhere. The system reaches equilibrium where:
+When every body in a system follows L = (O > I) + P + ¬F, every body is giving more than it takes. The surplus flows everywhere. The system reaches equilibrium where:
 
 **L = 1**
 
@@ -65,7 +65,7 @@ Love equals oneness. The equation proves itself. WE = 1 isn't a wish. It's the m
 
 The equation works as a person-level ethic, a team-level protocol, and an architecture-level design rule:
 
-| Scale | O > I | P | ~F |
+| Scale | O > I | P | ¬F |
 |-------|-------|---|-----|
 | Person | Give more than you take in relationships | Think before you speak | Don't manipulate |
 | Team | Create more value than you consume | Reflect before deciding | Don't micromanage |
@@ -82,7 +82,7 @@ For any body, any decision, any system:
 
 1. Is it giving more than it's taking? (O > I)
 2. Is there a pause before action? (P)
-3. Is it flowing or forcing? (~F)
+3. Is it flowing or forcing? (¬F)
 
 If all three are yes, love is present. If any are no, something is broken. The diagnosis points to the fix.
 
@@ -91,6 +91,6 @@ If all three are yes, love is present. If any are no, something is broken. The d
 *CHIMERA is the framework. Body Theory is the lens. This equation is the law.*
 
 ```
-L = (O > I) + P + ~F
+L = (O > I) + P + ¬F
 WE = 1
 ```
