@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 154 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 163 books around it.
 
 ---
 
@@ -8452,11 +8452,161 @@ The overpowered capacity comes with structural cost. Bodies extending far into i
 
 We need cultural-framework substrate to calibrate for the conditions our extending capacity exposes us to. Wisdom traditions provide this. The framework continues this work in present-era vocabulary. The framework is structurally calibrated for bodies that extend into invisible-dimension substrate — providing root-substrate that allows the extending capacity to function without producing the pathologies that ungrounded extension produces. Same physics as the framework-as-ship articulation: the ship protects the body navigating conditions it was not evolved for. The framework protects the extending body navigating substrate-conditions its biology did not anticipate.
 
+---
+
+# BOOK CLV: DANCE AS UNIVERSAL SUBSTRATE-PHYSICS (How Bodies Coordinate Through Calibrated Meeting)
+
+## Part CDLXXIII: Dance as What Bodies Do When They Must Coordinate
+
+Dance is structurally how bodies in motion engage with other bodies in motion through calibrated meeting-points. Not just human social dance. The substrate-physics that operates whenever bodies must align their rhythm and position with other bodies' rhythm and position to produce desired outcomes. Basketball is dance — players coordinating with teammates, defenders, ball, and hoop through continuous calibrated meeting. Call of Duty combat is dance — bodies coordinating through movement-and-aim substrate with other bodies' positions. Conversation is dance — words meeting listeners' substrate-recognition at calibrated moments. Music is dance — instruments meeting each other's sound-substrate at calibrated rhythmic and harmonic points.
+
+The hula hoop meeting the body at the right moment in the rotation. The basketball meeting the hoop. The bullet meeting the target. The word meeting the listener's recognition. All are dance-physics manifesting through different specific configurations. The continuous calibration of the body to another body's motion is the substrate-skill that transfers across domains. Force in dance breaks alignment because force operates from the dancer's intention without integration with the other body's motion. Flow operates from substrate-recognition of the other body's motion combined with the dancer's own intention. Prime-articulation alone produces forcing. Prime-articulation integrated with substrate-bearing produces flow.
+
+This connects to Observation Haki in One Piece directly. Observation Haki is structurally substrate-detection capacity for reading other bodies' motion-and-intention. Skilled fighters predict where opponents will be because they read substrate-physics underneath surface-action. Same physics as skilled dancers predicting their partner's motion. Same physics as skilled basketball players reading defenders. Carriers developing dance-substrate develop substrate-recognition capacity that transfers to any domain requiring alignment with other bodies.
+
+## Part CDLXXIV: The Prime as Meeting-Point Where Direction Changes
+
+The prime is not just structural ideal that exists abstractly. The prime is the actual meeting-point where bodies encounter each other and direction-change occurs. In basketball, the ball meeting the hoop or the backboard is the prime-meeting. In Call of Duty, the bullet meeting the target is the prime-meeting. In conversation, the word meeting the listener's substrate-recognition is the prime-meeting. Composite is the substrate-bearing between prime-meetings. The trajectory of the ball between leaving the hand and hitting the hoop is composite-flight. The hand-release and the hoop-meeting are primes.
+
+When bodies anchor in movement-dimension and transfer energy through jump into shot-dimension, they operate spring-physics — compress energy in anchor, release into vertical, gravity returns to anchor. The airborne body has access to focused prime-articulation but limited time-window before gravity ends the action-window. Anchored configuration provides sustained substrate-bearing across time. Airborne configuration provides brief focused prime-articulation. Both are valid. Mastery is using each when the moment requires it. The guitar instructor giving only so long to find the note before continuity breaks. The basketball shot window closing as the defender approaches. The scope held only so long before stability degrades. All are airborne windows with limited duration that skilled carriers act within before the window closes.
+
+---
+
+# BOOK CLVI: RHYTHM-SUBSTRATE AS LIFE-INFRASTRUCTURE (What Rhythm Produces at Substrate Level)
+
+## Part CDLXXV: Rhythm as Stasis-Platform for Composite Action
+
+Hula-hooping establishes rhythm-stasis that allows the body to operate freely within the rhythm. Hands go up, walking around, looking like Superman — all became possible because the rhythm-stasis was maintained. The rhythm itself becomes the stable substrate from which other action operates. Rhythm is not just temporal pattern. Rhythm is substrate-stasis maintained through continuous bearing-action. Once the rhythm is established, the body can act freely within it because the substrate the actions operate from is stable.
+
+A spinning top maintains stability that a stationary top cannot maintain. The rotation produces gyroscopic stasis that resists destabilization. Same physics as the hula-hoop. Same physics as Earth rotating on its axis to maintain its configuration. Same physics as electrons orbiting nuclei to maintain atomic configurations. Rotation-substrate at multiple scales produces stasis that allows other operations. Bodies that establish rhythm-substrate gain stasis-platform from which other actions operate freely. Musicians establishing tempo gain platform for melodic and harmonic improvisation. Athletes establishing rhythm gain platform for skill expression. Carriers establishing daily-rhythm substrate gain platform for substrate-deep work. The rhythm itself is the substrate the work operates from. Bodies without rhythm-substrate must dedicate conscious attention to maintaining basic stability. Bodies with rhythm-substrate can dedicate that attention to substrate-deep work instead.
+
+## Part CDLXXVI: Rhythm as Life-Substrate and Vibration as Discontinuity
+
+Heart-rhythm distinguishes life from death at biological scale. Bodies that maintain heart-rhythm are alive. Bodies whose heart-rhythm has stopped are clinically dead. The rhythm is structurally what distinguishes life-substrate from death-substrate. Same physics across scales. Civilizational rhythm. Cosmic rhythm. Where rhythm operates, life-substrate operates. Where rhythm has stopped, death-substrate has occurred.
+
+Vibration is accelerated rhythm-substrate. Bodies operating at high vibration-substrate maintain configurations that lower-vibration bodies cannot maintain. Same physics as Flash maintaining configuration through a bullet-wound by vibrating at speeds that essentially paused time for the wound. Bodies operating at substantially different rhythm-substrate from surrounding substrate become functionally discontinuous from it — same physics as Flash phasing through objects. Carriers operating from substrate-deep rhythm-substrate phase through algorithmic-substrate that destabilizes surface-bound carriers. Not because the algorithmic-substrate disappears. Because the carrier's rhythm-substrate is so substantially different that the substrate-relationship has changed. The rhythm-substrate determines what substrate-relationships the body operates from.
+
+---
+
+# BOOK CLVII: THE VISIBLE-ROOTS PATHOLOGY (Why Material Identity Produces Structural Vulnerability)
+
+## Part CDLXXVII: Materialism as Root-Exposure Vulnerability
+
+Tying identity to material possessions makes invisible-dimension roots become visible-dimension roots. Same physics as tree roots being more visible than human roots. Once roots are visible, they can be attacked, manipulated, destroyed. Bodies whose roots are in invisible-dimension — relationships, substrate-recognition, inherited wisdom, character, substrate-deep work — operate from substantial substrate-stability because their substrate cannot be easily disrupted. The substrate is invisible. Hard to attack. Hard to manipulate.
+
+Bodies whose roots are in visible-dimension — material possessions, social status, image, achievements as identity-anchor — operate from fragile substrate-stability because their substrate is exposed. Any market disruption damages material-rooted bodies. Any reputation attack damages status-rooted bodies. The visibility itself produces the vulnerability. Algorithmic systems are precisely calibrated to expose roots, extract from exposed roots, and manipulate exposed roots. Bodies whose roots are in social-media-visibility and material-consumption-display are operating with maximally-exposed roots in precisely the substrate where extraction-systems are most sophisticated.
+
+Wisdom-traditions across cultures have articulated voluntary simplicity — not anti-pleasure but substrate-deep recognition that maximum-baseline substrate produces specific pathologies that minimum-baseline substrate does not produce. Bodies operating from gratitude-substrate experience substantively more from each substrate-encounter than bodies operating from saturation-substrate. Carriers should maintain substrate-baseline at levels that preserve substrate-recognition capacity. Constraint produces substrate-development that abundance does not produce. The cook with limited ingredients must develop substrate-deep skill that the cook with abundant ingredients does not need to develop. Same physics across domains.
+
+## Part CDLXXVIII: Childhood-Substrate-Development as Critical Infrastructure
+
+Childhood is when substrate-development happens at maximum rate. Children's substrate-extending bodies are forming. What substrate they encounter during the developmental period substantially shapes what substrate-extending body they will operate from for the rest of their substrate-cycle. Bodies that were never allowed to develop substrate-deep play-substrate, friendship-substrate, exploration-substrate during childhood are missing root-substrate that adult bodies operate from. When children are trained into extraction-orientation before they have developed substrate-deep play-substrate, the extraction-orientation becomes their default substrate-orientation. They never developed the alternative.
+
+Kids being trained to hold Pokemon packs unopened for resale value is structural extraction-pathology operating at the most vulnerable developmental stage. Michael Jackson's childhood was stripped from him for performance-extraction purposes — the substrate-deep pathology this produced was visible across his entire adult life. Same physics now operating at population-scale through parents extracting from children's experiences for social-media-content and through markets training children to relate to toys through monetary-value rather than play-substrate. Civilizational substrate-quality depends on protecting childhood substrate-development. Civilizations that protect this development produce subsequent generations capable of substrate-deep work. Civilizations that allow extraction from this development produce subsequent generations operating from substrate-shallow conditions that cannot sustain civilizational substrate.
+
+Children who cannot read books are children whose substrate-extending bodies are not developing reading-substrate. Reading is substrate-development that produces specific kinds of substrate-recognition capacity operating from sustained attention to text-substrate. Substrate-development is path-dependent — reading-substrate developed during childhood produces substantively different adult capacity than reading-substrate developed in adulthood. Bodies without reading-substrate cannot load the substrate-inheritance that previous generations transmitted through text. The framework requires reading-substrate to load substantively. Children's honest reports about what is forming them are substrate-detection data. When children consistently report that screen-time is forming them, the report should be recognized as substrate-truth about what is actually happening.
+
+---
+
+# BOOK CLVIII: SUBSTRATE-LOOPS AROUND THE CARRIER (The Avatar-State Configuration)
+
+## Part CDLXXIX: Each Substrate-Domain as Loop Rotating Around the Body
+
+Each substrate-domain where the carrier has developed roots becomes a loop that rotates around the substrate-extending body. The carrier with one loop has rhythm-substrate in one domain. The carrier with multiple loops has rhythm-substrate in multiple domains operating simultaneously. Not loops in front of the carrier or behind the carrier. Loops around the carrier in three-dimensional configuration that the carrier operates from at the center.
+
+The fundamental prime of each substrate is the loop that rotates — not every detail of the substrate-domain but the fundamental rhythm-substrate that operates as the core of substrate-recognition in that domain. For basketball, the dribble-to-shot rhythm-substrate that Curry has mastered. For Call of Duty, the movement-to-quickscope rhythm-substrate. For guitar, the strum-and-fret rhythm-substrate. For chess, the position-and-tactics rhythm-substrate. Each domain has fundamental rhythm-substrate that operates as the core loop. Carriers who have developed substrate-roots deep enough to operate from the fundamental rhythm-substrate have access to substrate-freedom within the domain. The loop rotates around them. They operate from the center of the loop, free to engage anything within the domain. The roots developed in each substrate-domain become operational substrate the carrier can draw on at any moment. The loops are real. They are not visible in surface-perception but they are structural reality at substrate level.
+
+## Part CDLXXX: The Avatar-State as Multi-Loop Configuration
+
+Aang in Avatar-State has substrate-recognition across all four element-substrates simultaneously. The elements rotate around him as loops he operates from at the center. Same configuration as the carrier surrounded by many loops. Carriers who have developed substrate-mastery across multiple domains operate from Avatar-State-equivalent configuration in their respective domains. The carrier at the center. The substrate-domains as loops rotating around the carrier. The carrier operating from substrate-freedom because all the substrate-domains' rhythm-substrate is operational substrate they can call on.
+
+The Avatar in the show is overpowered not because of magical capacity beyond ordinary bodies but because of substrate-physics operating from substrate-mastery across multiple substrate-domains simultaneously. Same physics as masters across cultures throughout history who developed substrate-mastery across multiple domains. All for One in My Hero Academia operates similar physics — the substrate-quirks of previous holders are accessible to the current holder because the substrate-extending body of the lineage is integrated. The smiling figure with single loop above is signal that substrate-recognition has occurred. Same physics as Luffy laughing in Gear 5. Same physics as the Buddha smiling. The substrate-recognition produces the joy that surface-bound bodies cannot access because they have not developed the substrate-roots that the joy operates from. Each domain the carrier develops substrate-roots in adds a loop to the configuration. Eventually the loops integrate into substrate-extending body that operates from substrate-freedom across all of them simultaneously.
+
+---
+
+# BOOK CLIX: FLIGHT AS SUBSTRATE-FREEDOM (What Mastery Produces Across Domains)
+
+## Part CDLXXXI: Substrate-Freedom Within Domains Where Roots Have Been Developed
+
+Flight is not just physical-elevation off ground. Flight is substrate-freedom within a domain where the body has developed enough roots to operate from substrate-stability that allows free movement. Birds fly because they have developed substrate-relationship with air-pressure-substrate — their bodies are configured for that substrate-relationship. Bodies without that substrate-relationship cannot fly even with massive effort. Same physics applies to mastery across domains. Carriers fly within domains where they have developed substrate-relationship with the domain's substrate.
+
+The body feels like flying when hula-hooping because it has developed substrate-relationship with hula-hooping-substrate. Same physics as Gear 5 Luffy who has developed substrate-relationship with the substrate-physics of reality itself — Luffy flies in the most extended sense because his substrate-recognition is so developed that he operates from substrate-freedom across all substrate-domains simultaneously. Wisdom-traditions across cultures articulate transcendence as substrate-freedom within substrate-conditions that develops through substrate-deep root-development — not escape from substrate-conditions. Carriers develop substrate-freedom within any domain where they develop substrate-roots. Same physics across guitar, basketball, hula-hooping, framework-articulation, conversation. The roots produce the freedom. Without the roots, the freedom does not operate.
+
+## Part CDLXXXII: Deep Roots Produce Flight
+
+To fly, the body must first develop deep roots. The trees that grow tallest have the deepest root systems. The bodies that fly most freely have the most extensive substrate-roots. Surface-attempts at freedom without developing substrate-roots have nothing to fly from — same physics as a body attempting to jump from no ground. Without ground-substrate-relationship, jumping does not produce flight. It produces falling.
+
+Buddhist tradition emphasizing meditation-substrate development before liberation. Christian tradition emphasizing virtue-substrate development before spiritual-freedom. Stoic tradition emphasizing discipline-substrate development before equanimity. Same physics across cultures. The roots produce the freedom. Without the roots, the freedom does not operate. The Polar Express boy must develop substrate-recognition through encounters that produce substrate-roots — only after developing the substrate-roots does the bell ring for him. Deep substrate-development in domains the carrier cares about produces substrate-freedom that surface-engagement cannot produce. Cross-domain mastery operates because bodies that have developed substrate-recognition in one domain encounter the same substrate-physics manifesting through different surface-mechanics in new domains and recognize it. The recognition allows root-development in the new domain at substantially faster rate. Carriers with substrate-recognition from chess, coding, framework-articulation, years of substrate-deep work across multiple domains — when they encounter new domains, the substrate-recognition capacity already developed makes those domains substantially more accessible.
+
+---
+
+# BOOK CLX: TWO PRIMES MAKING ONE BODY (The Temporal Bracketing Principle)
+
+## Part CDLXXXIII: Night-and-Day, Birth-and-Death as Bracket-Primes
+
+Night and day are two bodies that make one body — the day-cycle. Winter and summer are two bodies that make one body — the year-cycle. Birth and death are two bodies that make one body — the life-cycle. Waking and sleeping are two bodies that make one body — the diurnal-rhythm cycle. This is structurally how pair-physics operates at temporal scale. The two primes establish the bracketing-substrate. The composite-substrate-flow between the two primes is where actual life-experience happens. Birth and death are primes. Life is the composite-substrate-flow between them.
+
+Every bracketed body operates from two-primes-making-one-body configuration. The two primes establish the bracketing. The composite-substrate-flow between them is where the body's substantive existence occurs. Carriers operating from substrate-recognition understand that the primes give meaning to the composite-flow but the composite-flow is where the actual living happens. Wisdom-traditions across cultures emphasize the in-between as where life actually occurs — not the moments of arrival or departure but the journey between them.
+
+## Part CDLXXXIV: Composite-Flow Between Primes as Where Living Happens
+
+Between primes, the body operates from composite-substrate-freedom that the primes themselves do not contain. The primes are constrained. They are the meeting-points of substrate-physics. The composite-flow between primes is where the body has substrate-freedom to operate. Free-fall between primes is what makes life substantive. Bodies that try to hold the primes — extend life indefinitely, force completion of cycles, prevent the natural movement between primes — violate substrate-physics. Bodies that operate from substrate-freedom within the composite-flow live the substantive life that the bracketing-substrate supports.
+
+The bilateral discipline between carriers operates from this physics. Each exchange operates as compression-release cycle that produces substrate-development neither carrier could produce alone. Compression-spring physics — dense material passed back and forth, each response expanding the compression into substrate-articulation that opens new substrate-territory. Same physics as the masculine-feminine reproductive pair-physics applied to substrate-deep collaborative work. The bilateral configuration is what produces the substrate-density. Single-body work produces substrate at slower rates because it lacks the compression-release pair-physics that bilateral work produces.
+
+---
+
+# BOOK CLXI: RHYTHM AS CIVILIZATIONAL MEDICINE (How Carriers Restore What Extraction Hollowed)
+
+## Part CDLXXXV: Oscillation-Restoration Between Separated Bodies
+
+Rhythm-restoration is structurally what restores connection between bodies that have been separated by extraction-pathology. The dead-body configurations — top and bottom separated by hollowed middle, bodies seeing each other as demons, two-bodies-where-one-body-should-be — all share the same substrate-pathology: the oscillation between them has stopped. The middle is not just a position. The middle is the oscillation-substrate that allows top and bottom to remain part of one body. When the oscillation operates, the top and bottom recognize themselves in each other because they are actually one body operating through pair-physics. When the oscillation stops, they become separated bodies that cannot see themselves in each other.
+
+The garden is the substrate-oscillation between the dimensions. The tower and the ground that the tower stands on are separate bodies. The garden is the substrate-oscillation that connects them through actual flow. Without the garden, the tower is isolated above and the ground is unconnected below. Carriers operating from substrate-recognition can read where other bodies' rhythms are off. They can perceive where the oscillation has stopped or fragmented. The recognition itself, articulated back to the body, helps the body recover the rhythm. Same physics as the mirror-function the framework articulates. Substrate-detection by one body, reflected accurately back, allows the other body to recognize what it could not perceive about itself.
+
+## Part CDLXXXVI: One Carrier's Rhythm-Recovery Propagating Through Networks
+
+The universal rhythm is always operating. Bodies become tone-deaf to it. One body recovering rhythm can help other bodies become aware of the rhythm that was always there. The substrate-physics operates whether bodies recognize it or not. Gravity operates whether bodies understand gravity or not. Rhythm operates whether bodies are conscious of rhythm or not. The substrate-physics is invariant. The recognition capacity in bodies is what varies. The carrier is not creating substrate-physics that was not there. The carrier is recognizing substrate-physics that was always operating and articulating it in ways that other bodies can become conscious of it. Same physics as the sun making things visible — the sun does not create the things, it illuminates what was already there. Gear 5 drums of liberation are the universal rhythm becoming audible to bodies that had been tone-deaf to it.
+
+Civilizations operating in extraction-pathology have stopped oscillating between their top and bottom configurations. Restoration at civilizational scale requires the same substrate-physics as restoration at individual scale — rhythm-restoration through bodies that can read substrate-physics and articulate it back. Christ bridging Pharisee-substrate and tax-collector-substrate. Buddha bridging prince-substrate and beggar-substrate. Coach Lamont bridging different students' substrate-positions through chess. Carriers in present conditions doing this work are structurally doing the same thing at different scale. Reading where civilizational rhythm is off. Articulating what bodies cannot perceive about their own configurations. Helping the oscillation restart by demonstrating the substrate-physics that operates underneath the visible separation.
+
+---
+
+# BOOK CLXII: MUSIC AS SUBSTRATE-TRANSMISSION INFRASTRUCTURE (Why Music Pierces the Veil)
+
+## Part CDLXXXVII: Music-Substrate Piercing the Veil Between Generations
+
+Music born from substrate-deep work can pierce the veil between life and death and call ancestral substrate forward into the present. The African-American spiritual-musical tradition continued wisdom-tradition substrate-transmission through music despite extraction-conditions designed to destroy every other transmission-infrastructure. The music carried substrate-inheritance across generations even when literacy-substrate, institutional-substrate, and cultural-substrate had been systematically dismantled.
+
+Sacred chants. Devotional songs. Ritual drumming. Hymns. All carry substrate-inheritance through embodied-rhythm-substrate that operates regardless of literacy-substrate or institutional-substrate conditions. Music-substrate is structurally one of the most resilient substrate-transmission infrastructures because it operates from embodied-rhythm-substrate that bodies can carry without external infrastructure. After breath-substrate — the most universally accessible substrate-domain because it requires nothing external — music-substrate may be the second most embodied transmission medium. Singing has the unique property of being available anywhere because the instrument is the body itself. The body breathes regardless of conditions. The carrier who has developed substrate-roots in breath-substrate can access rhythm-substrate, stasis-substrate, attention-substrate anywhere the body operates.
+
+## Part CDLXXXVIII: Belief-Substrate as Operational Reality
+
+Bodies that operate from belief in their zodiac-configuration shape themselves around the configuration. The behaviors mirror the configuration because the carrier has integrated the substrate-articulation into their substrate-extending body. Same physics as the placebo effect. Same physics as cultural-narrative integration. Same physics as framework-loading producing carriers who operate from framework-substrate. Belief-substrate becomes operational substrate the body operates from.
+
+This does not mean every belief-claim is objectively-true at cosmological-scale. It means belief-substrate integration produces operational reality at carrier-scale regardless of cosmological-truth-status of the underlying claims. Carriers should consciously choose which belief-substrate they integrate. Belief-substrate that operates from substrate-physics — framework-substrate, wisdom-tradition substrate — produces operational capacity that surface-belief-substrate does not produce. Belief-substrate that operates against substrate-physics produces operational distortion. Cross-cultural articulations of civilizational cycles — Aztec five-suns, One Piece three-worlds, Hindu yugas, Christian dispensations — all articulate same substrate-physics through different cultural configurations. Same source. Different instances. The framework reads this as substrate-physics producing similar articulations across independent cultural configurations. WE = 1 at the substrate-physics level.
+
+---
+
+# BOOK CLXIII: ATTENTION-SUBSTRATE AS FOUNDATIONAL INFRASTRUCTURE (The BeyondChess Articulation)
+
+## Part CDLXXXIX: Chess as Surface, Attention-Substrate as Actual Work
+
+Any domain produces substrate-development when the body sustains attention to it across sufficient time. Attention is the substrate-bearing capacity that allows substrate-roots to develop in any domain. Algorithmic-substrate disruption of attention-substrate is structurally the deepest damage because bodies that cannot sustain attention cannot develop substrate-roots in any domain. The attention-substrate is the foundational infrastructure. Without it, no other substrate-development can occur. Same physics as soil-substrate being required for any plant-substrate development. The soil must hold. Without holding-soil, nothing grows.
+
+The BeyondChess program is structurally not about teaching chess. The program is about restoring attention-substrate that algorithmic conditioning has damaged. Chess is the surface-domain through which the attention-substrate restoration happens. The kids develop attention-substrate by sustaining attention to chess long enough for the substrate-development to occur. The medium does not determine the substrate. The sustained attention determines the substrate. Same physics as wisdom-traditions across cultures that use specific practices — meditation, prayer, sustained-study, embodied-practice — as surfaces through which deeper substrate-development occurs. Attention-substrate developed through chess transfers to any other domain. The kids who develop attention-substrate through the chess program will be able to develop substrate-roots in school subjects, in relationships, in any work they pursue. The attention-substrate is foundational. Once developed, it operates across all domains the carrier engages with.
+
+## Part CDXC: The Program as Civilizational Substrate-Medicine
+
+The kids whose attention-substrate has been most damaged are structurally the kids the program should focus on. Not because they are easy to teach. Because the change in them when they develop attention-substrate is most visible and most transferable. Bodies that were substrate-underdeveloped change visibly when substrate-development occurs because the change is from low-baseline rather than from high-baseline. Wisdom-traditions across cultures served the bodies others had given up on. The healing in those bodies was visible-demonstration that substrate-physics is real and operational. The visible-demonstration then propagated the substrate-tradition to bodies that observed the change. Christ healing the bodies others rejected. Buddha teaching the rejected outcasts. Same physics as every substantive substrate-restoration tradition.
+
+The civilizational body is only as strong as its weakest substrate-position. Algorithmic-substrate conditioning has damaged attention-substrate at population scale. Programs that restore attention-substrate in the most damaged bodies produce substrate-restoration that compounds across the larger configuration. The whole body benefits when the weakest position is restored. The framework operates as bridging-infrastructure — articulating connections between substrate-domains the kids already attend to and substrate-domains they need to develop access to. Coach Lamont teaching chess through framework-vocabulary that connects to gaming-substrate and social-media-substrate the kids already attend to. The framework provides the bridges. The kids develop attention-substrate through chess. The attention-substrate transfers. The program serves as model for substrate-restoration in any context where bodies have been damaged by substrate-pathology — education, rehabilitation, mental-health, addiction-recovery. Same physics. Different domain-applications. Each kid restored becomes propagation-infrastructure for subsequent substrate-restoration. Authenticity propagates. Inauthenticity does not.
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and fifty-four books.
+One hundred and sixty-three books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8479,6 +8629,9 @@ Books CXXXIV through CXL: the three-world myth, tower and garden as dimensional 
 Books CXLI through CXLVIII: attention as finite migrating substrate, remake culture and substrate-mining, the cosmic worker, the covered-eyes archetype, middle-extraction and demon-readings, raising the dead as substrate-restoration, time as natural substrate-cycle, alignment as surface-substrate match.
 Books CXLIX through CLI: the 9-6 shadow-reflection physics, the physical body as shadow, sun and black hole as cosmic pair.
 Books CLII through CLIV: the 9-to-6 rotation as temporal passage, substrate-cycle completion, the overpowered human configuration.
+Books CLV through CLVII: dance as universal substrate-physics, rhythm-substrate as life-infrastructure, the visible-roots pathology.
+Books CLVIII through CLX: substrate-loops around the carrier, flight as substrate-freedom, two primes making one body.
+Books CLXI through CLXIII: rhythm as civilizational medicine, music as substrate-transmission infrastructure, attention-substrate as foundational infrastructure.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
