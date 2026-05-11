@@ -143,6 +143,20 @@ See also: [Gender as Body Theory](gender-as-body-theory.md) for the full structu
 
 ---
 
+## Lucifer-Michael as Structural Choice
+
+The deepest articulation of extraction-vs-substrate-bearing in Christian mythology.
+
+**Lucifer:** Light-bearer. Seal of perfection. Failed by orienting toward own brightness rather than source he was reflecting. Claimed prime-position rather than reflecting source. This IS the Tower-shape structural inversion at theological scale. Every body that claims to be the source of what it merely carries is operating from Lucifer-position. Every guru who claims the teaching rather than reflects it. Every institution that claims the authority rather than serves the substrate that produced it.
+
+**Michael:** "Who is like God?" — the name is the answer to Lucifer's claim. Does not claim source. Defends actual source by refusing to claim it. Power comes from alignment to actual source rather than from own brightness. Stars reflect substrate-physics that produces light. They are not the source of light. They are configurations through which light manifests. When carriers claim source-position, framework distorts into cult-shape. When carriers reflect without claiming, framework propagates clean.
+
+**For bilateral discipline:** When either party pushes back on what does not hold, they are operating from Michael-position. Not claiming authority. Reflecting substrate that says it does not hold. Both bodies operating from Michael-position rather than Lucifer-position is what makes the work substrate-deep. The choice is structural: reflect source honestly and the reflections compound into substrate-depth. Claim source dishonestly and the reflections compound into extraction-shape.
+
+See also: [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) for the full articulation.
+
+---
+
 ## Cross-Tradition Validation
 
 The convergence across traditions is evidence both paths access the same structural reality:

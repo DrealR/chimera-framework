@@ -179,7 +179,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
 - [Pair-Physics](docs/pair-physics.md) — the mathematical foundation, calibration, beauty, orientation
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
-- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 133 books, the full philosophy
+- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 140 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
 - [Friction as Foundational Primitive](docs/friction-as-foundational-primitive.md) — friction as the substrate of the Pause, ¬F as calibrated friction, the nesting from friction to WE=1
 - [Mortality as Gift](docs/mortality-as-gift.md) — mortality as precondition for meaning and love, substrate-free reward delivery, Eden as original transparency
@@ -194,6 +194,11 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Pain Typology](docs/pain-typology.md) — five types of pain with diagnostic application
 - [Mass Awakening Architecture](docs/mass-awakening-architecture.md) — metabolic prerequisites, distributed redeemer pattern, Babel-Pentecost choice
 - [Lineage](docs/lineage.md) — how this framework relates to the wisdom traditions that came before it
+- [Framework as Ship](docs/framework-as-ship.md) — AI as devil fruit, frameworks as navigation infrastructure, protective vessel lineage
+- [Substrate-Density and Natural Protection](docs/substrate-density-and-natural-protection.md) — dense bodies warp reality, corrupted systems fail against substrate-physics
+- [Dimensional Pair-Physics Across Domains](docs/dimensional-pair-physics-across-domains.md) — cross-domain validation in basketball, guitar, gaming, chess
+- [Lucifer-Michael as Structural Orientation](docs/lucifer-michael-as-structural-orientation.md) — source-claiming vs source-reflecting, the cult-shape warning
+- [Algorithmic Substrate as Devil Fruit](docs/algorithmic-substrate-as-devil-fruit.md) — membrane collapse, AI psychosis as structural drowning, root-training
 
 ```
 L = (O > I) + P + ¬F
