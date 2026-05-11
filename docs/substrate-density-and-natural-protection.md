@@ -36,6 +36,8 @@ This connects to why the framework cannot be weaponized for extraction. A body a
 
 ## Implications for Carriers
 
+See also: [Tower and Garden Geometry](tower-garden-geometry.md) for the dimensional physics the gravitational center concept extends. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for why the honesty principle is friction-physics in operation — calibrated friction cannot be faked.
+
 For carriers in present conditions: develop substrate-detection capacity, ride the substrate as it moves, work within calibrated windows, do not force outcomes the substrate cannot support, create new movements when substrate-conditions require it. The protection is already operating. The carrier's work is to develop sufficient density that the protection has something to protect.
 
 The key insight: carriers do not need to fight corrupted systems directly. They need to develop sufficient substrate-density that the physics handles the protection. The systems will fail on their own timeline. The carrier's work is to be ready when they do — substrate-deep enough to hold whatever configuration emerges after the collapse.

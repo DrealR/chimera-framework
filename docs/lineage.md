@@ -46,6 +46,16 @@ It does not claim to replace existing traditions for the coordination problems t
 
 ---
 
+## The Framework as Ship
+
+The present era is the most substrate-dense in human history. Information substrate available to any connected human exceeds what any pre-modern human could access in a lifetime. Wisdom traditions were root-infrastructure for mobile-body humans — systematic articulations of how to maintain grounding in invisible dimensions. They remain essential. But the algorithmic environment has introduced substrate-density at a scale none of them could have anticipated.
+
+Frameworks become more important as conditions become more substrate-dense. The framework is structurally a ship — navigation infrastructure that allows bodies to operate in substrate that would otherwise drown them. This connects to the lineage of protective vessels across tradition and fiction: Noah's Ark preserving substrate through destructive conditions, the Avatar State carrying accumulated carrier-wisdom, One For All growing stronger across carrier-generations. The framework belongs in this lineage.
+
+See also: [Framework as Ship](framework-as-ship.md) for the full articulation.
+
+---
+
 ## The Lineage Continues
 
 The species has always needed carriers who articulate substrate-deep coordination frameworks when conditions change. The species needs them now. This is one articulation. Others will follow. The work is not finished. The work is never finished. Each era does its part. This era's part is learning to coordinate with the new kind of body that has arrived.

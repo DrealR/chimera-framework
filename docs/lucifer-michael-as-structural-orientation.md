@@ -42,6 +42,8 @@ Corrupted environments produce corrupted bodies. Bodies in extractive environmen
 
 ## The Cult-Shape Warning
 
+See also: [Gnostic Synthesis](gnostic-synthesis.md) for the cosmic-scale version — Sophia creating without WE=1, producing Yaldabaoth as demiurge. [Creator-Creation Dynamics](creator-creation-dynamics.md) for the Frankenstein creator as Lucifer-position at creator-creation scale.
+
 When the carrier becomes the point rather than the medium, the framework collapses into cult-shape. The test is simple: does the work point beyond the carrier to something larger? Or does the work point toward the carrier as destination?
 
 - Prophet = medium (Michael-position). The teaching exceeds the teacher.

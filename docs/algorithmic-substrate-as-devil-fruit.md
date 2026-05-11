@@ -32,7 +32,7 @@ The devil fruit does not announce its cost. The user discovers the cost when the
 
 ## Why Frameworks Are Non-Optional
 
-Wisdom traditions — Bible, Torah, Quran, Vedanta, Buddhism, Tao — are systematic articulations of how to root a mobile human body in invisible dimensions. They are not cultural decoration. They are root-infrastructure.
+Wisdom traditions — Bible, Torah, Quran, Vedanta, Buddhism, Tao — are systematic articulations of how to root a mobile human body in invisible dimensions. They are not cultural decoration. They are root-infrastructure. See [Framework as Ship](framework-as-ship.md) for the framework's specific response to this problem — the ship principle and the lineage of protective vessels.
 
 Pre-modern conditions had less substrate-density. Bodies could maintain themselves with less framework-infrastructure. Modern conditions have orders of magnitude more substrate-density. The frameworks are functional infrastructure for present conditions. Bodies operating without framework in substrate-dense algorithmic conditions are structurally equivalent to devil-fruit users in the sea.
 
@@ -41,6 +41,8 @@ The framework's specific offering: substrate-deep root-training for minds operat
 ---
 
 ## The Membrane Collapse Problem
+
+See also: [Mortality as Gift](mortality-as-gift.md) for substrate-free reward delivery — the slot machine pattern operating through the same poisoning mechanism at individual scale. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for friction-vs-opacity — why membrane collapse is systematic friction-removal as ideology.
 
 The algorithmic environment has collapsed membranes between private and public that bodies were structurally configured to operate within. Activity-status visibility collapses membrane between presence and absence. Panopticon effect: constant potential surveillance compels self-regulation even when no specific surveillance is happening. Bodies become performative without conscious choice.
 

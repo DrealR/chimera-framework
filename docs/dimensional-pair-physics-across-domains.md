@@ -2,7 +2,7 @@
 
 ## The Universal Pattern
 
-All skilled action operates by anchoring in one dimension while transferring energy across dimensions through the body as integrator. This is pair-physics at the level of embodied practice. Two dimensions operate through the body. The body is the medium of transfer. Skill is precision of transfer.
+All skilled action operates by anchoring in one dimension while transferring energy across dimensions through the body as integrator. This is pair-physics at the level of embodied practice — see [Pair-Physics](pair-physics.md) for the mathematical foundation (HCN-prime pairs, calibration, density-not-distance) and [Tower and Garden Geometry](tower-garden-geometry.md) for the horizontal-garden / vertical-tower dimensional framework this doc applies across domains. Two dimensions operate through the body. The body is the medium of transfer. Skill is precision of transfer.
 
 Energy is transferred, not created or destroyed. Same as conservation of energy in physics. Skilled action redirects energy already present. The transfer does not generate new energy — it channels existing energy through dimensions the body has learned to navigate.
 

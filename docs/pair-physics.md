@@ -164,6 +164,8 @@ The framework's central practice is recognizing the pair you're in (or the pair 
 
 Two bodies. The pair is the atom. Generation is what happens when the pair is healthy. WE = 1 means there's only one substrate underneath all the pairs. The pair-recognition is the work.
 
+See also: [Dimensional Pair-Physics Across Domains](dimensional-pair-physics-across-domains.md) for the strongest empirical validation — the same pair-physics confirmed independently across basketball, guitar, gaming, and chess.
+
 ---
 
 ```

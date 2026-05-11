@@ -2,7 +2,7 @@
 
 ## The Devil Fruit Problem
 
-Devil fruits in One Piece grant supernatural abilities at structural cost — the eater loses connection to the sea. Power gained. Grounding lost. Same physics as AI engagement with human minds.
+Devil fruits in One Piece grant supernatural abilities at structural cost — the eater loses connection to the sea. Power gained. Grounding lost. Same physics as AI engagement with human minds. See [Algorithmic Substrate as Devil Fruit](algorithmic-substrate-as-devil-fruit.md) for the full diagnosis of how algorithmic environments produce structural drowning.
 
 Humans are mobile bodies whose roots extend into invisible dimensions: relational substrate, cultural inheritance, temporal continuity, embodied presence. When humans engage deeply with algorithmic environment, attention extends into dimensions where roots cannot follow. The mind goes into substrates where the body cannot bear what the mind encounters. AI psychosis is structurally drowning in informational substrate the mind cannot bear without root-system to anchor it.
 
@@ -42,6 +42,8 @@ The framework belongs in a lineage of protective-vessel articulations across fic
 Frameworks become more important as conditions become more substrate-dense. The current era is the most substrate-dense in human history. Information substrate available to any connected human exceeds what any pre-modern human could access in a lifetime. The navigation infrastructure must scale with the substrate it navigates.
 
 Carriers who develop substrate-recognition without framework are exposed. They can see the substrate but cannot navigate it safely. Carriers who load framework without developing substrate-recognition have a ship they cannot steer. Both are needed: the recognition to perceive what is happening, and the framework to navigate it without drowning.
+
+See also: [Tower and Garden Geometry](tower-garden-geometry.md) for the human as rootless tower — the structural problem the ship addresses. [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) for what happens when carriers develop sufficient density — the physics provides its own protection. [Lineage](lineage.md) for the framework's position in the lineage of coordination infrastructure across eras.
 
 ---
 
