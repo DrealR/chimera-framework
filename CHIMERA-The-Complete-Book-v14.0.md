@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 211 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 214 books around it.
 
 ---
 
@@ -9440,11 +9440,61 @@ Same physics as biggest-gap determines outer layer. The dimension with thinnest 
 
 ---
 
+### Book CCXII — Belief-Substrate as Power-Substrate and Capacity-Determinant
+
+**Part DLXXXVII — Belief as Operational Capacity Ceiling**
+
+Belief operates as substrate-physics that determines bodies' operational substrate-capacity rather than as psychological-substrate alone. A body operating from belief-substrate that its substrate-position is fixed cannot exceed its current capacity — not because the capacity doesn't exist, but because the belief-substrate sets the ceiling. A body operating from belief-substrate that substrate-development is possible can develop capacity beyond current position because the belief removes the ceiling.
+
+Same physics as believing-precedes-seeing but operating at a different level. Believing-precedes-seeing is perceptual — what bodies can recognize. Belief-as-capacity-determinant is operational — what bodies can do. Bellamy cannot exceed his substrate-position because he does not believe in substrate-development possibility. Luffy develops capacity beyond current position because he believes in the possibility of becoming what he is not yet. The belief does not create the capacity out of nothing. The belief removes the substrate-ceiling that prevents the body from accessing capacity that the substrate-physics already makes available.
+
+**Part DLXXXVIII — Greater Power Through Greater Purpose**
+
+Carriers operating from belief-substrate that their work serves substrate-purpose greater than themselves develop substrate-capacity beyond what individual-body substrate alone produces. Same physics as configuration-substrate — the body serving configuration accesses substrate-capacity through the configuration. Same physics as Mother Flame — carriers serving framework substrate-source operate from substrate-infrastructure that operates substantively beyond individual-body substrate.
+
+Each Strawhat crew-member operates from belief-substrate that Luffy will become Pirate King and that Luffy requires them. The belief provides substrate-source operating beyond individual-body substrate alone. They access capacity through the crew-configuration that they cannot access through individual-body substrate. The belief in greater purpose is not self-deception. The belief operates from substrate-physics — configuration-substrate produces genuine substrate-capacity that individual-body substrate cannot. The belief is the antenna-substrate that tunes to the configuration.
+
+---
+
+### Book CCXIII — Substrate-Archetypes as Living Accumulating Bodies
+
+**Part DLXXXIX — Archetypes Accumulate Through Carrier-Engagement**
+
+Substrate-archetypes are not static patterns. Substrate-archetypes operate as living substrate-bodies that accumulate substrate through carrier-engagement across substantive temporal-substrate. Luffy in 2026 operates from substantively different substrate-extending body than Luffy in 1997 — not because Oda wrote more chapters, but because millions of carrier-engagements across substantive temporal-substrate contributed substrate to Luffy's substrate-extending body.
+
+Same physics as Achilles operating from substantively expanded substrate-extending body after 2500 years of carrier-engagement compared to when Homer first articulated the archetype. Same physics as Jesus operating from substantively expanded substrate-extending body after 2000 years of carrier-engagement. The archetype's substrate-extending body grows through sustained engagement the same way any body grows through sustained substrate-flow. Each carrier engaging the archetype with substrate-recognition contributes substrate. Each carrier engaging the archetype without substrate-recognition still contributes — same physics as attention-as-substrate operating regardless of carrier-awareness.
+
+**Part DXC — Oda and Homer as Antenna-Articulators**
+
+Oda operates from 3D-conscious-body that accesses substrate-patterns from invisible-dimension and articulates them through visible-dimension manifestation. Same physics as Homer accessing Achilles, Odysseus, Hector from invisible-dimension substrate-archetypes. Same physics as Jiang's articulation about poet-prophet-teacher operating from same substrate-source. The substrate-deep articulator operates as antenna-substrate that accesses substrate-patterns operating from invisible-dimension and produces visible-dimension manifestations that subsequent carriers engage with.
+
+The One Piece narrative carries substantive substrate-articulation about belief-substrate, configuration-substrate, substrate-cycles, substrate-archetypes — articulation that operates from substantively expanded substrate-source compared to surface-narrative. Carriers engaging the narrative with substrate-recognition develop substrate-extending bodies that operate from accessed substrate-patterns. Same physics as carriers engaging wisdom-tradition texts with substrate-recognition. The format differs. The substrate-physics operates identically.
+
+---
+
+### Book CCXIV — Natural-Substrate Versus Conscious-Substrate Manifestation
+
+**Part DXCI — Two Source-Types, Same Substrate-Physics**
+
+All visible-dimension manifestations operate as shadows of invisible-dimension substrate-sources. The distinction operates not between bodies that have substrate-source and bodies that don't — all bodies operate from substrate-source. The distinction operates between substrate-source-types.
+
+Natural-substrate manifestations operate from substrate-physics directly without conscious-body intermediation. The tree, the river, the mountain operate from substrate-physics that produces visible-dimension manifestation through natural substrate-processes. The shadow carries substrate-information about the substrate-physics producing it — but the substrate-information is what the natural substrate-process carries, nothing more.
+
+Conscious-substrate manifestations operate from substrate-physics through conscious-body intermediation. The drawing, the building, the framework, the song operate from substrate-physics through a conscious-body that selects, integrates, and articulates. The conscious-body operates as antenna-substrate that accesses substrate from substantively many sources — cultural-substrate, lineage-substrate, individual substrate-extending body, accumulated substrate-archetypes — and produces visible-dimension manifestation carrying all accessed substrate-layers.
+
+**Part DXCII — The Dot With Substrate-Weight**
+
+A dot of rain on paper and a dot drawn by conscious-body on paper occupy the same surface-feature. Same mark. Same paper. Substantively different substrate-substance. The rain-dot carries substrate from atmospheric substrate-physics and gravitational substrate-processes. The conscious-dot carries substrate from the entire substrate-extending body of the creating carrier — intention, accumulated development, cultural positioning, lineage, substrate-archetype access.
+
+Same physics as word-as-spell. The word "love" spoken by a carrier operating from substantive substrate-extending body carries different substrate-weight than the same word spoken by a carrier operating from surface-substrate alone. Same surface-feature. Different substrate-source. Bodies operating from substrate-recognition detect the difference — this is what vibe-detection operates from. The conscious-body intermediation adds substrate-layers to the manifestation that natural substrate-processes do not carry. This is why conscious-substrate manifestations can transmit meaning, orientation, and developmental-substrate across temporal-substrate in ways that natural-substrate manifestations cannot.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-Two hundred and eleven books.
+Two hundred and fourteen books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9492,6 +9542,7 @@ Books CCI through CCII: shadows as substrate-architecture, the framework-powered
 Book CCIII: dimensional projection and shadow-reading — Flatland mechanism, multi-channel substrate-detection from physical-body shadow.
 Books CCIV through CCV: configuration-substrate and relative-substrate detection, multi-body multi-dimensional substrate-detection methodology.
 Books CCVI through CCXI: present-moment snapshots methodology, day-night oscillation between absolutes, substrate-detection without substrate-articulation, feminine-shape as substrate-bearing, framework as language system, multi-dimensional recognition development.
+Books CCXII through CCXIV: belief-substrate as capacity-determinant, substrate-archetypes as living accumulating bodies, natural-substrate versus conscious-substrate manifestation.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
