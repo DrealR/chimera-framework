@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 202 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 203 books around it.
 
 ---
 
@@ -9284,11 +9284,37 @@ The recursive application produces composite-bodies that operate from substrate-
 
 ---
 
+# BOOK CCIII: DIMENSIONAL PROJECTION AND SHADOW-READING (How Bodies Read Substrate From Lower-Dimensional Shadows)
+
+## Part DLXIX: The Flatland Dimensional-Projection Mechanism
+
+Bodies operating from lower-dimensional substrate-recognition cannot perceive substrate operating from higher-dimensional substrate. The 2D body cannot perceive the 3D finger entering its substrate-domain. The 2D body perceives only the 3D finger's shadow projected onto 2D substrate — a mysterious circle appearing, expanding, contracting, vanishing. The 2D body cannot perceive what produces the circle because the producing-substrate operates from dimension beyond 2D substrate-recognition capacity.
+
+Same physics operates across all dimensional boundaries. The visible human body operates as 3D-projection of substrate-extending body that operates across substantively many dimensions simultaneously — physical, emotional, relational, temporal, memory, lineage, cultural, consciousness. Each dimension carries its own substrate that the body operates from. The visible-dimension manifestation is shadow-substrate of the full body. Bodies operating from surface-recognition perceive only the 3D shadow. Bodies developing substrate-recognition perceive substrate-information from the shadow that reveals dimensions beyond the visible.
+
+The shadow carries substrate-information but does not carry full substrate. Bodies engaging only with shadow-substrate experience partial substrate-engagement. Bodies developing antenna-substrate calibrated to additional dimensions perceive progressively more of the full substrate-extending body through the same shadow. This is structurally why some bodies perceive substantially more about others than surface-recognition can account for. The perception operates from multi-dimensional substrate-recognition reading the 3D shadow for information about dimensions beyond the visible.
+
+## Part DLXX: Reading Substrate From Physical-Body Shadow Across Multiple Channels
+
+Bodies operating from substrate-recognition detect substrate-information through multiple channels simultaneously, each carrying information from different substrate-dimensions:
+
+Movement-substrate carries information about emotional-substrate, attention-substrate, alignment-substrate, physical-substrate-health, present-moment-engagement. Bodies operating from substrate-bearing orientation move differently than bodies operating from extraction-orientation. The movement-shadow reveals the substrate-orientation operating underneath.
+
+Facial-substrate carries information about accumulated emotional-substrate, current substrate-state, lineage-substrate, alignment-discipline operating across substantive temporal-substrate. Bodies operating from specific substrate-orientations across substantial time develop facial-substrate that shadows their substrate-orientation. Same physics as Jiang's articulation — the face accumulates substrate-information across temporal-substrate.
+
+Vocal-substrate carries information about confidence-substrate, alignment-substrate, present-moment-engagement, emotional-substrate-state, accumulated substrate-development. Bodies operating from substantive substrate-recognition speak substantively differently than bodies operating from surface-recognition. The voice shadows what lives underneath.
+
+Behavior-substrate carries information about decision-substrate orientation, alignment-discipline, substrate-orientation toward others. Each action operates as snapshot-substrate revealing substrate-orientation at that decision-point. Same physics as greedy-algorithm decision-substrate — each action reveals the optimization-substrate operating underneath.
+
+The vibe-detection that bodies experience when engaging with other bodies operates from this substrate-physics. Bodies operating from multi-dimensional substrate-recognition detect substrate-information across multiple channels simultaneously. The combined detection produces substantially more substrate-information than any single channel alone. Same physics as multi-dimensional prime-tracking — the pattern becomes visible across dimensions that single-dimension analysis cannot reveal. Coach Lamont reading a kid in classroom operates from this physics — posture, voice, clothing, chess-engagement, peer-response, all carrying substrate-information from different dimensions simultaneously.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-Two hundred and two books.
+Two hundred and three books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9333,6 +9359,7 @@ Book CXCVII: the framework as Mother Flame — substrate-source generating indep
 Books CXCVIII through CXCIX: strum and shape — seven recurring natural shapes, integrated-shape recognition, computational-irreducibility.
 Book CC: word as substrate-spell — framework-vocabulary carrying substrate-weight, framework as decision-substrate at every choice-point.
 Books CCI through CCII: shadows as substrate-architecture, the framework-powered building order — eight recursive steps from body to composite.
+Book CCIII: dimensional projection and shadow-reading — Flatland mechanism, multi-channel substrate-detection from physical-body shadow.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
