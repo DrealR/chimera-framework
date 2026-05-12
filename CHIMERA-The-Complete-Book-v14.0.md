@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 178 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 181 books around it.
 
 ---
 
@@ -8846,11 +8846,59 @@ Carriers operating from the framework integrate belief-substrate that aligns wit
 
 ---
 
+# BOOK CLXXIX: CHAIN-OF-BODIES AS SUBSTRATE-TRANSMISSION INFRASTRUCTURE (Why Direct Transmission Across Dimensional-Distance Fails)
+
+## Part DXXI: Dimensional-Proximity as Transmission Requirement
+
+Direct transmission from highest-substrate-density body to lowest-substrate-density body often does not operate substantively because the dimensional-distance is too large. The bodies cannot read each other across the gap. The substrate cannot flow effectively because the receiving body lacks substrate-recognition capacity for what the giving body is articulating. Same physics as not being able to teach kids without bridging through substrate they already attend to.
+
+The solution is the chain. Bodies positioned at intermediate substrate-density-positions operate as bridges between the highest and lowest bodies. Each body in the chain has dimensional-proximity to the bodies adjacent to them. The substrate flows through the chain rather than attempting to leap across the entire dimensional-gap. The student near the bottom can be reached by the student slightly above them, who can be reached by the student slightly above them, who can eventually be reached by the teacher. Each link in the chain operates from dimensional-proximity to the adjacent links. Same physics as wisdom-tradition transmission lineages across cultures. Bodhisattvas transmitting Buddhist substrate across generations. Rabbinical lineages transmitting Torah substrate across centuries. Christian apostolic transmission. Sufi silsila. All operate from chain-of-bodies physics. The chain bridges what direct transmission cannot bridge.
+
+## Part DXXII: The Quantum-Tunnel Effect of Established Chains
+
+Once the chain is established, substrate can transmit across dimensional-distance that direct transmission could not bridge. Same physics as quantum tunneling through barriers that classical physics cannot cross. The chain operates as substrate-infrastructure that allows transmission across distances that would otherwise be inaccessible. Established substrate-pathways operate from substantially less resistance than substrate-pathways being established for the first time.
+
+This is structurally why established teaching-lineages operate more efficiently than ad-hoc teaching configurations. The teaching-substrate has already been organized through previous transmission-cycles. New students entering established lineages access substrate-pathways that previous students helped establish. The investment of temporal-substrate in establishing the chain pays compound substrate-development across subsequent transmissions. This is also why wisdom-tradition transmission cannot be replicated through pure text-loading without lineage-connection. The text contains substrate-articulation that requires substrate-recognition capacity to load substantively. Bodies without dimensional-proximity to the lineage-substrate cannot develop substrate-recognition from the text alone. The chain operates through embodied bodies engaged across substantive temporal-substrate. Text supplements lineage-transmission. It does not replace it.
+
+---
+
+# BOOK CLXXX: INTERMEDIATE-BODIES AS CRITICAL SUBSTRATE-INFRASTRUCTURE (Why the Middle Links Matter Most)
+
+## Part DXXIII: Dimensional-Proximity as Bridge-Substrate
+
+The bodies near the substrate-thin position have substrate-proximity to the substrate-thin position that the substrate-dense bodies lack. They remember what it was like to be in substrate-thin position. They can articulate substrate in vocabulary the substrate-thin position can receive. They are essential links in the chain. The kids in the program who recently transitioned from substrate-thin to substrate-developed positions are substantively valuable to the program's substrate-distribution-network. They can transmit substrate to the current substrate-thin kids in ways the teacher cannot transmit directly. They have dimensional-proximity to the substrate-thin position because they were recently there.
+
+Peer-teaching produces substantive substrate-development that adult-teaching alone cannot produce. Peers operate from dimensional-proximity that adults often cannot operate from. The substrate-distribution-network requires bodies at intermediate substrate-density-positions as critical chain-infrastructure. These bodies should be explicitly recognized and developed as substrate-infrastructure rather than treated as transitional positions to leave behind. Their substrate-position is valuable not despite being intermediate but because being intermediate is what allows them to bridge substrate that the dense-end of the chain cannot bridge directly.
+
+## Part DXXIV: The Living Chain — Rotation With Continuity
+
+The chain operates as living substrate rather than static infrastructure. The chain changes across time as bodies develop substrate-density and rotate positions. The substrate-thin position rotates as previous substrate-thin bodies develop. The substrate-dense position rotates as previous substrate-dense bodies eventually complete their substrate-cycles. The chain is alive. It maintains structural integrity while continuously changing.
+
+Wisdom-tradition lineages operate as living lineages rather than static institutions. The substrate transmits through bodies. The bodies rotate. The chain continues. Living substrate-infrastructure requires continuous body-rotation while maintaining substrate-continuity across the rotations. The teacher's substrate continues operating through the chains established with students. The students eventually become teachers themselves. They establish their own chains with subsequent students. The lineage continues across body-rotations while maintaining substrate-continuity. The substrate continues across body-rotations. Same physics as everywhere else.
+
+---
+
+# BOOK CLXXXI: DIMENSIONAL-DISTANCE AS RESISTANCE (How Chain-Length Maps to Transmission-Difficulty)
+
+## Part DXXV: Chain-Length Calibrated to Dimensional-Distance
+
+Different dimensional-distances require different chain-lengths. Substrate that operates from substantial dimensional-distance from the receiving body requires longer chains. Substrate that operates from minimal dimensional-distance can be transmitted with shorter chains. Teaching basic chess to novices requires chains that bridge expert-to-novice dimensional-distance. Teaching advanced chess to intermediate players requires shorter chains because the dimensional-distance is smaller.
+
+Teaching framework substrate at substrate-deep level requires substantive chains because the dimensional-distance from algorithmic-substrate conditioning is substantial. The framework cannot transmit directly to bodies whose primary substrate is algorithmic-conditioning. The chain must include bodies at intermediate dimensional-positions that bridge the substantial dimensional-distance. The teacher develops through the teaching as substantively as the student develops through the learning. The chains produce substrate-development in all bodies participating, not just at the substrate-thin position.
+
+## Part DXXVI: Multiple Parallel Chains for Mass-Substrate-Transmission
+
+Mass-substrate-transmission requires many parallel chains operating simultaneously. Wisdom-traditions reach many bodies through multiple chains operating from different substrate-positions. The propagation requires substrate-network with multiple chains rather than single chain attempting to transmit to all bodies. Each carrier operates from a different substrate-position and engages different bodies. Each operates as link in chain that reaches bodies the others cannot reach directly. The network of chains is what allows framework substrate to propagate across substantive dimensional-distance.
+
+For the framework's propagation: carriers loading the framework substantively become subsequent links in chains. They can transmit substrate to bodies that operate from dimensional-proximity to their substrate-position. Each link extends the chain into substrate-territory previous links could not reach. The framework does not propagate through pure text-loading. It requires chains of carriers operating from dimensional-proximity to the bodies they engage. The lineage continues through bodies that have integrated the substrate into their substrate-extending capacity. Same physics as wisdom-tradition lineages across cultures throughout history. The substrate continues across body-rotations through the chains established during each generation.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and seventy-eight books.
+One hundred and eighty-one books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8883,6 +8931,7 @@ Books CLXX through CLXXI: pressure-gradient substrate-physics, gap-tracking as s
 Books CLXXII through CLXXIV: blind-spots as attention-warping byproducts, the distributed attention-network, prime-rhythm versus substrate-distribution.
 Books CLXXV through CLXXVI: two-primes tracking and floor-raising, relational-substrate through network participation.
 Books CLXXVII through CLXXVIII: pathways in the blind-spot, believing-precedes-seeing.
+Books CLXXIX through CLXXXI: chain-of-bodies as substrate-transmission infrastructure, intermediate-bodies as critical infrastructure, dimensional-distance as resistance.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
