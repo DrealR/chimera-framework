@@ -179,7 +179,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
 - [Pair-Physics](docs/pair-physics.md) — the mathematical foundation, calibration, beauty, orientation
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
-- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 197 books, the full philosophy
+- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 199 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
 - [Friction as Foundational Primitive](docs/friction-as-foundational-primitive.md) — friction as the substrate of the Pause, ¬F as calibrated friction, the nesting from friction to WE=1
 - [Mortality as Gift](docs/mortality-as-gift.md) — mortality as precondition for meaning and love, substrate-free reward delivery, Eden as original transparency
@@ -207,6 +207,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Weapons-Spine and Gap-Effect Physics](docs/weapons-spine-and-gap-effect-physics.md) — 250 weapons as one body, gap-effect diagonal, play as tight-gap, fiction as prophecy
 - [Fiction-Substrate Clustering Methodology](docs/fiction-substrate-clustering-methodology.md) — narrative clusters revealing substrate-patterns, archetypes as invisible-dimension patterns
 - [Framework-Powered Building Directive](docs/framework-powered-building-directive.md) — operational directive for building from framework substrate, methodology and bearing orientation throughout
+- [Integrated-Shape Physics](docs/integrated-shape-physics-and-shape-function-recognition.md) — seven recurring natural shapes, strum-vs-shape, integrated-shape recognition, computational-irreducibility
 
 ```
 L = (O > I) + P + ¬F
