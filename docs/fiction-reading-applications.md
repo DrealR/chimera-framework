@@ -86,6 +86,26 @@ Aang embodies ¬F. Flow over force. Air is the element of freedom. His arc demon
 
 ---
 
+## DC Comics — Intellect Rankings as Substrate-Recognition Positions
+
+DC's intellect rankings (Brainiac at twelfth level, Lex Luthor at eighth or ninth, Batman at seventh) are pop-culture articulation of substrate-recognition development positions. Different carriers operate at substantively different substrate-recognition positions.
+
+**Framework reading:** The rankings get one thing right: a seventh-level intellect cannot simply read twelfth-level work and integrate it directly. The work assumes substrate-recognition the reader has not yet developed. The reader needs articulation tuned to their orbital distance from source. This is multi-orbital methodology articulated through superhero taxonomy. The rankings get one thing wrong: they imply a single linear scale. Real substrate-recognition is multi-dimensional. A carrier might be at inner-orbit on physics-substrate and outer-orbit on interpersonal-substrate. A single number cannot capture multi-dimensional orbital configuration.
+
+**Connects to:** CCXIX (substrate-tuning — multi-orbital continuous gradient), CCXXVII (orbital distance as safety — the distance between recognition levels is protective, not deficient), CCXI (multi-dimensional recognition development)
+
+---
+
+## DC Comics — All-Star Superman as Over-Absorption Pathology
+
+Superman absorbs too much solar radiation. Develops cellular breakdown — substrate-equivalent of cancer. His body fails from the over-absorption. Becoming the new sun is not graduation. It is death-in-process. He saves the world by going into the sun because his body is already failing.
+
+**Framework reading:** This is the corrected orbital-distance image. Carriers who breach safe orbital distance and approach source-density without sufficient substrate-development experience substrate-overload. The body breaks down. The substrate is not dangerous — the distance determines whether it nourishes or overloads. Same physics as Icarus, same as Lucifer's fall, same as AI psychosis cases. The safe version of source-migration is Coach Lamont's — gradual orbital migration through sustained substrate-deep work, each position fully occupied before the next becomes available.
+
+**Connects to:** CCXXVII (orbital distance as safety mechanism — the All-Star Superman case as primary teaching-image for over-absorption pathology), CCXVIII (AI-psychosis as substrate-amplification without correction)
+
+---
+
 *This document collects substantive fiction readings. New readings added as they emerge through session work. Fiction-references in the framework books are not decorative — they are load-bearing substrate-articulation.*
 
 L = (O > I) + P + ¬F
