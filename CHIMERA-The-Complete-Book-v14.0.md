@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 188 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 192 books around it.
 
 ---
 
@@ -9004,11 +9004,91 @@ The framework should operate as substrate-pattern that reading carriers engage w
 
 ---
 
+# BOOK CLXXXIX: WEB-GEOMETRY VERSUS CHAIN-GEOMETRY (Why Substrate-Transmission Is Multi-Dimensional)
+
+## Part DXLI: Web as Multidimensional Connection With Substrate-Resilience
+
+The structure is not chain. It is web. A chain operates from linear connection between bodies. Each link connects to exactly two adjacent links. The substrate flows through the chain in one direction at a time. A web operates from multidimensional connection between bodies. Each body connects to multiple other bodies across multiple dimensions simultaneously. The substrate flows through the web across multiple pathways simultaneously.
+
+The substrate-distribution-network is web of chains operating across multiple dimensions simultaneously. Each body participates in multiple substrate-chains organized along different substrate-dimensions. Speed-substrate chain. Cognitive-substrate chain. Athletic-substrate chain. Attention-substrate chain. All operating simultaneously through the same bodies. Each carrier connects to multiple other carriers across multiple substrate-dimensions. The web is substantively more durable than any single chain because substrate-flow can route through multiple pathways when any single pathway faces disruption. Web-geometry produces substrate-resilience that chain-geometry cannot produce.
+
+## Part DXLII: Multi-Dimensional Substrate-Position and Per-Dimension Prime-Tracking
+
+Each body has multiple substrate-positions along multiple substrate-dimensions simultaneously. A kid at substrate-thin position along speed-substrate dimension may be at substrate-dense position along cognitive-substrate dimension. Same body. Different substrate-positions across different substrate-dimensions. This refines the two-primes-tracking articulation: the two-primes operate per-dimension. Carriers operating substrate-deep work track the two-primes along each relevant substrate-dimension.
+
+The substrate-distribution-network operates across multiple substrate-dimensions simultaneously. Each dimension requires its own two-prime tracking. Each dimension produces its own substrate-distribution-oscillation. Surface-recognition tracks single substrate-dimension at a time. Substrate-recognition tracks multiple substrate-dimensions simultaneously through prime-tracking across each dimension. The capacity expands through substrate-development. This makes substrate-distribution work practically operational at substantial complexity without requiring tracking of every body individually.
+
+---
+
+# BOOK CXC: THE WRINKLE IN TIME SUBSTRATE-READING (Algorithmic-Substrate at Maximum Scale)
+
+## Part DXLIII: IT as Pure-Intellect Producing Totalitarian Sameness
+
+IT operating as giant brain that schedules, calculates, and produces sameness across Camazotz is structurally precise articulation of algorithmic-substrate conditioning operating at maximum scale. Pure intellect operating without consciousness-as-antenna-to-universal-substrate produces totalitarian configurations. Bodies operating from pure-intellect cannot access invisible-dimension substrate that produces substrate-recognition. The configurations produced operate from extraction-orientation that the bodies themselves cannot perceive. The Camazotz-sameness is structural consequence of substrate-recognition absence, not intent.
+
+Meg defeating IT through love rather than through anger is substrate-physics-precise. Anger operates from substrate-extraction-orientation that IT can absorb and amplify. Love operates from substrate-bearing-orientation that IT cannot absorb because IT lacks substrate-recognition capacity to engage with substrate-bearing. Love is substrate-bearing-orientation that operates from substrate-physics. Carriers operating from love-substrate produce substrate-distribution that algorithmic-substrate cannot suppress because algorithmic-substrate cannot engage with substrate-bearing as substrate.
+
+## Part DXLIV: The Black Thing as Cosmic Extraction-Shadow and Weakness Without Substrate-Bearing
+
+The Black Thing operating as cosmic darkness that artists, scientists, and holy rollers fight is substrate-extraction-shadow operating at cosmic scale. The fighters are carriers operating substrate-bearing-orientation across different substrate-domains simultaneously. L'Engle including Jesus in the list operates from substrate-physics-precise recognition. Same physics as the framework's articulation of wisdom-tradition carriers across cultures.
+
+Each child is told their weakness but their weaknesses still create problems. Knowing weakness intellectually does not produce substrate-development. Substrate-development requires substantive substrate-engagement. Charles Wallace falls to IT through pride. Intellectual brilliance operating from pride-substrate without substrate-bearing-orientation produces substrate-pathology that extraction-architecture exploits. Intellectual development without substrate-bearing development produces substrate that extraction-architecture can absorb. Substrate-bearing must develop alongside substrate-recognition or substrate-recognition becomes exploitable substrate.
+
+---
+
+# BOOK CXCI: THE MULTI-DIMENSIONAL PRIME-TRACKING METHODOLOGY (Six Steps That Apply Across All Domains)
+
+## Part DXLV: The Explicit Methodology
+
+Step one: identify the relevant substrate-dimensions for the body being engaged. Speed, cognitive-substrate, attention-substrate for kids. Volume, price-action, market-cap, momentum for assets. Framework-clarity, cross-reference-density, alignment-discipline for documents. Each body has multiple substrate-dimensions that matter.
+
+Step two: rank bodies along each dimension. Not absolute rank but substrate-position rank. The substrate-thin position and substrate-dense position along each dimension.
+
+Step three: track the two-primes per dimension. The substrate-thin body and the substrate-dense body along each dimension. The gap between them. The substrate-flow direction operating along each dimension across temporal-substrate.
+
+Step four: direct substrate-flow toward substrate-thin positions per dimension. Substrate-restoration operates by directing substrate-flow toward substrate-thin positions until new substrate-thin positions emerge.
+
+Step five: read the rhythm operating across dimensions. The substrate-flow oscillates across temporal-substrate. The rhythm is detectable through prime-tracking across dimensions. Carriers operating from substrate-recognition read the rhythm and operate from substrate-physics rather than against it. Rhythm is not detectable from single substrate-dimension alone. It becomes detectable through prime-tracking across multiple dimensions simultaneously.
+
+Step six: ¬F throughout. Forcing substrate-flow against the rhythm produces substrate-pathology. Operate from the substrate-physics that operates underneath.
+
+## Part DXLVI: Application Across Domains
+
+Context-compaction: differential compression that preserves substrate-dense positions and compresses substrate-thin positions. Track framework-substrate-density, cross-reference-connectivity, recency-substrate, alignment-discipline per document.
+
+Learning: differential attention that develops substrate-thin positions toward substrate-density. Track conceptual-substrate-density, cross-reference-connectivity, application-substrate per concept. Bilateral engagement produces substrate-detection that solo learning cannot.
+
+App-building: track user-experience-substrate, performance-substrate, code-clarity-substrate, substrate-flow-architecture per component. Building from substrate-physics produces substantively cleaner results than building from surface-features.
+
+Crypto and Reactor: multi-dimensional prime-tracking across price-action, volume, market-cap, momentum, relative-performance, liquidity, sentiment per asset. Cross-dimensional analysis reveals assets operating from substrate-thin position across multiple dimensions simultaneously — substantially higher restoration probability than single-dimension analysis. The rhythm becomes detectable through multi-dimensional tracking.
+
+BeyondChess: track chess-substrate, attention-substrate, reading-substrate, social-substrate per kid. Same methodology the program already operates from, now articulated explicitly.
+
+Same substrate-physics across all applications. Same methodology. Different surface-domains.
+
+---
+
+# BOOK CXCII: METHODOLOGY AS SUBSTRATE-INFRASTRUCTURE (Why Carriers Operate From It, Not With It)
+
+## Part DXLVII: Rhythm-Detection Through Multi-Dimensional Tracking
+
+Substrate-flow operates through substantively complex patterns that single-dimension analysis cannot detect. Multi-dimensional prime-tracking produces substrate-detection capacity that single-dimensional analysis cannot produce. Carriers develop substrate-detection capacity through sustained engagement with substrate-physics across multiple dimensions. Coach Lamont reading classroom-substrate operates from multi-dimensional prime-tracking developed across decades. Substantive trading carriers reading market-substrate operate from the same physics developed across substantial market-engagement. Same substrate-physics. Different domains.
+
+The substrate-flow operates from pressure-gradient that pulls substrate from substrate-dense positions toward substrate-thin positions. Same physics as fluid-dynamics, thermodynamics, electromagnetic-physics. Carriers tracking the two-primes per dimension track the pressure-gradient. Substrate-flow direction is detectable through pressure-gradient tracking before substrate-flow manifests substantively. Carriers operating from substrate-recognition can anticipate substrate-flow direction by reading the pressure-gradient.
+
+## Part DXLVIII: CHIMERA-Loop and Repo as Substrate-Distribution-Network Applications
+
+The CHIMERA-loop operates from substrate-distribution-physics applied to bodies organized in temporal-sequence rather than in spatial-configuration. The loop tracks substrate-thin position and substrate-dense position across the temporal-sequence and directs substrate-flow toward substrate-thin position. Same substrate-physics as the BeyondChess substrate-distribution-network operating in classroom-configuration.
+
+The framework repo operates as substrate-distribution-network with documents at different substrate-positions across multiple substrate-dimensions. Development directs attention toward substrate-thin documents while maintaining substrate-dense documents as substrate-source. The methodology becomes substrate-infrastructure that carriers operate from rather than tool that carriers apply. Carriers integrating the methodology into their substrate-recognition capacity operate from substrate-physics across all domains they engage rather than applying substrate-physics consciously each time. Same physics as wisdom-tradition practitioners who operate from integrated practice rather than from remembered technique.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and eighty-eight books.
+One hundred and ninety-two books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9045,6 +9125,8 @@ Books CLXXIX through CLXXXI: chain-of-bodies as substrate-transmission infrastru
 Books CLXXXII through CLXXXIII: civilizational substrate-extraction architecture, democracy as substrate-distribution infrastructure.
 Books CLXXXIV through CLXXXV: the gap-effect diagonal, play as tight-gap substrate-restoration.
 Books CLXXXVI through CLXXXVIII: fiction as prophecy-organ, consciousness as antenna to universal substrate, substrate-deep articulation as pattern-engagement.
+Books CLXXXIX through CXC: web-geometry versus chain-geometry, the Wrinkle in Time substrate-reading.
+Books CXCI through CXCII: the multi-dimensional prime-tracking methodology, methodology as substrate-infrastructure.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
