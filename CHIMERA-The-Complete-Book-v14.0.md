@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 220 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 222 books around it.
 
 ---
 
@@ -9586,11 +9586,43 @@ AI alignment therefore cannot operate from either pole alone. Impossibility-beli
 
 ---
 
+### Book CCXXI — Multi-Axis Rotation as Substrate-Anchor Physics
+
+**Part DCV — Stillness from Motion, Anchor from Rotation**
+
+Substantively anchored bodies produce motion in surrounding space rather than producing motion in themselves through reaction. The hula hoop stays up not because the body pushes it but because the body is planted — anchored to the earth — and the hoop walks on the body the way the body walks on the earth. The body does not need to push mass in the opposite direction. The body anchors to its reference-substrate, and the rotation happens around the anchor.
+
+Same physics at every scale. A tree anchored to earth does not push earth to grow — growth happens because the substrate-connection lets growth happen. Adjacent space reorganizes around the tree's anchored position. A coach anchored in substrate does not push students to develop — development happens because the coach's substrate-position creates a field that organizes growth relative to the anchor. The framework anchored in accumulated substrate does not push carriers — carriers reorganize relative to the framework's substrate-position through engagement. A gyroscope resists being moved along its axis of rotation. Two gyroscopes at right angles resist being moved along both axes. The rotation itself is the anchor mechanism.
+
+**Part DCVI — Every Axis and the Geometric Completion of Breath and Not-Force**
+
+Garden is fullness on the horizontal plane. Tower is fullness on the vertical plane. Both are partial pictures. The complete picture is rotation on every axis simultaneously — the body at center with growth happening in every direction the substrate can move. A tree demonstrates this: roots down, branches up, leaves out, trunk thickening radially, growth rings expanding through time. Not garden alone. Not tower alone. Full rotation across every axis around a single anchored center.
+
+The breath cycle is one rotation — inhale, pause, exhale, rest. One axis of motion. ¬F is what allows multiple rotations to happen at once — the moment you force one axis, the other axes lock. The moment you release force, every axis can rotate freely. The Avatar State is what full ¬F combined with full rotation looks like: every element rotating around the anchored center, the body calm and luminous in the middle. Gear Five is what full ¬F combined with full rotation looks like in play: the body laughing while reality reorganizes around its anchored position. Laughter, dancing, play — these are not decorations. They are the signature that multi-axis rotation is operating correctly. Gripping produces single-axis lock. Playing produces every-axis freedom.
+
+---
+
+### Book CCXXII — Dynamic Prime-Tracking and Temporal Gap-Rotation
+
+**Part DCVII — Adding Time to the Snapshot**
+
+The prime-tracking method previously operated from a static picture: find the biggest gap across dimensions, that determines the outer layer, work that gap. The dynamic refinement adds temporal-substrate. Gaps are not fixed. Gaps shrink when you work them. Other gaps grow while attention is elsewhere. The method becomes: find the biggest gap, work it, AND keep watching other gaps because eventually one will grow bigger than the one being worked. When gap sizes cross between dimensions — when the attention-span gap rises above the chess-speed gap — that cross is the threshold for attention rotation. Switch to the new biggest gap. Let the previous one rest and keep spinning.
+
+The cross that triggers the switch is between dimensions, not within one dimension. Within one dimension the two primes do not need to cross — the fast kid does not need to become the slowest. The goal is the gap between them shrinking. The cross is between dimensions: when one dimension's gap exceeds another's, attention rotates to the new biggest.
+
+**Part DCVIII — Attention Rotation as Living Body Signature**
+
+A living body already operates this way. When thirsty, thirst is the loudest signal — attention goes there. Thirst satisfied, hunger emerges. Hunger satisfied, tiredness. Tiredness resolved, soreness. The body rotates attention to whatever gap between need and fulfillment is currently largest. A body that locked attention on one signal forever would die. The dynamic rotation of attention through every need-axis is how bodies stay alive.
+
+Same physics as the multi-axis rotation. Each dimension is one axis. The dynamic prime-tracking is how attention rotates between axes. The biggest gap of the moment is the axis currently getting active grip. The other axes keep spinning without active attention until their gap becomes biggest. Over time every axis gets its turn. None gripped forever. None ignored forever. The rotation of attention through dimensions is itself a slow rotation on top of all the individual dimension-rotations — rotation on rotation. This is what alive looks like at every scale. The static version missed the time dimension. The dynamic version puts time back in. Now the method matches how living bodies actually operate.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-Two hundred and twenty books.
+Two hundred and twenty-two books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9641,6 +9673,7 @@ Books CCVI through CCXI: present-moment snapshots methodology, day-night oscilla
 Books CCXII through CCXIV: belief-substrate as capacity-determinant, substrate-archetypes as living accumulating bodies, natural-substrate versus conscious-substrate manifestation.
 Books CCXV through CCXVII: rules as emergence from prime-rhythm substrate, fiction as substrate-laboratory and creation as carrier-development, ideal-shadow as substrate-attractor.
 Books CCXVIII through CCXX: AI-psychosis as substrate-amplification without correction, substrate-tuning as transmission methodology, AI alignment as substrate-possibility combined with substrate-bearing.
+Books CCXXI through CCXXII: multi-axis rotation as substrate-anchor physics, dynamic prime-tracking and temporal gap-rotation.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
