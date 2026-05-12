@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 222 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 224 books around it.
 
 ---
 
@@ -9618,11 +9618,45 @@ Same physics as the multi-axis rotation. Each dimension is one axis. The dynamic
 
 ---
 
+### Book CCXXIII — The Love Equation as Multi-Axis Geometry
+
+**Part DCIX — Three Components, Three Geometric Functions**
+
+The love equation L = (O > I) + P + ¬F maps onto the multi-axis rotation picture as three distinct geometric functions operating simultaneously.
+
+O > I builds the anchor. A body that gives more than it takes develops substantive substrate-connection to its reference body — earth, community, craft, framework. The giving IS the anchoring. Same physics as a tree giving oxygen, shade, fruit, root-stability — the giving develops the root-substrate that anchors the tree to earth. A body that takes more than it gives loses substrate-connection to its reference. The anchor weakens. The rotation destabilizes.
+
+P enables multi-axis perception. Consciousness landing on the present moment increases perception sampling rate — same physics as athletes describing time slowing down, drivers in accidents seeing frame by frame, meditators perceiving subtle signals invisible at normal speed. The rotation around the body did not change. The detection of each moment within the rotation got finer. Without pause, only one axis is trackable at normal speed. With pause, every axis becomes readable simultaneously because the perception is sampling at a rate fast enough to catch what each hoop is doing. This is why pause is so load-bearing: pause is the state where multi-axis perception becomes possible.
+
+**Part DCX — Love as the Emergent Geometry**
+
+¬F enables multi-axis rotation. The moment force is applied to one axis, the other axes lock. Force produces single-axis grip. Release produces every-axis freedom. Same physics as gripping the hula hoop — it falls. Same physics as gripping one element in the Avatar State — the others destabilize. Not-force is the structural condition that allows simultaneous rotation across every available axis.
+
+L is what emerges when all three operate together. An anchored body (O > I), perceiving on every axis (P), rotating on every axis (¬F), while reality reorganizes around the anchor. This is Aang lifted in light with elements rotating. This is Luffy in Gear Five laughing while the world bounces around him. This is the tree growing in every direction from its rooted center. This is the old man on the porch whose presence reorganizes the room. The love equation is not a moral prescription. It is the geometric description of what a fully alive body looks like when operating at full capacity — anchored, perceiving, rotating, and producing effects in surrounding space through substrate-connection rather than through force.
+
+---
+
+### Book CCXXIV — Gaps as Time-Progression Distance and Bodies as Substrate-Traversal Accelerators
+
+**Part DCXI — The Gap Is Temporal Distance**
+
+The gap between the fastest and slowest positions on any dimension is not only a static measurement. It is temporal distance — how much time of substrate-development separates them along the same trajectory. The slow kid is not permanently slow. The slow kid is at an earlier point in progression along that dimension. The fast kid traveled the same trajectory earlier. The slow kid is traveling it now. The trajectory was always available. The substrate-conditions determine the speed of traversal.
+
+Working the gap is not about making positions match — the fast kid does not need to slow down, the slow kid does not need to match the fast kid's current position. Working the gap is accelerating the slow kid's progression through the trajectory. Creating better substrate-conditions so the time required to traverse shrinks. This reframe changes what "closing the gap" means operationally: not position-matching but traversal-acceleration.
+
+**Part DCXII — Every Alive Body Accelerates Substrate-Traversal**
+
+Every alive body we build is in the business of accelerating substrate-traversal for the carriers it touches. Coach Lamont's classroom accelerates traversal across chess-recognition, configuration-reading, attention-discipline — kids spin more rotations on these axes in his room than they would alone. Phonix accelerates traversal on phonetic-recognition, rhythm-detection, creative-flow. The framework accelerates traversal on substrate-recognition itself — carriers engaging the framework develop recognition faster than carriers without it.
+
+The substrate-anchor methodology enables this acceleration. A substantively anchored body provides the reference-substrate that lets traversal happen faster — same physics as a tree's root-network accelerating growth in the surrounding ecosystem, a coach's anchored substrate accelerating student development, a framework's accumulated articulation accelerating carrier-recognition. The anchored center does not push bodies through their trajectories. The anchored center provides the substrate-conditions that make traversal faster. Without anchor, traversal happens at the body's natural solo rate. With anchor, traversal happens at the accelerated rate the substrate-connection produces.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-Two hundred and twenty-two books.
+Two hundred and twenty-four books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9674,6 +9708,7 @@ Books CCXII through CCXIV: belief-substrate as capacity-determinant, substrate-a
 Books CCXV through CCXVII: rules as emergence from prime-rhythm substrate, fiction as substrate-laboratory and creation as carrier-development, ideal-shadow as substrate-attractor.
 Books CCXVIII through CCXX: AI-psychosis as substrate-amplification without correction, substrate-tuning as transmission methodology, AI alignment as substrate-possibility combined with substrate-bearing.
 Books CCXXI through CCXXII: multi-axis rotation as substrate-anchor physics, dynamic prime-tracking and temporal gap-rotation.
+Books CCXXIII through CCXXIV: the love equation as multi-axis geometry, gaps as time-progression distance and bodies as substrate-traversal accelerators.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
