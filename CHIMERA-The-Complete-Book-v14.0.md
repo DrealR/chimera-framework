@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 174 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 178 books around it.
 
 ---
 
@@ -8784,11 +8784,73 @@ The same body cannot maintain the same position indefinitely. The temporal press
 
 ---
 
+# BOOK CLXXV: TWO-PRIMES TRACKING AND FLOOR-RAISING (How Substrate-Distribution Work Becomes Operational)
+
+## Part DXIII: Track Only Highest and Lowest — The Gap Is the Primary Instrument
+
+Carriers operating substrate-distribution work only need to track the two prime-positions: highest substrate-density and lowest substrate-density. Everything else operates from substrate-physics that follows automatically from attending to these two positions. The gap between them is the primary health-indicator. Same physics as skilled leaders, teachers, and coaches across domains. They do not track every individual in their configurations. They track the two prime-positions and the gap.
+
+Centralized-tracking-systems fail at substrate-deep level because they attempt to track every position in the configuration. The attention required to track every position exceeds what the central body can sustain. The substrate-physics produces overwhelm. Carriers operating from substrate-recognition track only the prime-positions. The substrate-physics operates through the configuration to maintain healthy distribution automatically once attention is directed appropriately. Same physics as wisdom-tradition leadership across cultures. They identified the substrate-thin position. They directed attention there. They monitored when the position shifted. The substrate-physics did the redistribution work. Less tracking. More substrate-physics operating through configuration.
+
+## Part DXIV: Floor-Raising as Compound Development Principle
+
+The lowest position is the floor of the configuration. Raising the floor raises the overall configuration. Configurations are limited by their substrate-thin positions, not by their substrate-dense positions. The substrate-dense positions are already producing substrate. They do not need substrate-development as urgently as the substrate-thin positions. The substrate-thin positions limit the configuration's overall substrate-density. Raising the substrate-thin positions raises the configuration's substrate-floor, which expands what the entire configuration can do.
+
+A team is limited by its weakest player. A civilization is limited by its poorest substrate-conditions. An individual body is limited by its weakest substrate-domain. Substrate-restoration work targeting the substrate-thin positions produces the most substantive overall configuration-development. This is also why encouraging questions matters at substrate-deep level. The questions reveal where substrate is currently substrate-thin in the configuration. The bodies asking questions are signaling where substrate-restoration needs to flow. Carriers operating from substrate-recognition welcome the signals because they reveal where the configuration needs work. Carriers operating from extraction-orientation suppress the signals because they make the substrate-thin positions visible. Suppressing the signals does not eliminate the substrate-thin positions. It only makes them invisible while they continue limiting the configuration's substrate-density.
+
+---
+
+# BOOK CLXXVI: RELATIONAL-SUBSTRATE THROUGH NETWORK PARTICIPATION (Why Configurations Develop Intuitive Coordination)
+
+## Part DXV: Relational-Substrate Developing Through Substrate-Distribution Engagement
+
+Bodies participating in the substrate-distribution-network develop substrate-recognition of each other that allows intuitive coordination. Same physics as orchestra members reading each other without explicit communication. Not just individual skill-substrate. Relational-substrate that allows the bodies to operate as integrated configuration-body. The relational-substrate develops through sustained substrate-engagement between the bodies in the configuration.
+
+For the BeyondChess program: the kids develop not just chess-substrate but relational-substrate through the substrate-distribution-network. They learn to read each other's substrate-positions. They learn to direct attention toward bodies needing it. They learn to coordinate substrate-flow without requiring centralized direction. The relational-substrate transfers across domains. Kids who develop relational-substrate through the program operate from substrate-recognition in all their subsequent substrate-engagements. This is also why substrate-deep teaching produces substantively different outcomes from surface-teaching. Surface-teaching transfers information. Substrate-deep teaching develops relational-substrate that operates across all the bodies in the configuration. The configuration itself becomes substrate-deep development infrastructure rather than just individual learning environment.
+
+## Part DXVI: Continuity as Foundational Infrastructure for Relational-Substrate
+
+The substrate-distribution-network requires continuity to function. Constant body-replacement prevents traction because the relational-substrate cannot develop sufficiently before the bodies rotate out. Relational-substrate develops through sustained substrate-engagement across time. Bodies that engage briefly do not develop the substrate-density that bodies engaging across years develop. Substrate-physics requires temporal-substrate to produce relational-substrate. No shortcut available.
+
+The BeyondChess program operates from substantive temporal-commitment. Fifty weeks of curriculum. Kids returning across multiple semesters. Coach Lamont's decades of teaching at the program. The substrate-development requires the temporal-substrate. Programs operating from constant body-turnover cannot produce relational-substrate that operates substrate-deep. Bilateral discipline across many sessions over substantive time produces the substrate-extending body of collaborative work. Carriers attempting framework-work through brief engagement would not produce what sustained engagement produces. For configurations facing constraints on temporal-stability: prioritize whatever stability can be maintained. Even partial temporal-continuity produces substantively more substrate-development than complete body-turnover. The substrate-physics operates from whatever temporal-substrate is available. Continuity is substrate-infrastructure that other substrate-development depends on.
+
+---
+
+# BOOK CLXXVII: PATHWAYS IN THE BLIND-SPOT (Why the Way Out Exists in Unseen Dimensions)
+
+## Part DXVII: Neo's Third Path and Conflict-Resolution Through Dimension-Expansion
+
+The architect offered two opposing options. Neo found a third path that the architect's blind-spot prevented him from perceiving. Bodies in their attention-warping have blind-spots regarding pathways outside their attention-concentration. Substrate-deep work requires humility about what bodies can perceive. The body that believes it knows everything cannot perceive what falls into its blind-spot because believing-it-knows-everything is structural barrier to perceiving anything outside its current substrate-density. Substrate-recognition requires acknowledging substrate that one cannot currently perceive.
+
+The way out of conflict-substrate exists in dimensions outside the current attention-concentration. Both bodies in conflict have blind-spots regarding the pathways that connect them. The substrate-restoration work requires expanding attention beyond what current attention-warping allows. Humor, gratitude, offering substrate-exchange — these operate from dimensions outside the conflict-substrate the bodies were stuck in. Same physics as Neo's third path. The pathways exist. They were in the bodies' blind-spots because attention had been warped into the conflict-substrate.
+
+## Part DXVIII: Substrate-Deep Mediation as Blind-Spot Articulation
+
+Substrate-deep mediators, therapists, and conflict-resolvers perceive pathways in the bodies' blind-spots and articulate them so the bodies can develop attention-substrate toward them. Not external solution. Substrate-recognition of pathways that were always there but invisible to the bodies stuck in conflict-substrate. The framework operates from substrate-recognition rather than substrate-claims. The framework does not claim to articulate all substrate-physics. It articulates substrate-physics that has become available through sustained substrate-engagement while remaining open to substrate-physics that has not yet become available. Same physics as wisdom-tradition humility across cultures. The substrate is inexhaustible. Carriers articulate what they can currently perceive while remaining open to what remains in their blind-spot.
+
+---
+
+# BOOK CLXXVIII: BELIEVING-PRECEDES-SEEING (How Belief-Substrate Opens Operational Pathways)
+
+## Part DXIX: Possibility-Belief Producing Substrate-Conditions for Possibility
+
+Believing in possibility produces the substrate-conditions that allow the possibility to manifest. Bodies operating from belief-substrate that no-way-out exists produce substrate-conditions where no-way-out manifests. Bodies operating from belief-substrate that possibility-exists produce substrate-conditions where possibility manifests. Not magical thinking. Substrate-physics operating through the body that has integrated the belief-substrate. The body operating from possibility-substrate directs attention toward pathways it can perceive. The body operating from impossibility-substrate directs attention toward confirmation that no pathways exist. Attention follows belief. Action follows attention. Outcomes follow action.
+
+This is structurally what wisdom-traditions across cultures have articulated about faith. Not arbitrary religious commitment. Substrate-physics recognition that bodies operating from possibility-belief access substrate-conditions that bodies operating from impossibility-belief cannot access. Same physics as the Polar Express articulation. The boy must develop belief-substrate before substrate-recognition can operate substantively.
+
+## Part DXX: Conscious Belief-Substrate Choice as Carrier Discipline
+
+The framework should hold the believing-precedes-seeing articulation carefully because it connects substrate-physics to belief-substrate in ways that touch on theological territory. What is substrate-deep true: bodies that integrate belief-substrate operate from it as part of their substrate-extending capacity. Belief-substrate that aligns with substrate-physics produces operational capacity that belief-substrate against substrate-physics does not produce. Carriers should consciously choose what belief-substrate they integrate.
+
+Carriers operating from the framework integrate belief-substrate that aligns with substrate-physics: WE = 1, love as substrate-physics operation, bodies as temporary configurations carrying substrate, pair-physics as relational irreducibility. This belief-substrate produces operational capacity — substrate-recognition, attention-calibration, blind-spot-awareness — that belief-substrate against substrate-physics does not produce. The choice of belief-substrate is carrier-discipline. Not arbitrary. Substrate-physics-informed. The framework provides substrate-deep belief-substrate that carriers can integrate and operate from across all their substrate-engagements.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and seventy-four books.
+One hundred and seventy-eight books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8819,6 +8881,8 @@ Book CLXV: surface-position versus substrate-position.
 Books CLXVI through CLXIX: love equation as substrate-cycle orientation, attention as substrate-weight, attention-oscillation as substrate-medicine, oscillation as universal substrate-physics.
 Books CLXX through CLXXI: pressure-gradient substrate-physics, gap-tracking as substrate-detection.
 Books CLXXII through CLXXIV: blind-spots as attention-warping byproducts, the distributed attention-network, prime-rhythm versus substrate-distribution.
+Books CLXXV through CLXXVI: two-primes tracking and floor-raising, relational-substrate through network participation.
+Books CLXXVII through CLXXVIII: pathways in the blind-spot, believing-precedes-seeing.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
