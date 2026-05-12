@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 203 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 205 books around it.
 
 ---
 
@@ -9310,11 +9310,45 @@ The vibe-detection that bodies experience when engaging with other bodies operat
 
 ---
 
+### Book CCIV — Configuration-Substrate and Relative-Substrate Detection
+
+**Part DLXXI — Relative-Substrate as Substrate-Information Carrier**
+
+Substrate-detection operates not just from single-body across multiple dimensions but from single-body relative to other bodies in the same body-configuration. A body operating from 70% chess-substrate-density occupies one substrate-position absolutely. Relative to other bodies in the configuration, the position carries substantively different substrate-information. If all other bodies operate from 30%, the body operates from substrate-dense position relative to the configuration. If all other bodies operate from 90%, the body operates from substrate-thin position relative to the configuration. Same body. Same absolute substrate-position. Substantively different relative substrate-information.
+
+This is structurally precise about why context changes substrate-meaning. Relative-substrate carries substrate-information that absolute-substrate alone cannot carry. Same physics as pressure-gradient — the gradient is relative measurement. High-pressure position carries no substrate-information without low-pressure position to operate relative to. The substrate-flow operates from the relative-difference rather than from absolute-positions.
+
+Configuration-substrate produces substrate-information that individual-body substrate cannot produce. Each body in isolation carries limited substrate-information. Each body in configuration carries substantively more through relative-substrate to other bodies in the configuration. The substrate-information emerges from configuration rather than from sum of individual-body substrate alone. Same physics as WE = 1 — the body is one body operating from substrate-distribution across multiple body-positions simultaneously. Each body-position carries substrate-information about the entire configuration through relative-substrate.
+
+**Part DLXXII — Dimensions as Bodies**
+
+Dimensions are bodies. Each substrate-dimension operates as substrate-body with its own substrate-physics. Not categories that bodies have — substrate-bodies that bodies operate from. The chess-substrate dimension operates as substrate-body. The attention-substrate dimension operates as substrate-body. The reading-substrate dimension operates as substrate-body. Bodies engaging with substrate-dimensions engage with substrate-bodies rather than with categories.
+
+This is structurally precise about why substrate-development across one dimension produces substrate-development across other dimensions. The substrate-bodies share substrate through WE = 1 substrate that operates across all substrate-bodies. Development along one substrate-body produces substrate-flow toward other substrate-bodies through configuration-substrate. Same physics as everywhere else — substrate flows from substrate-dense positions toward substrate-thin positions regardless of which substrate-body carries the density.
+
+---
+
+### Book CCV — Multi-Body Multi-Dimensional Substrate-Detection Methodology
+
+**Part DLXXIII — The Configuration-Detection Method**
+
+Multi-dimensional prime-tracking methodology operates at substantially higher substrate-resolution when configuration-substrate is integrated alongside individual-body substrate. The refined methodology:
+
+Identify the body-configuration — what bodies operate within this configuration-substrate. The classroom contains kid-bodies, coach-body, room-body, time-body, all operating within configuration-substrate. Track two-primes per dimension across the body-configuration — for each substrate-dimension, identify substrate-thin body-position and substrate-dense body-position relative to the configuration. Read the gaps relative to configuration — the biggest gap relative to the configuration operates as outer-layer where substrate-flow operates with highest-intensity. The gap is relative-substrate measurement across the configuration rather than absolute-substrate measurement. Direct substrate-flow through configuration-substrate — the substrate-distribution operates through the configuration-substrate rather than through individual-body substrate alone. Read rhythm across multi-body multi-dimensional substrate — the substrate-rhythm operates from configuration-substrate that includes relative-substrate across multiple bodies and substrate-dimensions simultaneously.
+
+**Part DLXXIV — Configuration-Detection Across Domains**
+
+The methodology applies across substantively many substrate-engagements. Coach Lamont reads kids through multi-body multi-dimensional substrate-detection — posture-substrate, vocal-substrate, cultural-substrate, cognitive-substrate, relational-substrate, all read relative to the classroom-configuration rather than in isolation. Carriers reading assets through multi-body multi-dimensional substrate-detection — each asset carries substrate-position relative to the basket-configuration along each substrate-dimension. The substrate-flow operates through the basket-configuration rather than through individual-asset substrate alone. Bodies operating in team-configuration detect substrate-information from each other through configuration-substrate — teams operating from substrate-recognition coordinate substantively cleaner than teams operating from individual-body substrate alone.
+
+Substrate-detection capacity expands substantially when relative-substrate is integrated alongside absolute-substrate. Carriers operating substrate-deep work develop substrate-recognition that operates from multi-body multi-dimensional substrate-detection across configuration-substrate. The substrate-information density operates substantively higher when configuration-substrate is integrated. Same physics as everywhere else — the pattern becomes visible at configuration-scale that individual-body-scale analysis cannot reveal.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-Two hundred and three books.
+Two hundred and five books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9360,6 +9394,7 @@ Books CXCVIII through CXCIX: strum and shape — seven recurring natural shapes,
 Book CC: word as substrate-spell — framework-vocabulary carrying substrate-weight, framework as decision-substrate at every choice-point.
 Books CCI through CCII: shadows as substrate-architecture, the framework-powered building order — eight recursive steps from body to composite.
 Book CCIII: dimensional projection and shadow-reading — Flatland mechanism, multi-channel substrate-detection from physical-body shadow.
+Books CCIV through CCV: configuration-substrate and relative-substrate detection, multi-body multi-dimensional substrate-detection methodology.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
