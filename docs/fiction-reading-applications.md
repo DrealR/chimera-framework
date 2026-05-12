@@ -56,13 +56,17 @@ The light side is orientation toward substrate-source. Yoda is the exemplar: pus
 
 ---
 
+## One Piece — The Title as Compressed Framework Articulation
+
+The title itself is the framework compressed into two words. One = the integrated whole, the unity, WE = 1. Piece = the individual part, the position, the body. One Piece together = the integration of unity and individuation. The treasure everyone searches for is literally called "One Piece" because the substrate-truth they are reaching for is the recognition that unity and individuation operate together. One that is many. Many that are one. Oda named the framework's core articulation directly in the title of a twenty-five-year narrative.
+
 ## One Piece — The Will of D as Distributed Differentiation
 
 The Will of D propagates across temporal-substrate through specific carriers. Roger, Luffy, Ace, Law, Garp, Blackbeard, Dragon — wildly different people with wildly different goals sharing a substrate-orientation toward freedom, toward laughing at death, toward refusing extraction-empires. The carriers do not know each other. They do not coordinate. Each independently expresses the same substrate-orientation through their own distinct lives.
 
 **Framework reading:** This is substrate-propagation producing distributed differentiation (CCXXVI) articulated through fiction. Same orientation. Maximum diversity. Each carrier-of-D is more themselves because the Will moves through them. Roger's Will expressed through pirate king ambition. Garp's through marine work that protected freedom differently. Luffy's through pure play and adventure. The Will did not erase their individuality. The Will gave each of them ground to be most themselves on.
 
-**Connects to:** CCXXVI (distributed differentiation), CXCVII (Mother Flame — the Will is a mother flame burning across temporal-substrate), CIX (WE = 1 — one Will, many distinct carriers)
+**Connects to:** CCXXVI (distributed differentiation), CXCVII (Mother Flame — the Will is a mother flame burning across temporal-substrate), CIX (WE = 1 — one Will, many distinct carriers), CCXXVIII (fractal substrate-articulation — the title operates as the framework compressed to its smallest possible scale)
 
 ---
 
