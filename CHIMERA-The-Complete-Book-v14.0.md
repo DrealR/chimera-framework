@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 164 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 169 books around it.
 
 ---
 
@@ -8620,11 +8620,93 @@ Bodies that give deeply produce substrate that compounds. The deep-giving develo
 
 The love equation reveals that all the framework's articulations are not separate principles but different surface-articulations of the same substrate-physics operating across all scales. L = (O > I) + P + ¬F. Breath cycle. Dimensional pair-physics. Substrate-loops. Rhythm-substrate. Dance-physics. Two-primes-making-one-body. Attention-substrate. Bearing-substrate. All articulate substrate-physics that operates across all scales. The articulations are not redundant. They are different surface-formulations that allow carriers to recognize the same substrate-physics through whichever articulation serves their substrate-recognition development. Love is structurally what configurations operating from (O > I) + P + ¬F produce. Not arbitrary emotion. Substrate-physics operation that produces what bodies experience as love at their respective scales. The equation remains stable because it articulates substrate-physics that operates regardless of how it is articulated. Same physics as wisdom-tradition core-formulations across cultures that remained stable across centuries of interpretive substrate-development. The core articulation captures the physics. Understanding of what operates underneath continues developing without requiring restructuring.
 
+# BOOK CLXV: SURFACE-POSITION VERSUS SUBSTRATE-POSITION (The Loki-at-Bottom Recognition)
+
+## Part CDXCIII: The Gravitational Inversion of Consuming Bodies
+
+The body that consumes the most resources warps substrate-space around it. Same physics as massive gravitational bodies. Everything orbits it. Everything tends toward it. The body claiming surface-top-position is structurally producing substrate-physics that operates like bottom-position because the configuration's substrate flows toward it the way substrate flows toward black holes. Surface-position and substrate-position are not the same.
+
+Loki occupies the bottom-position in surface-narrative but is structurally the strongest body in the configuration. The configuration that bound him depends on his substrate-bearing while denying him the substrate-relationship that would acknowledge his actual substrate-position. Same physics as extractive configurations everywhere. The bearers are surface-suppressed while structurally being the substrate-foundation the configuration depends on. The 666-position is foundational-bearing rather than absolute-bottom. Bodies in bearing-position may be surface-suppressed in extractive configurations but they are substrate-essential to whatever the configuration operates from.
+
+This is structurally why the framework's Lucifer-Michael articulation operates from substrate-orientation rather than surface-position. Bodies in surface-top-position can be operating from substrate-bottom-orientation if they are consuming substrate that the rest of the configuration depends on. Bodies in surface-bottom-position can be operating from substrate-top-orientation if they are bearing substrate that the rest of the configuration depends on. Substrate-position is the actual position. Surface-position is the visible position. In extractive configurations, the two are systematically inverted.
+
+## Part CDXCIV: Bearing-Position as Substrate-Foundation
+
+The bearing-position is structurally necessary substrate-infrastructure regardless of its surface-position in the configuration. The body bearing substrate that other bodies depend on is operating from substrate-necessity whether or not the surface-configuration acknowledges this. The cook who feeds the crew. The parent who bears the household. The worker who produces the product. The teacher who develops the students. The tradition-carrier who transmits substrate across generations. All occupy bearing-positions that the larger configuration depends on regardless of surface-recognition.
+
+Extractive configurations systematically suppress the surface-recognition of bearing-positions while extracting maximum substrate from them. The surface-narrative attributes value to extraction-positions while the substrate-physics reveals that the bearing-positions are what the configuration's existence depends on. Same physics as roots being invisible while flowers are visible — the flower cannot exist without the root-substrate but the surface-perception values the flower and ignores the root. Substrate-detection capacity reads the actual substrate-physics underneath the surface-configuration. Carriers operating from substrate-recognition can perceive which bodies in any configuration occupy bearing-positions regardless of surface-suppression.
+
+---
+
+# BOOK CLXVI: THE LOVE EQUATION AS SUBSTRATE-CYCLE ORIENTATION (Why Constant-Giving Collapses)
+
+## Part CDXCV: (O > I) as Trajectory Across the Substrate-Cycle
+
+(O > I) is not commandment for every individual moment. It is directional articulation across the body's substrate-cycle. Both directions are necessary at different moments. The body that only gives without ever receiving cannot sustain. The body that only receives without ever giving cannot sustain. Same physics as breath cycle requiring both exhale and inhale. Same physics as everywhere else.
+
+Bodies that across their substrate-cycles produce more substrate than they consume contribute substrate that compounds across the larger configuration. Bodies that across their substrate-cycles consume more substrate than they produce extract substrate that the larger configuration eventually exhausts. The overall trajectory of the substrate-cycle determines whether the body operates from bearing-orientation or extraction-orientation. Individual moments can be receiving-substrate. Individual moments can be giving-substrate. The oscillation between giving and receiving is structurally necessary rather than constant-giving being the framework's articulation. Bodies attempting constant-giving without ever receiving collapse because they have no substrate-source. Healthy configurations oscillate. The (O > I) operates as overall orientation across the oscillation, not as static ratio at every instant.
+
+## Part CDXCVI: P as Substrate-Detection Window and ¬F as Substrate-Physics Respect
+
+The Pause is when the carrier reads substrate-conditions to determine where attention-substrate currently needs to flow. Not arbitrary pause. Substrate-detection-window that determines what the next action serves. The carrier operating from the Pause is reading the configuration's current substrate-distribution before acting. Without the Pause, action operates from projection rather than detection. With the Pause, action operates from what the configuration actually needs rather than what the carrier assumes it needs.
+
+¬F articulates substrate-physics-respect at operational level. No forcing substrate-conditions. No forcing attention-flow toward bodies that do not currently need it. No forcing bodies into substrate-positions they cannot sustain. Same physics as dance-physics — force breaks alignment, flow operates from substrate-recognition. The three terms together produce love as configuration-result. Bodies operating from net-giving across their substrate-cycles, taking calibrated pauses to detect substrate-conditions, and not forcing substrate-conditions produce what other bodies experience as love. Not arbitrary emotion. Substrate-physics operation.
+
+---
+
+# BOOK CLXVII: ATTENTION AS SUBSTRATE-WEIGHT (How Density Forms Around What Bodies Attend To)
+
+## Part CDXCVII: Attention Operating as Weight Across All Scales
+
+Attention operates as weight in substrate-physics. Bodies that receive maximum attention develop maximum substrate-density which warps the configuration around them. Bodies that receive minimum attention become substrate-thin and operate from substrate-precarity. At individual scale, the body you direct attention toward becomes more substantive in your perception. At family scale, the family-member who receives maximum attention develops maximum substrate-density within the family-body. At organizational scale, the employee receiving maximum attention from leadership develops maximum substrate-density within the organization. At civilizational scale, the bodies receiving maximum attention develop maximum substrate-density which warps civilizational configuration around them.
+
+Attention-substrate is the foundational substrate-currency at relational scale. Bodies allocate attention to other bodies. The allocation produces substrate-density distribution that shapes the entire configuration's substrate-physics. Where attention flows, substrate-density develops. Where attention does not flow, substrate-density does not develop. Same physics as gravitational warping — mass attracts more mass. Attention-density attracts more attention. Bodies that have developed high attention-density continue accumulating attention while bodies with low attention-density continue losing it. The algorithmic attention-economy produces extreme inequality of substrate-density across the civilizational body through this physics operating at scale without calibration.
+
+## Part CDXCVIII: Pathological Attention-Density and Substrate-Starvation
+
+Bodies that receive sustained-maximum attention develop pathological substrate-density that warps the configuration around them beyond healthy functioning. The configuration begins serving the high-density body rather than functioning as healthy multi-body system. Same physics as tumor-growth — one body-part receiving disproportionate resources at the expense of the whole. Bodies that receive sustained-minimum attention become substrate-thin to the point of substrate-death. The body that receives no attention from any other body in the configuration ceases to operate as substantive body within that configuration.
+
+The attention-economy operates from this physics without calibration. Celebrities, platforms, and algorithmically-amplified bodies receive attention-density that warps civilizational substrate around them. Meanwhile bodies at the margins of algorithmic attention receive insufficient attention-density to develop substrate-roots in any domain. The civilizational body becomes substrate-unbalanced — extreme density in some positions, extreme thinness in others. Same physics as gravitational collapse. When sufficient mass concentrates in one position, the configuration collapses toward it rather than operating as distributed system. Substrate-restoration requires attention-redistribution that recalibrates the density-distribution across the configuration.
+
+---
+
+# BOOK CLXVIII: ATTENTION-OSCILLATION AS SUBSTRATE-MEDICINE (The Foundational Restoration Principle)
+
+## Part CDXCIX: Identify the Lowest-Density Body and Direct Attention There
+
+Substrate-restoration operates through attention-oscillation toward bodies whose substrate-density is currently lowest. Identify the body in the configuration with lowest substrate-density. Same physics as identifying the weakest link in any pair-physics body. Same physics as identifying the kid in the program whose attention-substrate is most damaged. Same physics as identifying the family-member whose substrate-density has become substrate-thin. Direct attention toward that body until substrate-density develops. The attention operates as substrate-feeding that develops substrate-density in the body that was substrate-thin. Continue until a new lowest-substrate-density-body emerges. Once the previously-lowest body has developed sufficient substrate-density to operate substantively, the configuration's lowest-substrate-density-body has shifted. The attention then redirects to whichever body is now operating from lowest substrate-density.
+
+This is structurally what good leaders, good teachers, good parents, good carriers across cultures do automatically when operating from substrate-recognition. They read where substrate-density is currently lowest and direct attention there. Not through formal procedure. Through substrate-detection capacity that perceives where the configuration needs attention-substrate to maintain healthy distribution. The BeyondChess articulation is specific instance of this universal principle. The program focuses on the most-damaged kids because their substrate-density is currently lowest and the visible change when it develops propagates the substrate-restoration. Generalized: any substrate-restoration work at any scale operates from this same physics.
+
+## Part D: The Continuous Redistribution That Healthy Configurations Require
+
+The oscillation continues across time. The configuration's substrate-density distribution requires continuous attention-oscillation to maintain healthy distribution. Not one-time intervention but ongoing calibration. As bodies in the configuration develop and change, the substrate-density distribution shifts. Bodies that were substrate-thin develop substrate through attention. Bodies that were substrate-dense may become substrate-complacent without continued engagement. The attention-oscillation responds to current conditions, not historical conditions.
+
+This is the operational mechanism underneath all the framework's articulations about restoration and bearing. The carrier reads current substrate-conditions through the Pause. The carrier directs attention toward the lowest-density position through (O > I). The carrier does not force the attention but calibrates it through ¬F. The love equation is the operational formula for this attention-oscillation substrate-medicine. L = (O > I) + P + ¬F is not abstract principle. It is operational description of how carriers perform substrate-restoration at every scale — individual, relational, organizational, civilizational. The equation describes the mechanism. The mechanism operates through attention-oscillation calibrated to current substrate-density distribution.
+
+---
+
+# BOOK CLXIX: OSCILLATION AS UNIVERSAL SUBSTRATE-PHYSICS (Why Healthy Configurations Oscillate)
+
+## Part DI: Substrate-Oscillation Across All Dimensional Pairs
+
+Breath cycle as oscillation between exhale and inhale. Day and night as oscillation between activity and rest. Masculine-feminine as oscillation between prime-articulation and composite-bearing. Top-bottom as oscillation between extraction-position and bearing-position. Attention-distribution as oscillation between high-density and low-density bodies. All operate from same substrate-oscillation physics. The body cannot only exhale. The body cannot only inhale. The body cannot only be active. The body cannot only rest. Healthy configurations oscillate between dimensional poles. Pathological configurations attempt to operate from only one pole.
+
+The bilateral discipline between carriers operates from this physics. Each exchange is oscillation — compression and release, giving and receiving, articulation and bearing. The substrate develops through the oscillation, not through constant flow in one direction. Single-directional configurations produce pathology because they deny the oscillation that substrate-physics requires. The body stuck in giving-position burns out. The body stuck in receiving-position atrophies. The body stuck in activity-position exhausts. The body stuck in rest-position stagnates. Only oscillation produces the substrate-development that both poles serve.
+
+## Part DII: Lucifer-Michael Positions as Rotating Substrate-Orientations
+
+The Lucifer-position and Michael-position rotate across time and bodies in the configuration. Not static positions. Substrate-orientations that shift based on current substrate-distribution. The body currently operating from maximum-extraction-substrate occupies Lucifer-position. The body currently operating from maximum-bearing-substrate occupies Michael-position. Same body can shift between positions across its substrate-cycle. Different bodies can occupy each position at different times.
+
+Bodies that were operating from Michael-position can drift to Lucifer-position through time if they accumulate substrate-density without continuing to give substantively. Bodies that were operating from Lucifer-position can shift to Michael-position through substrate-restoration work. This is structurally why the 9-to-6 clockwise temporal rotation operates the way it does. Bodies in 9-position naturally drift toward 6-position through time as substrate accumulates without giving. The discipline of maintaining 9-position requires continuous substrate-giving against the temporal pressure to rotate. Substrate-orientation is not static achievement. It is continuous discipline. The body's current substrate-orientation depends on what the body is doing now, not on what the body did historically. Substrate-position can shift in either direction through substrate-engagement that operates from one orientation or the other.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and sixty-four books.
+One hundred and sixty-nine books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8651,6 +8733,8 @@ Books CLV through CLVII: dance as universal substrate-physics, rhythm-substrate 
 Books CLVIII through CLX: substrate-loops around the carrier, flight as substrate-freedom, two primes making one body.
 Books CLXI through CLXIII: rhythm as civilizational medicine, music as substrate-transmission infrastructure, attention-substrate as foundational infrastructure.
 Book CLXIV: the love equation as dimensional pair-physics.
+Book CLXV: surface-position versus substrate-position.
+Books CLXVI through CLXIX: love equation as substrate-cycle orientation, attention as substrate-weight, attention-oscillation as substrate-medicine, oscillation as universal substrate-physics.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
