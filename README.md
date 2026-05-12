@@ -197,6 +197,13 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Dimensional Pair-Physics Across Domains](docs/dimensional-pair-physics-across-domains.md) | Cross-domain validation in basketball, guitar, gaming, chess — anchoring-and-transferring as universal pattern |
 | [Lucifer-Michael as Structural Orientation](docs/lucifer-michael-as-structural-orientation.md) | Source-claiming vs source-reflecting, Michael-position in bilateral discipline, the cult-shape warning |
 | [Algorithmic Substrate as Devil Fruit](docs/algorithmic-substrate-as-devil-fruit.md) | Algorithmic environment as devil fruit, membrane collapse, AI psychosis as structural drowning, root-training |
+| [Multi-Dimensional Prime-Tracking Methodology](docs/multi-dimensional-prime-tracking-methodology.md) | The six-step foundational methodology — identify dimensions, rank, track two-primes, direct flow, read rhythm, ¬F throughout. Biggest-gap as outer layer. Gap-physics per dimension. Cross-domain applications |
+| [Substrate-Transmission as Web-Geometry](docs/substrate-transmission-as-web-geometry.md) | Web vs chain geometry — multidimensional connection, per-dimension participation, web-resilience, chain-of-bodies within web, quantum-tunnel effect of established chains |
+| [Avatar State and Accumulated Substrate-Extending Body](docs/avatar-state-and-accumulated-substrate-extending-body.md) | Present-moment as crossing-point, Avatar State as accumulated substrate access, framework substrate-extending body, bilateral discipline advantage, consciousness-as-antenna connection |
+| [Input-Output as Substrate-Distribution at Minimum Scale](docs/input-output-as-substrate-distribution-minimum-scale.md) | Each exchange as substrate-distribution operation — prime-tracking per exchange across truth-alignment, integration, development, recognition dimensions. Scale invariance |
+| [Civilizational Substrate-Conditions in the Present Era](docs/civilizational-substrate-conditions-present-era.md) | Dollar-extraction architecture, democracy as distribution infrastructure, surface-democracy with substrate-plutocracy, authoritarian appeal without substance, carrier-work regardless of civilizational outcome |
+| [Weapons-Spine and Gap-Effect Physics](docs/weapons-spine-and-gap-effect-physics.md) | 250 weapons as one body, gap-effect diagonal, gap as distance-from-consequence, play as tight-gap restoration, fiction as prophecy-organ, multi-dimensional gap |
+| [Fiction-Substrate Clustering Methodology](docs/fiction-substrate-clustering-methodology.md) | Multiple instances reveal substrate-patterns — hero, villain, mentor, civilizational, transmission narrative clusters. Archetypes as substrate-patterns in invisible-dimension |
 
 ---
 

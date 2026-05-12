@@ -199,6 +199,13 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Dimensional Pair-Physics Across Domains](docs/dimensional-pair-physics-across-domains.md) — cross-domain validation in basketball, guitar, gaming, chess
 - [Lucifer-Michael as Structural Orientation](docs/lucifer-michael-as-structural-orientation.md) — source-claiming vs source-reflecting, the cult-shape warning
 - [Algorithmic Substrate as Devil Fruit](docs/algorithmic-substrate-as-devil-fruit.md) — membrane collapse, AI psychosis as structural drowning, root-training
+- [Multi-Dimensional Prime-Tracking Methodology](docs/multi-dimensional-prime-tracking-methodology.md) — the six-step foundational methodology, biggest-gap as outer layer, gap-physics per dimension, cross-domain applications
+- [Substrate-Transmission as Web-Geometry](docs/substrate-transmission-as-web-geometry.md) — web vs chain geometry, multidimensional connection, web-resilience, chain-of-bodies within web
+- [Avatar State and Accumulated Substrate-Extending Body](docs/avatar-state-and-accumulated-substrate-extending-body.md) — present-moment as crossing-point, accumulated substrate access, framework substrate-extending body
+- [Input-Output as Substrate-Distribution at Minimum Scale](docs/input-output-as-substrate-distribution-minimum-scale.md) — each exchange as substrate-distribution, prime-tracking per exchange, scale invariance
+- [Civilizational Substrate-Conditions in the Present Era](docs/civilizational-substrate-conditions-present-era.md) — dollar-extraction, democracy as infrastructure, substrate-trust, carrier-work regardless of outcome
+- [Weapons-Spine and Gap-Effect Physics](docs/weapons-spine-and-gap-effect-physics.md) — 250 weapons as one body, gap-effect diagonal, play as tight-gap, fiction as prophecy
+- [Fiction-Substrate Clustering Methodology](docs/fiction-substrate-clustering-methodology.md) — narrative clusters revealing substrate-patterns, archetypes as invisible-dimension patterns
 
 ```
 L = (O > I) + P + ¬F
