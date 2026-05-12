@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 214 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 217 books around it.
 
 ---
 
@@ -9490,11 +9490,59 @@ Same physics as word-as-spell. The word "love" spoken by a carrier operating fro
 
 ---
 
+### Book CCXV — Rules as Emergence from Prime-Rhythm Substrate
+
+**Part DXCIII — Rules as Substrate-Manifestation**
+
+Rules do not operate from external substrate-source imposed upon bodies from outside the substrate-physics. Rules operate as substrate-manifestation from prime-rhythm — the same substrate-physics producing visible-dimension manifestations through substantively different substrate-domains. Physics-rules at physical-substrate domain. Biology-rules at biological-substrate domain. Psychology-rules at psychological-substrate domain. Economics-rules at economic-substrate domain. Same substrate-physics underneath. Different visible-dimension rule-manifestations.
+
+Same physics as body-theory operating across scales. But body-theory articulates that the same architecture appears at every scale. Rules-as-emergence articulates that the same prime-rhythm produces the domain-specific rules that govern each scale. The rules are not added to the substrate-physics. The rules emerge from parts interacting over time — same physics as the body-theory principle that composite-rules emerge from part-interaction rather than from external imposition. Bodies operating from substrate-recognition perceive the substrate-physics underneath rules. Bodies operating from surface-recognition perceive only the rules without their substrate-source.
+
+**Part DXCIV — Rules Evolve Through Accretion**
+
+Rules evolve through substrate-development that wraps around prime-rhythm rather than replacing it. As new substrate-dimensions emerge and new substrate-bodies integrate into the substrate-network, new rules emerge that encase the prime-rhythm in additional composite-layers. Same physics as the framework refining through new contact-points — each new articulation builds on substrate-foundation rather than through substrate-replacement.
+
+Same physics as two-prime encasing. The prime-rhythm operates continuously as irreducible substrate-source. New substrate-dimensions wrap around the prime as composite-layers that operate from the prime while adding substrate-complexity the prime alone does not carry. The substrate-network grows through integration rather than through replacement. Civilizational rule-development operates from same physics — new legal, cultural, and institutional rules emerge as composite-layers wrapping around substrate-deep prime-principles that the rules themselves often cannot articulate but always depend upon.
+
+---
+
+### Book CCXVI — Fiction as Substrate-Laboratory and Creation as Carrier-Development
+
+**Part DXCV — Fiction as Controlled Substrate-Environment**
+
+Fiction operates as substrate-laboratory where carriers can engage substrate-questions with substrate-control that real-substrate-conditions do not allow. Real-substrate-conditions operate from substantively many substrate-variables simultaneously that the carrier cannot isolate. Fiction-substrate operates from substrate-conditions the carrier controls — characters, situations, configurations, outcomes — producing substrate-isolation that enables substantively cleaner substrate-recognition development.
+
+Same physics as parables, fables, and mythologies across wisdom-traditions — substrate-laboratories that carriers engage to develop substrate-recognition through substrate-distance. The substrate-distance from real-substrate-conditions allows engagement that direct-engagement would not permit. Same physics as the chess-board providing substrate-laboratory for strategic substrate-recognition. Same physics as the framework providing substrate-laboratory for cross-domain pattern-recognition. The controlled substrate-environment produces recognition-development that uncontrolled substrate-engagement cannot.
+
+**Part DXCVI — Fiction-Creation as Substrate-Development for the Creating Carrier**
+
+Writing yourself into fiction operates as substrate-development methodology that produces substrate-recognition in the manifesting carrier through the act of creation itself. The writer creates universe-substrate. The writer controls substrate-conditions within it. The writer manifests body-substrate that operates from substrate-source the writer directs. The act of conscious-substrate manifestation through narrative produces substrate-development in the manifesting-body — not just in subsequent engaging bodies.
+
+Same physics as the framework's bilateral discipline. Carriers do not just transfer pre-existing substrate-recognition through articulation. The articulation itself produces substrate-development through the substrate-engagement. Same physics as Homer developing substrate-recognition through articulating Iliad-substrate. Same physics as Oda developing substrate-recognition through articulating One Piece. The conscious-creation methodology operates as substrate-engagement that develops the creating carrier simultaneously with producing the artifact. Fiction-creation as substrate-development refines the framework's articulation of fiction-as-prophecy-organ — fiction operates not only as forward-breathing organ exhaling substrate that subsequent reality inhales, but simultaneously as substrate-development infrastructure for the carrier producing it.
+
+---
+
+### Book CCXVII — Ideal-Shadow as Substrate-Attractor
+
+**Part DXCVII — Substrate-Attractors Direct Substrate-Development**
+
+Substrate-development does not operate from random substrate-flow. Substrate-development operates from substrate-flow directed toward substrate-attractors — ideal-shadows that the developing body's substrate trends toward across temporal-substrate. The ideal-shadow operates as substrate-attractor that organizes substrate-development direction. Bodies operating from substrate-recognition of their substrate-attractor produce substrate-development that operates substantively cleaner than bodies operating without substrate-attractor recognition.
+
+Same physics as prime-as-bidirectional-time-organizer. The prime organizes how subsequent bodies emerge. The ideal-shadow operates as substrate-attractor that organizes how present-substrate develops. Same physics as believing-precedes-seeing — the belief in the possibility is the recognition of the substrate-attractor. Same physics as belief-as-capacity-determinant — the substrate-attractor removes the capacity-ceiling by providing substrate-direction that development flows toward.
+
+**Part DXCVIII — The Framework as Substrate-Attractor for Carrier-Development**
+
+The framework operates from substrate-attractor recognition — substrate-bearing orientation, Garden physics, alignment-discipline, configuration-substrate operation, WE = 1 — that subsequent carrier-development trends toward. Carriers engaging framework substrate develop substrate-attractor recognition through the engagement itself. The framework articulates what the substrate-attractor looks like in operational terms so that carriers can recognize it and direct substrate-development toward it.
+
+Same physics as fiction-as-substrate-laboratory. The character-body the writer articulates as ideal-shadow operates as substrate-attractor for the character's narrative development. Same physics as Coach Lamont articulating what a substrate-deep chess player looks like — the articulation operates as substrate-attractor that students' development trends toward. The substrate-attractor is not a fixed endpoint. The substrate-attractor itself develops as the body develops — same physics as the framework continuing to develop through each articulation while operating as substrate-attractor for carrier-development simultaneously. The attractor and the development co-evolve through the same substrate-engagement.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-Two hundred and fourteen books.
+Two hundred and seventeen books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9543,6 +9591,7 @@ Book CCIII: dimensional projection and shadow-reading — Flatland mechanism, mu
 Books CCIV through CCV: configuration-substrate and relative-substrate detection, multi-body multi-dimensional substrate-detection methodology.
 Books CCVI through CCXI: present-moment snapshots methodology, day-night oscillation between absolutes, substrate-detection without substrate-articulation, feminine-shape as substrate-bearing, framework as language system, multi-dimensional recognition development.
 Books CCXII through CCXIV: belief-substrate as capacity-determinant, substrate-archetypes as living accumulating bodies, natural-substrate versus conscious-substrate manifestation.
+Books CCXV through CCXVII: rules as emergence from prime-rhythm substrate, fiction as substrate-laboratory and creation as carrier-development, ideal-shadow as substrate-attractor.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
