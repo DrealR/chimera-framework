@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 169 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 174 books around it.
 
 ---
 
@@ -8702,11 +8702,93 @@ Bodies that were operating from Michael-position can drift to Lucifer-position t
 
 ---
 
+# BOOK CLXX: PRESSURE-GRADIENT SUBSTRATE-PHYSICS (Why Substrate Flows From Dense to Thin)
+
+## Part DIII: The Pressure-Gradient Principle Across All Substrate-Domains
+
+Substrate flows from high-concentration to low-concentration across all scales. Same physics across thermodynamics, fluid dynamics, market dynamics, attention-distribution, social-substrate dynamics, civilizational substrate-flow. Concentrated substrate naturally redistributes toward equilibrium across time. The second law of thermodynamics is one specific articulation of this physics in physical-substrate. The framework's substrate-physics articulations operate from the same underlying principle across all substrate-domains.
+
+The submarine implodes because external pressure exceeds internal pressure. The substrate flows from high-pressure water to low-pressure air by collapsing the boundary that maintained the pressure-differential. Bodies in space explode because internal pressure exceeds external pressure. Same physics inverted. The substrate flows from high-pressure inside to low-pressure vacuum by rupturing the boundary. Substrate-pressure-gradients drive substrate-flow at every scale. Bodies operating from high substrate-density are structurally positioned to release substrate to bodies operating from low substrate-density. The substrate-flow happens naturally if the boundary between them allows it. The boundary configuration determines whether the flow operates as healthy substrate-distribution or as collapse-pathology.
+
+The framework should hold these articulations with appropriate care. Pressure-gradient physics in physical-substrate is well-established empirical science. Attention-substrate and relational-substrate appear to operate from analogous principles. The analogies are substantively useful for substrate-recognition. They should not be overclaimed as identical-mechanism claims. The framework operates from substrate-deep recognition that the same patterns operate across scales while maintaining honesty about what is empirical claim versus what is substrate-physics articulation.
+
+## Part DIV: Boundary-Substrate as Determinant of Flow-Quality
+
+Healthy substrate-flow operates from calibrated boundary-substrate. Bodies with substrate-density transfer substrate to bodies with less substrate-density through boundaries that allow flow at sustainable rates. Same physics as cell-membranes that allow nutrient-substrate to flow into cells without dissolving the cells. The boundary preserves the bodies while allowing the substrate-flow. Pathological substrate-flow operates from boundary-rupture. The pressure-differential overwhelms the boundary-substrate. Bodies collapse or explode. The substrate-flow happens catastrophically rather than gradually.
+
+For carriers operating substrate-restoration work: develop calibrated boundary-substrate that allows substrate-flow without producing boundary-rupture. Same physics as skilled teachers, therapists, leaders, and substrate-deep practitioners across domains. They establish boundary-substrate that allows substrate-transfer from their substrate-density to the receiving body without overwhelming either body. Coach Lamont teaching kids without overwhelming them. Bilateral discipline operating from sustainable substrate-exchange. Wisdom-tradition carriers across cultures transmitting substrate through boundary-configurations that preserve both bodies. The pressure-gradient drives the flow naturally. The boundary-substrate determines whether the flow operates as healthy distribution or as collapse.
+
+---
+
+# BOOK CLXXI: GAP-TRACKING AS SUBSTRATE-DETECTION (How Configurations Reveal Where Work Needs to Flow)
+
+## Part DV: The Gap Between Strongest and Weakest as Health Indicator
+
+Watch the gap between fastest and slowest body in any configuration. When the gap is small, the configuration is operating from healthy substrate-distribution. When the gap is large, the configuration is operating from substrate-distribution-pathology. The gap itself is substrate-detection data. Same physics across domains. Good leaders, good teachers, good coaches track the gap between strongest and weakest body in their configurations automatically. When the gap grows, they direct attention toward weakest body. When the gap shrinks, they redistribute attention.
+
+For carriers operating substrate-deep work: develop gap-detection capacity in domains they engage with. What is the gap between most-engaged and least-engaged student in the program. What is the gap between most-developed and least-developed substrate-domain in your own development. What is the gap between most-substrate-dense and least-substrate-dense relationship in your relational-substrate. The gap is data that informs where the work needs to flow. The configuration tells you where attention needs to flow through the gap-distribution it produces. Not arbitrary preference for which body to attend to. Substrate-detection of where the configuration currently needs substrate-flow to maintain healthy distribution.
+
+## Part DVI: Fractal-Scaling of Substrate-Physics Across All Scales
+
+The same physics operates across all scales because WE = 1. Markets. Bodies. Relationships. Civilizations. Cosmic-substrate. Same pressure-gradient physics. Same attention-oscillation. Same substrate-redistribution. Fractal scaling of the same underlying substrate-physics. Carriers who develop substrate-recognition in one domain can recognize the same substrate-physics operating in other domains. The articulation is universal even though the surface-mechanics vary across domains.
+
+This is structurally what makes the framework's articulations transferable across domains. The framework's articulations connect across seemingly-unrelated domains because they are not unrelated. They are different surface-articulations of the same underlying substrate-physics. Wisdom-traditions across cultures have always recognized this. The framework articulates it in present-era vocabulary calibrated for present-era substrate-conditions. Substrate-physics is fractal across scales. Same patterns operate at quantum scale, biological scale, individual scale, relational scale, organizational scale, civilizational scale, cosmic scale. Same substrate. Different scales. Same articulation.
+
+---
+
+# BOOK CLXXII: BLIND-SPOTS AS ATTENTION-WARPING BYPRODUCTS (Why Bodies Cannot See What They Depend On)
+
+## Part DVII: Attention-Concentration Producing Structural Blind-Spots
+
+Where attention concentrates, perception sharpens. Where attention does not concentrate, perception fades to blind-spot. Every body has blind-spots because attention is finite and configurations have many dimensions. The blind-spots are not failures of perception. They are structural byproducts of attention having direction. Same physics as gravitational warping that bends light-paths around massive bodies.
+
+Bodies operating from extractive configurations produce specific blind-spots. The bodies have concentrated attention on extraction-substrate. They have developed substantive perception of extraction-opportunities. They have blind-spots regarding the bearing-substrate their extraction depends on. The attention-direction produces the perception-pattern. The non-attended-substrate becomes invisible. Bodies in extractive configurations see the other bodies as demons because their attention has been pulled into the extractive-substrate they are concentrated in. The substrate that connects them to the bodies they extract from has fallen into their blind-spot. They cannot see the substrate-relationship because they have no attention available to direct toward it. Not malice. Substrate-physics operating from where their attention has been concentrated.
+
+## Part DVIII: The Hollowed-Middle as Blind-Spot Pathology
+
+The hollowed-middle pathology is structurally a blind-spot pathology. Not just middle-substrate being extracted. The middle-substrate has fallen into the blind-spots of both top-position bodies and bottom-position bodies because their attention has been pulled into concentration on extraction-substrate or survival-substrate respectively. The middle becomes invisible to both because neither has attention available to direct toward it.
+
+Attention-warping produces structural blind-spots that bodies cannot perceive their way out of without external substrate-restoration. Bodies in their own blind-spots cannot perceive that they have blind-spots. Carriers operating from substrate-recognition can perceive blind-spots in bodies they engage with that the bodies themselves cannot perceive. This is structurally what makes substrate-deep teaching different from surface-teaching. The teacher with substrate-recognition perceives the student's blind-spots and directs attention toward substrate the student cannot see. The student then develops substrate-recognition for what was previously invisible to them. Same physics as wisdom-tradition transmission across cultures. The substrate-deep teacher reveals what was always there but the student could not perceive due to attention-warping.
+
+---
+
+# BOOK CLXXIII: THE DISTRIBUTED ATTENTION-NETWORK (Why Collective Substrate-Recognition Outperforms Central Direction)
+
+## Part DIX: Program as Substrate-Restoration-Network
+
+The BeyondChess program can operate as distributed-attention-infrastructure where all the kids participate in substrate-distribution-oscillation. Not just Coach Lamont teaching each kid individually. The program itself operating as substrate-restoration-network where collective attention flows toward whichever kid is currently substrate-thin. The kid currently operating from lowest substrate-density receives concentrated attention from the group. All the other kids direct attention toward helping that kid develop substrate-density.
+
+The kids directing attention develop substrate-density themselves through the act of teaching. Teaching requires substrate-organization that benefits the teacher's substrate-development. The kid receiving attention develops substrate-density through the concentrated attention-flow. The configuration's overall substrate-density rises through this oscillation. New lowest-substrate-density-kid emerges as previous lowest develops. The attention redirects. The oscillation continues across time. This transforms the program from individual-skill-training to substrate-restoration-network. The program produces carriers who have integrated substrate-distribution-physics into their substrate-extending bodies. They carry the substrate-physics into all their subsequent substrate-engagements. Same physics as wisdom-tradition transmission across cultures.
+
+## Part DX: Decentralized Substrate-Recognition Versus Centralized Control
+
+Healthy configurations operate from substrate-recognition integrated into all bodies rather than from centralized direction. The carrier does not need to direct each individual moment of substrate-flow. The configuration itself produces substrate-flow toward the lowest-substrate-density-position because all the bodies in the configuration have integrated substrate-recognition of where the lowest position currently is. Same physics as everywhere else. The substrate-physics operates whether or not any specific body directs it. Bodies operating from substrate-recognition allow the substrate-physics to operate through them.
+
+The framework operates as substrate-recognition-infrastructure rather than substrate-direction-infrastructure. The framework does not direct what carriers should do. The framework articulates substrate-physics that operates whether or not carriers articulate it. Carriers integrating the framework develop substrate-recognition that allows the substrate-physics to operate through them substantively. As the kids in the program develop substrate-recognition through participating in the substrate-distribution-oscillation, they will increasingly operate the oscillation without requiring the coach's direction. Same physics as everywhere else. The substrate-physics operates through them once they have integrated substrate-recognition of how it operates.
+
+---
+
+# BOOK CLXXIV: PRIME-RHYTHM VERSUS SUBSTRATE-DISTRIBUTION (Two Scales of the Same Physics)
+
+## Part DXI: Intra-Body Rhythm and Inter-Body Oscillation
+
+The prime-rhythm within a substrate — dribble-to-shot, movement-to-quickscope, strum-to-fret — operates at different scale than the substrate-distribution oscillation. Both are real. They operate at different levels of organization within the substrate-physics. Prime-rhythm operates at intra-body or intra-skill scale. The fundamental rhythm-substrate within a domain that a body must master to operate substrate-freely within the domain. Substrate-distribution oscillation operates at inter-body or inter-position scale. The attention-substrate distribution across the bodies in a configuration. Different scale. Same underlying substrate-physics.
+
+Within an individual body developing skill in a domain, the substrate-distribution oscillation operates across the body's substrate-domains. The carrier directs attention to the substrate-domain currently operating from lowest substrate-density within their own substrate-extending body. Within a team-body, the substrate-distribution oscillation operates across the players. Within a domain generally, the oscillation operates across all the competing bodies. Same physics at every scale. For individual skill development specifically: develop the prime-rhythm within the domain, then apply substrate-distribution oscillation within your own substrate-development by directing attention to whichever component is currently operating from lowest substrate-density. Both operate together to produce substantive substrate-development across time.
+
+## Part DXII: Carrier-Rotation and Rubber-Band Substrate-Integrity
+
+Bodies operating from substrate-distribution-oscillation stretch and contract together rather than fragmenting. When one position becomes substrate-thin, the oscillation directs substrate toward it, restoring the connection. Healthy bodies maintain integrity through continuous substrate-flow between their positions. Pathological bodies fragment when substrate-flow between positions stops. Same physics across all scales.
+
+The same body cannot maintain the same position indefinitely. The temporal pressure to drift between positions means that bodies must shift positions across time to maintain substrate-orientation health. Same body in same position across decades drifts toward pathology regardless of initial substrate-orientation. Bodies in carrier-positions need to rotate across time. The work transmits to subsequent carriers who carry the substrate forward. The framework's substrate continues across carriers and generations rather than depending on any single body maintaining position indefinitely. The substrate is what propagates. Bodies are temporary configurations that carry substrate during their substrate-cycles. Same physics as everywhere else. The substrate continues even as specific bodies rotate through their substrate-cycles.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-One hundred and sixty-nine books.
+One hundred and seventy-four books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -8735,6 +8817,8 @@ Books CLXI through CLXIII: rhythm as civilizational medicine, music as substrate
 Book CLXIV: the love equation as dimensional pair-physics.
 Book CLXV: surface-position versus substrate-position.
 Books CLXVI through CLXIX: love equation as substrate-cycle orientation, attention as substrate-weight, attention-oscillation as substrate-medicine, oscillation as universal substrate-physics.
+Books CLXX through CLXXI: pressure-gradient substrate-physics, gap-tracking as substrate-detection.
+Books CLXXII through CLXXIV: blind-spots as attention-warping byproducts, the distributed attention-network, prime-rhythm versus substrate-distribution.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
