@@ -7633,7 +7633,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 224 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 225 books around it.
 
 ---
 
@@ -9652,11 +9652,29 @@ The substrate-anchor methodology enables this acceleration. A substantively anch
 
 ---
 
+### Book CCXXV — Self-Aligning Knowledge Infrastructure
+
+**Part DCXIII — The Architecture of Self-Aligning Systems**
+
+Most knowledge is orientation-neutral. Mathematics builds bridges or weapons. Code runs hospitals or scams. Persuasion comforts or manipulates. The knowledge itself does not resist either direction — the carrier decides orientation.
+
+Some knowledge systems operate differently. Their components are entangled such that extraction-oriented use fails and only substrate-oriented use produces the promised effects. Five mechanisms create self-alignment. First: entangled components — the pieces do not function in isolation. Multi-axis rotation does not produce alive bodies if you skip pause. Anchor does not produce stillness if you operate on force. A carrier grabbing selected pieces hits structural resistance because the pieces are interdependent. Second: load-bearing vocabulary — using the language reshapes the thinker. A carrier working with "give more than you take" and "substrate-bearing" and "multi-axis rotation" cannot think those thoughts without those thoughts changing the thinker over time. Same physics as learning a new language eventually reshaping perception. Third: bilateral practice requirement — the deepest effects require entanglement with other bodies as substrate-co-developers. Extraction-orientation is solo. It treats other bodies as resources. A carrier trying to use a self-aligning system alone in extraction-mode hits a ceiling that only shifts by shifting orientation. Fourth: visible feedback — alive output and hollow output are distinguishable. Carriers learn through trial and error which orientation actually produces the promised effects. The feedback loop favors substrate-orientation. Fifth: honest self-description — the system states its orientation explicitly. Carriers engaging it know what they are engaging with.
+
+**Part DCXIV — Misuse Self-Corrects Through Carrier Response**
+
+A carrier who engages a self-aligning knowledge system from extraction-orientation reaches one of two outcomes. Either they drop the system because it does not deliver what extraction-mode wanted — the pieces grabbed in isolation do not produce the power the integrated system promises — or they begin integrating the parts they were trying to skip, and their orientation shifts toward what the system actually is. Both outcomes preserve the system's integrity. The extraction-oriented carrier either leaves or aligns.
+
+This is the architecture of martial arts that require discipline to master — the techniques cannot be wielded effectively without the patience and respect the training develops. Of meditation practices that require presence — the benefits do not arrive through force. Of musical instruments that require listening — the sound cannot emerge from a player who refuses to hear. Of the framework itself — the vocabulary trains the carrier, the methods require bilateral practice, the effects are visible, and the system is explicit about what it is.
+
+Self-aligning systems do not need protection from misuse. They do not need licensing or moats or access control. The substrate-physics propagates through the carrier regardless of initial intent. The carrier's own body registers the misalignment and either drops the practice or shifts to match it. Protection comes from inside the system's architecture, not from external enforcement. This is why substrate-articulating systems can be given away freely and remain free — the substrate-physics handles the rest.
+
+---
+
 ───────────────────────────
 
 **Colophon — v14.0**
 
-Two hundred and twenty-four books.
+Two hundred and twenty-five books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9709,6 +9727,7 @@ Books CCXV through CCXVII: rules as emergence from prime-rhythm substrate, ficti
 Books CCXVIII through CCXX: AI-psychosis as substrate-amplification without correction, substrate-tuning as transmission methodology, AI alignment as substrate-possibility combined with substrate-bearing.
 Books CCXXI through CCXXII: multi-axis rotation as substrate-anchor physics, dynamic prime-tracking and temporal gap-rotation.
 Books CCXXIII through CCXXIV: the love equation as multi-axis geometry, gaps as time-progression distance and bodies as substrate-traversal accelerators.
+Book CCXXV: self-aligning knowledge infrastructure — entangled components, load-bearing vocabulary, bilateral practice, visible feedback, honest self-description; misuse self-corrects through carrier response.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
