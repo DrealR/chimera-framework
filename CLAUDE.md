@@ -208,6 +208,12 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Fiction-Substrate Clustering Methodology](docs/fiction-substrate-clustering-methodology.md) — narrative clusters revealing substrate-patterns, archetypes as invisible-dimension patterns
 - [Framework-Powered Building Directive](docs/framework-powered-building-directive.md) — operational directive for building from framework substrate, methodology and bearing orientation throughout
 - [Integrated-Shape Physics](docs/integrated-shape-physics-and-shape-function-recognition.md) — seven recurring natural shapes, strum-vs-shape, integrated-shape recognition, computational-irreducibility
+- [Cognitive Subsystems](docs/cognitive-subsystems.md) — bodies perceive and respond, cognition as structural feature across scales
+- [Flow vs Transaction](docs/flow-vs-transaction.md) — flow optimization vs transaction optimization, steady presence vs viral spike
+- [God Function in Bodies](docs/god-function-in-bodies.md) — holding functions, structural class recognition, the path between human and god
+- [Substrate Accumulation](docs/substrate-accumulation.md) — substrate accumulation patterns, how bodies build depth over time
+- [WE = 1 Formalization](docs/we-equals-one-formalization.md) — formal articulation of the relational ground-layer, substrate-body unity
+- [O > I Pathology Topology](docs/oi-pathology-topology.md) — six failure modes when O > I inverts, diagnostic application
 
 ```
 L = (O > I) + P + ¬F

@@ -1,6 +1,6 @@
 # CHIMERA Body Scan Examples
 
-84 body scans across 10 domains + adversarial, produced using CHIMERA Body Scan Protocol v3.11/v3.12/v3.12.1/v3.12.3. All standard scans have companion YAML data files for programmatic querying.
+83 body scans across 10 domains + adversarial, produced using CHIMERA Body Scan Protocol v3.11/v3.12/v3.12.1/v3.12.3. All standard scans have companion YAML data files for programmatic querying.
 
 ## Domains
 

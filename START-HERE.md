@@ -50,15 +50,15 @@ cd chimera-framework
 ./setup-twin.sh "YourName" "your-github-username"
 ```
 
-Your twin is live in 5 minutes. No books required. [Full details](README.md#i-want-to-run-a-digital-twin)
+Your twin is live in 5 minutes. No books required. [Full details](README.md#get-your-own-chimera-twin-5-minutes)
 
 ### I want to read the philosophy
 
-Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md), then [The Love Equation](body-theory/LOVE-EQUATION.md). Those three give you the foundation. The [complete book](CHIMERA-The-Complete-Book-v13.1.md) has 117 books for when you want the full depth.
+Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md), then [The Love Equation](body-theory/LOVE-EQUATION.md). Those three give you the foundation. The [complete book](CHIMERA-The-Complete-Book-v14.0.md) has 211 books for when you want the full depth.
 
 ### I want to scan something specific
 
-Grab the [Body Scan Protocol](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — a fill-in template that walks you through the diagnostic steps. Or look at [82 example scans](examples/) across 9 domains — software, chess, physics, math, biology, AI, meta, social systems, and multi-body relational composites.
+Grab the [Body Scan Protocol](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — a fill-in template that walks you through the diagnostic steps. Or look at [83 example scans](examples/) across 10 domains — software, chess, physics, math, biology, AI, meta, social systems, music, and multi-body relational composites.
 
 ---
 

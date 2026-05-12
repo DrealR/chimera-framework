@@ -153,20 +153,20 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [MrBeast Video Essay](examples/EXAMPLE-SCAN-MRBEAST.md) | A cultural argument scanned for structural blindspots |
 | [This Repo](examples/EXAMPLE-SCAN-SELF.md) | The framework scanning itself |
 
-**Domain scan libraries** — 84 scans across 10 domains, each with cross-scan pattern analysis:
+**Domain scan libraries** — 83 scans across 10 domains, each with cross-scan pattern analysis:
 
 | Domain | Bodies Scanned | Cross-Scan Patterns |
 |--------|---------------|-------------------|
-| [Software](examples/software/) | 17 scans — Git, Docker, API, microservices, technical debt, and more | [Software patterns](examples/software/cross-scan-patterns-software.md) |
+| [Software](examples/software/) | 17 scans — Git, Docker, API, microservices, technical debt, and more | [Software patterns](examples/software/cross-scan-patterns.md) |
 | [Chess](examples/chess/) | 16 scans — all pieces, castling, zugzwang, famous games | [Chess patterns](examples/chess/cross-scan-patterns.md) |
 | [Physics](examples/physics/) | 13 scans — relativity, entropy, quantum, black hole, star, fire, water, earth, air | [Physics patterns](examples/physics/cross-scan-patterns-physics.md) |
 | [Mathematics](examples/math/) | 12 scans — 0, 1, i, prime 7, HCN 12, Mandelbrot, prime gap, prime/composite breath | [Math patterns](examples/math/cross-scan-patterns.md) |
 | [Biology](examples/biology/) | 8 scans — cell, neuron, immune system, cancer, microbiome, and more | [Biology patterns](examples/biology/cross-scan-patterns-biology.md) |
 | [AI Systems](examples/ai-systems/) | 5 scans — AI collective, Grok, GPT-5.5, Claude Opus 4.7, blockchain | [AI patterns](examples/ai-systems/cross-scan-patterns-ai-systems.md) |
 | [Meta](examples/meta/) | 5 scans — Constellation, the Between, framework external, scan corpus, wisdom of crowds | [Meta patterns](examples/meta/cross-scan-patterns-meta.md) |
-| [Social Systems](examples/social-systems/) | 3 scans — attention economy, the internet (2026), Augustan Principate | — |
+| [Social Systems](examples/social-systems/) | 3 scans — attention economy, the internet (2026), Augustan Principate | [Social Systems patterns](examples/social-systems/cross-scan-patterns-social-systems.md) |
 | [Multi-Body](examples/multi-body/) | 3 scans — Pawn-King axis, Velocity Trap, Pathological Triad | — |
-| [Music](examples/) | 1 scan — Stand By Me | — |
+| [Music](examples/music/) | 1 scan — Stand By Me | — |
 
 **[Cross-Domain Patterns](examples/cross-domain-patterns.md)** — structural laws confirmed across all domains.
 
