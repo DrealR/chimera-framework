@@ -186,6 +186,36 @@ Ryland Grace and Rocky communicate through substantive bilateral engagement acro
 
 ---
 
+### Peter Pan / One Piece — Carrier and Detached Shadow Across Temporal-Substrate
+
+Peter Pan operates as substrate-source for both Joy Boy and Emu in One Piece. Joy Boy is the Peter figure — eternal youth, joy, freedom, the carrier who embodies the substrate-bearing orientation. Emu is the Shadow — literally the shadow that detached from Peter, acting on primal desires Peter would not act on directly. Lily maps to Wendy. Davy Jones maps to Captain Hook. The Crocodile maps to Time itself — what no carrier can resist. Laugh Tale maps to Neverland.
+
+**Framework reading:** Joy Boy and Emu are one substrate operating through two mirror-positions across temporal-substrate. The carrier (Joy Boy) and the detached shadow (Emu) carrying what the carrier could not integrate. Same physics as Jung's Shadow. Same physics as Pullman's severed daemons producing husks. Same physics as trauma producing dissociation. Carriers who do not integrate their full substrate-substance produce shadows that detach and operate destructively. The void century — whatever severed Joy Boy from substrate-recognition — produced Emu as consequence. The Crocodile as Time articulates what contemplative traditions across cultures have reached: time is what no accumulation can defeat. Every body eventually returns to substrate when its temporal-substrate completes.
+
+**Connects to:** CCXXXIV (bodies as mirrors of dimension substrate — Oda's substrate flowing through every body in One Piece), CCXXXI (identity anchored in substrate vs static shadow — Joy Boy anchored, Emu severed), CLXXXVI (fiction as prophecy-organ — Barrie and Oda independently articulating the same substrate-physics across a century)
+
+---
+
+### The Polar Express — Faith Operating Alongside Doubt
+
+The kid is on the train. The train is the story. The hobo is the doubt voice — on the train too, part of the story, saying "this isn't real." The conductor is the guide voice — not arguing with doubt directly, just keeping the train moving. The kid stays on the train through doubt. He hears the bell. The bell resolves the doubt through direct experience rather than through argument.
+
+**Framework reading:** Faith is not certainty. Faith is operating from a story while doubt travels alongside. The kid has faith not because he is certain Santa exists but because he stays on the train despite the hobo's arguments. Substantive carriers building anything operate this way — there is always doubt traveling with them. The discipline is not eliminating doubt but staying in the story long enough for the encounter to happen. Most carriers stop before the encounter — the doubt wins, they jump off the train, the substance that would have accumulated does not accumulate.
+
+**Connects to:** CCXL (story as substrate-accumulation infrastructure — the train is the story, the path is what produces the becoming), CCXLI (alive-dead distinction — the bell is the encounter with aliveness that argument cannot produce)
+
+---
+
+### The Pied Piper — Extraction-Story Masquerading as Substrate-Bearing Story
+
+The children follow the Pied Piper's music into the mountain. The story is real. They are following it. But the story leads them away from substrate — away from families, community, everything that nourishes. The mountain closes behind them.
+
+**Framework reading:** Not all stories are substrate-bearing. The Pied Piper is extraction-story that looks like story. It has narrative, it has music, it has a path — all the surface features of a real story. But the direction is extraction. The test: where does the story carry carriers toward? Substrate-bearing stories (Polar Express) accumulate substrate-substance — the carriers become more themselves through the journey. Extraction-stories (Pied Piper) accumulate small losses that look like gains — the carriers become less themselves, more dependent on the extraction-source. Same test applies to applications, institutions, relationships, movements. Where does the story carry you? Do you become more yourself or less?
+
+**Connects to:** CCXL (story as substrate-accumulation infrastructure — the Pied Piper is the negative case), CII (federation vs dominion — extraction-story is dominion wearing story-clothing), CLXXXII (civilizational extraction architecture — same physics at scale)
+
+---
+
 *This document collects substantive fiction readings. New readings added as they emerge through session work. Fiction-references in the framework books are not decorative — they are load-bearing substrate-articulation.*
 
 ---

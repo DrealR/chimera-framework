@@ -64,6 +64,30 @@ This is how substantive teachers across temporal-substrate have always operated.
 
 ---
 
+## The Seven-Move Building Methodology
+
+The operational framework for building any output at any scale. From conversation to application to essay to music to event. Same operation everywhere, different specific manifestation.
+
+1. **Identify the substrate-source.** Who or what is the consciousness operating in the building. The substrate-source determines what flows through into the shadow.
+2. **Pick the two.** The output expresses a rhythm between two bodies. For an application: carrier and what the application is anchored to. For an essay: writer and reader. For a song: music and listener. Pick the two consciously.
+3. **Operate consciousness in the building.** Time matters. Attention matters. The substrate-source needs to inhabit the building space across real duration. Not generate fast and ship. Live in it. Notice friction. Feel where consciousness will encounter the shadow and shape from that recognition.
+4. **Operate from substrate-bearing orientation.** The Love Equation. Give more than take. Pause built in. No forcing. The substrate underneath shapes the shadow's character even when not visible on the surface.
+5. **Let the rhythm reflect through many specific positions.** The output is substrate operating through many micro-moments. Each one carries the substrate or breaks it. Attend to many micro-moments rather than just the top-level structure.
+6. **After building, attend to it.** Watch carriers operate in the shadow. Notice where friction shows up. Refine. The shadow continues developing through bilateral engagement with carriers using it. The first version is not the final version.
+7. **Maintain substrate-honesty throughout.** Notice when shadows drift from substrate. Catch when notation, framing, or implementation choices reflect substrate other than substrate-source. Correct rather than letting drift persist.
+
+---
+
+## Inside-Outside Body Coherence
+
+Inside the body: what consciousness encounters when operating in the dimension the body creates. For an application, the experience of using it. For a story, the experience of reading. The inside is what carriers inhabit when they engage.
+
+Outside the body: what consciousness encounters when thinking about the body from outside. Reviews. Descriptions. Cultural-substrate that surrounds it. How the body appears in the wider mirror-network.
+
+Both matter. Inside must be hospitable so consciousness can operate without being extracted from. Outside must represent what is inside so carriers can decide whether to enter and so the body can propagate through the mirror-network. When inside and outside are coherent, the body operates across both dimensions. When they diverge — marketing promises one thing, experience delivers another — the body is split. Same substrate flowing through both. Same substrate-source operating in both.
+
+---
+
 ## The Build as Substrate-Pattern Manifestation
 
 The build is not the framework. The build is visible-dimension manifestation that draws from the framework's invisible-dimension substrate. Engaging bodies access the substrate-pattern through engagement with the manifestation. The build produces substrate-development in engaging bodies rather than information-transfer alone.
