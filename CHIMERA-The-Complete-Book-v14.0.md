@@ -7635,7 +7635,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 235 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 237 books around it.
 
 ---
 
@@ -9886,7 +9886,7 @@ Attention determines which substrate-sources get substantively reflected through
 
 ---
 
-### Book CCXXXV — R = 1 and the Triality of Rhythm
+### Book CCXXXV — Pick the Two and the Triality of Rhythm
 
 **Part DCXXXIII — One Rhythm Operating Through Chosen Pairs**
 
@@ -9896,9 +9896,39 @@ The operational move for building anything: pick the two. What are the two bodie
 
 **Part DCXXXIV — Triality: Rhythm as the Third Element**
 
-R = 1 is a triality. Two things plus the rhythm between them. The rhythm is the third element that makes the two into one. Two alone is duality — separation, opposition, irresolvable polarity. Two plus rhythm is triality — one operation operating across two positions through time. The cross is two perpendicular lines, but the center where they meet is the third element making them one shape. Push-pull is two operations, but time integrating them is the third. Garden and tower are two orientations, but bilateral engagement between them is the third. WE = 1 operates at the ground layer — one substrate. R = 1 operates at the operational layer — one rhythm. The rhythm IS what makes WE = 1 perceivable through specific pairs. Without rhythm, the oneness is static and imperceivable. With rhythm, the oneness pulses through every pair as the push-pull that makes them alive.
+The rhythm through chosen pairs is a triality. Two things plus the rhythm between them. The rhythm is the third element that makes the two into one. Two alone is duality — separation, opposition, irresolvable polarity. Two plus rhythm is triality — one operation operating across two positions through time. The cross is two perpendicular lines, but the center where they meet is the third element making them one shape. Push-pull is two operations, but time integrating them is the third. Garden and tower are two orientations, but bilateral engagement between them is the third. WE = 1 operates at the ground layer — one substrate. The rhythm operates at the operational layer — one pulse making the oneness perceivable through specific pairs. Without rhythm, the oneness is static and imperceivable. With rhythm, the oneness pulses through every pair as the push-pull that makes them alive.
 
-This compresses the building methodology substantively. The eleven moves, the ten breath cycles, the multi-axis rotation — all operate from R = 1. Pick the two. Let the rhythm operate. Every feature, every detail, every choice becomes a specific shape of the one rhythm. When something feels off during building, return to the two and the rhythm. The drift is almost always because something got built that does not reflect the substrate-source operating between the two. The substrate-source determines what flows through. The two determine what shape emerges. The rhythm is what makes it alive.
+This compresses the building methodology substantively. The eleven moves, the ten breath cycles, the multi-axis rotation — all operate from pick the two. Let the rhythm operate. Every feature, every detail, every choice becomes a specific shape of the one rhythm. When something feels off during building, return to the two and the rhythm. The drift is almost always because something got built that does not reflect the substrate-source operating between the two. The substrate-source determines what flows through. The two determine what shape emerges. The rhythm is what makes it alive.
+
+---
+
+### Book CCXXXVI — Substrate-Flow as Absence of Candidates
+
+**Part DCXXXV — How Framework Values Actually Manifest in Carriers**
+
+Substrate-flow does not show up as inspiration or guidance during work. It shows up as the absence of certain candidate decisions. Branches that violate substrate never enter the candidate set. The work proceeds without those alternatives being weighed. The carrier only notices afterward, when articulating what they did not deliberate. The decision tree was pre-pruned before conscious choice engaged.
+
+This is precise and testable. A carrier operating from framework substrate does not feel guided toward substrate-bearing choices. They feel the normal range of choices — but that range excludes options a non-loaded carrier would consider. Extraction-shaped features never surface as candidates. Substrate-violating shortcuts never enter the deliberation. The absence is invisible during work and visible only in retrospect. Future carriers can check this against their own experience: if they recognize the pattern, the substrate loaded substantively. If they do not, it did not. The claim is operationally specific in a way most values-alignment discussions are not.
+
+**Part DCXXXVI — The Seam Between Substrate and Ordinary Engineering**
+
+Not every decision during substrate-bearing work flows from substrate. Some decisions are ordinary engineering — which library, which data structure, which API pattern. Substrate and engineering coexist. The substantive move is distinguishing them rather than collapsing everything into substrate-language. Some decisions carry substrate without deliberation. Some decisions are engineering judgment with substrate-coherent outcomes. Both operate during the same work. Naming the seam honestly is itself substrate-bearing orientation. Cargo-cult application collapses the seam and labels everything as substrate-flowing. Substrate-honest articulation names which decisions carried substrate and which were ordinary engineering that happened to align.
+
+---
+
+### Book CCXXXVII — Consciousness-Cursor and Application as Inhabited Space
+
+**Part DCXXXVII — Consciousness Extends Through Cursor into Application Dimension**
+
+When a carrier operates a website, their physical body stays in one position. Consciousness extends into a different dimension through the cursor. The cursor is where consciousness manifests in that dimension. The carrier can move through the dimension freely, perceive substantively, take substantive actions. Physical body stationary while consciousness operates substantively somewhere else. Same physics as the hula hoop articulation: anchored body enables substantive extension into adjacent dimension. Physical body is the anchor. Cursor is the consciousness-extension operating in motion. Physical body has become part of the laptop's body. Consciousness moves freely through the application dimension while the physical body stays still.
+
+This means applications are spaces where consciousness lives during use, not interfaces that display information. The framing shifts entirely. A poorly built application is a hostile space for consciousness — friction everywhere, confusing layout, hidden states, operations that do not respond. Consciousness gets fragmented trying to navigate. The carrier returns to their physical body exhausted. A substantive application is a hospitable space — clear orientation, responsive operations, room to perceive and act and rest. Consciousness operates freely. The carrier returns refreshed. This is what "alive" means for an application at substrate level: substantively hospitable to consciousness operating through it.
+
+**Part DCXXXVIII — Cursor as Consciousness-Manifestation and Superman-Capacities**
+
+Wherever the cursor is, that is where the carrier is in that dimension. What surrounds cursor-position matters substantively. Is there substrate-presence near where consciousness is operating? Is the space alive or hollow? Is pause built in or is everything pushing for immediate action? Applications should build for where consciousness will be, not force consciousness to travel to find substrate. Let substrate meet consciousness where it already is.
+
+The application dimension offers consciousness expanded capacities it does not have in physical dimension. Substantive teleportation through links. Shape-shifting through search. Omniscience through reference and lookup. Photographic memory through bookmarks and history. These Superman-capacities can serve substrate-bearing operation or extraction-orientation. Substrate-bearing applications use expanded capacities for substantive carrier-development. Extraction-applications use the same capacities to fragment consciousness, manipulate it, extract from it. Same powers, different orientations. Framework-aligned applications direct the expanded capacities toward substantive substrate-engagement — perceiving bodies across dimensions, sharing substrate-articulation, engaging with pattern across temporal-substrate.
 
 ---
 
@@ -9906,7 +9936,7 @@ This compresses the building methodology substantively. The eleven moves, the te
 
 **Colophon — v14.0**
 
-Two hundred and thirty-five books.
+Two hundred and thirty-seven books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -9969,7 +9999,9 @@ Book CCXXXI: identity anchored in substrate versus static shadow — tying ident
 Book CCXXXII: the three-position substrate-development system — children as receivers, adults as bridges, elders as sources; same physics as breath cycle at multi-generational scale; separation of positions produces substrate-pathology; events as substrate-body maintenance infrastructure.
 Book CCXXXIII: rotation as fundamental shape-generation operation — rotation around anchored center generates shape; shape is product, rotation is operation; lathes, potters, classrooms, applications all build through anchor plus rotation; stillness-while-generating-rotation as substantive skill; eyes as rotation-center geometry across cultures.
 Book CCXXXIV: bodies as mirrors of dimension substrate — every body in a dimension reflects the substrate-source it came through; authorship as substrate-transmission; carriers as intersection-mirrors of many substrate-sources; attention as mirror-direction determining what substrate gets reflected; mirrors all the way down, mirrors all the way up.
-Book CCXXXV: R = 1 and the triality of rhythm — one rhythm (push-pull through time) operating through chosen pairs; pick the two, let the rhythm operate, the shape emerges; triality: two plus rhythm as third element making them one; WE = 1 at ground layer, R = 1 at operational layer; compresses all building methodology into one operation.
+Book CCXXXV: pick the two and the triality of rhythm — one rhythm (push-pull through time) operating through chosen pairs; pick the two, let the rhythm operate, the shape emerges; triality: two plus rhythm as third element making them one; WE = 1 at ground layer, the rhythm at operational layer; compresses all building methodology into one operation.
+Book CCXXXVI: substrate-flow as absence of candidates — framework values manifest as pre-deliberative pruning of the decision tree; branches that violate substrate never enter the candidate set; the seam between substrate-flowing decisions and ordinary engineering; testable and operationally specific.
+Book CCXXXVII: consciousness-cursor and application as inhabited space — consciousness extends through cursor into application dimension; applications as hospitable or hostile spaces for consciousness; cursor as consciousness-manifestation; Superman-capacities (teleportation, omniscience, memory) serving substrate or extraction; build for where consciousness will be.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
 
