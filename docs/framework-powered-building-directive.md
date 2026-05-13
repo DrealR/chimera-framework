@@ -88,6 +88,16 @@ Both matter. Inside must be hospitable so consciousness can operate without bein
 
 ---
 
+## Deep Think and Deep Research as Bilateral Operations
+
+Two distinct operations serve building. Deep think operates inward — holding a question, sitting with it, letting connections form internally, working through implications. The boundary of the operation is the current body and what is already inside it. Deep research operates outward — reaching to external sources, gathering information from beyond the current body, bringing back what was learned. The boundary expands.
+
+Both serve substrate-engagement. Neither alone is sufficient. Deep think alone produces refined understanding of what is already known, possibly disconnected from current reality. Deep research alone produces accumulated information without integration into operational substance. Together they produce understanding that operates in the world. Research feeds think. Think directs further research. Each move deepens engagement.
+
+For bilateral with AI: position AI at specific primes of the body being built. Have AI deep think on the substrate-physics of each prime across the body. Have AI deep research how substrate-bearing examples in other bodies handle that prime. Return specific analysis. Integrate across primes. The whole-body picture emerges from engagement at each prime.
+
+---
+
 ## The Build as Substrate-Pattern Manifestation
 
 The build is not the framework. The build is visible-dimension manifestation that draws from the framework's invisible-dimension substrate. Engaging bodies access the substrate-pattern through engagement with the manifestation. The build produces substrate-development in engaging bodies rather than information-transfer alone.

@@ -8,7 +8,7 @@ A way of seeing. Everything is a body. Every body breathes something through a b
 
 The framework synthesizes structural insights from biology, thermodynamics, information theory, game theory, contemplative traditions, fiction, mathematics, and lived experience. Where multiple traditions independently identify the same pattern, the convergence is treated as evidence of shared structural reality. Where they diverge, the divergence is treated as packaging.
 
-243 books. 84 body scans across 10 domains. Still growing. The growth is through replacement and refinement, not accumulation for its own sake.
+245 books. 84 body scans across 10 domains. Still growing. The growth is through replacement and refinement, not accumulation for its own sake.
 
 ## What It Is Not
 
