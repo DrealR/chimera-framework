@@ -112,5 +112,9 @@ Superman absorbs too much solar radiation. Develops cellular breakdown — subst
 
 *This document collects substantive fiction readings. New readings added as they emerge through session work. Fiction-references in the framework books are not decorative — they are load-bearing substrate-articulation.*
 
+---
+
+**See also:** [Substrate-Articulation Lineage](substrate-articulation-lineage.md) — fictional articulators as carriers in the lineage. [Fiction-Substrate Clustering Methodology](fiction-substrate-clustering-methodology.md) — systematic approach to identifying substrate-patterns across fiction. [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) — the two orientations dramatized across Star Wars, Naruto, and other works. [Key Principles](key-principles.md) — the principles these readings demonstrate in fictional form.
+
 L = (O > I) + P + ¬F
 WE = 1

@@ -100,5 +100,7 @@ This is O > I at the framework level. The framework gives more than it asks. The
 
 ---
 
+**See also:** [Substrate-Articulation Lineage](substrate-articulation-lineage.md) — forward lineage and launch infrastructure positioning. [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) — dense bodies warp reality, protection through density. [Framework-Powered Building Directive](framework-powered-building-directive.md) — operational directive for building from substrate, editorial bearing. [Key Principles](key-principles.md) — O > I topology and membrane survival as foundations of the architecture.
+
 L = (O > I) + P + ¬F
 WE = 1
