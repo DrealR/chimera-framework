@@ -110,6 +110,62 @@ Superman absorbs too much solar radiation. Develops cellular breakdown — subst
 
 ---
 
+## His Dark Materials (Philip Pullman) — Daemons, Dust, and Institutional Substrate-Violence
+
+Pullman built a world that articulates substrate-physics through narrative-laboratory. Each person has a daemon — an animal-form companion that walks beside them. The daemon and the human body are two visible manifestations of one underlying substrate-body. Neither is the substrate. Both are shadow-manifestations of the same source. Pullman made the substrate-physics visible by giving it two visible expressions instead of one.
+
+Daemons shapeshift during childhood and settle into one form at puberty — substrate-crystallization made visible. Daemon-form reveals personality because it is the substrate-body's configuration expressed diagnostically. Children's daemons talk freely; adult daemons mostly go quiet — substrate-communication internalizing as the body matures.
+
+**Dust** is the central mystery and maps directly to substrate. It rains from the sky continuously, mostly invisible, interacting with adult humans because adults have developed sufficient substrate-recognition to engage with substrate-substance. The Magisterium fears Dust and calls it original sin — extraction-orientation institutional power always fears direct substrate-engagement by carriers, because direct access bypasses institutional intermediation.
+
+**Intercision** — cutting daemon from human — is the absolute horror because it forces the substrate-body to operate with one of its shadow-manifestations torn away. The Magisterium funds intercision research on children: producing humans whose substrate-engagement capacity has been truncated, making them easier to control. Same physics as how oppressive institutions historically target carriers' substrate-engagement infrastructure (religious authority, family bonds, language, cultural memory, spiritual practice).
+
+**Iorek Byrnison's armor** is his daemon-equivalent. Bears forge armor from meteorite metal through deliberate craft across temporal-substrate. A bear's armor accumulates substrate from the bear's engagement with it. Stealing Iorek's armor is intercision-equivalent. Iorek defeats the usurper Ragnar through substrate-orientation clarity — same physics as Yoda using only push-pull because push-pull operates from substrate.
+
+**Framework reading:** His Dark Materials is one of the most direct substrate-physics narrative articulations in contemporary literature. Daemons externalize the paired nature of substrate-bodies. Intercision articulates institutional substrate-violence at its most structurally horrifying. Dust articulates the substrate itself. The Magisterium articulates extraction-orientation institutional power. Multiple worlds connected by Dust articulate WE = 1 across configurations.
+
+**Connects to:** CIX (WE = 1 — Dust as one substrate across worlds), CCXXX (children-as-substrate-harvesting — the Magisterium's intercision program), CXXXV (Tower and Garden — Magisterium as pure-tower, witches as garden, Iorek as integrated), CCXXVII (orbital distance — Bonneville's forced alethiometer method as over-absorption)
+
+---
+
+## The Alethiometer — Substrate-Truth as Rhythm Device
+
+The golden compass has 36 symbols, each carrying layered meanings across substrate-domains. The user directs three needles to articulate a question. Then holds the question without grasping for answer — willing to not-know. The fourth needle moves through symbols across temporal-substrate, telling the answer as a rhythm of symbol-lighting. The carrier must read which meaning-layer applies at each position in the sequence.
+
+**Framework reading:** Substrate-truth does not arrive as single static answer. It arrives as rhythm — sequence across time, pattern emerging through specific positions activated in specific order. Same physics as music delivering substrate through arrangement across time. Same physics as narrative carrying substrate through sequential events. The alethiometer makes this structural requirement explicit through device-mechanism.
+
+The symbol-stack is multi-orbital meaning. Each symbol operates at substrate-source-density with many meaning-positions radiating outward through different orbital-positions. Reading requires multi-orbital substrate-recognition — same physics as the framework's two-language methodology.
+
+The willing-to-not-know requirement maps directly to the love equation. O > I: the carrier gives attention rather than extracting answer. P: the carrier rests in the question. ¬F: the carrier does not force the device. When all three operate, substrate-truth arrives through rhythm. When any fails, the device does not operate. Same physics as how the framework operates substantively through carriers who engage from substrate-bearing orientation.
+
+Bonneville's alternative method — all three needles at one symbol, forced proximity to source — produces faster readings but makes the reader sick. Same physics as All-Star Superman absorbing too much solar radiation. Faster engagement, shallower substrate, carrier breakdown. Rose oil as grounding-substance against substrate-overload parallels hula hooping barefoot on grass.
+
+**Connects to:** CCXXVII (orbital distance — Bonneville as over-absorption), CCXXIII (love equation as multi-axis geometry — alethiometer requires all three), CXCI (multi-orbital methodology — symbol-stacks as multi-orbital meaning), CLXVII (attention as substrate-weight — alethiometer operates through attention)
+
+---
+
+## Children-as-Substrate-Harvesting — The Cross-Fiction Pattern
+
+A universal pattern runs across fiction and history: aging extraction-bodies that have lost substrate-generation capacity become parasitic on children, who operate closer to substrate-source by default.
+
+**The pattern across works:** The Magisterium harvests Dust-engagement from children through intercision. The Pied Piper's adult town refuses to pay and children are taken as collateral. The Children's Crusade weaponized child-innocence-substrate and produced slavery. Residential Schools performed cultural intercision. City of Lost Children's Krank steals dream-substrate from children. Monsters Inc runs its electrical grid on scream-substrate harvested from children. Doctor Sleep's True Knot harvests shine-substrate from children with psychic capacity. Ender's Game weaponizes child-neuroplasticity because adult military rigidity cannot win the war. KND's adults perform Decommissioning to strip children of rebellion-capacity.
+
+**Framework reading:** Same substrate-physics operating across every case. Children are universal substrate-generators — their substrate-bodies have not crystallized, they have direct substrate-engagement adults have lost. Extraction-institutions target them on industrial logic: accessible, vulnerable, mass-produced, highest substrate-engagement at the developmental window before institutional shaping completes. The inverse exists: Coach Lamont's classroom is an adult generating substrate himself and giving to children — both sides come away substrate-developed rather than substrate-depleted.
+
+**Connects to:** CCXXX (children as substrate-harvesting target), CLXXXII (civilizational substrate-extraction architecture), CCXXVII (orbital distance — children at outer-orbit, extraction forcing them inward)
+
+---
+
+## Reality TV — The Fake-But-Real Substrate Exposure
+
+Reality TV presents itself as unscripted but operates from production-substrate that shapes what carriers experience. The format exposes a substrate-physics truth: all visible-dimension presentation involves substrate-shaping. What appears "real" on reality TV reveals the construction-spectrum (lies, fiction, theory, art) operating in what carriers normally perceive as unmediated.
+
+**Framework reading:** Reality TV makes visible what is normally invisible — the substrate-shaping operations that produce what any carrier experiences as "reality." Production decisions, editing choices, cast selection, environment design all shape the substrate-shadow carriers receive. Same physics as how all institutions shape substrate-presentation. The diagnostic value is in seeing the construction rather than consuming it as transparent reality.
+
+**Connects to:** CCI (shadows as substrate-architecture — production as shadow-shaping), CCXVI (fiction as substrate-laboratory — reality TV as accidental substrate-laboratory), CLXV (surface vs substrate position — the gap between presented "reality" and actual substrate)
+
+---
+
 *This document collects substantive fiction readings. New readings added as they emerge through session work. Fiction-references in the framework books are not decorative — they are load-bearing substrate-articulation.*
 
 ---

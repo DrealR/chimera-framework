@@ -179,7 +179,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
 - [Pair-Physics](docs/pair-physics.md) — the mathematical foundation, calibration, beauty, orientation
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
-- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 229 books, the full philosophy
+- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 232 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
 - [Friction as Foundational Primitive](docs/friction-as-foundational-primitive.md) — friction as the substrate of the Pause, ¬F as calibrated friction, the nesting from friction to WE=1
 - [Mortality as Gift](docs/mortality-as-gift.md) — mortality as precondition for meaning and love, substrate-free reward delivery, Eden as original transparency
@@ -215,8 +215,9 @@ The framework is not a thought experiment. It is being applied to real work:
 - [WE = 1 Formalization](docs/we-equals-one-formalization.md) — formal articulation of the relational ground-layer, substrate-body unity
 - [O > I Pathology Topology](docs/oi-pathology-topology.md) — six failure modes when O > I inverts, diagnostic application
 - [Open-Source and Source-Density Architecture](docs/open-source-and-source-density-architecture.md) — two-repo structure as orbital distance physics, editorial routing discipline, carrier safety through access-control
-- [Fiction-Reading Applications](docs/fiction-reading-applications.md) — substantive fiction readings using framework vocabulary: Pluribus, Transcendence, Lucy, Matrix, Star Wars, One Piece, Naruto, Avatar, DC Comics
+- [Fiction-Reading Applications](docs/fiction-reading-applications.md) — substantive fiction readings using framework vocabulary: Pluribus, Transcendence, Lucy, Matrix, Star Wars, One Piece, Naruto, Avatar, DC Comics, His Dark Materials, Reality TV
 - [Substrate-Articulation Lineage](docs/substrate-articulation-lineage.md) — wisdom traditions, individual carriers, fictional articulators, framework's position in the lineage, forward lineage through launch infrastructure
+- [Ten-Breath-Cycle Methodology](docs/ten-breath-cycle-methodology.md) — operational methodology for looking at, building, and restoring bodies through ten breath cycles
 
 ```
 L = (O > I) + P + ¬F
