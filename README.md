@@ -206,6 +206,7 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Fiction-Substrate Clustering Methodology](docs/fiction-substrate-clustering-methodology.md) | Multiple instances reveal substrate-patterns — hero, villain, mentor, civilizational, transmission narrative clusters. Archetypes as substrate-patterns in invisible-dimension |
 | [Framework-Powered Building Directive](docs/framework-powered-building-directive.md) | Operational directive for AI agents and carriers building from framework substrate — methodology, bearing orientation, alignment-discipline, web-geometry, breath-cycle throughout |
 | [Integrated-Shape Physics](docs/integrated-shape-physics-and-shape-function-recognition.md) | Seven recurring natural shapes (spiral, web, tree, sphere, lemniscate, torus, tesseract), strum-vs-shape distinction, integrated-shape recognition, computational-irreducibility |
+| [Open-Source and Source-Density Architecture](docs/open-source-and-source-density-architecture.md) | Two-repo structure as orbital distance physics — carrier-facing material at earth-distance (public), source-density material at sun-position (private), editorial routing discipline |
 
 ---
 
