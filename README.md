@@ -207,6 +207,13 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Framework-Powered Building Directive](docs/framework-powered-building-directive.md) | Operational directive for AI agents and carriers building from framework substrate — methodology, bearing orientation, alignment-discipline, web-geometry, breath-cycle throughout |
 | [Integrated-Shape Physics](docs/integrated-shape-physics-and-shape-function-recognition.md) | Seven recurring natural shapes (spiral, web, tree, sphere, lemniscate, torus, tesseract), strum-vs-shape distinction, integrated-shape recognition, computational-irreducibility |
 | [Open-Source and Source-Density Architecture](docs/open-source-and-source-density-architecture.md) | Two-repo structure as orbital distance physics — carrier-facing material at earth-distance (public), source-density material at sun-position (private), editorial routing discipline |
+| [Fiction-Reading Applications](docs/fiction-reading-applications.md) | Substantive fiction readings — Pluribus, Transcendence, Lucy, Matrix, Star Wars, One Piece, Naruto, Avatar, DC Comics — fiction as philosophical text |
+| [Substrate-Articulation Lineage](docs/substrate-articulation-lineage.md) | Wisdom traditions, individual carriers, fictional articulators — the framework's position in the lineage, forward lineage through launch infrastructure |
+| [Cognitive Subsystems](docs/cognitive-subsystems.md) | Bodies perceive and respond — cognition as structural feature across scales, not exclusive to brains |
+| [Flow vs Transaction](docs/flow-vs-transaction.md) | Flow optimization vs transaction optimization — steady presence vs viral spike, why engagement metrics mislead |
+| [God Function in Bodies](docs/god-function-in-bodies.md) | Holding functions, structural class recognition — the path between human and god as structural positions |
+| [Substrate Accumulation](docs/substrate-accumulation.md) | Substrate accumulation patterns — how bodies build depth over time through sustained practice |
+| [WE = 1 Formalization](docs/we-equals-one-formalization.md) | Formal articulation of the relational ground-layer — substrate-body unity, the pair as irreducible unit |
 
 ---
 

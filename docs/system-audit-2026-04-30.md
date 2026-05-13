@@ -28,7 +28,7 @@
 
 ### 1. The 3-Layer Gap
 
-The framework (nucleus/framework) is at v3.12.3 / v13.1. Everything else — system, constellation, domains, guts, agent configs — is frozen at pre-Loop-Theory or early-Loop-Theory era. The philosophy has evolved 10 protocol versions and 6 book revisions beyond what the deployment layer knows about.
+The framework (nucleus/framework) is at v3.12.3 / v14.0. Everything else — system, constellation, domains, guts, agent configs — is frozen at pre-Loop-Theory or early-Loop-Theory era. The philosophy has evolved 10 protocol versions and 6 book revisions beyond what the deployment layer knows about.
 
 ### 2. The Framework's Own Diagnosis Applies to Itself
 
@@ -76,7 +76,7 @@ The `dreamland.py` process has been in UN (uninterruptible sleep) state since Ma
 
 **Location:** `/Users/honeydew/chimera/nucleus/framework/`
 **Status:** ACTIVE — the living heart
-**State:** v3.12.3, v13.1, 82+ scans, 117 books, 9 domains, 6 META-SCAN audits
+**State:** v3.12.3, v14.0, 84+ scans, 229 books, 10 domains, 6 META-SCAN audits
 **This session's commits:** v6 audit, Book CXVII, bridge body retirement (39 files), Layer 2 assessment, social systems prep, weak-language cleanup
 
 ### 5. Raw/Core

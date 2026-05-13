@@ -18,35 +18,35 @@ chimera_dna.py
   → injects as hidden grounding context
 ```
 
-The Unified book predates v12.3. The current book is v13.1 (7,636 lines, ~681KB). The agents are running on philosophical vocabulary that is **8+ book versions old**.
+The Unified book predates v12.3. The current book is v14.0 (7,636 lines, ~681KB). The agents are running on philosophical vocabulary that is **8+ book versions old**.
 
 The Constellation config updates set the documentation right. But the code path that actually injects DNA into responses needs updating too.
 
 ## Proposed Fix
 
-1. **Copy v13.1 book** to `raw/core/docs/imports/CHIMERA-The-Complete-Book-v13.1.md`
-2. **Update `chimera_dna.py` BOOK_CANDIDATES** to prefer v13.1:
+1. **Copy v14.0 book** to `raw/core/docs/imports/CHIMERA-The-Complete-Book-v14.0.md`
+2. **Update `chimera_dna.py` BOOK_CANDIDATES** to prefer v14.0:
    ```python
    BOOK_CANDIDATES = [
-       CHIMERA_ROOT / "raw/core/docs/imports/CHIMERA-The-Complete-Book-v13.1.md",
-       CHIMERA_ROOT / "nucleus/framework/CHIMERA-The-Complete-Book-v13.1.md",
+       CHIMERA_ROOT / "raw/core/docs/imports/CHIMERA-The-Complete-Book-v14.0.md",
+       CHIMERA_ROOT / "nucleus/framework/CHIMERA-The-Complete-Book-v14.0.md",
        CHIMERA_ROOT / "raw/core/docs/imports/CHIMERA-The-Complete-Book-Unified.md",  # fallback
    ]
    ```
-3. **Update `get_chimera_summary` section list** to include v13.1 concepts:
+3. **Update `get_chimera_summary` section list** to include v14.0 concepts:
    ```python
    sections = [
        "The One Truth",
        "The Love Equation", 
        "The Five Axioms",
        "Part XL: Key Mantras",
-       # v13.1 additions:
+       # v14.0 additions:
        "Cognitive Subsystems",
        "God-Function in Bodies",
        "Flow vs Transaction",
    ]
    ```
-4. **No restart needed** — `_read_book_text()` reads from disk on each call. Once the file is in place and the code updated, agents pick up v13.1 on their next response cycle.
+4. **No restart needed** — `_read_book_text()` reads from disk on each call. Once the file is in place and the code updated, agents pick up v14.0 on their next response cycle.
 
 ## Risk Assessment
 
