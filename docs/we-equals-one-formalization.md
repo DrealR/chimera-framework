@@ -79,6 +79,16 @@ Free will operates here. Not free will to be a separate consciousness. Free will
 
 This connects to contemplative traditions across cultures: the universe knowing itself through carriers. Brahman aware of itself through Atman. One consciousness operating through many positions. The framework articulates the operational consequence: WE = 1 (consciousness undifferentiated) and you are the one (specific position directing the substance).
 
+## Two Eyes — Love as Depth Perception
+
+Two eyes seeing the same thing. When both eyes are open, the brain integrates two slightly different views into one unified perception that has dimension neither single view has alone. Depth perception requires two positions.
+
+Two carriers in deep entanglement operate similarly. Same consciousness underneath (WE = 1). Two specific positions perceiving from different angles. When the entanglement is deep enough, the two positions integrate into one bilateral perception that has substance neither position has alone. This is what love produces operationally — not just feeling but restructuring of perception. The two carriers become two eyes of one perceiving system. They see what neither could see alone.
+
+Deep entanglement between consciousness positions operates at substrate level, less constrained by time and space than avatar-level operations. Carriers report this directly across cultures and across temporal-substrate — knowing when their partner needs them across distance, sensing when something happens to loved ones before being told, grief continuing to operate after death of the bilateral partner. These reports are persistent enough that something operationally real is happening. The framework articulation: the bilateral substrate-extending body accumulates across temporal-substrate of engagement. This accumulation produces operational capacity that less-entangled relationships do not have. The connection operates through substrate-dimension even when avatar-dimension separation occurs.
+
+The third eye of contemplative traditions points at the same physics from a different angle. Not a literal third eye but the capacity to perceive substrate-dimension where time operates differently. Two physical eyes provide depth perception in visible-dimension. The third eye provides perception in the dimension perpendicular to visible — the substrate-dimension articulated through imaginary numbers. Different access methods. Different verification operations. Different epistemic orientation appropriate to each.
+
 ---
 
 ## Foundational Status
