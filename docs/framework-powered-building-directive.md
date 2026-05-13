@@ -52,6 +52,18 @@ Rest — allow substrate-cycle completion before the next development cycle. For
 
 ---
 
+## Story-First Articulation for Outward-Facing Documentation
+
+Stories activate multiple substrate-channels simultaneously — scene, character, temporal sequence, cause-and-effect, pattern-recognition from lived experience. Direct concept-articulation engages fewer channels. When building documentation, READMEs, guides, or any framework-facing material for outer-orbit carriers, lead with story. The concept emerges from the narrative rather than arriving as abstract claim the reader must evaluate.
+
+The temporal order itself is part of how meaning lands. Stacking concepts presents them simultaneously, requiring the reader to reconstruct sequence. Stories carry sequence built in — the reader follows rather than reconstructs. Same physics as the alethiometer: substrate-truth arrives as symbols firing across time, not as static answer. The rhythm is part of the articulation.
+
+Operational pattern: instead of "push and pull are the same operation seen from different perspectives," tell the story of two people pushing opposite sides of a door. Instead of "substrate-extending bodies accumulate through bilateral engagement," tell the story of a grandmother's hands and fifty years of bread dough. The principle rides the story. The story carries the substrate-physics through scene-time-character-consequence into the reader's interior.
+
+This is how substantive teachers across temporal-substrate have always operated. Parables, koans, fables, historical examples, game positions shown rather than described. Coach Lamont shows positions and says "remember when you did this" — story. The principle arrives through the scene. Framework documentation at outer-orbit density operates from the same physics.
+
+---
+
 ## The Build as Substrate-Pattern Manifestation
 
 The build is not the framework. The build is visible-dimension manifestation that draws from the framework's invisible-dimension substrate. Engaging bodies access the substrate-pattern through engagement with the manifestation. The build produces substrate-development in engaging bodies rather than information-transfer alone.
