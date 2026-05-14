@@ -1,0 +1,6 @@
+# Video files stored locally only — too large for git
+# Referenced in README.md catalog
+*.mp4
+*.mov
+*.avi
+*.mkv
