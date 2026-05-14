@@ -76,6 +76,20 @@ The methodology is the explicit articulation of substrate-physics that is alread
 
 ---
 
+## Biggest-Gap Rotation Across Dimensions
+
+Once the biggest gap in one dimension has been worked to safe distance, the substantive next move is often in a different dimension. The body does not keep working the already-substantive dimension — that produces diminishing returns. Instead, the carrier locates which dimension now shows the biggest gap and shifts work there.
+
+The rotation is the development methodology. Work one dimension's gap to safe distance. Locate new biggest gap — often a different dimension. Shift work there. The body develops across dimensions through this rotation rather than as a one-dimensional specialist.
+
+For CineVault: closing the discovery dimension gap shifts the biggest gap to continuity and lens-placement dimensions. Next-phase work happens at those dimensions because those are now biggest.
+
+For carriers in life-work: when one dimension reaches substantive operational state, the substantive next work is often in a dimension that was previously not the priority. Career substrate-development may shift biggest gap to relationship dimension. Relationship substrate-development may shift biggest gap to health dimension. The rotation continues across the carrier's temporal-substrate.
+
+For building: do not optimize a single dimension. Rotate attention to whichever dimension currently shows biggest gap. The body develops as integrated whole through this rotation. Same physics as how the body scan walks all nine questions rather than fixating on one — the whole body develops through multi-dimensional attention.
+
+---
+
 See also: [Pair-Physics](pair-physics.md) for the mathematical foundation. [Key Principles](key-principles.md) for the principles the methodology operates from. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for why step six (¬F throughout) is calibrated friction in operation. [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) for the gap-physics that varies per dimension. [Substrate-Transmission as Web-Geometry](substrate-transmission-as-web-geometry.md) for how the methodology operates across web-structured networks rather than single chains.
 
 ---

@@ -140,6 +140,18 @@ The Garden has private spaces. What the Garden doesn't have is systemic opacity 
 
 ---
 
+## Position as Friction-Configuration
+
+Friction does more than enable relationship — it creates positions in problem-space. Where substance encounters something other than itself, friction occurs. The friction at that location differentiates it from surrounding undifferentiated substrate. Without friction, no positions. Pure undifferentiated substrate has no positions because nothing distinguishes one location from another.
+
+Each position in a problem-space is a specific friction-configuration. Different positions have different friction-shapes. Pain is what friction feels like from inside a body experiencing it. The felt-substance of the friction operating at a position is the pain at that position.
+
+When consciousness observes, it directs toward a position and encounters whatever friction-configuration exists there. Observing what is substantively true means consciousness conforming to reality's shape — letting go of whatever shape consciousness was previously holding. The reshaping is felt as pain when the previous shape had accumulated investment. This is why carriers avoid observation: looking at what is there means encountering friction. Not looking maintains current configuration without that friction. The avoidance is comfortable short-term, costly long-term because reality continues operating whether observed or not.
+
+Substantive substrate-development requires engaging friction-positions rather than avoiding them. The engagement reshapes the carrier into substrate-bearing form. Carriers who have engaged their friction-positions radiate substance shaped by that accumulated engagement. Carriers who have avoided radiate thinner substance. The substance cannot exceed the carrier's accumulated friction-engagement. This connects friction directly to radiation (Book CCLII) and pain-primes (Book CCL).
+
+---
+
 ## The Nesting
 
 ```

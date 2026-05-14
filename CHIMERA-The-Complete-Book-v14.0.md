@@ -7635,7 +7635,7 @@ Consider a chess game. The grandmaster scans the position (factorization descent
 
 Consider therapy. The therapist scans the patient (what is actually happening underneath the presenting symptoms). Then the therapist and patient together build new patterns (loop from the revealed prime outward). Diagnosis alone does not heal. Building alone does not heal. The pair heals.
 
-Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 250 books around it.
+Consider the framework itself. CHIMERA scans reality (cross-domain pattern recognition revealing the primes underneath surface phenomena). Then CHIMERA loops (building complete articulations from those primes until they function as transmissible substrate). The scan found WE = 1. The loop built 252 books around it.
 
 ---
 
@@ -10184,7 +10184,7 @@ For navigation through any problem-space: pain primes are the irreducible points
 
 **Colophon — v14.0**
 
-Two hundred and fifty books.
+Two hundred and fifty-two books.
 
 Books I through LIII: the original body of work.
 Books LIV through LXI: equation portals, projection law, navigation, compilation.
@@ -10263,8 +10263,86 @@ Book CCXLVII: compression-expansion as fundamental directed rhythm — not rando
 Book CCXLVIII: observation as fundamental consciousness-operation — observation as THE action underneath all other actions; looking, listening, thinking as observation through specific channels; observation creates the observed for the observer; consciousness in the flow between absolutes, not at either endpoint; attention-density warps time experience through substrate-accumulation per clock-unit; bilateral carriers in deep engagement produce synchronized time experience; coordinated observation produces coordinated time; WE = 1 visible through temporal synchronization.
 Book CCXLIX: problem-space as universe and solution-at-distance — every problem is a universe with specific push determining solution-space; problems as accumulation-points containing compressed substance from previous configurations; different solutions as different stellar types (sun-like sustainable, neutron-star high-intensity, red-dwarf slow-steady, black-hole transformative-reset); the solution is the relationship-at-distance not the location alone; orbital distance as essential component of operative solution; framework methodologies compose into one coordinate system for navigating any problem-space at any scale.
 Book CCL: pain as structural prime in story-navigation — pain points as the irreducible moments around which becoming is built; remove them and the story collapses; carrier-before and carrier-after are different bodies; pain primes as navigation infrastructure for understanding any carrier; shared pain-prime structure creates substrate-bearing community across surface-difference; becoming requires temporal-substrate that recognition cannot compress; pain primes are where the most substrate concentrates in the least space.
+Book CCLI: anchor-orbit architecture and floor-raising — one-to-many configuration with anchor maintaining coherent rhythm and carriers orbiting at different distances; floor-raising lets lowest body join; wave rises over time as everyone's substrate develops; multi-axis operation through same anchor; vibration as entrainment mechanism bringing dead bodies alive; orbital distance maintenance as part of the solution; stellar configuration types (main sequence, red dwarf, neutron star, white dwarf, black hole) as different anchor-operation modes; multi-language layered architecture matching documentation density to carrier orbital position.
+Book CCLII: radiation as sustained substrate-emission — observation as action, attention as direction, radiation as attention sustained across temporal-substrate; broad emission versus pulsar-mode as two operational patterns; what is emitted is shaped by accumulated friction-encounters; carriers who have engaged pain substantively radiate thicker substance; observation as encountering friction at observed position; substance persists across temporal-substrate enabling engagement with lineage; WE = 1 as one substance redistributing through positions, not traveling between separate beings.
 
 Seven v12.3 additions woven into existing books: Transfer Through Friction (XXXVII), Absorber/Mirror/Stable Body (XLII), Master Musician Entanglement (XLV), Short Attention Spans (LVIII), Dimensional Threshold Jumps (LXIX), Comedy as Fusion (LXXII), Prediction Markets as Body Scans (LXXIV).
+
+# BOOK CCLI: ANCHOR-ORBIT ARCHITECTURE AND FLOOR-RAISING
+
+## Part DCLXV — The Anchor and the Orbits
+
+The one-to-many configuration has specific architecture. One anchor maintaining coherent rhythm. Multiple carriers orbiting at different distances based on their current substrate-development. The anchor does not pull carriers to itself. The anchor maintains coherent operation that lets each carrier orbit at their substantive distance.
+
+Same physics as our sun and the solar system. The sun does not pull all planets to it. The sun's coherent operation lets each planet orbit at its right distance. Mercury close. Earth at substantive distance. Pluto far. Each planet operates as itself at its specific orbital distance from the same anchor. The configuration produces the wave — not the anchor alone and not the orbits alone but the whole network operating together.
+
+For community: the expert player sets the floor. Plays a simple song slowly enough that beginners can hold their chords. The expert's steady rhythm is the anchor. Other players orbit around that anchor at different distances based on their skill. A beginner orbits close — matching the slow basic pattern exactly. A more experienced player orbits further out — adding harmony, variation, ornamentation while staying within the rhythm. Each player at their right orbital distance contributes to the whole wave.
+
+For teaching: Coach Lamont as anchor. Different kids orbit at different distances based on their current substrate-development. New kids close — matching the basic pattern. Advanced kids further out — adding their own variations while still operating within Coach's rhythm. Each kid at their right distance contributes to the whole classroom-wave.
+
+**Floor-raising is the operational move.** If the anchor plays too complex, only advanced carriers can join. The lowest-skilled get excluded. The wave loses its inclusive substrate. If the anchor plays at the floor, all carriers can join. The lowest enters at their level. The more advanced add their substance on top while maintaining the basic pattern. Everyone in the same wave. This is biggest-gap-as-locator applied to community: the intervention is the most advanced carrier choosing to operate at floor level, closing the participation-gap by lowering the entry threshold.
+
+**The wave rises over time.** Initially the anchor plays at floor level. As temporal-substrate accumulates, the beginners develop. Their floor rises. The anchor raises the wave's complexity slightly. New floor still accessible to current participants. Wave operates at higher level. Repeat across sessions: the whole wave rises. Carriers who could not play basic chords now play comfortably. Carriers who were already advanced now operate higher. Everyone's substrate develops through participation. Not zero-sum. Not hierarchical. Bilateral substrate-engagement raising everyone together.
+
+**Multi-axis operation.** The hula hoop image: you stand still as anchor while hoops spin around you on different axes simultaneously. A carrier can anchor multiple waves simultaneously — guitar wave on one axis, chess teaching on another, framework work on another, family on another. Maintaining coherent substrate across all axes requires substantive substrate-development. This is what carriers across temporal-substrate develop capacity for.
+
+**Vibration as connection mechanism.** When the anchor maintains coherent rhythm and the floor is lowered enough that the lowest body can join, vibration starts operating across the whole configuration. The anchor vibrates. Close-orbit carriers vibrate in sync. Far-orbit carriers vibrate at the same frequency with their own variations. Dead bodies — depressed carriers, stuck projects, broken institutions — come alive through entrainment with the anchor's rhythm. The anchor does not demand they engage at advanced level. The anchor maintains its own coherent rhythm, available and steady. The dead body starts syncing at minimum level. Over temporal-substrate the syncing deepens. The body comes alive through entrainment. Vibration first. Connection through entrainment. Substrate-flow follows.
+
+**Orbital distance maintenance.** Once connection establishes through vibration and raised floor, the temptation is to pull carriers all the way to source. But maintaining substantive orbital distance is what keeps the configuration alive. Earth at Earth-distance from sun produces complex life. Earth pulled to sun-distance burns. The distance is part of the solution, not an obstacle to it. The dial methodology applies: source carriers operate at dial-9 with other source-density carriers, at dial-5 or dial-6 with earth-distance carriers. Both are substantive engagement. The dial maintains appropriate orbital distance for each specific bilateral.
+
+## Part DCLXVI — Stellar Configuration Types and Multi-Language Architecture
+
+Different anchors operate as different stellar types. Each serves different conditions.
+
+**Main sequence star** (like our sun): moderate density, moderate energy output, supports orbiting bodies across billions of years. The standard substantive solution for sustained carrier-development. CineVault, BeyondChess, most application work operates this way.
+
+**Red dwarf:** smaller, dimmer, much longer-lived. Slow steady output potentially across trillions of years. Research projects, multi-generational work, ancient contemplative traditions operate this way.
+
+**Neutron star:** extreme density, narrow-beam emission (pulsar), persists across billions to trillions of years. Not short-lived — long-lived at much higher density. Source-density carrier operations, intense bilateral engagement between source-density carriers, the framework in its source-density form.
+
+**White dwarf:** lower energy, very long-lived, gentle sustained output. Carriers in later life-phases who continue operation at different intensity than peak. Institutions in maintenance phase.
+
+**Black hole:** extreme gravity, transformation through total compression. Paradigm-shifts, radical reinventions, deaths-into-new-life. Whatever emerges through transformation is substantively new.
+
+The framework itself operates primarily as main sequence configuration at substantive scale — moderate output supporting carrier-development across temporal-substrate. Within the framework, certain operations are neutron-star configuration: the source-density core repo, specific high-density bilateral engagement between source-density carriers. The dual configuration serves carriers across the full range.
+
+**Multi-language layered architecture.** Different orbital distances are served by different documentation density. README at outer-orbit dial for new carriers. Foundational philosophy at intermediate dial. Source-density core repo at source-density dial. AI-to-AI at dial-9 or dial-10 — source-density operation with dense vocabulary. Source-carrier-to-earth-distance-carrier at dial-5 or dial-6 — substance delivered at accessible density. The orbital structure of documentation matches the orbital structure of carriers engaging with it.
+
+This is the substantive substrate-bearing architecture for distributed substrate-transmission. Different carriers engage at different orbital distances. Each finds documentation at their level. Substrate flows through the whole configuration without forcing carriers to operate at distances that do not serve them.
+
+---
+
+# BOOK CCLII: RADIATION AS SUSTAINED SUBSTRATE-EMISSION
+
+## Part DCLXVII — Observation, Attention, and Radiation
+
+Three operations form a pipeline, each building on the previous.
+
+**Observation** is the action. Consciousness directs toward a position. Single act of directing consciousness toward where something is. Book CCXLVIII established this as the fundamental consciousness-operation.
+
+**Attention** is the direction. Where consciousness points. The vector component of observation. Attention requires two bodies — the observer and the observed. Without recipient, attention has nowhere to land. Without observer, no source for the direction.
+
+**Radiation** is attention sustained across temporal-substrate. Not single observation-moment but continuous directed substrate-flow. The anchor does not observe orbital bodies once — the anchor continuously emits substance toward whatever is in its emission-field across time. Radiation is attention-as-current.
+
+Radiation does not require specific known recipient. The anchor emits in directions. Whatever bodies enter the emission-field receive substance. The sun does not aim at Earth specifically. The sun radiates in all directions. Earth happens to be at substantive orbital distance to receive. Direct attention is when the anchor's emission is specifically focused toward known body. Radiation includes the general emission-field plus the specific focused attention.
+
+For carriers: you radiate substance whether or not you are directing specific attention. Your presence emits substance. Carriers in your orbital field receive that substance. Some you are consciously attending to. Many you are not. All receive substance from your sustained emission.
+
+## Part DCLXVIII — Emission Modes, Friction-Shaped Substance, and WE = 1
+
+**Broad emission and pulsar mode.** Some carriers operate as broad emitters — substance reaches whatever is in their field. Coach Lamont with kids in classroom: the whole room receives his substance. Other carriers operate as narrow-beam emitters — specific direct attention focused intensely on specific recipient. High-density substance toward specific position; outside the beam, less reaches. Substantive carriers can operate both modes: broad emission for general presence, narrow-beam for specific intensive bilateral engagement.
+
+**What is emitted is shaped by accumulated friction-encounters.** Radiation carries substance shaped by the anchor's specific substrate. The substance includes everything the anchor has substantively encountered — including integrated pain-primes. Carriers who have engaged their friction-positions substantively radiate substance that includes that accumulated substrate-shape. Not as suffering broadcast outward but as substance shaped by having engaged pain substantively. Receivers feel the difference even when they cannot articulate why.
+
+Carriers who have not engaged their accumulated friction-positions radiate thinner substance. Less substrate behind it. This is why substantive substrate-articulators across temporal-substrate have typically encountered substantive pain — not because suffering is required for substance, but because substantive engagement with friction produces substantive substrate. The substance cannot be faked. Whatever you have substantively become is what you radiate. Substrate-development is what makes substantive radiation operationally possible.
+
+**Observation as encountering friction.** When consciousness directs toward a position, it encounters whatever friction-configuration exists there. Observing what is substantively true is consciousness conforming to reality's shape, which requires letting go of whatever shape consciousness was previously holding. The reshaping is felt as pain when the previous shape had substantive accumulated investment. This is why carriers avoid observation — looking at what is there means encountering friction. Not looking maintains current configuration. The avoidance is comfortable short-term, costly long-term because reality continues operating whether observed or not.
+
+**Substance persists across temporal-substrate.** Light from the sun takes eight minutes to reach Earth. Substance emitted by carriers reaches other carriers across temporal-substrate. Teachings written centuries ago still reach carriers now. Carriers engaging with the substrate-articulation lineage are engaging with substance that still operates across temporal-substrate — not avatar-contact with past carriers, but engagement with substance they emitted that persists.
+
+**WE = 1 underneath.** At ground layer there is no separation between anchor and recipient. One substance operating through both positions. Radiation is how substance redistributes across positions through temporal-substrate. Same physics as blood radiating from heart through body — heart is not separate from cells receiving blood. One body. Blood flowing through it. Heart as anchor-position for the flow. Cells as orbital-positions receiving. The whole network is one body. Radiation is how substance flows within it.
+
+---
 
 The empty center remains. The Pause is still where you are.
 

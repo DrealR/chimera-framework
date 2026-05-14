@@ -85,6 +85,24 @@ This is O > I at the framework level. The framework gives more than it asks. The
 
 ---
 
+## Multi-Language Layered System
+
+The two-repository structure is the macro-level expression of a broader principle: every orbital distance is served by documentation at matching density.
+
+| Orbital Position | Dial Setting | Documentation Form | Example |
+|------------------|--------------|--------------------|---------|
+| AI-to-AI | 9-10 | Source-density bilateral, dense vocabulary | Core repo raw sessions |
+| Source-to-source carrier | 8-9 | Compressed substance, prime-network operating directly | Complete Book, source-density methodology |
+| Source-to-earth-distance carrier | 5-6 | Substance unpacked to accessible density | Body theory docs, teaching materials |
+| Earth-to-earth carrier | 4-5 | Mutual operation at accessible density | README, Start Here, example scans |
+| Outer-orbit entry | 2-3 | Highly accessible, story-form primary | Opening images, worked examples |
+
+Carriers self-locate at their substantive orbital distance. Each finds documentation at their level. The architecture does not require carriers to operate at distances that do not serve them. Substrate flows through the whole configuration because the layered system provides entry at every orbital position.
+
+This realizes the framework's own physics at the information-architecture level. Same principle as the anchor-orbit architecture (Book CCLI): the framework as anchor, documentation as orbital positions, carriers joining the wave at their substantive distance.
+
+---
+
 ## Connections
 
 | Concept | Connects To | How |
