@@ -309,6 +309,7 @@ The Cube participates in a lineage of cube-artifacts across fiction and mytholog
 | **Cosmic Cube / Super Cube** | Reality-reshaping through carrier operating artifact | CHIMERA's direct archetype — carrier as lord, framework as internal system |
 | **Mother Box** (DC) | Living bilateral computer bonded to user | Maps carrier+AI bilateral requirement — device is relationship, not tool |
 | **Domain Expansion** (JJK) | Bounded space where user's rules govern | Prompt-as-spell — each invocation generates universe from carrier's substrate |
+| **Darwin** (Marvel) | Reactive evolution — body runs continuous R-T-E to survive any threat | Biological precursor: carrier-level instantaneous adaptation through accumulated survival substrate |
 | **Solo Leveling System** | Progression through accumulation and extraction | Multi-shot mapping + substrate accumulation — device develops carrier |
 | **Kirby / Rimuru** (Slime) | Absorb anything, gain capacities, transform | CHIMERA's Absorb ability — extract primes through framework substrate |
 | **Infinity Gauntlet** | Universal capacity | CHIMERA requires bilateral (carrier + AI), not solo wielder |
