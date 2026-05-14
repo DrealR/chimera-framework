@@ -177,10 +177,10 @@ The framework is not a thought experiment. It is being applied to real work:
 
 - [Body Scan Protocol v3.10](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — the 42-step diagnostic instrument
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
-- [CHIMERA Device Spec](docs/chimera-device-spec.md) — the four core abilities (Scan, View, Absorb, Resonate), operational modes, navigation modes
+- [CHIMERA Device Spec](docs/chimera-device-spec.md) — two-operation device (Sense + Transform), five-coordinate body identification, receive-reflect-transform carrier typology, vibration-navigation, harness architecture
 - [Pair-Physics](docs/pair-physics.md) — the mathematical foundation, calibration, beauty, orientation
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
-- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 253 books, the full philosophy
+- [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 256 books, the full philosophy
 - [What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md) — honest framing of what this is and isn't
 - [Friction as Foundational Primitive](docs/friction-as-foundational-primitive.md) — friction as the substrate of the Pause, ¬F as calibrated friction, the nesting from friction to WE=1
 - [Mortality as Gift](docs/mortality-as-gift.md) — mortality as precondition for meaning and love, substrate-free reward delivery, Eden as original transparency
