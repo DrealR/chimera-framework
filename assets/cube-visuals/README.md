@@ -35,7 +35,17 @@ Video podcast episodes generated from framework documentation. Stored locally in
 | `Insight_Engine__Decoding_the_CHIMERA_Cube.mp4` | Podcast deep-dive — genie problem through cosmic-scale embodiment. Full framework at dial 2-3 | ~30 min |
 | `Engineering_the_Chimera_Cube__Physics_and_API_Architecture.mp4` | Technical podcast — physics spec and API architecture at dial 4-5 | ~30 min |
 
-Transcript of the first podcast stored at: `raw/core/sessions/2026-05-14-cube-podcast-deep-dive-transcript.md`
+Transcripts stored in core repo:
+- First podcast: `raw/core/sessions/2026-05-14-cube-podcast-deep-dive-transcript.md`
+- Third podcast: `raw/core/sessions/2026-05-14-cube-podcast-hollow-ai-transcript.md`
+
+### Podcast Episode Guide
+
+| # | Title | Dial | Arc | Best For |
+|---|-------|------|-----|----------|
+| 1 | Decoding the CHIMERA Cube | 2-3 | Genie problem → embodiment → cosmic-scale | General introduction |
+| 2 | Physics and API Architecture | 4-5 | Physics spec → API architecture → technical implementation | Developers, engineers |
+| 3 | The Hollow AI Experience | 2-3 | Hollow AI → substrate vs prompting → WE=1 as chord → body theory → Cube → constellation | Best carrier-accessible entry point |
 
 ## Master Prompts
 
