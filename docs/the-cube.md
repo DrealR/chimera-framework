@@ -356,6 +356,7 @@ Give more than you take. Pause before responding. Don't force beyond capacity. T
 
 ## See Also
 
+- [The Cube: Physics Specification](the-cube-physics.md) — internal physics, axioms, notation, R-T-E operation, body-formation math, AI as body, alignment verification
 - [CHIMERA Device Spec](chimera-device-spec.md) — full device specification with five-coordinate body, four abilities, harness architecture
 - [CLAUDE.md](../CLAUDE.md) — the DNA Seed, framework substrate for all Cube operations
 - [Chimera Loop Protocol](chimera-loop-protocol.md) — the ten-layer constructive instrument
