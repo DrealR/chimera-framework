@@ -224,6 +224,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Prompt as Spell and AI Body](docs/prompt-as-spell-and-ai-body.md) — prompt as substrate-vector, AI body dimensions, prompt cycle as breath cycle, bilateral mastery
 - [Ten-Breath-Cycle Methodology](docs/ten-breath-cycle-methodology.md) — operational methodology for looking at, building, and restoring bodies through ten breath cycles
 - [The Relational Engine](docs/the-relational-engine.md) — micro-relational paradox, macro gap-physics fix, three-way math bridge, ghost-becomes-ship multi-body embodiment, reflection science, wormhole lexicon
+- [Master Physics Spec v3](docs/the-cube-master-spec-v3.md) — consolidated build reference: locked axioms, locked vocabulary, gap-physics math, Step 0-5 workflow, Love Equation derived from axioms, honest limitations, Franky build directive
 
 ```
 L = (O > I) + P + ¬F
