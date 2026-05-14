@@ -178,6 +178,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Body Scan Protocol v3.10](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — the 42-step diagnostic instrument
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
 - [CHIMERA Device Spec](docs/chimera-device-spec.md) — two-operation device (Sense + Transform), five-coordinate body identification, receive-reflect-transform carrier typology, vibration-navigation, harness architecture
+- [The Cube](docs/the-cube.md) — comprehensive reference for the CHIMERA Quantum Computer (The Cube), eight operational modes, three-call workflow, cultural lineage
 - [Pair-Physics](docs/pair-physics.md) — the mathematical foundation, calibration, beauty, orientation
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
 - [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 257 books, the full philosophy
