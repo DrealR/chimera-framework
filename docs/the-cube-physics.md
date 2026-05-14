@@ -948,10 +948,57 @@ The archetype persists because the operation is real. The Cube is the present er
 
 ---
 
+## External Corroboration — Nested Learning
+
+Behrouz et al., "Nested Learning: The Illusion of Deep Learning Architecture," NeurIPS 2025, Google Research.
+
+### The Shared Diagnosis
+
+Both Nested Learning (NL) and the framework begin from an overlapping observation: monolithic, single-pass processing of relational architectures leaves substantial capability unused.
+
+NL frames this as an ML problem. Stacking layers in a flat optimization regime produces models that suffer catastrophic forgetting, fail at continual learning, and cannot adapt after the end of pre-training. The proposed fix is to represent models as nested multi-level optimization problems, each with its own context flow and update frequency, motivated by neuroplasticity research and brain-oscillation neuroscience.
+
+The framework frames this as a usage problem. Default prompting flattens the transformer's native micro-relational attention into surface next-token prediction (I = O). The proposed fix is the three-call workflow: explicit gap-physics applied at inference time to force relational body-formation in the output (O > I).
+
+The diagnoses are not identical. NL points at architecture and training. The framework points at orchestration and usage. But the observation underneath both — that flat single-pass processing of an internally relational architecture is structurally lossy — is the same.
+
+### Structural Overlaps
+
+Two specific overlaps are substantive enough to name.
+
+**Frequency cascade.** NL maps update rates in the model to brain-oscillation bands (gamma ~30-100 Hz for sensory, beta ~12-30 Hz for active thinking, theta and delta ~0.5-8 Hz for consolidation), arguing that different cognitive functions require different processing timescales. The framework's Dial 1-10 names the same structural claim from a different starting point: different substrate work needs different orbital distances. The analogy is structural, not literal — Hz is measured in actual physics, the Dial is a prompt-engineering control surface — but both encode the same operational principle: multi-timescale processing is load-bearing for capability.
+
+**Continuum memory.** NL's CMS stores knowledge across a spectrum of frequencies. When high-frequency memory forgets, lower-frequency memory still holds the pattern and can re-seed via backpropagation. This produces a loop through time that resists catastrophic forgetting. The framework articulates an overlapping structure as the chord of reflections sustaining across ν-bands. NL provides the mathematical mechanism. The framework names the felt sense and operational shape. Both point at the same structural claim: persistent multi-frequency storage is required for sustained capability.
+
+Other connections (NL's associative-memory view of optimizers, the self-modifying Titans variant) are interesting but less direct. The two named above are the load-bearing ones.
+
+### The Honest Divergence
+
+NL is a **training-time architectural intervention**. It requires modifying the base architecture, training new weights with self-modifying update rules, and shipping a new kind of model. The Hope architecture in the paper is a research artifact, not yet available via API.
+
+The three-call workflow is **inference-time orchestration** over unmodified models. It uses temperature variance and explicit gap-instruction to produce convergence at the output level. It works today on any endpoint.
+
+These are not the same intervention. They are not in competition. They address related but distinct problems at different layers of the stack. NL changes what the model *is*. The workflow changes how the model is *used*.
+
+### What This Means Operationally
+
+The Twitter framing that "Nested Learning replaces the Transformer" is overhype. The paper's own conclusion explicitly disclaims that catastrophic forgetting is "solved" and frames NL as "a roadmap rather than a destination." Hope's empirical wins are real but modest — perplexity improvements of 1-2 points, accuracy improvements of a few percentage points over strong baselines, with higher compute cost. This is solid research, not a paradigm shift that has already happened.
+
+For the build, three points hold:
+
+1. The three-call workflow ships today, model-agnostic, on any inference endpoint. Nothing in the NL paper changes that.
+2. If NL-style architectures mature and become accessible, the workflow rides on top of them. Applying gap-physics orchestration over a natively multi-timescale architecture should compound rather than conflict. We don't need to predict whether this happens.
+3. The framework's bet was never that inference-time orchestration is permanent. The bet was that flat single-pass usage of relational architectures is structurally lossy. NL is independent corroboration of that underlying observation from a different research community using different methods. Two independent traditions arriving at overlapping structural claims is meaningful. It is not the same as one tradition predicting the other.
+
+We cite NL because the convergent evidence strengthens the case for multi-timescale work. We do not claim NL validates the framework specifically.
+
+---
+
 ## See Also
 
 - [The Cube](the-cube.md) — accessible reference (dial 5-6)
 - [CHIMERA Device Spec](chimera-device-spec.md) — full device specification with five-coordinate body, four abilities, harness architecture
+- [The Relational Engine](the-relational-engine.md) — micro-relational paradox, macro gap-physics fix, three-way math bridge, multi-body embodiment
 - [CLAUDE.md](../CLAUDE.md) — the DNA Seed, framework substrate F
 - [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — prompt as substrate-vector, AI body dimensions
 

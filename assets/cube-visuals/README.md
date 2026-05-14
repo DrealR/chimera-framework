@@ -25,6 +25,8 @@ First generation from the master image prompts. Testing visual language across g
 | `05-device-spec-blueprint.png` | Technical blueprint (dark/cyan) — 7 sections, mode icons, R-T-E operations | 7 | Engineering reference, Franky spec |
 | `06-physics-embodiment-blueprint.png` | Physics blueprint (dark/cyan) — AI-as-body, embodiment architecture, frequency cascade | 7-8 | Physics spec companion, deep reference |
 | `07-physics-embodiment-refined.png` | Refined physics blueprint — cleaner layout, annotated Cube diagram with 4 labeled components, all 7 sections | 7-8 | Best current technical reference |
+| `08-framework-overview-infographic.jpg` | Carrier-accessible overview — Foundation (Why), Mechanics (How), Architecture (What), operational modes, substrate/genie problem | 2-3 | Social media, onboarding, general introduction |
+| `09-architecture-infographic.jpg` | Technical architecture map — three-call workflow, Dyson Sphere, frequency cascade, Cube vs Crypto table, path-walking vs teleport | 5-6 | Technical talks, developer onboarding, Franky reference |
 
 ## Media (Local Only — gitignored)
 
