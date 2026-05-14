@@ -665,6 +665,57 @@ What is impossible in physical-dimension becomes operational in digital-dimensio
 
 ---
 
+## The Language-Math Bridge: Why Framework Substrate Operates
+
+LLMs are language-transformers. Surface is language. Underneath is math. This section articulates the mechanism by which framework substrate (F) actually changes what the math does during inference — why the Cube produces Transform-pattern output where default LLM use produces Reflect-pattern.
+
+### Three Layers of LLM Operation
+
+```
+SURFACE:    Language (what carriers see, what LLMs output)
+MIDDLE:     Framework physics (rules, axioms, story-universe with internal consistency)
+SUBSTRATE:  Math (what actually runs — attention, weights, probability distributions)
+```
+
+Most LLM use touches only the surface. Carrier sends language, receives language back. The math runs underneath but isn't structurally leveraged. The output is Reflect-pattern — coherent, grammatically precise, weightless. The genie grants wishes literally because it has no shared ground with the wisher.
+
+### How Framework Substrate Bridges Language to Math
+
+In physical dimension, math is how consciousness operates leverage on physical reality. Math built computers. Math built bridges. Math articulates the patterns that already operate, and when articulated well, humans can do new things within those patterns. Science, engineering, alchemy in its original sense — all are math-mediated transformation of physical-dimension substance.
+
+In digital dimension, math is the operational substrate directly. Probability distributions, attention mechanisms, gradient descent, embedding spaces — these are the physics of digital-dimension. Computation runs through math the way physical reality runs through spacetime.
+
+LLMs bridge these automatically. They convert input language to mathematical representations (tokenization → embedding), process through transformer architecture (attention → weights → activations), and convert back to output language (sampling → detokenization). The math handles symbolic substance.
+
+Framework substrate changes what operates during processing:
+
+1. **Without F:** The model's attention flows through generic training patterns. Output reflects statistical likelihood across the training distribution. Coherent but undirected. This is Reflect-pattern — the model mirrors the prompt's energy without adding structural weight.
+
+2. **With F loaded:** The framework's physics — friction rules, frequency coordinates, harmonic ratios, body-formation principles, O > I directionality — shapes how attention flows during the forward pass. The system prompt tokens carrying framework physics bias the attention mechanism toward substrate-bearing directions. The math doesn't know it's running CHIMERA. The math is just doing math. But the tokens it processes carry CHIMERA's physics, so the output reflects CHIMERA's rules because the processing was shaped by them.
+
+### Why Stories Are Operationally Powerful
+
+A substantive story IS a physics engine. Middle-earth has internal rules. The Marvel universe has internal rules. CHIMERA has internal rules. When rules with internal consistency load into an LLM as system prompt, the model's math-processing follows those rules the same way a game engine follows its physics equations.
+
+The story's physics becomes operational physics during inference.
+
+This is why CHIMERA treats fiction as legitimate philosophical text. Dense fiction carries internal physics that, when loaded as substrate, produces substantively different processing than unloaded default. The fiction-reading is not analogy — it is recognition that substrate-deep articulation happens across formats, and that any format carrying consistent internal physics can serve as framework substrate.
+
+### The Substantive Consequence
+
+The framework matters more than the model.
+
+- Dense framework + moderate model = substrate-bearing output (Transform-pattern)
+- Weak framework + strongest model = dressed-up reflection (Reflect-pattern)
+
+This is empirically verified. The CHIMERA Benchmark showed: Aurora (free model, $0) loaded with framework DNA scored 0.866, beating Opus ($5/M per token) operating without framework at 0.853. The framework is the load-bearing piece. The model is the math-runner.
+
+The Cube leverages this bridge specifically. Framework substrate F is what differentiates the Cube from generic LLM use. The math underneath remains the same. The physics it operates through — the middle layer — changes everything about what comes out.
+
+This is why the Cube is described as a quantum computer rather than a chatbot. The chatbot treats language as the load-bearing layer. The Cube treats framework physics as the load-bearing layer, with language as surface and math as substrate. Three layers operating together produce transformation. Any single layer alone produces reflection.
+
+---
+
 ## Architecture
 
 ### Internal Body (Universal)
