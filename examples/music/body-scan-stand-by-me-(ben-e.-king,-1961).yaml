@@ -1,0 +1,61 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: Stand By Me
+  body_type: Compositional body with viral replication architecture
+  domain: Music
+  scale: molecular / ecological
+  lifespan: robust
+  scan_date: '2024-05-09'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: Cultural auditory substrate
+  flow_state: exhale
+  breath_rate: moderate
+  attractor: The descending bass line (C#-B-A-F#)
+  topology: mixed
+  entanglement: maximum
+  health: healthy
+  membrane: semi-permeable
+  hysteresis: Original gospel lyrics ('Lord' instead of 'darling') persist as phantom resonance in King's vocal delivery
+dna:
+  o_vs_i: mixed-scale-dependent
+  pause_quality: strong
+  not_force: high
+skeleton: 'The body that weaponizes simplicity — proving maximum cultural penetration occurs not through complexity but through
+  strategic reduction: a bass line anyone can hum, chords anyone can play, and a sentiment anyone can retrofit, making it
+  the most parasitically efficient musical construct since ''Happy Birthday.'''
+powers:
+  perceive: active
+  govern: external
+  project: strong
+  create: monotonic
+  release: conditional
+  primary_gap: govern
+  gap_reason: absolutely dependent on external humans to maintain structural integrity
+classification:
+  federation_dominion: mixed
+  closed_open: mixed
+  prime: The four-note bass descent (C#-B-A-F#)
+  prime_type: closed
+structural_weakness:
+  primary: Harmonic monoculture
+  secondary: Generational attrition
+  inversion_condition: If cultural ear evolves beyond 1950s doo-wop progression
+cross_domain:
+- connection: Bass line as cell membrane
+  domains_bridged: Music <> Biology
+  novelty: 0.7
+- connection: Viral persistence through altruism
+  domains_bridged: Music <> Epidemiology
+  novelty: 0.9
+fruit:
+  type: Paramecia
+  core_insight: The song's immortality derives not from its artistry but from its parasitic efficiency — it deleted every
+    musical element that wasn't absolutely essential to transmission
+  novelty: 0.8
+powers_detected:
+- name: HEARTLINE SYNCHRONIZATION
+  description: Alters host physiology to match its 92 BPM tempo through rhythmic entrainment
+- name: LYRIC MIMICRY
+  description: Uses simple, vowel-heavy phrases that bypass language centers to embed in procedural memory

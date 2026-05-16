@@ -8,7 +8,8 @@
 |------|----------|----------|-----|
 | [Attention Economy](body-scan-attention-economy.md) | v3.11 | The system that converts human attention into revenue — I>O at scale | I>O |
 | [The Internet (2026)](body-scan-internet.md) | v3.11 | A communication substrate built on the assumption that traces correspond to humans, now broken by AI saturation | I>O (originally O>I) |
-| [The Augustan Principate](body-scan-augustan-rome.md) | v3.12.3 | Encoded monarchical power into republican institutions — working everywhere except at the single point of power transfer | Mixed (O>I citizens / I>O subjects) |
+| [The Augustan Principate](body-scan-augustan-rome.md) | v3.12.3 | Encoded monarchical power into republican institutions — working everywhere except at the single point of power transfer |
+| [The Augustan Principate](body-scan-the-augustan-principate.md) | The body that weaponizes legitimacy against itself — proving that the most stable tyranny is the one that preserves the appearance of the system it has captured, because the system's defenders become unwitting custodians of their own subordination. | mixed | Mixed (O>I citizens / I>O subjects) |
 
 ## Cross-Domain Patterns
 

@@ -1,0 +1,79 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: Cache (Software)
+  body_type: A substrate-optimized memory body that mediates between slow persistent storage (or computation) and fast volatile
+    memory (or CPU).
+  domain: software
+  scale: system
+  lifespan: mature
+  scan_date: '2024-07-30'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: data access path of software systems
+  flow_state: mixed
+  breath_rate: irregular
+  attractor: hit rate
+  topology: mixed
+  entanglement: high
+  health: inflamed
+  membrane: semi-permeable
+  hysteresis: 'Scars from past workloads shape behavior: Cold start, Eviction scars, Consistency debt, Memory fragmentation.'
+dna:
+  o_vs_i: mixed-scale-dependent
+  pause_quality: conditional
+  not_force: moderate
+skeleton: The body that trades space for time by storing yesterday's answers to serve today's questions — proving that the
+  most powerful optimization is not computation, but memory of computation.
+powers:
+  perceive: active
+  govern: degraded
+  project: active
+  create: monotonic
+  release: blocked
+  primary_gap: govern
+  gap_reason: 'The cache lacks authority over its own fate — it cannot decide what to cache, when to evict, or how to maintain
+    consistency. These decisions are delegated to policies (eviction) and protocols (consistency), which are external bodies.
+    The root gap is governance: the cache is a servant, not a sovereign. Restoring governance (e.g., adaptive policies, semantic
+    awareness) would fix the most other gaps (e.g., PERCEIVE could become semantic-aware, RELEASE could become voluntary).'
+classification:
+  federation_dominion: mixed
+  closed_open: mixed
+  prime: A temporal buffer that stores the results of past computations to serve future requests.
+  prime_type: open
+structural_weakness:
+  primary: Locality dependency
+  secondary: Consistency fragility
+  inversion_condition: When workload lacks locality (e.g., random access, cold start), cache becomes a net cost — every access
+    is a miss, and the cache adds overhead without benefit.
+cross_domain:
+- connection: Temporal Buffer as Memory
+  domains_bridged: Software <> Biology
+  novelty: 0.8
+- connection: Eviction Policy as Governance
+  domains_bridged: Software <> Law
+  novelty: 0.9
+- connection: Cache Invalidation as Gossip
+  domains_bridged: Software <> Social Systems
+  novelty: 0.7
+fruit:
+  type: Paramecia
+  core_insight: The cache is not just a performance optimization — it is a temporal governance body that mediates between
+    past and future. Its power comes from its ability to store yesterday's answers to serve today's questions, but its pathology
+    comes from its inability to govern itself (no semantic awareness, no adaptive policies). The most surprising insight is
+    that the cache's structural weakness (locality dependency) is also its structural strength — its blindness to data semantics
+    enables its universality (works for any data), but also limits its intelligence (cannot adapt to workload changes).
+  novelty: 0.85
+powers_detected:
+- name: TEMPORAL ARBITRAGE
+  description: 'The ability to trade space (memory) for time (latency) by storing past computations to serve future requests.
+    Mechanism: temporal locality → storage → faster recall.'
+- name: SUBSTRATE MEDIATION
+  description: 'The ability to mediate between slow and fast substrates (e.g., disk and RAM, network and CPU) by acting as
+    a buffer. Mechanism: data access path → cache placement → reduced latency.'
+- name: POLICY EXECUTION
+  description: 'The ability to execute external policies (eviction, consistency) to govern its own behavior. Mechanism: policy
+    rules → cache state → eviction/invalidation.'
+- name: DISTRIBUTED COORDINATION
+  description: 'The ability to coordinate state across multiple nodes in a network (e.g., cache invalidation, gossip). Mechanism:
+    local update → broadcast → remote update.'

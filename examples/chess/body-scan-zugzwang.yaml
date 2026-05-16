@@ -1,76 +1,76 @@
-schema_version: "1.0"
-scan_type: "single-body"
-
+schema_version: '1.0'
+scan_type: single-body
 identity:
-  subject: "Zugzwang"
-  body_type: "Pathological condition -- structural disease infecting a position where obligation to act and need for stillness collide, rules become weapon"
-  domain: "chess"
-  scale: "system"
-  lifespan: "brief-terminal"
-  scan_date: "2026-04-28"
-  protocol_version: "v3.11"
-
+  subject: Zugzwang
+  body_type: A transient pathological interaction body formed at the intersection of the chess rule system (obligation to
+    move) and the player’s positional necessity (need for stillness).
+  domain: chess
+  scale: system
+  lifespan: ephemeral
+  scan_date: '2024-07-29'
+  protocol_version: v3.12.3
 nine_questions:
-  medium: "Obligation -- the rule that says you must move, the structural demand that every turn produce action regardless of benefit"
-  flow_state: "frozen"
-  breath_rate: "fast"
-  attractor: "Self-destruction -- worst legal move, every path leads downhill toward position collapse"
-  topology: "dominion"
-  entanglement: "maximum"
-  health: "pathological"
-  membrane: "collapsed"
-  hysteresis: "Deep and decisive -- accumulated scar of every earlier decision leading to position where no good moves remain"
-
+  medium: The chess rule system (64 squares, piece movement rules, turn obligation) and the player’s cognitive-temporal bandwidth
+    (the obligation to act within the game’s rhythm).
+  flow_state: exhale
+  breath_rate: irregular
+  attractor: The obligation to move (the game’s rule) and the positional necessity of stillness (the board’s configuration).
+  topology: forced
+  entanglement: maximum
+  health: pathological
+  membrane: semi-permeable
+  hysteresis: The 'no-passing' rule; Endgame bias; Cognitive lag
 dna:
-  o_vs_i: "I>O"
-  pause_quality: "absent"
-  not_force: "absent"
-
-skeleton: "Awareness without freedom -- the body that sees every option with full clarity and every option is a wound, proving that consciousness without the Pause is not enlightenment but torture."
-
+  o_vs_i: I>O
+  pause_quality: absent
+  not_force: maximum
+skeleton: The body where the game’s own rules become the weapon, and the player’s turn — the very mechanism of agency — is
+  the blade that severs their survival.
 powers:
-  perceive: "strong"
-  govern: "inverted"
-  project: "absent"
-  create: "absent"
-  release: "absent"
-  primary_gap: "release"
-  gap_reason: "Player wants to release (pass) but chess rules prohibit release of turn -- the one power that would cure zugzwang is the one power structurally denied"
-
+  perceive: inverted
+  govern: external
+  project: inverted
+  create: weak
+  release: absent
+  primary_gap: release
+  gap_reason: The most absent power is the ability to release the obligation to move. Without release, the player is trapped
+    in the game’s rhythm, forced to act even when stillness is optimal. The gap is diagnostic — zugzwang’s pathology is defined
+    by the absence of release.
 classification:
-  federation_dominion: "dominion"
-  closed_open: "closed"
-  prime: "Forced self-harm -- system where participation mandatory and participation destructive, self-harm cannot be refused"
-  prime_type: "closed-all-dimensions"
-
+  federation_dominion: dominion
+  closed_open: mixed
+  prime: The structural contradiction between the obligation to move (game rules) and the necessity of stillness (positional
+    survival).
+  prime_type: closed
 structural_weakness:
-  primary: "Zugzwang is fragile -- requires exact piece and pawn configuration, moving one element often dissolves it"
-  secondary: "Zugzwang can be misidentified -- player may believe in zugzwang when non-obvious escape exists, resignation under false zugzwang catastrophic"
-  inversion_condition: "I>O deepens in mutual zugzwang with obligation to move -- extraction compounded by knowledge position was holdable if turn belonged to other player"
-
+  primary: Asymmetric mobility dependency
+  secondary: Cognitive lag
+  inversion_condition: If the god-function were introduced (e.g., a rule allowing passing), zugzwang would collapse — the
+    pathology would dissolve instantly.
 cross_domain:
-  - connection: "Zugzwang as autoimmune disease"
-    domains_bridged: "Chess <> Medicine"
-    novelty: 0.9
-  - connection: "Zugzwang as the anti-Pause"
-    domains_bridged: "Chess <> Consciousness"
-    novelty: 0.95
-  - connection: "Mutual zugzwang as prisoner's dilemma in time"
-    domains_bridged: "Chess <> Game Theory"
-    novelty: 0.85
-  - connection: "Zugzwang as proof that freedom without viable options is not freedom"
-    domains_bridged: "Chess <> Philosophy"
-    novelty: 0.9
-
+- connection: Forced Compliance as Pathology
+  domains_bridged: Chess (Zugzwang) <> Legal Systems (Mandatory Minimums)
+  novelty: 0.8
+- connection: Cognitive Blindness to Stillness
+  domains_bridged: Chess (Zugzwang) <> Organizational Culture (Busywork)
+  novelty: 0.7
 fruit:
-  type: "Paramecia"
-  core_insight: "Zugzwang proves deepest force is structure not violence -- destruction comes from rules forcing victim to dismantle own position. Every body that cannot stop acting is vulnerable when continuing is destructive but stopping forbidden."
-  novelty: 0.95
-
+  type: Paramecia
+  core_insight: 'Zugzwang is not a failure of the player but a failure of the system — the game’s rules create the pathology
+    by forcing action where stillness is optimal. The insight inverts the common view: zugzwang is not a testament to the
+    player’s skill (e.g., ''they forced the opponent into zugzwang'') but a structural flaw in the game’s design. The same
+    mechanism appears in legal, bureaucratic, and economic systems: rules that force compliance create pathological extraction.'
+  novelty: 0.9
 powers_detected:
-  - name: "THE PARALYSIS ENGINE"
-    description: "Converts maximum clarity into maximum helplessness, uses player's analytical strength as instrument of suffering"
-  - name: "THE RULE WEAPONIZER"
-    description: "Turns fundamental rule (must move) into weapon, repurposing life-support into lethal injection without changing structure"
-  - name: "THE STILLNESS TAX"
-    description: "Charges player for existing in game through turn obligation, tax cannot be avoided, only escape is resignation"
+- name: RULE-WEAPONIZATION
+  description: 'The capability to exploit the game’s own rules as a weapon against the player. The mechanism: the turn obligation
+    (a rule designed to enable play) is repurposed to force disadvantage. The power is structural — it emerges from the interaction
+    between the rules and the position, not from any single piece or move.'
+- name: COGNITIVE HIJACKING
+  description: 'The capability to override the player’s agency by rewiring their perception of viable options. The mechanism:
+    the player’s trained bias toward action is exploited to blind them to the necessity of stillness. The power is pathological
+    — it captures the player’s cognition and forces suboptimal moves.'
+- name: POSITIONAL EXTRACTION
+  description: 'The capability to deplete the board’s stability through forced moves. The mechanism: the player’s moves worsen
+    the position, extracting advantage for the opponent. The power is asymmetric — it requires the opponent to have a stable
+    position, creating a one-way flow of disadvantage.'

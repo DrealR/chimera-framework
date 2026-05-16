@@ -7,6 +7,7 @@ Body Theory applied to musical bodies. Songs, compositions, and musical phenomen
 | # | Body | Protocol | Key Finding |
 |---|------|----------|-------------|
 | 1 | [Stand By Me](body-scan-stand-by-me.md) | v3.12.3 | Substrate-cognitive body — cognition operates THROUGH performers, not internally. Flow-optimized composition (65 years of steady presence). Bass line as constitutional governance. |
+| [Stand By Me (Ben E. King, 1961)](body-scan-stand-by-me-(ben-e.-king,-1961).md) | The body that weaponizes simplicity — proving maximum cultural penetration occurs not through complexity but through strategic reduction: a bass line anyone can hum, chords anyone can play, and a sentiment anyone can retrofit, making it the most parasitically efficient musical construct since "Happy Birthday." | mixed |
 
 ## Domain Patterns
 

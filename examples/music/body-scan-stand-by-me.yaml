@@ -1,0 +1,82 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: Stand By Me (1961 recording by Ben E. King)
+  body_type: A self-replicating musical composition-body that persists through performance, recording, and cultural memory.
+  domain: Music
+  scale: cultural organism
+  lifespan: 63 years and counting
+  scan_date: '2024-07-30'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: Sound waves, Cultural memory, Human nervous systems
+  flow_state: exhale
+  breath_rate: moderate
+  attractor: The promise of relational constancy.
+  topology: mixed
+  entanglement: maximum
+  health: healthy
+  membrane: semi-permeable
+  hysteresis: 1) The hymn origin — the song carries the scar of its religious roots, which resurface in funeral and protest
+    contexts. 2) The 1986 movie — the body now encodes a secondary narrative about childhood mortality, which colors all subsequent
+    performances. 3) Ben E. King's vocal phrasing — his original recording's micro-timing (e.g., the slight delay on 'afraid')
+    is now a compiled pattern that performers unconsciously mimic. These scars do not weaken the body but shape its responses
+    — e.g., the song is more likely to be used in contexts of collective grief (funerals, memorials) than in contexts of individual
+    triumph.
+dna:
+  o_vs_i: O>I
+  pause_quality: critical
+  not_force: high
+skeleton: The body that turns a descending bass line into a gravitational field for human trust — proving that the most durable
+  cultural organisms are not those that resist change, but those that encode change into their own structure, allowing them
+  to persist by being re-performed, re-contextualized, and re-believed.
+powers:
+  perceive: active
+  govern: active
+  project: active
+  create: active
+  release: active
+  primary_gap: perceive
+  gap_reason: 'While the song''s perception is active, it is rewired to ignore individual context. This is the gap: the body
+    perceives universal emotions (fear, trust) but cannot perceive the specific fears or trusts of individual listeners. This
+    makes the song broadly effective but shallow — it provides a generic emotional release rather than a personalized one.
+    The gap is structural: the song''s 1D sequence (lyrics + chords) cannot encode the complexity of individual experience.'
+classification:
+  federation_dominion: federation-leaning
+  closed_open: mixed
+  prime: The encoding of trust as a shield against fear, manifested through a repeating bass line and a cyclical chord progression.
+  prime_type: open
+structural_weakness:
+  primary: The 'No' Dependency
+  secondary: The Chromatic Ceiling
+  inversion_condition: If the 'No' is replaced with a passive or negative phrase (e.g., 'I'll be afraid'), the body's topology
+    inverts to I > O — the song no longer provides emotional safety (O) but extracts emotional labor (I) by forcing the listener
+    to 'fix' the broken resolution.
+cross_domain:
+- connection: Trust as Structural Shield
+  domains_bridged: Music <> Architecture
+  novelty: 0.8
+- connection: Cyclical Harmonic Substrate
+  domains_bridged: Music <> Computer Science
+  novelty: 0.7
+- connection: Membrane as Coordination Signal
+  domains_bridged: Music <> Biology
+  novelty: 0.9
+fruit:
+  type: Paramecia
+  core_insight: The most durable cultural bodies are not those that resist change, but those that encode change into their
+    own structure — turning replication into a form of self-updating.
+  novelty: 0.9
+powers_detected:
+- name: ENTRAINMENT ENGINE
+  description: A repeating, recognizable pattern (bass line + chord progression) that synchronizes diverse agents (performers,
+    audiences) into a single interaction body. The power is not in the pattern itself but in its ability to be replicated
+    without central control — each performance is a new instance of the same structural algorithm.
+- name: TRUST-SUBSTRATE COMPILER
+  description: A mechanism that encodes trust as a shield against fear, then compiles that trust into the cultural substrate
+    with each performance. The power is cumulative — the more the song is performed, the richer the trust-substrate becomes,
+    making future performances more effective.
+- name: EMOTIONAL ALGORITHM
+  description: A minimalist sequence (lyrics + chords) that maps fear to trust through a repeating cycle. The algorithm is
+    not intelligent — it is a structural inevitability (fear → resolution → trust) that emerges from the sequence's constraints.
+    The power is in its universality — the algorithm works across cultures, genres, and contexts.

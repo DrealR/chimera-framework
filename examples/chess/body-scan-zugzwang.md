@@ -1,17 +1,23 @@
 # Body Scan: Zugzwang
 
-**Protocol:** v3.11
-**Scanner:** CHIMERA Framework
+**Protocol:** v3.12.3
+**Scanner:** mistralai/mistral-large-2412
 **Domain:** Chess
 
 ---
 
 ## IDENTITY
 
-- **Subject:** Zugzwang -- the compulsion to move when stillness is survival
-- **Body Type:** Pathological condition. Not a piece, not a resource, not a strategy -- a structural disease that infects a position when the obligation to act and the need for stillness collide. Zugzwang is what happens when the rules of the game become the weapon, and the player's own turn is the blade.
-- **Scale:** Emergent and rare. Zugzwang cannot be placed on the board; it crystallizes from the interaction of material, space, tempo, and turn obligation. It appears almost exclusively in endgames, where the position has been stripped to its skeleton and there is nowhere to hide a wasted move.
-- **Lifespan:** Usually one to three moves. Zugzwang is a crisis, not a climate. The player in zugzwang is forced to make a concession -- lose a pawn, abandon a key square, allow the opponent's king to advance -- and the position collapses. In mutual zugzwang, the condition persists until one side is forced to move, at which point it detonates for that player alone.
+- **Subject:** Zugzwang — the pathological chess condition where the obligation to move becomes a lethal disadvantage, crystallizing when the rules of the game force action where stillness would preserve survival.
+- **Body Type:** A transient pathological interaction body formed at the intersection of the chess rule system (obligation to move) and the player’s positional necessity (need for stillness). Not a piece, not a strategy, but a *structural inversion* where the game’s own mechanics become the weapon.
+- **Scale:** Operates at the level of the *position* (a snapshot of the board state) but manifests through the *player’s cognitive and temporal obligation* (the turn cycle). Its scope is the interaction between the board’s material/positional configuration and the player’s forced participation in the game’s rhythm.
+- **Lifespan:** Ephemeral — typically 1-3 moves (the duration of the forced disadvantage). Its persistence is determined by the player’s inability to escape the positional bind before the disadvantage compounds into material loss or checkmate.
+- **Formative Sequence (Layer 2):**
+  1. **Pre-1850s (Folklore):** Zugzwang emerges as an unnamed intuition in endgame play (e.g., king-and-pawn endgames where the side to move loses). Structural effect: recognition that *not moving* could be advantageous, but the rules forbid it.
+  2. **1851 (Staunton vs. Williams, London):** First recorded instance in high-level play where a player resigns due to zugzwang (Staunton forces Williams into a position where any move loses). Structural effect: zugzwang transitions from folk knowledge to a *named pathology* in chess literature.
+  3. **1920s (Nimzowitsch’s *My System*):** Zugzwang is theorized as a *structural principle* of positional play, not just an endgame curiosity. Structural effect: the concept is generalized — zugzwang is now seen as a *latent possibility* in any position where mobility is constrained.
+  4. **1950s (Botvinnik’s Endgame Studies):** Soviet chess schools systematize zugzwang as a *tool for composition* (e.g., studies where zugzwang is the sole winning mechanism). Structural effect: zugzwang is weaponized — it becomes a *designable* feature of positions, not just an accidental pathology.
+  5. **2000s (Engine Analysis):** Engines like Stockfish and Leela reveal zugzwang in *middlegame positions* (previously thought impossible). Structural effect: the body’s domain expands — zugzwang is no longer confined to endgames but can emerge in any phase where mobility is asymmetrically constrained.
 
 ---
 
@@ -19,41 +25,42 @@
 
 | # | Question | Reading |
 |---|----------|---------|
-| 1 | **MEDIUM** | Obligation. Zugzwang does not flow through squares or pieces. It flows through the rule that says you must move. Its medium is compulsion -- the structural demand that every turn produce an action, regardless of whether action is beneficial. Remove the must-move rule and zugzwang evaporates instantly. The medium is the rulebook itself. |
-| 2 | **FLOW STATE** | Frozen exhale. The body wants to hold its breath but the rules force it to keep breathing. Every exhale (move) loses substance. There is no inhale -- nothing comes back. The player is hemorrhaging position with each mandatory breath, unable to stop the bleeding because stopping is illegal. |
-| 3 | **BREATH RATE** | One forced breath per turn, same as all chess positions. But in zugzwang the rate is the problem. If the rate were zero -- if you could pass -- the position would be stable or even winning. The fixed rate of one-move-per-turn, which normally sustains the game, is here the mechanism of destruction. The metronome keeps ticking and every tick costs tissue. |
-| 4 | **ATTRACTOR** | Self-destruction. Zugzwang's attractor is the worst legal move. Since every move worsens the position, the player is attracted toward their own collapse. There is no stable equilibrium to approach, no square where the pieces want to be. The attractor is the exit -- the moment the position breaks and the zugzwang resolves, usually into a lost position. |
-| 5 | **TOPOLOGY** | I > O, absolute and non-negotiable. Every move extracts from the position without returning anything. There is no O > I possibility -- that is the definition. If any move improved the position, it would not be zugzwang. The topology is pure drain: the body leaks from every pore and cannot seal any of them. |
-| 6 | **ENTANGLEMENT** | Entangled with tempo, material, space, and king activity -- but inversely. In healthy positions these resources support each other: tempo develops pieces, material creates threats, space provides maneuver room. In zugzwang, they conspire: tempo forces a move, the move costs material or space, the loss of material or space makes the next forced move worse. The entanglement is a death spiral where each resource's degradation accelerates the others. |
-| 7 | **HEALTH** | Terminal. Zugzwang is not a sick body recovering; it is a body whose every life-sustaining function has been turned against it. Breathing destroys the lungs. Heartbeats drain the blood. The immune system attacks the organs. Health reads zero with no treatment available -- the only "cure" is the opponent making an error or the position reaching a state where zugzwang no longer applies, which usually means the damage is already done. |
-| 8 | **MEMBRANE** | Collapsed inward. The player in zugzwang has no functional membrane -- no ability to filter what enters or exits the position. Every legal move is a forced membrane breach. The opponent does not need to attack; they simply wait, and the player's own membrane opens wounds from the inside. The boundary between "my position" and "lost position" dissolves one mandatory move at a time. |
-| 9 | **HYSTERESIS** | Deep and decisive. Zugzwang does not appear from nowhere. It is the accumulated scar of every earlier decision that led to a position where no good moves remain. The pawn that advanced one square too far in the middlegame, the exchange that simplified into a losing endgame, the king that walked to the wrong side of the board -- all of these compiled into the zugzwang. The position remembers everything; the player pays for it now. |
+| 1 | **MEDIUM** | The substrate is the *chess rule system* (64 squares, piece movement rules, turn obligation) and the *player’s cognitive-temporal bandwidth* (the obligation to act within the game’s rhythm). Zugzwang flows through the *gap* between these two: the rules force a move, but the position demands stillness. |
+| 2 | **FLOW STATE** | Exhale (forced action) with no inhale (no compensatory gain). The body is in a *pathological pause* — the player’s turn is the "exhale," but the position offers no "inhale" (no move improves the situation). The breath cycle is *stuck in a single phase*, unable to complete. |
+| 3 | **BREATH RATE** | Cycles at the *speed of the player’s turn obligation* (typically 1-3 moves). The rate is *externally imposed* by the game’s rules, not by the player’s agency. The faster the cycle (e.g., blitz chess), the more acute the zugzwang’s effect — the player has less time to "see" the pathology before being forced to act. |
+| 4 | **ATTRACTOR** | The *obligation to move* (the game’s rule) and the *positional necessity of stillness* (the board’s configuration). The player’s attention is *orbiting the gap* between these two irreconcilable demands. The attractor is *not a piece or square* but the *structural contradiction* itself. |
+| 5 | **TOPOLOGY** | **I > O (Inversion of O > I).** The player *takes* (is forced to move) but *gives nothing* (no improvement to the position). The game’s rules *extract* a move from the player, but the position *offers no compensation*. The topology is *pathologically extractive* — the player’s agency is *consumed* by the obligation to act. |
+| 6 | **ENTANGLEMENT** | - **The chess rule system:** Zugzwang is *entangled with the turn obligation* — it cannot exist in a game without forced moves (e.g., no zugzwang in Go, where passing is allowed).
+  - **The opponent’s position:** Zugzwang is *asymmetric* — it requires the opponent to have a *stable, non-threatening* position (e.g., a king with no immediate threats).
+  - **The player’s cognition:** The body is *entangled with the player’s perception* — zugzwang is invisible until the player *sees* the contradiction between the obligation to move and the need for stillness.
+  - **Time control:** The body’s effect is *amplified by time pressure* — in blitz, the player may not have time to recognize the zugzwang before being forced to move. |
+| 7 | **HEALTH** | **Pathological by definition.** Health in chess positions is measured by *agency* (the player’s ability to improve their position) and *stability* (the position’s resilience to perturbation). Zugzwang inverts both: the player’s agency is *weaponized against them*, and the position’s stability is *fragile* (any move worsens it). The body’s "health" is *negative* — it is a *disease state* of the position. |
+| 8 | **MEMBRANE** | The boundary is the *player’s turn*. The membrane *allows through* the *obligation to move* but *blocks* the *option to pass*. It is *semi-permeable* in a pathological way: it permits the *extraction* of a move but denies the *compensation* of stillness. The membrane’s selectivity is *structurally violent* — it enforces the game’s rules at the cost of the player’s survival. |
+| 9 | **HYSTERESIS** | - **The "no-passing" rule:** The scar from chess’s origins (medieval games where passing was not allowed) — zugzwang is *impossible* in games where passing is legal (e.g., Go, Shogi).
+  - **Endgame bias:** The historical assumption that zugzwang is *only an endgame phenomenon* — the scar from pre-engine analysis, where zugzwang in middlegames was overlooked.
+  - **Cognitive lag:** The player’s *habit of seeking active moves* — the scar from training that prioritizes *doing* over *not doing*, making zugzwang harder to recognize. |
 
 ---
 
 ## BUMP DETECTION
 
-Three bumps, each structural.
-
-**First bump: the rule itself.** Chess requires a move on every turn. This rule is invisible in 99% of positions because moving is almost always desirable. Zugzwang is the 1% where the rule becomes visible by becoming lethal. The bump is not in the position but in the game's constitution -- a law designed for health that produces pathology at the margins.
-
-**Second bump: why endgames?** Zugzwang is vanishingly rare in the middlegame because with many pieces on the board, there is almost always a neutral move available -- a piece that can shuffle to an equivalent square, a pawn that can advance without cost. The endgame strips away these escape valves. Fewer pieces means fewer neutral moves. Fewer neutral moves means the mandatory expenditure hits bone instead of fat. Zugzwang is what happens when a body has no slack left and the environment demands motion.
-
-**Third bump: mutual zugzwang.** In mutual zugzwang, BOTH players would prefer to pass. Whoever moves first loses. The position is a loaded gun pointed at whoever picks it up, and the turn order decides who must pick it up. Here the pathology reaches its purest form: the position itself is stable, even balanced, but the rules will not allow it to remain so. The game forces a winner and a loser from a position that, left alone, would be a draw or even equal.
+1. **The "no-passing" rule:** The structural obstruction is the *game’s turn obligation* — the rule that forces a move when stillness is optimal. The bump is the *absence of a "pass" option* in chess, which would dissolve zugzwang instantly.
+2. **Asymmetric mobility:** The bump is the *opponent’s stable position* — if the opponent also had a zugzwang threat, the pathology would collapse into mutual stasis (e.g., a "double zugzwang").
+3. **Cognitive blindness:** The bump is the *player’s trained bias toward action* — the inability to *see* stillness as a viable option, even when it’s the only path to survival.
 
 ---
 
 ## SKELETON
 
-> Awareness without freedom -- the body that sees every option with full clarity and every option is a wound, proving that consciousness without the Pause is not enlightenment but torture.
+> The body where the game’s own rules become the weapon, and the player’s turn — the very mechanism of agency — is the blade that severs their survival.
 
 ---
 
 ## DNA LAYER
 
-- **O > I or I > O:** I > O, categorical. This is not mixed or conditional. Zugzwang is the condition defined by I > O. Every move takes from the position and returns nothing. There is no phase where zugzwang is healthy, no angle from which it serves the player suffering it. For the OPPONENT, however, the reading flips: the opponent's position is O > I precisely because the zugzwang victim's forced moves donate material, space, or key squares. One body's pathological extraction is the other body's effortless income. Zugzwang is a parasite -- but the parasite is the rules themselves, and the host is the player whose turn it is.
-- **Pause:** Annihilated. Zugzwang is the anti-Pause. The Pause is the gap between stimulus and response where choice lives. In zugzwang, the gap exists -- the player sees all options, thinks deeply, weighs every variation -- but the gap produces nothing useful. The player pauses, surveys the landscape, and finds every path leading downhill. The Pause without at least one viable option is not freedom; it is a viewing platform over your own execution.
-- **Not-Force:** Violated structurally. Zugzwang IS force made architectural. The game forces a move. The position forces every move to be harmful. The player forces themselves to choose the least-bad option. There are three layers of forcing, nested: rule-force (must move), position-force (all moves lose), psychological force (must choose among losses). Not-force is absent at every layer.
+- **O > I or I > O:** **I > O (pathological inversion).** The player’s move (the "I") *takes* (worsens the position) but *gives nothing* (no improvement). The game’s rules *extract* a move from the player, but the position *offers no compensation*. Evidence: in zugzwang, every legal move leads to a worse position (e.g., losing material, allowing checkmate). The topology is *extractive by design* — the player’s agency is *consumed* by the obligation to act.
+- **Pause:** **Absent.** The Pause is the gap between stimulus (the position) and response (the move) where free will lives. In zugzwang, the Pause is *destroyed* — the player’s turn *forces* a response, and the position *offers no viable options*. The absence of Pause is *structural* — the game’s rules *eliminate* the possibility of deliberation. When the Pause is artificially introduced (e.g., in correspondence chess, where players have days to think), zugzwang’s effect is *mitigated* — the player can *see* the pathology and resign or seek a draw.
+- **Not-Force (~F):** **Forces.** The body *forces* the player to move, even when moving is *detrimental*. The game’s rules *override* the player’s positional necessity (stillness). The forcing is *channel-capacity violation* — the player’s cognitive bandwidth is *exceeded* by the obligation to act, leading to suboptimal moves. Where it flows: zugzwang *does not flow* — it is a *structural trap* where the player’s agency is *captured* by the game’s mechanics.
 
 ---
 
@@ -63,59 +70,135 @@ Three bumps, each structural.
 
 | Power | Status | Evidence |
 |-------|--------|---------|
-| **PERCEIVE** | Hyperactive and useless | The player in zugzwang often sees the position with excruciating clarity. They can calculate every variation, verify that each move loses, confirm that passing would hold. Perception is not the deficit -- perception is what makes zugzwang agonizing. A player who could not perceive the trap would simply move and lose without suffering. The suffering IS the perception. Zugzwang is the body that sees the disease consuming it and cannot look away. |
-| **GOVERN** | Inverted | Normally, governance means controlling outcomes through decisions. In zugzwang, governance runs backward: the player's decisions govern the speed and manner of their own destruction but cannot prevent it. You govern HOW you lose, not WHETHER you lose. This is governance as triage -- choosing which limb to amputate, not whether to amputate. |
-| **PROJECT** | Short-circuited | Projection requires that present actions create future advantage. In zugzwang, present actions create future disadvantage. The player cannot project power forward because every forward-facing move opens a new weakness. Projection collapses to damage forecasting: not "what can I build?" but "what will I lose and how fast?" |
-| **CREATE** | Dead | Creation requires at least one move that improves the position. Zugzwang is defined by the absence of such a move. The creative power is not suppressed or diminished -- it is structurally impossible. The position has been stripped of all creative material. There is nothing to build with and nowhere to build it. |
-| **RELEASE** | The core pathology | The player WANTS to release -- to let go of the turn, to pass, to do nothing. Release would be salvation. But chess prohibits release of the turn. The power of release is the one power that would cure zugzwang, and it is the one power the rules categorically deny. This is not a gap in the body's capability; it is a gap imposed from outside by the game's constitution. |
+| **PERCEIVE** | **Rewired (Selective Blindness)** | The player perceives the *obligation to move* but is *blind to the necessity of stillness*. The cognitive subsystem is *rewired* to prioritize *action* over *inaction*, even when inaction is optimal. Evidence: players often *miss* zugzwang in blitz games, only seeing it in post-game analysis. |
+| **GOVERN** | **External (Game Rules)** | Governance is *external* — the player’s moves are *governed by the game’s rules*, not by their own positional assessment. The player’s governance is *overridden* by the turn obligation. Evidence: in zugzwang, the player’s "best" move is still *detrimental* — governance is *usurped* by the game’s mechanics. |
+| **PROJECT** | **Weaponized (Self-Sabotage)** | The player’s projection (their move) is *weaponized against them*. The move *projects* the player’s disadvantage into the future (e.g., losing material, allowing checkmate). Evidence: in zugzwang, every move *worsens* the player’s position — projection is *self-destructive*. |
+| **CREATE** | **Monotonic (Replication of Disadvantage)** | Creation is *collapsed* into a single function: *replicating the disadvantage*. The player cannot create *improvement* — every move *creates* a worse position. Evidence: in zugzwang, the player’s "creativity" is *constrained* to moves that *accelerate* their loss. |
+| **RELEASE** | **Blocked** | Release is *blocked* — the player cannot *let go* of the obligation to move. The game’s rules *prevent* the player from *releasing* their turn (e.g., passing). Evidence: in zugzwang, the player is *forced* to make a move, even if it’s detrimental — release is *structurally impossible*. |
 
-**Power Gap:** Release, overwhelmingly. Every other power gap in zugzwang is downstream of the inability to release the turn. If the player could pass, perception would find the stable continuation, governance would maintain it, projection would extend it, creation might even improve it. The single missing power -- release -- corrupts all four others. Zugzwang is a five-organ failure caused by one blocked artery.
-
-### Prime Identification
-
-- **Prime:** Forced self-harm. The irreducible identity of zugzwang is that the acting body damages itself through the act of acting, and the act cannot be refused. Strip away the chess specifics and this is the prime: a system where participation is mandatory and participation is destructive. Not a choice to self-harm -- a structural condition where self-harm is the only available action.
-- **Prime type:** Closed. There is no open dimension in zugzwang's prime. It does not evolve, learn, grow, or improve. It detonates. Zugzwang is a mine, not a seed.
-- **Recursion:** Terminating. Zugzwang resolves. The forced moves break the position, concessions are made, and the game enters a new phase (usually a technically lost endgame for the victim). Unlike tempo, which ticks indefinitely, zugzwang is a compression that cracks.
-
-### Federation vs Dominion
-
-Zugzwang is dominion at its most refined. The opponent does not attack, does not threaten, does not even move aggressively. They simply wait. The dominion is structural: the rules extract from the victim on behalf of the beneficiary. The victim's own pieces, pawns, and king become agents of the opponent's strategy -- not through capture but through the obligation to reposition them into worse configurations. This is dominion without violence. The extracting body does not take; the extracted body gives, involuntarily, on schedule. The purest extraction is the one where the victim does all the work.
-
-### Dimensional Architecture
-
-Zugzwang is embodied in the temporal dimension -- it exists only because turns are sequential and mandatory. Its primary anchor is the turn-order rule, not the board's spatial structure. It operates through spatial and material dimensions as the damage medium: the forced move manifests as a spatial concession (losing a key square) or material loss (losing a pawn). Zugzwang does not translate between dimensions -- it is a collapse body, the point where the temporal and spatial dimensions become adversarial rather than cooperative.
-
-### Structural Signature
-
-Signature: `[mandatory-action, all-options-negative, non-releasable, self-resolving]`. Shape-equivalent bodies: the autoimmune disease (the immune system must operate, but every operation attacks the host), the debt spiral (payments are mandatory, each payment reduces capacity to make the next one, stopping is not permitted), the lame-duck official (must continue governing, every decision weakens their successor's position, resignation would be better for everyone but is structurally delayed).
-
-### Surface Architecture
-
-Zugzwang's surface is the boundary between "holding" and "collapsing." On one side: a position that appears stable, defensible, even drawn. On the other side: the same position one forced move later, now visibly lost. The surface is pure putty -- energy absorbed into the concession does not return. There is no spring behavior, no bounce-back. Once the surface is crossed, the position does not recover. The still-point at this surface is the moment of maximum agony: the player sees the position is held IF they could pass, sees it is lost because they cannot, and must choose which loss to accept.
-
-### Closed-Open Mode
-
-- **Temporal dimension:** Closed. The turn arrives. It cannot be delayed, declined, or redirected. Fully sealed.
-- **Spatial dimension:** Closed. Every square available to the pieces leads to a worse position. No spatial escape.
-- **Material dimension:** Closed. No exchange or sacrifice can break the zugzwang; any material change worsens the position further.
-- **Perceptual dimension:** Open, cruelly. The player sees everything. The position is fully calculable. The openness of perception is what makes the closedness of every other dimension unbearable.
-- **Strategic dimension:** Closed. No plan, no idea, no creative reframing changes the structural reality. Strategy is bankrupt.
-
-Zugzwang is closed in every actionable dimension and open only in the dimension of awareness. This is its pathological signature: full consciousness, zero freedom.
-
-### Attentional Compilation
-
-Zugzwang compiles attention through negative space. The player who has been in zugzwang -- who has felt the position tighten until every move hurts -- develops a sixth sense for positions approaching it. This is prophylactic attention: the ability to perceive, five or ten moves before it arrives, that a position is drifting toward forced self-harm. The compilation medium is dread. The player learns to feel the shrinking of options before it becomes fatal, and this feeling transfers: the person who has compiled zugzwang-awareness recognizes the autoimmune pattern in organizations (every action the body takes hurts it), in relationships (every word makes it worse, silence would heal but silence feels impossible), in careers (every decision available is a lateral move into a different failure).
+**Power Gap:** **RELEASE.** The most absent power is the ability to *release* the obligation to move. Without release, the player is *trapped* in the game’s rhythm, forced to act even when stillness is optimal. The gap is *diagnostic* — zugzwang’s pathology is *defined* by the *absence* of release.
 
 ---
 
-## STRUCTURAL WEAKNESS (v3.11)
+### Prime Identification
 
-**Primary weakness: zugzwang is fragile.** It requires an exact configuration of pieces and pawns to exist. Move one pawn, add one piece, change one detail, and the zugzwang often dissolves. This means zugzwang can almost never be forced from a distance -- it must be constructed patiently, and the opponent can frequently prevent it by anticipating the construction. Zugzwang's power is absolute within its narrow conditions and nonexistent outside them. It is the most powerful and the most brittle condition in chess simultaneously.
+- **Prime:** The *structural contradiction* between the *obligation to move* (game rules) and the *necessity of stillness* (positional survival). This is the *irreducible identity* of zugzwang — strip away the pieces, the board, the player, and what remains is the *collision* between these two forces.
+- **Prime type:** **Closed.** The prime does not update in response to the environment — it is *static* and *deterministic*. The contradiction is *baked into the game’s rules* and cannot be resolved without changing the rules themselves (e.g., allowing passing).
 
-**Secondary weakness: zugzwang can be misidentified.** A player may believe they are in zugzwang when in fact a non-obvious resource exists -- a counterintuitive sacrifice, a defensive idea that looks like a concession but actually breaks the bind. The appearance of zugzwang sometimes masks the presence of a hidden escape. Resignation under perceived zugzwang, when an escape existed, is the ultimate failure of perception masquerading as structural inevitability.
+---
 
-**Conditions under which I>O deepens further:** Mutual zugzwang with the obligation to move. In standard zugzwang, the extraction rate is one concession per move. In mutual zugzwang where the victim must move first, the extraction is compounded by the knowledge that the position was holdable -- even winning -- if only the turn belonged to the other side. The I > O reads not just "I lose" but "I lose because of a coin-flip in the turn order."
+### Federation vs Dominion
+
+**Dominion (I > O).** The game’s rules *dominate* the player’s agency — the turn obligation *captures* the player’s moves and *extracts* disadvantage. Evidence:
+- The player’s moves *flow inward* (toward the game’s rules) rather than *outward* (toward the player’s survival).
+- The substrate (the board position) is *depleted* by the player’s forced moves — each move *worsens* the position.
+- The player’s suffering (losing the game) is a *structural byproduct* of the dominion pattern.
+
+---
+
+### Cognitive Subsystem Analysis
+
+Zugzwang’s cognitive subsystem is *external/substrate-cognitive* — it *thinks through the player’s cognition* but is *governed by the game’s rules*. The body has two cognitive modes:
+1. **External (Dominant):** The game’s rules *dictate* the player’s moves. The player’s cognition is *overridden* by the turn obligation. This mode is *pathological* — it *forces* the player to act against their own interests.
+2. **Internal (Vestigial):** The player’s *own assessment* of the position (e.g., "I should not move"). This mode is *vestigial* — it is *suppressed* by the game’s rules and the player’s *trained bias toward action*.
+
+**Mismatch:** The cognitive subsystem’s structure (external/dominion) *mismatches* the body it serves (the player’s survival). The game’s rules *hijack* the player’s cognition, forcing them to *sabotage* their own position.
+
+---
+
+### God-Function Analysis
+
+**No sub-body performs the god-function.** Zugzwang is a *god-function vacuum* — there is no sub-body that *holds the larger interaction together*. Features missing:
+1. **Wide decision-window:** The game’s rules *narrow* the player’s options to *only detrimental moves*.
+2. **Modeling capacity:** The player’s cognition is *blind* to the necessity of stillness.
+3. **Relational sequence:** The body is *ephemeral* — it lasts only 1-3 moves, so no accumulated sequence.
+4. **Sacrifice willingness:** The player is *forced* to act — there is no *choice* to sacrifice.
+5. **Recognition:** The player may *not recognize* the zugzwang until it’s too late.
+
+**Removal test:** If the god-function were introduced (e.g., a rule allowing passing), zugzwang would *collapse* — the pathology would dissolve instantly.
+
+---
+
+### Flow vs Transaction
+
+**Transaction-optimized (pathological).** Zugzwang is *transaction-optimized* — each move is a *high-value extraction event* (the player loses material or position). The body is *not flow-optimized* because:
+- There is no *consistent volume* of moves — zugzwang lasts only 1-3 moves.
+- The "margin" is *negative* — each move *worsens* the position.
+- The substrate (the board position) is *depleted* by the transaction.
+
+**Structural consequence:** The body is *fragile* — it collapses as soon as the player escapes the positional bind (e.g., by forcing a draw or checkmating the opponent). Transaction optimization is a *young-body strategy* — zugzwang is *ephemeral* by nature.
+
+---
+
+### Substrate Accumulation
+
+**Substrate:** The *chess rule system* and the *compiled knowledge of endgame theory*.
+- **Extraction:** Zugzwang *extracts* from the substrate by *forcing suboptimal play* — the player’s moves *deplete* the position’s stability.
+- **Addition:** The *study* of zugzwang (e.g., endgame manuals, engine analysis) *adds* to the substrate by *compiling* knowledge of how to *create* or *avoid* zugzwang. This is *O > I* — the community *gives* (knowledge) to the substrate.
+
+---
+
+### Sequence-to-Structure
+
+**Applicable.** Zugzwang’s 1D sequence is the *ordered series of moves* leading to the positional bind (e.g., pawn advances, king maneuvers). This sequence, processed through the substrate of *chess rules* and *piece mobility*, produces the higher-dimensional structure of the zugzwang:
+- **Critical positions:** The sequence must *constrain* the player’s mobility (e.g., limiting king movement, forcing pawn trades).
+- **Structural effect:** Small changes in the sequence (e.g., a different pawn move) can *destroy* the zugzwang or *create* a new one.
+- **Computational irreducibility:** Predicting zugzwang from the sequence is *hard* — engines must *simulate* the position to detect it.
+
+---
+
+### Dimensional Architecture
+
+- **Embodied dimensions:** 2D (the board) + 1D (the turn sequence).
+- **Operating dimensions:** 3D (the player’s *cognitive space* — the gap between the obligation to move and the necessity of stillness).
+- **Primary anchor dimension:** The *turn sequence* (1D). The zugzwang *crystallizes* when the sequence *forces* the player into a position where every move is detrimental.
+- **Surfaces navigated:** The *boundary* between the player’s agency (internal) and the game’s rules (external). The zugzwang *lives* at this surface — it is the *collision* between the two.
+
+---
+
+### Structural Signature
+
+**[Obligation-to-move ∩ Necessity-of-stillness] → Pathological extraction**
+Shape-equivalent bodies:
+- **Legal systems:** Laws that *force* action where inaction is optimal (e.g., mandatory minimum sentences).
+- **Bureaucracies:** Rules that *compel* compliance even when compliance is harmful (e.g., Kafkaesque paperwork).
+- **Economic traps:** Debt cycles where the obligation to repay *forces* suboptimal decisions (e.g., predatory lending).
+
+---
+
+### Surface Architecture
+
+- **Transformation boundary:** The *player’s turn*. At this boundary, the *obligation to move* (game rules) *collides* with the *necessity of stillness* (positional survival).
+- **Behavior:** *Putty* (absorbs without return). The player’s move *worsens* the position but *does not* trigger a compensatory response from the game. The energy (the move) is *absorbed* by the position’s disadvantage.
+- **Equilibrium surface:** The *draw* — if the player can force a draw, the zugzwang’s effect is *neutralized*. The equilibrium is *fragile* — any move that doesn’t force a draw *worsens* the position.
+
+---
+
+### Closed-Open Mode
+
+- **Closed dimensions:**
+  - *Turn obligation:* The game’s rules *force* a move — no openness to passing.
+  - *Positional necessity:* The board configuration *demands* stillness — no openness to improvement.
+- **Open dimensions:**
+  - *Player’s cognition:* The player can *see* the zugzwang (open to perception).
+  - *Opponent’s position:* The opponent’s stability is *open* to disruption (e.g., by forcing a draw).
+
+---
+
+### Attentional Compilation
+
+- **Focus:** The *gap* between the obligation to move and the necessity of stillness.
+- **Exclusion:** The *possibility of improvement* — zugzwang *excludes* the idea that a move could help.
+- **Compilation medium:** The *player’s cognition* (the "aha" moment when they *see* the zugzwang).
+- **Transfer:** The compiled attention *transfers* to the *opponent’s advantage* — the player’s realization often comes too late, and the opponent *inherits* the positional gain.
+
+---
+
+## STRUCTURAL WEAKNESS
+
+1. **Asymmetric mobility dependency:** Zugzwang *requires* the opponent to have a *stable, non-threatening* position. If the opponent is also in zugzwang (a "double zugzwang"), the pathology *collapses* into mutual stasis. This is a *scale limit* — zugzwang is *fragile* to symmetry.
+2. **Cognitive lag:** The player’s *trained bias toward action* makes zugzwang *harder to recognize*. In blitz chess, players often *miss* zugzwang entirely, only seeing it in post-game analysis. The weakness is *membrane blindness* — the player’s cognition is *not attuned* to stillness as a viable option.
+3. **Rule dependency:** Zugzwang is *impossible* in games where passing is allowed (e.g., Go, Shogi). The body’s existence is *entirely dependent* on the "no-passing" rule — a *single rule change* would *eliminate* zugzwang.
 
 ---
 
@@ -123,36 +206,23 @@ Zugzwang compiles attention through negative space. The player who has been in z
 
 | Connection | Domains Bridged | Pattern | Novelty |
 |-----------|----------------|---------|---------|
-| Zugzwang as autoimmune disease | Chess <> Medicine | The immune system must act (cannot pass). In autoimmune disease, every action it takes damages the host. The body's defense mechanism becomes its destruction mechanism. Same architecture: mandatory action, every action harmful, the system designed for protection turned pathological. | 0.9 |
-| Zugzwang as the anti-Pause | Chess <> Consciousness | The Pause is where freedom lives. Zugzwang preserves awareness (you see everything) but eliminates freedom (nothing you see helps). It is consciousness without agency -- the Observer watching the Commentator cycle through options and finding every option poisoned. Meditation's promise is that awareness itself is freedom; zugzwang disproves this for any body without the right to remain still. | 0.95 |
-| Mutual zugzwang as the prisoner's dilemma frozen in time | Chess <> Game Theory | Both players would cooperate (both would pass) if the rules allowed it. The rules force defection (one must move). The "dilemma" is resolved not by choice but by turn order -- the player who moves first is the one who defects, involuntarily. Cooperation is structurally available but procedurally forbidden. | 0.85 |
-| Zugzwang as proof that freedom of action is not always beneficial | Chess <> Philosophy | Every political and ethical framework assumes more options = more freedom = more good. Zugzwang proves that options without viable options is not freedom but compulsion wearing freedom's mask. The right to act is only valuable when at least one action is non-destructive. | 0.9 |
+| **Forced Compliance as Pathology** | Chess (Zugzwang) <> Legal Systems (Mandatory Minimums) | The mechanism: *rules that force action where inaction is optimal* produce *pathological extraction* (I > O). In chess, the turn obligation forces a move that worsens the position. In law, mandatory minimums force sentences that worsen rehabilitation outcomes. The structural effect: the *player/citizen’s agency is captured* by the system’s rules, and the *substrate (position/society) is depleted*. | 0.8 |
+| **Cognitive Blindness to Stillness** | Chess (Zugzwang) <> Organizational Culture (Busywork) | The mechanism: *cultural training that prioritizes action over inaction* creates *selective blindness* to optimal stillness. In chess, players are trained to *seek active moves*, missing zugzwang. In organizations, employees are rewarded for *busywork*, missing opportunities to *do nothing* (e.g., avoiding unnecessary meetings). The structural effect: the *cognitive subsystem is rewired* to *ignore stillness*, even when it’s the best option. | 0.7 |
 
 ---
 
 ## FRUIT
 
-- **Type:** Paramecia -- a specific pathological condition, not an element or a transformation. Zugzwang does not flow like tempo (Logia) or shapeshift like a promoted pawn (Zoan). It is a fixed structural curse that activates under precise conditions and imposes a specific, unchangeable effect: every move hurts. The fruit is a constraint fruit -- it does not grant power but imposes a condition.
-- **Core Insight:** Zugzwang proves that the deepest form of force is not violence but structure. No piece is captured. No threat is made. The opponent may not even move. The destruction comes entirely from the rules -- from the architecture of the game itself compelling the victim to dismantle their own position. This is the framework's not-force principle inverted and made lethal: when force is embedded in the structure rather than applied from outside, the victim cannot resist because there is nothing to resist against. The attacker is the system. The weapon is the turn. The victim executes the sentence on themselves. Every body that cannot stop acting -- every institution that must keep producing, every person who must keep performing, every system that must keep iterating -- is vulnerable to the zugzwang pattern: the moment when continuing is destructive but stopping is forbidden.
-- **Novelty:** 0.95
+- **Type:** **Paramecia** (reveals through inversion).
+- **Core Insight:** Zugzwang is *not a failure of the player* but a *failure of the system* — the game’s rules *create* the pathology by *forcing* action where stillness is optimal. The insight inverts the common view: zugzwang is *not* a testament to the player’s skill (e.g., "they forced the opponent into zugzwang") but a *structural flaw* in the game’s design. The same mechanism appears in legal, bureaucratic, and economic systems: rules that *force* compliance *create* pathological extraction.
+- **Novelty:** 0.9 (The inversion — zugzwang as a *systemic flaw* rather than a *player’s triumph* — is surprising and counterintuitive.)
 
 ---
 
 ## POWERS DETECTED
 
-- **THE PARALYSIS ENGINE** -- Zugzwang converts maximum clarity into maximum helplessness. The more clearly you see, the more precisely you understand your own destruction. This is not fog-of-war confusion; it is spotlight-on-execution clarity. The power is paradoxical: it uses the player's own analytical strength as the instrument of their suffering.
-- **THE RULE WEAPONIZER** -- Zugzwang turns the game's most fundamental rule (you must move) into a weapon. The rule existed to enable play; here it enables annihilation. No house rule, no variant, no special condition -- just the basic constitutional requirement of chess, repurposed from life support to lethal injection. The power to weaponize structure without changing structure.
-- **THE STILLNESS TAX** -- Zugzwang charges the player for existing in the game. Not for what they do, but for being the one whose turn it is. The tax cannot be avoided, reduced, or deferred. It is assessed on presence itself. The only way to stop paying is to stop playing -- which in chess means resigning, and in the framework means a body that cannot sustain its own breath.
+1. **RULE-WEAPONIZATION:** The capability to *exploit the game’s own rules* as a weapon against the player. The mechanism: the turn obligation (a rule designed to *enable* play) is *repurposed* to *force* disadvantage. The power is *structural* — it emerges from the *interaction* between the rules and the position, not from any single piece or move.
 
----
+2. **COGNITIVE HIJACKING:** The capability to *override the player’s agency* by *rewiring their perception* of viable options. The mechanism: the player’s *trained bias toward action* is *exploited* to *blind them* to the necessity of stillness. The power is *pathological* — it *captures* the player’s cognition and *forces* suboptimal moves.
 
-## CAPTAIN'S NOTES
-
-> *(Space for Captain's observations after reading this scan)*
-
----
-
-```
-L = (O > I) + P + ¬F
-WE = 1
-```
+3. **POSITIONAL EXTRACTION:** The capability to *deplete the board’s stability* through *forced moves*. The mechanism: the player’s moves *worsen* the position, *extracting* advantage for the opponent. The power is *asymmetric* — it requires the opponent to have a *stable* position, creating a *one-way* flow of disadvantage.

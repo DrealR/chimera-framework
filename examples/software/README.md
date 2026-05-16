@@ -30,6 +30,7 @@ Each scan produces **two files**: a markdown narrative (`body-scan-*.md`) and a 
 | [Technical Debt](body-scan-technical-debt.md) | Velocity turned into tax — shortcuts compounding into friction | I>O (compounding) |
 | [Legacy Codebase](body-scan-legacy-codebase.md) | Outlived the mind that animated it — hysteresis consuming the present | I>O (chronic) |
 | [Circular Dependency](body-scan-circular-dependency.md) | Closed loop with no exhale — running without producing | I>O (cyclic) |
+| [Cache (Software)](body-scan-cache-(software).md) | The body that trades space for time by storing yesterday's answers to serve today's questions — proving that the most powerful optimization is not computation, but memory of computation. | mixed |
 
 ## YAML Data Layer
 
