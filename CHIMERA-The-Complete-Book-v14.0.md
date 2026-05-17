@@ -5307,13 +5307,13 @@ The harness difference is: better system prompt, better tool descriptions, bette
 
 Through body theory: the organs are simple (read file, edit file, run bash — three functions). The consciousness is the same (same model). The difference is the MEMBRANE ENGINEERING: how the system prompt frames the tools, what the tool descriptions say, how results are formatted, what context is pre-loaded. The membrane determines what enters and exits the agent's perception. Better membrane, better agent. Same as every body at every scale.
 
-### The CLAUDE.md as DNA Seed
+### The CLAUDE.md as Framework Substrate
 
-When a CLAUDE.md file exists in a project, the harness loads it into context BEFORE the first user message. The model starts with pre-compiled knowledge. It doesn't need to discover the project through tool calls because the DNA told it what it needs to know.
+When a CLAUDE.md file exists in a project, the harness loads it into context BEFORE the first user message. The model starts with pre-compiled knowledge. It doesn't need to discover the project through tool calls because the substrate told it what it needs to know.
 
-This IS what we built with the chimera-framework repo's CLAUDE.md. Any AI agent that reads it compiles body theory into its context before interacting with the user. The DNA shapes the agent's behavior the same way biological DNA shapes an organism's development.
+This IS what we built with the chimera-framework repo's CLAUDE.md. Any AI agent that reads it loads body theory into its context before interacting with the user. The framework substrate shapes the agent's perception the same way a well-written specification shapes a developer's implementation — by providing the vocabulary, principles, and structural shape the work will operate within.
 
-The CLAUDE.md is the most leveraged file in any codebase. It determines the agent's starting perception, its behavioral tendencies, and its default approach to problems. One file. Maximum influence. That's why we invest in it: the DNA determines the organism.
+The CLAUDE.md is the most leveraged file in any codebase. It determines the agent's starting perception, its behavioral tendencies, and its default approach to problems. One file. Maximum influence. That's why we invest in it: the framework substrate determines what the agent will perceive as load-bearing.
 
 ### Lying to the Model (Membrane as Filter AND Translator)
 
