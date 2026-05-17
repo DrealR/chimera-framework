@@ -8,21 +8,21 @@ This sheet works with the Framework Reflection Sheet and the NotebookLM Translat
 
 ---
 
-## The Five Dials
+## The Five Stops
 
-Every NotebookLM podcast session is configured through five dials. Each dial has been mapped to a fictional inheritance you can recall by feel.
+Every NotebookLM podcast session is configured through five stops. Each stop has been mapped to a fictional inheritance you can recall by feel.
 
-**Dial 1: The Magnet (Sources / DNA input)**
-**Dial 2: The Stance (Format)**
-**Dial 3: The Breath (Length)**
-**Dial 4: The Tongue (Language)**
-**Dial 5: The Spell (Focus / Location prompt)**
+**Stop 1: The Magnet (Sources / DNA input)**
+**Stop 2: The Stance (Format)**
+**Stop 3: The Breath (Length)**
+**Stop 4: The Tongue (Language)**
+**Stop 5: The Spell (Focus / Location prompt)**
 
-These five dials, set together, produce the output. Master them and you master the instrument.
+These five stops, set together, produce the output. Master them and you master the instrument.
 
 ---
 
-## Dial 1: The Magnet
+## Stop 1: The Magnet
 
 **What it is:** The DNA input that tells the system what to gather. In NotebookLM's deep research, this is what you type in the search bar. In sources, this is what you load. The Magnet attracts the right substrate for the work.
 
@@ -45,7 +45,7 @@ The more structured the Magnet, the more structured the pull.
 
 ---
 
-## Dial 2: The Stance
+## Stop 2: The Stance
 
 The Stance is which posture the AI hosts take toward the material. NotebookLM offers four Stances. Each has a fictional name that captures its essence.
 
@@ -103,7 +103,7 @@ The Stance is which posture the AI hosts take toward the material. NotebookLM of
 
 ---
 
-## Dial 3: The Breath
+## Stop 3: The Breath
 
 The Breath is how much room the operation has to unfold. NotebookLM offers three breath settings. Each maps to a fictional rhythm.
 
@@ -145,7 +145,7 @@ The Breath is how much room the operation has to unfold. NotebookLM offers three
 
 ---
 
-## Dial 4: The Tongue
+## Stop 4: The Tongue
 
 The Tongue is which language the output speaks. Mostly stylistic, but worth knowing the fictional inheritance for completeness.
 
@@ -159,7 +159,7 @@ The Tongue is which language the output speaks. Mostly stylistic, but worth know
 
 ---
 
-## Dial 5: The Spell
+## Stop 5: The Spell
 
 The Spell is what you cast into the focus box. The wish. The Location. What you want from the gathered material.
 
@@ -208,9 +208,9 @@ NotebookLM sometimes suggests spell chips below the focus box: "Benchmark Limita
 
 ---
 
-## The Five Dials Working Together
+## The Five Stops Working Together
 
-Each session is one configuration of all five dials. The output depends on the combination, not any single dial alone.
+Each session is one configuration of all five stops. The output depends on the combination, not any single stop alone.
 
 **Example configurations and their fictional inheritance:**
 

@@ -202,7 +202,7 @@ The Cube inherits the host model's constraints. These are not permanent walls. T
 - [The Relational Engine](the-relational-engine.md) — canonical theory: micro-relational paradox, three-way math bridge, ghost-becomes-ship, reflection science, wormhole lexicon
 - [The Cube](the-cube.md) — accessible reference (dial 5-6)
 - [CHIMERA Device Spec](chimera-device-spec.md) — full device specification with five-coordinate body, four abilities, harness architecture
-- [CLAUDE.md](../CLAUDE.md) — the DNA Seed, framework substrate F
+- [CLAUDE.md](../CLAUDE.md) — the Framework Substrate F
 
 ---
 

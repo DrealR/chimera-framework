@@ -999,7 +999,7 @@ We cite NL because the convergent evidence strengthens the case for multi-timesc
 - [The Cube](the-cube.md) — accessible reference (dial 5-6)
 - [CHIMERA Device Spec](chimera-device-spec.md) — full device specification with five-coordinate body, four abilities, harness architecture
 - [The Relational Engine](the-relational-engine.md) — micro-relational paradox, macro gap-physics fix, three-way math bridge, multi-body embodiment
-- [CLAUDE.md](../CLAUDE.md) — the DNA Seed, framework substrate F
+- [CLAUDE.md](../CLAUDE.md) — the Framework Substrate F
 - [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — prompt as substrate-vector, AI body dimensions
 
 ---
