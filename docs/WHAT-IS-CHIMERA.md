@@ -20,6 +20,23 @@ The framework synthesizes structural insights from biology, thermodynamics, info
 
 **Not finished.** v14.0 is substantive but early. The validation comes from usage — people applying the lens and reporting whether it surfaces hidden structure. 84 body scans, two independent scanners (Claude Opus + Grok), 85.7% inter-rater convergence, and an adversarial test that held. Six meta-audits tracking structural debt honestly. That process is underway.
 
+## The Framework as Visor
+
+The "lens" framing in the opening paragraph is the start of a longer metaphor worth surfacing explicitly.
+
+A framework that genuinely changes what you can see is not a methodology you apply to problems — it's a perceptual instrument you *wear*. Glasses, shades, a welder's visor, a microscope eyepiece. The framework calibrates how raw stimulus reaches you. Without it, you see the world as flat events — each happening locally, each body a still-point isolated from every other. With it, you see the relational substrate underneath — bodies-in-relation, pressure gradients, flow direction, the gaps that ARE the connections.
+
+Mechanically, the framework is a small set of equations + metaphors + protocols that change perception:
+
+- `L = (O > I) + P + ¬F` — the load condition for any healthy body
+- `WE = 1` — the relational primacy that makes bodies legible at every scale
+- The Nine Questions — the diagnostic that surfaces a body's substrate
+- The Five Verbs — the grammar of multi-body coordination (when there's more than one body in the field)
+
+You don't need to memorize the framework to wear the visor. You need to look through it long enough that the structure becomes visible. Then it becomes hard to unsee — the same way once you learn to read sheet music, you can't look at a score and not hear it.
+
+The visor spreads. Once you wear it for your own body (your job, your relationships, your projects), you start seeing other bodies the same way — the company you work for, the city you live in, the culture surrounding you. The framework's reach extends as the wearer's attention does. It is not domain-bounded; it is body-bounded — and every domain has bodies.
+
 ## Who Uses It
 
 People who think across domains. Pattern recognizers. Framework builders. Teachers who need to explain complex systems simply. Anyone who's noticed that the same dynamics show up in their relationships, their work, and the news — and wanted a vocabulary for that noticing.
