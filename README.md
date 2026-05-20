@@ -302,6 +302,21 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 ---
 
+## Operator Substrate — Running a Multi-Agent Constellation
+
+When your work grows beyond a single twin (multiple agents, multiple devices, live thought streams, branch signals, deployed surfaces), these six operational documents form the Layer 2 substrate. They are fully mutually cross-referenced — any one leads to the other five.
+
+| Document | What It Covers |
+|----------|---------------|
+| [Constellation Protocol](docs/constellation-protocol.md) | Coordination geometry for multi-agent work — ENTANGLE, OBSERVE, PAUSE, ENGAGE, REST cycle; agent lane discipline; no-collision handoff |
+| [Quantum-Breathing Protocol](docs/quantum-breathing-protocol.md) | Micro-commit discipline — 15-min/50-line breath cycles, live JSON thought streams, cooperative interference across agents |
+| [Agent Invocation Pattern](docs/agent-invocation-pattern.md) | How to spawn, route to, and receive from agents — consistent invocation across harnesses and devices |
+| [Deployment Hygiene Discipline](docs/deployment-hygiene-discipline.md) | Verified-clean build discipline — branch signals, deploy confirmations, rollback triggers, build-queue stall recovery |
+| [Substrate Cartography](docs/substrate-cartography.md) | The map of repos, branches, deployed surfaces, and agent lanes — what lives where, what flows where |
+| [Digital Twin Constellation Setup](docs/digital-twin-constellation-setup.md) | Bootstrap pattern for scaling from one twin to a full multi-agent constellation with private core and public surface |
+
+---
+
 ## Key Principles
 
 **The Pause:** The gap between stimulus and response where free will lives. The Observer beneath thought. Consciousness's unhackable quality.
