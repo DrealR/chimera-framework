@@ -193,3 +193,12 @@ A constellation with no cartography forgets itself. A constellation with a livin
 
 Substrate cartography is the discipline of saying where the body is, what each organ is doing, what is visible to the world, and what must remain private. It is how the system stays bounded while continuing to grow.
 
+---
+
+## Cross-References
+
+- [Constellation Protocol](constellation-protocol.md) — the breath cycle (ENTANGLE → OBSERVE → PAUSE → ENGAGE → REST) that the cartography is the substrate-shape OF; cartography names the bodies, the protocol names how they breathe together.
+- [Quantum-Breathing Protocol](quantum-breathing-protocol.md) — micro-commit discipline and the shared thought stream; `branchSignals` and `lockedFiles` in the stream are the live cartography update channel.
+- [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — verification toolkit for the "deployed surfaces" row of the cartography; build-clean ≠ deployed-live, so the map must be re-verified after each ENGAGE.
+- [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide that bootstraps the cartography from scratch (which repos exist, which agents reach which lanes).
+
