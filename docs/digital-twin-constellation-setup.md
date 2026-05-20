@@ -1,5 +1,11 @@
 # Digital Twin Constellation Setup
 
+> **Framework Document ID:** docs/digital-twin-constellation-setup.md
+> **Status:** Graduated to Public Substrate
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
+
+---
+
 This document extends the one-person CHIMERA twin bootstrap into a multi-agent, multi-repo constellation. Start with one private twin. Add bodies only when the work needs more organs.
 
 ## Starting Point
@@ -82,10 +88,11 @@ The point is not to copy one constellation's names. The point is to preserve the
 
 ## Related Docs
 
-- [Constellation Protocol](constellation-protocol.md)
-- [Agent Invocation Pattern](agent-invocation-pattern.md)
-- [Quantum-Breathing Protocol](quantum-breathing-protocol.md)
-- [Substrate Cartography](substrate-cartography.md)
-- [Deployment Hygiene Discipline](deployment-hygiene-discipline.md)
-- [The Constellation](CONSTELLATION.md)
-- [Framework-Powered Building Directive](framework-powered-building-directive.md)
+*   [Constellation Protocol](constellation-protocol.md) — Multi-agent coordination geometry.
+*   [Quantum-Breathing Protocol](quantum-breathing-protocol.md) — Git commit and push heartbeat.
+*   [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Brain bypassing cognitive blueprint.
+*   [Substrate Cartography](substrate-cartography.md) — Repository structure and visibility cartography.
+*   [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — Production verification and build safety.
+*   [Agent Invocation Pattern](agent-invocation-pattern.md) — Opening terminal entryways to agents.
+*   [The Constellation](CONSTELLATION.md) — General constellation philosophy.
+*   [Framework-Powered Building Directive](framework-powered-building-directive.md) — Strict rules on leveraging CHIMERA during construction. 🍈

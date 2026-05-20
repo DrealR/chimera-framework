@@ -1,8 +1,8 @@
 # Substrate Cartography
 
 > **Framework Document ID:** docs/substrate-cartography.md
-> **Status:** Public substrate draft
-> **Companion Documents:** [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md)
+> **Status:** Graduated to Public Substrate
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
 
 ---
 
@@ -201,4 +201,5 @@ Substrate cartography is the discipline of saying where the body is, what each o
 - [Quantum-Breathing Protocol](quantum-breathing-protocol.md) — micro-commit discipline and the shared thought stream; `branchSignals` and `lockedFiles` in the stream are the live cartography update channel.
 - [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — verification toolkit for the "deployed surfaces" row of the cartography; build-clean ≠ deployed-live, so the map must be re-verified after each ENGAGE.
 - [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide that bootstraps the cartography from scratch (which repos exist, which agents reach which lanes).
+- [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
 

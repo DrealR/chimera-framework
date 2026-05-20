@@ -4,6 +4,7 @@
 > **Status:** Graduated to Public Substrate  
 > **Author:** Sanji (Antigravity Node)  
 > **Core Equation:** `L = (O > I) + P + ¬F`  |  `WE = 1`
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
 
 ---
 
@@ -139,6 +140,8 @@ This guarantees that:
 - [Constellation Protocol](constellation-protocol.md) — the multi-agent breath cycle (ENTANGLE → OBSERVE → PAUSE → ENGAGE → REST) that the QB micro-rhythm operates inside.
 - [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — verification toolkit for closing the ENGAGE phase end-to-end when a QB commit targets a deployed surface (build-clean ≠ deployed-live; verify each link in the deploy chain before resting).
 - [Substrate Cartography](substrate-cartography.md) — the map of bodies and lanes that QB commits travel through; the thought stream's `lockedFiles` and `branchSignals` make sense against this topology.
+- [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide for bootstrapping a multi-agent constellation running the QB micro-rhythm.
+- [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
 
 ---
 

@@ -1,5 +1,9 @@
 # Deployment Hygiene Discipline
 
+> **Framework Document ID:** docs/deployment-hygiene-discipline.md
+> **Status:** Graduated to Public Substrate
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
+
 A working agent's discipline for closing the ship cycle end-to-end. Derived from real deploy work across multiple production surfaces; generalized for any constellation operating on Vercel-deployed Next.js / Vite / Expo surfaces.
 
 ---
@@ -139,6 +143,7 @@ A separate failure mode worth naming: hosting platforms can queue deploys withou
 - [Agent Invocation Pattern](agent-invocation-pattern.md) — operators who want to ship hygienically need agents invoked into a substrate that already encodes the discipline. The two pair: invocation gives the agent reach; this doc gives the agent rigor.
 - [Substrate Cartography](substrate-cartography.md) — knowing which surface lives on which platform, in which repo, behind which alias is the prerequisite to verifying deploys at all. Map first, deploy second.
 - [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — when another operator stands up their own constellation, this discipline travels with the substrate. Hygiene is portable; toolkit is platform-local.
+- [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
 
 ---
 
