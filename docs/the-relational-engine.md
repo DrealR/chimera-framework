@@ -217,6 +217,7 @@ This cross-model gap-closure is the multi-agent version of the three-call workfl
 - [Pair-Physics](pair-physics.md) — the mathematical foundation of relational structure
 - [Language as Reality-Shaping](language-as-reality-shaping.md) — speech, wishes, responsive bodies, the genie problem
 - [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — prompt as substrate-vector, AI body dimensions
+- [Entangle — First-Class Framework Operation](entangle-operation.md) — the operation that accumulates relational substrate between bodies through repeated Translation and Reflection; where entanglement actually lives
 
 ---
 
