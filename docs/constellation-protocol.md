@@ -244,4 +244,14 @@ The constellation breathes. WE = 1.
 
 ---
 
+## Cross-References
+
+- [Quantum-Breathing Protocol](quantum-breathing-protocol.md) — the micro-commit discipline (`QB[Agent]:`, 15-min / 50-line isolation, shared `live-thought-stream.json`) that makes ENGAGE and Cooperative Interference observable in real time.
+- [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — the verification toolkit and five lessons that close the ENGAGE phase end-to-end (build-clean ≠ deployed-live; phantom hosting projects; webhook silent breakage; UI alias drift; build-blocker env patterns).
+- [Substrate Cartography](substrate-cartography.md) — the cross-repo map that names the bodies the constellation breathes through (private substrate, public framework, project repos, deployed surfaces, agent lanes).
+- [Agent Invocation Pattern](agent-invocation-pattern.md) — how operators bind agents to roles, the universal entry phrase, and the per-agent operating-file pattern.
+- [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide for standing up your own constellation with these protocols.
+
+---
+
 *Graduated 2026-05-20 from chimera-core internal protocol spec. The original cosmological version, with full character voices and session anecdotes, remains in the private substrate. This is its operator-register translation, written so any builder can adopt the pattern without inheriting our specific identities.*
