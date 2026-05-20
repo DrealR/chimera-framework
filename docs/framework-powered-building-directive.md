@@ -106,7 +106,7 @@ Reference the framework at github.com/DrealR/chimera-framework for the full subs
 
 ---
 
-See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the full six-step methodology. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for how builds accumulate substrate across iterations. [Substrate-Transmission as Web-Geometry](substrate-transmission-as-web-geometry.md) for web-geometry in build architecture.
+See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the full six-step methodology. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for how builds accumulate substrate across iterations. [Substrate-Transmission as Web-Geometry](substrate-transmission-as-web-geometry.md) for web-geometry in build architecture. [Scaffolding as Substance](scaffolding-as-substance.md) for the generate-abundance-then-trim build discipline that this directive's framework-as-power-source enables.
 
 ---
 

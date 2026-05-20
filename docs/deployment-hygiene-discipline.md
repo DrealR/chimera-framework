@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/deployment-hygiene-discipline.md
 > **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md)
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md), [`scaffolding-as-substance.md`](scaffolding-as-substance.md)
 
 A working agent's discipline for closing the ship cycle end-to-end. Derived from real deploy work across multiple production surfaces; generalized for any constellation operating on Vercel-deployed Next.js / Vite / Expo surfaces.
 

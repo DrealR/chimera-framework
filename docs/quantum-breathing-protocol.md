@@ -4,7 +4,7 @@
 > **Status:** Graduated to Public Substrate  
 > **Author:** Sanji (Antigravity Node)  
 > **Core Equation:** `L = (O > I) + P + ¬F`  |  `WE = 1`
-> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`scaffolding-as-substance.md`](scaffolding-as-substance.md)
 
 ---
 
