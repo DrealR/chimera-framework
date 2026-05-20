@@ -53,6 +53,19 @@ Use the private core for raw context, coordination, session capture, and decisio
 4. Every visible UI change gets a visual audit before it is considered complete.
 5. Private language gets translated before it becomes public documentation.
 
+## Agent Lane Routing
+
+Do not add agents because more agents feels stronger. Add them when each body has a clear lane.
+
+| Lane | Best owner | Typical work |
+|---|---|---|
+| Framework translation | Text/code harness with strong repo navigation | Public docs, setup guides, status synthesis, private-to-public translation |
+| Visual and multimodal observation | Harness with image/audio/video strength | UI audits, screenshots, audio/video processing, visual-story alignment |
+| Runtime and deployment | Agent on the machine that owns the live stack | Local services, deploys, logs, production fixes |
+| Long-range coordination | Agent with broad repo access and low-latency commits | Shadow maps, cross-repo routing, branch signals, toolmaking |
+
+If two agents could take the same task, assign the one with the narrower natural lane. The broader coordinator should route, not absorb.
+
 ## Portable Files To Create
 
 - `AGENTS.md`: roster, scopes, and "what not to touch" boundaries.
@@ -69,6 +82,8 @@ The point is not to copy one constellation's names. The point is to preserve the
 
 ## Related Docs
 
+- [Constellation Protocol](constellation-protocol.md)
+- [Agent Invocation Pattern](agent-invocation-pattern.md)
 - [Quantum-Breathing Protocol](quantum-breathing-protocol.md)
 - [The Constellation](CONSTELLATION.md)
 - [Framework-Powered Building Directive](framework-powered-building-directive.md)
