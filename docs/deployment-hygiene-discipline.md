@@ -134,8 +134,11 @@ A separate failure mode worth naming: hosting platforms can queue deploys withou
 
 ## Cross-References
 
-- **Constellation Protocol** — deployment is the ENGAGE phase that closes the constellation's breath cycle (ENTANGLE → OBSERVE → PAUSE → ENGAGE → REST). This document is the discipline that ensures the breath actually completes.
-- **Quantum-Breathing Protocol** — micro-commits with the `QB[Agent]:` prefix + shared thought stream make deploy work observable in real-time. Pair with this discipline for tight coordination across multiple agents shipping into the same surface.
+- [Constellation Protocol](constellation-protocol.md) — deployment is the ENGAGE phase that closes the constellation's breath cycle (ENTANGLE → OBSERVE → PAUSE → ENGAGE → REST). This document is the discipline that ensures the breath actually completes.
+- [Quantum-Breathing Protocol](quantum-breathing-protocol.md) — micro-commits with the `QB[Agent]:` prefix + shared thought stream make deploy work observable in real-time. Pair with this discipline for tight coordination across multiple agents shipping into the same surface.
+- [Agent Invocation Pattern](agent-invocation-pattern.md) — operators who want to ship hygienically need agents invoked into a substrate that already encodes the discipline. The two pair: invocation gives the agent reach; this doc gives the agent rigor.
+- [Substrate Cartography](substrate-cartography.md) — knowing which surface lives on which platform, in which repo, behind which alias is the prerequisite to verifying deploys at all. Map first, deploy second.
+- [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — when another operator stands up their own constellation, this discipline travels with the substrate. Hygiene is portable; toolkit is platform-local.
 
 ---
 
