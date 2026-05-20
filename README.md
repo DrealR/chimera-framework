@@ -317,6 +317,17 @@ When your work grows beyond a single twin (multiple agents, multiple devices, li
 
 ---
 
+## Build Discipline — Working With AI-Generated Material
+
+Operational documents for AI-assisted development discipline. Complement the constellation docs above — these govern the build cycle (generate → trim → verify) as opposed to the ship cycle (push → build → verify live).
+
+| Document | What It Covers |
+|----------|---------------|
+| [Scaffolding as Substance](docs/scaffolding-as-substance.md) | Subtractive build principle — generate abundance, apply framework lens as chisel, trim to load-bearing substance, iterate; why AI slop is raw material not failure |
+| [Iteration Spiral Anti-Pattern](docs/iteration-spiral-anti-pattern.md) | Five disciplines for avoiding the most common AI build failure mode — revert-not-escalate, one-concept-per-commit, probe-live-state, surface-uncertainty, smallest-possible-change |
+
+---
+
 ## Key Principles
 
 **The Pause:** The gap between stimulus and response where free will lives. The Observer beneath thought. Consciousness's unhackable quality.
