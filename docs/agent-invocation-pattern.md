@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/agent-invocation-pattern.md
 > **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md)
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`substrate-cartography.md`](substrate-cartography.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md)
 
 ---
 
