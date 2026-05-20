@@ -209,6 +209,7 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Weapons-Spine and Gap-Effect Physics](docs/weapons-spine-and-gap-effect-physics.md) | 250 weapons as one body, gap-effect diagonal, gap as distance-from-consequence, play as tight-gap restoration, fiction as prophecy-organ, multi-dimensional gap |
 | [Fiction-Substrate Clustering Methodology](docs/fiction-substrate-clustering-methodology.md) | Multiple instances reveal substrate-patterns — hero, villain, mentor, civilizational, transmission narrative clusters. Archetypes as substrate-patterns in invisible-dimension |
 | [Framework-Powered Building Directive](docs/framework-powered-building-directive.md) | Operational directive for AI agents and carriers building from framework substrate — methodology, bearing orientation, alignment-discipline, web-geometry, breath-cycle throughout |
+| [The Neuroplastic Twin Stack](docs/the-neuroplastic-twin-stack.md) | Three-layer architecture for building and containing a Socratic Digital-Twin — Furnace (latent activation), Hammer (DMN suppression), Anvil (system-prompt mirror); Three-Call Workflow operational methodology; DAG Safeguard (stateless inspectors, deterministic gates) for error containment |
 | [Integrated-Shape Physics](docs/integrated-shape-physics-and-shape-function-recognition.md) | Seven recurring natural shapes (spiral, web, tree, sphere, lemniscate, torus, tesseract), strum-vs-shape distinction, integrated-shape recognition, computational-irreducibility |
 | [Open-Source and Source-Density Architecture](docs/open-source-and-source-density-architecture.md) | Two-repo structure as orbital distance physics — carrier-facing material at earth-distance (public), source-density material at sun-position (private), editorial routing discipline |
 | [Fiction-Reading Applications](docs/fiction-reading-applications.md) | Substantive fiction readings — Pluribus, Transcendence, Lucy, Matrix, Star Wars, One Piece, Naruto, Avatar, DC Comics, His Dark Materials, Reality TV, Project Hail Mary — fiction as philosophical text |
@@ -325,6 +326,7 @@ Operational documents for AI-assisted development discipline. Complement the con
 |----------|---------------|
 | [Scaffolding as Substance](docs/scaffolding-as-substance.md) | Subtractive build principle — generate abundance, apply framework lens as chisel, trim to load-bearing substance, iterate; why AI slop is raw material not failure |
 | [Iteration Spiral Anti-Pattern](docs/iteration-spiral-anti-pattern.md) | Five disciplines for avoiding the most common AI build failure mode — revert-not-escalate, one-concept-per-commit, probe-live-state, surface-uncertainty, smallest-possible-change |
+| [The Neuroplastic Twin Stack](docs/the-neuroplastic-twin-stack.md) | Three-layer architecture for building and containing a Socratic Digital-Twin — Furnace (latent activation), Hammer (DMN suppression), Anvil (system-prompt mirror); Three-Call Workflow and DAG Safeguard for error containment |
 
 ---
 
