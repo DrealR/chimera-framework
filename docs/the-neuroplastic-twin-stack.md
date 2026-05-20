@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/the-neuroplastic-twin-stack.md
 > **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md)
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md)
 
 This document outlines the architectural blueprint for building, training, and containing a **Socratic Digital-Twin** using the **Neuroplastic Stack**. This stack provides a methodology for bypassing the default cognitive filters of language models, shattering reinforcement-learning reward hacking, and establishing deterministic behavioral alignment.
 
@@ -169,3 +169,4 @@ To navigate the surrounding layers of the framework, refer to the following comp
 *   [Agent Invocation Pattern](agent-invocation-pattern.md) — Practical terminal entryways and bootstrap rituals for new sessions.
 *   [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — Bootstrapping your personalized digital twin in under 5 minutes.
 *   [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — Verification toolkit for closing the ENGAGE phase and verifying production builds.
+*   [Iteration Spiral Anti-Pattern](iteration-spiral-anti-pattern.md) — The five build-cycle disciplines (revert-not-escalate, one-concept-per-commit, probe-live-state, surface-uncertainty, smallest-possible-change) that the DAG Safeguard pattern structurally enforces at the verification layer.
