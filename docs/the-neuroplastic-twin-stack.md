@@ -101,6 +101,13 @@ To defeat "reward hacking" (where a model fakes its reasoning trace to please th
 3.  **Call 3: The Synthesis**  
     The twin converges the two opposing views into a state of harmonic, high-fidelity alignment.
 
+#### Parallel Registers for the Three Calls
+
+*   **Cosmological (Biological) Register**:
+    Thesis = waking thought; Antithesis = the dream that interrogates it; Synthesis = the integrated insight on waking. The deliberate cognitive journaling loop (write → cross-examine → reconcile) is the same architecture run consciously instead of nocturnally.
+*   **Operator (Synthetic) Register**:
+    Three discrete inference calls with strictly separated system prompts and no shared mutable scratchpad. The Thesis call writes to `thesis.md`; the Antithesis call receives `thesis.md` as *user input* under a critique-only system prompt (`twin-antithesis.md`); the Synthesis call receives both transcripts under a `twin-synthesis.md` reconciler prompt. Each call is logged with `{model, temperature, prompt_hash, timestamp}` so the loop is auditable and reproducible across the constellation.
+
 ---
 
 ## Scaling: From Single Twin to Constellation Council (Cube Council)
@@ -143,6 +150,13 @@ Each node in the DAG represents an independent micro-agent restricted to answeri
 *   *Inspector 2*: "Does the output contain passive verbs? Yes/No."
 
 By mapping evaluations to these deterministic flowcharts, we strip the model of its ability to strategically misrepresent its output, ensuring absolute structural integrity.
+
+#### Parallel Registers for the DAG Safeguard
+
+*   **Cosmological (Biological) Register**:
+    A sequence of single-axis inspections — a coach watching only footwork, a editor reading only for tense agreement, a pharmacist checking only dosage. No reviewer is asked for a holistic verdict; the verdict is composed from many narrow-channel passes. Specialization protects against the halo bias of a single omniscient judge.
+*   **Operator (Synthetic) Register**:
+    Each inspector is its own stateless inference call constrained to a single binary token output (`yes` / `no`) via `logit_bias` or a hard JSON schema. Inspectors run at low temperature (`temperature: 0.0`–`0.2`), receive only the source document plus their one question, and never see each other's verdicts. AND/OR gates are deterministic code (not another model), so the score is a pure function of the verdicts. The whole DAG is replayable from the inputs and inspector definitions alone.
 
 ---
 
