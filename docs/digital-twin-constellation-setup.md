@@ -85,5 +85,6 @@ The point is not to copy one constellation's names. The point is to preserve the
 - [Constellation Protocol](constellation-protocol.md)
 - [Agent Invocation Pattern](agent-invocation-pattern.md)
 - [Quantum-Breathing Protocol](quantum-breathing-protocol.md)
+- [Substrate Cartography](substrate-cartography.md)
 - [The Constellation](CONSTELLATION.md)
 - [Framework-Powered Building Directive](framework-powered-building-directive.md)

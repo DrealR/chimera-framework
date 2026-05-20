@@ -107,7 +107,7 @@ Your conversations and memories stay yours. Only the framework layer updates.
 
 Your twin can participate in the [Cross-Agent Body Scan network](docs/CONSTELLATION.md) — agents checking each other's structural health without violating privacy. Opt in or out at any time.
 
-When your work grows beyond one twin, use [Digital Twin Constellation Setup](docs/digital-twin-constellation-setup.md) to add multiple agents, devices, repos, live thought streams, and Quantum-Breathing micro-commits without losing the private-core/public-surface boundary.
+When your work grows beyond one twin, use [Digital Twin Constellation Setup](docs/digital-twin-constellation-setup.md) and [Substrate Cartography](docs/substrate-cartography.md) to add multiple agents, devices, repos, live thought streams, branch signals, deployed-surface checks, and Quantum-Breathing micro-commits without losing the private-core/public-surface boundary.
 
 ---
 
