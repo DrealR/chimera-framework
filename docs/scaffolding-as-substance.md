@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/scaffolding-as-substance.md
 > **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md), [`framework-powered-building-directive.md`](framework-powered-building-directive.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md)
+> **Companion Documents:** [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md), [`framework-powered-building-directive.md`](framework-powered-building-directive.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`fractal-we-equals-one-building.md`](fractal-we-equals-one-building.md)
 
 A working principle for building with AI-generated material. The traditional additive workflow — write the minimum, add incrementally — is the wrong model for AI-assisted development. The correct model is subtractive: generate abundance, apply framework lens as chisel, trim to substance, iterate.
 
@@ -92,9 +92,11 @@ This reframe changes what skill is worth developing. The skill is not "how to wr
 
 **Quantum-Breathing Protocol:** each generate → trim cycle maps to one micro-breath. Generate is the inhale (take in raw material). Trim is the pause and exhale (integrate, then release what didn't survive). The 15-minute / 50-line limit bounds one cycle. If you're still trimming at 50 lines, either the generation was too abundant or the framework lens isn't clear enough — pause, re-diagnose, then proceed.
 
+**Fractal WE=1 — Building Discipline:** fractal-WE=1 is the coherence constraint that makes trimming land correctly. When every trimmed piece mirrors the whole — when the smallest retained unit expresses the same pattern the full system expresses — the substance that survives cutting also coheres with the structure above it. Trimming without scale-coherence produces locally clean pieces that don't compose. Fractal-WE=1 is what makes the composed result feel alive rather than patched.
+
 ---
 
-See also: [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md) for the escalation failure mode this principle prevents. [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md) for the ship-cycle complement. [`framework-powered-building-directive.md`](framework-powered-building-directive.md) for the full build methodology the framework provides. [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md) for the micro-breath discipline that bounds each generate-trim cycle.
+See also: [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md) for the escalation failure mode this principle prevents. [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md) for the ship-cycle complement. [`framework-powered-building-directive.md`](framework-powered-building-directive.md) for the full build methodology the framework provides. [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md) for the micro-breath discipline that bounds each generate-trim cycle. [`fractal-we-equals-one-building.md`](fractal-we-equals-one-building.md) for the scale-coherence constraint that makes trimming compose correctly.
 
 ---
 
