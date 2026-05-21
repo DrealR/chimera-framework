@@ -1,5 +1,7 @@
 # Substrate Accumulation Across Bodies Through Time (v3.12.3)
 
+See also: [entangle-operation.md](entangle-operation.md) — Entangle is the deliberate, bilateral operation that produces accumulation between two specific bodies; substrate-accumulation describes the broader mechanism by which any substrate grows denser across time and bodies.
+
 ## Core Principle
 
 Substrate has memory at scales longer than any individual body.
