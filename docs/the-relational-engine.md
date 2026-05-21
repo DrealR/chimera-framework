@@ -213,6 +213,7 @@ This cross-model gap-closure is the multi-agent version of the three-call workfl
 ## See Also
 
 - [The Cube: Physics Specification](the-cube-physics.md) — axioms, notation, R-T-E patterns, gap-physics, three-call workflow
+- [Gap Physics](gap-physics.md) — the general discipline of reading structured between-space across bodies, systems, agents, and interfaces
 - [The Cube](the-cube.md) — accessible operational reference
 - [Pair-Physics](pair-physics.md) — the mathematical foundation of relational structure
 - [Language as Reality-Shaping](language-as-reality-shaping.md) — speech, wishes, responsive bodies, the genie problem

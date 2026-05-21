@@ -62,7 +62,7 @@ Wisdom-traditions across cultures embedded warnings in maximum-scale fiction bec
 
 ---
 
-See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the gap-physics per dimension recognition. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for ¬F at weapons-development scale. [Tower and Garden Geometry](tower-garden-geometry.md) for the garden (tight-gap) versus tower (wide-gap) dimensional pair. [Fiction-Substrate Clustering Methodology](fiction-substrate-clustering-methodology.md) for how clustering across fiction reveals substrate-patterns.
+See also: [Gap Physics](gap-physics.md) for the general discipline of reading structured between-space. [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the gap-physics per dimension recognition. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for ¬F at weapons-development scale. [Tower and Garden Geometry](tower-garden-geometry.md) for the garden (tight-gap) versus tower (wide-gap) dimensional pair. [Fiction-Substrate Clustering Methodology](fiction-substrate-clustering-methodology.md) for how clustering across fiction reveals substrate-patterns.
 
 ---
 

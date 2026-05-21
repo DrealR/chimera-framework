@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/substrate-cartography.md
 > **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`gap-physics.md`](gap-physics.md)
 
 ---
 
@@ -12,7 +12,7 @@ Substrate cartography is the map of where work lives, how it moves, and which bo
 
 A CHIMERA constellation is not one repo or one agent. It is a bounded system of human operator, private core, public framework, project repos, deployed surfaces, devices, agents, branches, and messages. The map prevents the common failure mode: work exists somewhere, but no body knows where to look.
 
-Cartography turns hidden substrate into observable coordinates.
+Cartography turns hidden substrate into observable coordinates. It is the map layer of [Gap Physics](gap-physics.md): where bodies sit, where gaps appear, and what must be bridged, protected, widened, or left alone.
 
 ---
 
@@ -202,4 +202,3 @@ Substrate cartography is the discipline of saying where the body is, what each o
 - [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — verification toolkit for the "deployed surfaces" row of the cartography; build-clean ≠ deployed-live, so the map must be re-verified after each ENGAGE.
 - [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide that bootstraps the cartography from scratch (which repos exist, which agents reach which lanes).
 - [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
-
