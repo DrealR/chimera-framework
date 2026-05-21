@@ -66,6 +66,7 @@ Three rules that keep the framework an instrument:
 - [The Deletion Test](the-deletion-test.md) — the falsifiability procedure that keeps the framework checkable.
 - [Lineage](lineage.md) — the framework's relation to the older traditions whose bands it does not duplicate.
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — one band the framework reads well; structural directional physics.
+- [Problem-Space Cross-Domain Transfer](problem-space-cross-domain-transfer.md) — why no single band has full coverage is exactly why cross-domain transfer works; the method requires the band constraint to be non-trivial.
 
 ## Closing
 

@@ -164,6 +164,10 @@ Garden → what Love at scale produces
 Tower → what Love's violation at scale produces
 ```
 
+## See Also
+
+- [Rate Mismatch as a Structural Primitive](rate-mismatch-as-primitive.md) — buffers slowing load arrival IS friction in the constructive sense; when load rate exceeds buffer clearance rate, the friction that was protecting the system becomes extraction.
+
 ---
 
 ```
