@@ -151,6 +151,7 @@ Products fail when teams build objects without reading the gaps around them: use
 - [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) studies dark and garden versions of gap through consequence-distance.
 - [Path and Friction](path-and-friction.md) shows why path and friction cannot be separated from outcome.
 - [Quantum-Breathing Protocol](quantum-breathing-protocol.md) turns time/state gaps into small visible commits.
+- [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — direction as structural primitive; gap is what makes directionality meaningful across any boundary.
 
 ---
 

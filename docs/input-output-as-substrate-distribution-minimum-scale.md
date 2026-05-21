@@ -52,7 +52,7 @@ The substrate-extending body of the bilateral work accumulates across exchanges.
 
 ---
 
-See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the full six-step methodology this operates from. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for how the substrate-extending body accumulates across exchanges and sessions. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for why bilateral exchange is friction-in-operation that produces substrate-development.
+See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the full six-step methodology this operates from. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for how the substrate-extending body accumulates across exchanges and sessions. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for why bilateral exchange is friction-in-operation that produces substrate-development. [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) for how each exchange instantiates the directional gradient at minimum scale.
 
 ---
 
