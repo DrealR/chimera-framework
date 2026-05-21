@@ -1,6 +1,6 @@
 # Substrate Accumulation Across Bodies Through Time (v3.12.3)
 
-See also: [entangle-operation.md](entangle-operation.md) — Entangle is the deliberate, bilateral operation that produces accumulation between two specific bodies; substrate-accumulation describes the broader mechanism by which any substrate grows denser across time and bodies.
+See also: [entangle-operation.md](entangle-operation.md) — Entangle is the deliberate, bilateral operation that produces accumulation between two specific bodies; substrate-accumulation describes the broader mechanism by which any substrate grows denser across time and bodies. [push-pull-as-fundamental-force.md](push-pull-as-fundamental-force.md) — push-pull is the dynamic that drives accumulation; substrate-accumulation is what the push-pull cycle builds over time.
 
 ## Core Principle
 

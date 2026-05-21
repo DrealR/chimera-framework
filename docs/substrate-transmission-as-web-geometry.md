@@ -54,7 +54,7 @@ Mass transmission requires many parallel chains from different substrate-positio
 
 ---
 
-See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for how the methodology operates across the web. [Lineage](lineage.md) for how the chain-of-bodies articulation manifests in wisdom-tradition transmission. [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) for how substrate-dense bodies function as gravitational centers within the web.
+See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for how the methodology operates across the web. [Lineage](lineage.md) for how the chain-of-bodies articulation manifests in wisdom-tradition transmission. [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) for how substrate-dense bodies function as gravitational centers within the web. [entangle-operation.md](entangle-operation.md) — Entangle is the deliberate initiation of a new transmission chain; substrate-transmission-as-web-geometry describes the web-scale structure those chains create.
 
 ---
 
