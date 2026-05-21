@@ -51,6 +51,18 @@ If pressed: **"It's essentially an AI alignment framework that's also a teaching
 
 Captain's working words, used in real conversations. The framework should survive this translation. If the plain-language version feels reductive, the vocabulary hasn't embedded yet.
 
+## CHIMERA in Use
+
+The framework is easiest to understand when it is applied to ordinary bodies:
+
+| Body | Plain question | CHIMERA reads |
+|---|---|---|
+| A conversation | Why did this keep escalating? | Inputs outran the pause. The boundary between listening and reacting collapsed, so the conversation became reflex instead of relation. |
+| A project | Why does this keep restarting? | Output is being generated faster than review and integration can absorb it. The body has motion, but no stable metabolism. |
+| An AI workflow | Why does the model sound useful but the result still fails? | The system may be mirroring the prompt instead of reading the problem. Run the deletion test: what survives after the framework vocabulary is stripped? |
+
+Those examples are deliberately small. CHIMERA is not proven by sounding profound on large systems. It earns trust when it helps a person notice one structural pattern they can test, act on, and refine.
+
 ## How to Test It
 
 There is a real, runnable test that the framework agrees to be evaluated against: **[The Deletion Test](the-deletion-test.md).**
