@@ -44,8 +44,8 @@ classification:
 structural_weakness:
   primary: Locality dependency
   secondary: Consistency fragility
-  inversion_condition: When workload lacks locality (e.g., random access), cache becomes a net cost — every access is a miss,
-    and the cache adds overhead without benefit.
+  inversion_condition: When workload lacks locality (e.g., random access, cold start), cache becomes a net cost — every access
+    is a miss, and the cache adds overhead without benefit.
 cross_domain:
 - connection: Temporal Buffer as Memory
   domains_bridged: Software <> Biology

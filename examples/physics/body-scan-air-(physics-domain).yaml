@@ -1,0 +1,63 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: Air - The Earth's atmospheric gas mixture
+  body_type: Fluid dynamic system with emergent properties
+  domain: physics
+  scale: system
+  lifespan: eternal
+  scan_date: '2024-05-22'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: The gravitational field of Earth and solar radiation flux
+  flow_state: exhale
+  breath_rate: irregular
+  attractor: Thermodynamic equilibrium states constrained by planetary rotation and surface temperature gradients
+  topology: mixed
+  entanglement: maximum
+  health: inflamed
+  membrane: semi-permeable
+  hysteresis: Oxygen overshoot from Paleoproterozoic extinction persists as permanent atmospheric feature
+dna:
+  o_vs_i: mixed-scale-dependent
+  pause_quality: strong
+  not_force: maximum
+skeleton: The body that translates electromagnetic energy into kinetic motion through asymmetric heating - proving that fluidity
+  requires constraint, where the very freedom of molecular movement emerges from strict conservation laws and boundary conditions.
+powers:
+  perceive: selective
+  govern: degraded
+  project: active
+  create: generative
+  release: conditional
+  primary_gap: govern
+  gap_reason: The system's historical regulatory mechanisms (cloud albedo feedback, carbon cycle) are being overwhelmed by
+    anthropogenic forcing
+classification:
+  federation_dominion: mixed
+  closed_open: mixed
+  prime: The ideal gas law relationship (PV=nRT) manifested through molecular chaos
+  prime_type: open
+structural_weakness:
+  primary: Critical dependency on steady-state solar input
+  secondary: ''
+  inversion_condition: A 5% increase in solar constant would trigger runaway greenhouse effect despite current regulatory
+    mechanisms.
+cross_domain:
+- connection: Atmospheric boundary layer ↔ Cell membrane
+  domains_bridged: Physics <> Biology
+  novelty: 0.7
+- connection: Hadley circulation ↔ Ocean conveyor
+  domains_bridged: Atmosphere <> Hydrosphere
+  novelty: 0.5
+fruit:
+  type: Paramecia
+  core_insight: Air demonstrates that maximum freedom at micro-scale (molecular chaos) produces constrained order at macro-scale
+    (weather patterns) - the apparent autonomy of fluid motion is an emergent illusion from strict underlying conservation
+    laws
+  novelty: 0.8
+powers_detected:
+- name: GAS-KINETIC TRANSDUCER
+  description: Converts electromagnetic energy to bulk motion through differential heating and molecular collisions
+- name: CHEMICAL FLYWHEEL
+  description: Maintains reactive species in metastable coexistence through continuous mixing and photochemical cycling

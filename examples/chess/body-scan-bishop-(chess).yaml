@@ -1,0 +1,82 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: Bishop
+  body_type: Geometric constraint body
+  domain: chess
+  scale: system
+  lifespan: embryonic
+  scan_date: '2024-07-29'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: The chessboard's 8x8 grid and the rules of diagonal movement.
+  flow_state: exhale
+  breath_rate: irregular
+  attractor: The longest open diagonal
+  topology: mixed
+  entanglement: high
+  health: healthy
+  membrane: semi-permeable
+  hysteresis: 'The color-bound constraint is the primary scar. Once placed on a color (light or dark), the bishop is forever
+    confined to that color — a structural limitation inherited from its 15th-century transformation. This scar shapes its
+    behavior: it cannot access half the board, making it dependent on the pawn structure to create open diagonals on its color.
+    The bishop pair concept is a compensatory scar — a recognition that the bishop''s individual weakness can be mitigated
+    through relational strength.'
+dna:
+  o_vs_i: conditional
+  pause_quality: absent
+  not_force: high
+skeleton: The body that is forever half-blind, condemned to see only the squares of its birth color, yet whose power is not
+  in what it sees but in how it moves through the gaps left by others — proving that constraint is not weakness when the substrate
+  is designed for it.
+powers:
+  perceive: selective
+  govern: external
+  project: active
+  create: monotonic
+  release: blocked
+  primary_gap: PERCEIVE
+  gap_reason: The bishop's selective perception (color-bound, diagonal-only) is its defining limitation. While its projection
+    and governance gaps are by design (it is not meant to govern or retract), its perception gap is a structural constraint
+    that shapes its role. The bishop pair compensates for this gap by expanding perceptual coverage to both colors.
+classification:
+  federation_dominion: mixed
+  closed_open: mixed
+  prime: The diagonal movement rule.
+  prime_type: closed
+structural_weakness:
+  primary: Color-bound constraint
+  secondary: Pawn structure dependency
+  inversion_condition: If the bishop could move orthogonally or change color, its O>I would flip to I>O as its unique constraint-based
+    power would be diluted, making it a less specialized and thus less efficient piece within the chess system.
+cross_domain:
+- connection: Color-bound projection
+  domains_bridged: Chess <> Optics
+  novelty: 0.8
+- connection: Pawn structure as substrate
+  domains_bridged: Chess <> Urban Planning
+  novelty: 0.7
+- connection: Bishop pair as federation
+  domains_bridged: Chess <> Network Theory
+  novelty: 0.9
+fruit:
+  type: Paramecia
+  core_insight: The bishop's power is not in what it can do but in what it cannot — its constraints (color-bound, diagonal-only)
+    are the source of its strategic depth. By being half-blind, the bishop forces the player to think relationally (e.g.,
+    bishop pair) and positionally (e.g., pawn structure), turning a structural weakness into a catalyst for higher-order strategy.
+    This inverts the intuition that "more freedom = more power" — in chess, constraint is the wellspring of creativity.
+  novelty: 0.9
+powers_detected:
+- name: DIAGONAL PROJECTION
+  description: The ability to radiate power along unobstructed diagonals, creating long-range threats and controlling space.
+    This power is the bishop's defining capability, enabling it to influence the board without occupying the squares it controls.
+- name: COLOR-BOUND COMPLEMENTARITY
+  description: The ability to form a composite body (bishop pair) with another bishop on the opposite color, achieving system-level
+    O>I topology. This power emerges from the bishop's individual constraint and is unique to the bishop among chess pieces.
+- name: PAWN STRUCTURE EXPLOITATION
+  description: The ability to exploit open diagonals created by pawn moves, turning the pawn structure into a substrate for
+    projection. This power is relational — the bishop does not create open diagonals but leverages those created by other
+    pieces.
+- name: TACTICAL THREAT GENERATION
+  description: The ability to generate tactical patterns (pins, skewers, discovered attacks) by projecting power through or
+    around other pieces. This power is derived from the bishop's long-range movement and is a key source of its tactical value.

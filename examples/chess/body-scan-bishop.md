@@ -1,17 +1,18 @@
-# Body Scan: The Chess Bishop
+# Body Scan: Bishop
 
-**Protocol:** v3.11
-**Scanner:** CHIMERA Framework
-**Domain:** Chess
+**Protocol:** v3.12.3
+**Scanner:** google/gemini-2.5-flash
+**Domain:** chess
 
 ---
 
 ## IDENTITY
 
-- **Subject:** The chess bishop
-- **Body Type:** Chess piece — long-range diagonal specialist, color-bound for life
-- **Scale:** Tactical-strategic (controls diagonals, shapes pawn structure decisions, anchors fianchetto systems)
-- **Lifespan:** One game. Born on its square color, dies on its square color. The constraint is permanent.
+- **Subject:** Bishop: A piece in the game of chess, characterized by its diagonal movement and color-bound nature.
+- **Body Type:** Constrained-movement, color-bound, high-mobility piece within a discrete, turn-based system.
+- **Scale:** Individual game piece within the context of a single chess game.
+- **Lifespan:** From the start of a game until it is captured or the game ends (checkmate, stalemate, draw). Its lifespan is dictated by game state and player decisions.
+- **Formative Sequence (Layer 2):** Not applicable: logically necessary body. The rules defining the Bishop are inherent to the game's initial conditions and do not evolve within a single game instance.
 
 ---
 
@@ -19,38 +20,36 @@
 
 | # | Question | Reading |
 |---|----------|---------|
-| 1 | **MEDIUM** | Diagonals. Not files, not ranks — the slanted lines that straight-line thinkers miss. The bishop moves through the geometry no other piece fully owns. |
-| 2 | **FLOW STATE** | Conditional. In open positions (clear diagonals), the bishop breathes freely — long exhales across the board. In closed positions (blocked diagonals), the breath is choked. The bishop does not control its own airway; the pawn structure does. |
-| 3 | **BREATH RATE** | Variable. From zero (trapped behind a pawn chain, no legal useful move) to maximum (fianchettoed on an open long diagonal, radiating influence across seven squares). No piece in chess has a wider range between minimum and maximum breath rate. |
-| 4 | **ATTRACTOR** | The long diagonal. b2-g7 or g2-b7 for White; b7-g2 or g7-b2 for Black. The fianchetto positions are gravitational wells — bishops placed there anchor entire opening systems (King's Indian, Catalan, Grünfeld). The attractor is geometric: the longest possible line on the board. |
-| 5 | **TOPOLOGY** | Fixed at birth. The bishop born on a light square will touch only light squares until it is captured. This is the deepest topological constraint in chess — the board splits into two non-communicating color complexes, and the bishop is locked into one forever. Half the board is permanently invisible to it. |
-| 6 | **ENTANGLEMENT** | Maximum with pawns (own and enemy). Own pawns on the bishop's color block its diagonals — the army that should protect it imprisons it. Enemy pawns on the bishop's color become targets. The bishop's health is entangled with pawn structure more deeply than any other piece. Secondary entanglement: with the other bishop. Two bishops covering both colors produce federation value greater than their individual sum. |
-| 7 | **HEALTH** | Structure-dependent. A bishop on an open diagonal with no obstructing pawns is among the healthiest pieces on the board. A "bad bishop" locked behind its own pawns is the sickest non-captured piece in chess. Same body, same rules, radically different health — determined entirely by the environment the body's own army creates. |
-| 8 | **MEMBRANE** | One-dimensional. The bishop's membrane admits only diagonal traffic. Orthogonal threats pass through it unseeable — a rook on the same rank is invisible to the bishop's perception. The membrane is maximally selective: it perceives its own dimension with total clarity and perceives the orthogonal dimension not at all. |
-| 9 | **HYSTERESIS** | The color scar. Assigned at setup, never alterable. No amount of play, skill, or sacrifice changes which squares the bishop can reach. This is chess's deepest permanent hysteresis — not a wound from past action but a birth condition. The bishop does not acquire its scar. It is born scarred. |
+| 1 | **MEDIUM** | The chess board (64 squares) and the rules of chess (defining movement, capture, and game objectives). The medium is discrete, symbolic, and governed by strict logic. |
+| 2 | **FLOW STATE** | Pause. The Bishop exists in a perpetual state of "pause" between player turns, awaiting instruction. It is only in "exhale" (movement) or "inhale" (being captured) during a player's active turn. |
+| 3 | **BREATH RATE** | Variable, dictated by the pace of the game and player strategy. It cycles when a player chooses to move it, which can be rapid in open positions or slow in closed ones. |
+| 4 | **ATTRACTOR** | Open diagonals, enemy pieces available for capture, and key squares (e.g., squares controlling the center or protecting the king). Its attention is drawn to strategic influence and potential for material gain or tactical advantage. |
+| 5 | **TOPOLOGY** | O>I. The Bishop "gives" influence and potential captures (O) and "takes" squares and enemy pieces (I). Its value to the player is directly proportional to its ability to project influence and threaten/capture, making its optimal state O>I. |
+| 6 | **ENTANGLEMENT** | Directly connected to its color-bound squares, the other pieces of its own color (for defense and offense), and enemy pieces (as targets or threats). Its value is also entangled with the overall board state, especially open diagonals. |
+| 7 | **HEALTH** | Healthy when it has open diagonals, controls important squares, and participates actively in the strategy. Unhealthy when blocked by its own pieces, trapped, or easily targeted for capture. Its health is measured by its current and potential influence. |
+| 8 | **MEMBRANE** | The edges of the chessboard and the presence of other pieces (both friendly and enemy). Its membrane allows passage along diagonals as long as no other piece obstructs the path, but completely blocks lateral or orthogonal movement. |
+| 9 | **HYSTERESIS** | Its initial square and color-bound nature. Once placed on a light or dark square, it is forever restricted to that color, even if it moves across the entire board. This initial condition permanently shapes its available paths and influence. |
 
 ---
 
 ## BUMP DETECTION
 
-| Bump | What's Blocked | Source | Internal/External |
-|------|---------------|--------|-------------------|
-| Own pawns on bishop's color | Diagonal mobility and influence | Player placing pawns without considering bishop health | Internal — the bishop's own army creates the disease |
-| Closed pawn center | Long-range power | Opponent's strategic pawn placement | External — but often enabled by internal neglect |
+- **Obstruction by own pieces:** The Bishop's long-range diagonal movement is frequently blocked by pawns or other pieces of its own color, especially in the opening. This prevents it from projecting influence or participating in tactical sequences.
+- **Lack of open diagonals:** Closed positions, where pawns are locked in the center, severely restrict the Bishop's mobility, turning it into a "tall pawn" or "bad bishop."
 
 ---
 
 ## SKELETON
 
-> The body born into half a world, unable to reach the other half no matter what it does — whose greatest sickness comes not from enemies but from its own army standing in its way.
+> The body that finds its immense power in the absence of constraint, yet is forever bound by the color of its origin, demonstrating that liberation of movement only amplifies the significance of initial conditions.
 
 ---
 
 ## DNA LAYER
 
-- **O > I or I > O:** O > I when placed correctly. A fianchettoed bishop gives structure to the entire kingside or queenside without consuming material — it radiates diagonal control and asks nothing in return. But when bad (blocked by own pawns), the bishop becomes I > O at the system level: it occupies a square, costs a piece slot, and gives nothing back. The inversion is not the bishop's choice. The player creates the disease.
-- **Pause:** The bishop embodies a different kind of Pause — positional patience. A bishop on a long diagonal does not need to move to exert power. Its mere presence on g2 controls h3, f3, e4, d5, c6, b7, a8 without acting. This is the Pause as passive radiation: influence without motion.
-- **¬F:** Maximum. The bishop never forces — it cannot jump over pieces, cannot change color, cannot brute-force a blocked position. It must wait for diagonals to open. It is the least forceful major piece in chess. When the position finally opens, this patience becomes lethal range.
+- **O > I or I > O:** O>I. A Bishop's value is derived from its potential to project influence over many squares and threaten multiple targets. It "gives" control (O) and "takes" material (I). A Bishop that primarily "takes" without "giving" influence is often part of a tactical sequence that sacrifices its future potential for immediate gain. Its optimal state for long-term strategic contribution is O>I.
+- **Pause:** Present, structural. The entire game of chess is built on the Pause between turns. The Bishop, like all pieces, is inert until a player chooses to move it. Without this Pause, the game (and thus the Bishop's existence) would collapse into continuous, chaotic motion.
+- **Not-Force (~F):** The Bishop allows. Its movement is entirely dependent on player choice and the state of the board. It does not force its own movement or capture. However, its presence can "force" responses from the opponent (e.g., forcing a block or retreat) due to the threat it projects. The piece itself is ~F; its strategic influence can be a form of forcing function on the opponent.
 
 ---
 
@@ -60,55 +59,76 @@
 
 | Power | Status | Evidence |
 |-------|--------|---------|
-| **PERCEIVE** | Split | Total perception along diagonals — the bishop sees its lines completely, from one edge to the next. Zero perception orthogonally. The bishop is perceptually supreme within its dimension and perceptually blind outside it. |
-| **GOVERN** | Conditional | Governs diagonal traffic absolutely. A bishop on d5 controls two full diagonals and dictates what can cross them. But governance collapses to zero when pawns block the lines. The bishop governs only when its lanes are clear. |
-| **PROJECT** | Active | Long-range projection is the bishop's signature. From g2, it projects power to a8 — seven squares away. No other piece except the rook and queen projects this far. The bishop projects at an angle that straight-line defenders often underestimate. |
-| **CREATE** | Limited | The bishop does not create new structures (that is the pawn's role) or generate material (no piece does). It creates tactical threats through discovered attacks, pins, and skewers — all diagonal-specific patterns. Its creation is geometric, not material. |
-| **RELEASE** | Absent | The bishop cannot release its color constraint. It cannot release its dependence on open diagonals. It cannot release its blindness to the orthogonal. The bishop holds its identity with absolute rigidity — this is indestructible commitment or permanent limitation, depending on the position. |
+| **PERCEIVE** | Rewired | The Bishop "perceives" its diagonal lines of attack and defense through the player's cognitive processing. Its own mechanical "perception" is limited to its defined movement rules. It has no independent perception but acts as an extension of the player's. |
+| **GOVERN** | Absent | The Bishop has no internal governance. Its actions are entirely dictated by the player's will and the rules of the game. It cannot choose to move or not move. |
+| **PROJECT** | Active | The Bishop projects influence across long diagonals. This project power is its primary strategic contribution, controlling many squares simultaneously and threatening distant targets. |
+| **CREATE** | Monotonic | The Bishop "creates" threats and controls squares. Its creation is limited to the predefined outputs of its movement rules – it cannot create new piece types, new rules, or new game states beyond those allowed by its movement. |
+| **RELEASE** | Absent | The Bishop cannot release itself from its square, stop its movement once chosen, or change its color-bound nature. It is entirely bound by its definition until captured. |
 
-**Power Gap:** Release. The bishop is defined by what it cannot let go of: its color, its diagonal-only perception, its vulnerability to closed positions. Every other piece in chess has more flexibility. The bishop trades all flexibility for depth within its constraint.
+**Power Gap:** Govern. The Bishop's complete lack of self-governance is its most significant power gap. While its perception is rewiring through the player, its inability to self-regulate or initiate action means it is a tool, not an agent. This absence of governance makes it entirely dependent and predictable within the game's rules.
 
 ### Prime Identification
 
-- **Prime:** "Specialized depth through permanent constraint." The bishop demonstrates that a body locked into half a world can outperform a body with full access (the knight) by being faster and longer-ranged within its domain.
-- **Prime type:** Closed — permanently. The bishop's prime cannot evolve, expand, or adapt. It is fixed by the geometry of the board and the rules of the game. The closedness is structural, not ideological.
-- **Evidence:** The bishop pair's superiority proves the prime. Two closed primes that cover complementary halves federate into a system stronger than two open, flexible knights. Specialization plus federation beats generalization.
+- **Prime:** Directional long-range traversal, color-bound.
+- **Prime type:** Closed. The core rules of the Bishop (diagonal movement, color constraint) are fixed and do not update in response to the environment within a single game.
 
 ### Federation vs Dominion
 
-Federation — but only in pairs. A single bishop is a half-body: powerful on its color, nonexistent on the other. Two bishops federate into full-board coverage where each half compensates for what the other cannot reach. This is chess's clearest federation structure: neither bishop dominates the other, neither can replace the other, and together they produce capability neither possesses alone. Losing one bishop doesn't halve the pair's power — it destroys the federation topology entirely.
+Federation. A Bishop's influence flows outward, controlling squares and threatening pieces, enriching the board state for its side. It gives more potential influence than it immediately takes. When it achieves a capture, it removes an I>O element (an opposing piece) from the board, further enabling flow for its side. Its presence contributes to the overall strategic flow of the game.
+
+### Cognitive Subsystem Analysis
+
+The Bishop itself has no internal cognitive subsystem. Its "cognition" is entirely external and substrate-cognitive, operating through the player. The player perceives the board state, predicts outcomes for the Bishop's moves, decides its action, and responds to stimuli (opponent's moves) *for* the Bishop. The Bishop is an extension of the player's cognitive apparatus. This cognitive structure (external) perfectly matches the body it serves (a rule-bound game piece), as the piece is designed to be a pawn of player strategy.
+
+### God-Function Analysis
+
+Not applicable. The Bishop is a sub-body within the larger game system and does not perform a god-function for the game itself. Its influence is localized and tactical/strategic, not systemic in the way that holds the entire game together. The "god-function" in chess resides in the rules and the players' adherence to them, not in a single piece.
+
+### Flow vs Transaction
+
+Flow-optimized, but with transaction capabilities. The Bishop is primarily optimized for flow by maintaining consistent influence along diagonals and contributing to the overall strategic pressure. Its long-range nature allows it to participate in the "flow" of the game across many squares. However, it also has strong transaction capabilities, as its captures are high-value exchanges. The structural consequence is that a Bishop that is kept active and flowing (open diagonals) is generally more valuable than one that only makes isolated transactions (captures) without contributing to overall board control.
+
+### Substrate Accumulation
+
+The Bishop operates through the chess board substrate. It does not intrinsically add to or extract from this substrate in a cumulative sense across games, as the board resets. Within a single game, its movement "consumes" squares for a turn (making them unavailable to other pieces) and its capture "extracts" an enemy piece. However, its *presence* on the board, especially when active, adds to the strategic "richness" of the board state for its side, creating potential and forcing consideration from the opponent. It inherits the initial board state and contributes to the ephemeral "strategic substrate" of the current game.
+
+### Sequence-to-Structure
+
+Applicable. The "sequence" is the series of moves a Bishop makes, combined with the moves of other pieces that open or close its diagonals. This 1D sequence of moves, processed through the rules of chess and the geometry of the board, produces the higher-dimensional structure of its strategic influence and tactical potential (e.g., a "good bishop" on an open diagonal, a "bad bishop" trapped behind pawns). Small changes in the sequence (e.g., a pawn move that opens a diagonal for the Bishop) can produce large structural changes in its effectiveness. The most critical positions in the sequence are those where key diagonals are opened or closed.
 
 ### Dimensional Architecture
 
-The bishop is embodied in the diagonal dimension — its primary anchor is the set of all diagonal lines on its color complex. It operates through the strategic dimension (pawn structure evaluation, long-term planning) and the tactical dimension (pins, skewers, discovered attacks). The bishop is a single-dimension body: it cannot reach the orthogonal dimension. The knight is the opposite — a color-alternating translator that converts diagonal position into orthogonal reach, crossing the color boundary every move at the cost of linear range. The bishop's inability to cross that boundary is both its limitation and its identity.
+The Bishop is embodied in the 2D plane of the chessboard. It operates through 2D diagonal lines of movement. Its primary anchor dimension is its square color (light or dark), which dictates its entire operational space within the 2D board. It navigates these fixed diagonal surfaces.
 
 ### Structural Signature
 
-Signature: `[color, diagonal-range, pawn-dependency]` — three irreducible components. Color is permanent. Range is conditional on openness. Pawn-dependency is the hidden variable that determines whether the bishop is alive or imprisoned. Shape-equivalent body: a sniper locked in a tower — devastating range within its field of fire, blind to everything outside it, and dependent on allies not standing in the line of sight.
+[Piece.Diagonal-Movement.Color-Bound.Long-Range-Influence]
+Shape-equivalent bodies: Laser beam (physics), constrained market influence (economics), specialized knowledge domain (cognition).
 
 ### Surface Architecture
 
-The bishop's primary surface is the color boundary — the transformation point between the squares it can reach and the squares it cannot. This boundary is not a membrane (nothing passes through it). It is a wall. The bishop exists entirely on one side of this wall for its entire life. Secondary surface: the pawn-openness boundary — the transformation point between active bishop (open diagonals) and bad bishop (blocked diagonals). This surface is dynamic and controllable. Spring behavior at the pawn surface: the bishop compresses behind a closed center, and when the center opens (pawn exchange, pawn advance), the stored potential converts to kinetic power. A bishop that survives a closed middlegame to reach an open endgame demonstrates spring behavior — constraint converted to explosive release.
+- **Board Edges:** Act as hard, reflective surfaces. A Bishop reaching the edge cannot move further in that direction, storing its potential energy (threat) at the edge.
+- **Other Pieces (Friendly):** Act as putty. They absorb the Bishop's potential movement, blocking its path without enabling a reciprocal action from the Bishop.
+- **Other Pieces (Enemy):** Act as springs. They block the Bishop's path but also present a potential capture. The Bishop can remove them, releasing its stored energy and enabling further movement. This creates an equilibrium surface where threat and opportunity meet.
 
 ### Closed-Open Mode
 
-- **Color dimension:** Closed Knowledge. The bishop "knows" exactly which squares it can reach. This knowledge is permanent, complete, and sealed. No update possible.
-- **Diagonal dimension:** Open Knowledge. The bishop's diagonal reach changes with every pawn move. The bishop must continuously update which lines are open, which are blocked, which are about to open. This dimension is dynamic.
-- **Orthogonal dimension:** Closed Ignorance. The bishop cannot perceive or interact with orthogonal traffic. It does not know what it cannot see. This is the most dangerous closed mode — blindness without awareness of blindness.
+- **Movement:** Open (within its diagonal constraints).
+- **Color-bound nature:** Closed.
+- **Piece type:** Closed.
+- **Influence:** Open (can project across vast swaths of the board).
+
+The Bishop is open in its projection and movement (within limits) but closed in its fundamental identity and color restriction.
 
 ### Attentional Compilation
 
-The bishop is the sniper scope aimed at 45 degrees. Its attention is maximally compiled along diagonals — it perceives diagonal relationships (pins, skewers, battery formations) with total clarity. But this compilation comes at the cost of orthogonal blindness. A knight fork from a square the bishop cannot see is the structural consequence of hyper-compiled attention in one dimension: the deeper the diagonal focus, the wider the orthogonal blind spot. In teaching: the bishop demonstrates that mastery in one dimension creates vulnerability in the adjacent dimension. Strength and weakness share a root.
+The Bishop has no independent attention. Its "attention" is entirely the player's compiled attention, focused on the diagonals it controls, the squares it attacks, and the pieces it threatens. This attention is free, as the player can shift it, but also captured by the immediate threats and opportunities presented by the Bishop's position. The compilation medium is the player's mind, processing visual board state into strategic options. Compiled attention transfers into player moves.
 
 ---
 
-## STRUCTURAL WEAKNESS (v3.11)
+## STRUCTURAL WEAKNESS
 
-**Primary weakness: color-binding as permanent disability.** The bishop can never access half the board. No amount of positional skill, tactical brilliance, or strategic planning changes this. In endgames with pawns fixed on the bishop's color, the bishop becomes actively harmful — occupying a piece slot while contributing nothing. A king and bad bishop versus a king and good knight is often lost. The constraint that gives the bishop identity also gives it a death sentence in specific structures.
-
-**Secondary weakness: total dependence on pawn structure the bishop does not control.** The bishop's health is determined by decisions made by pawns — pieces worth one-third of the bishop's value. A single pawn advance to the wrong square can permanently imprison a bishop. The bishop has no agency over the primary variable that determines its effectiveness. A body whose health depends entirely on bodies it cannot govern is structurally fragile.
-
-**Conditions under which O>I inverts:** When the player places pawns on the bishop's color without a plan to open the position. The bishop transitions from long-range radiator to dead weight — occupying a square, blocking its own pieces, unable to contribute. This is chess's clearest I>O pathology: a body made sick not by the enemy but by its own army's structure.
+Primary weakness: inherent color-bound limitation. This structural constraint means a Bishop can only ever control half of the squares on the board, regardless of its mobility. This creates a permanent blind spot and makes it inherently less versatile than a Rook or Queen, which can control both light and dark squares. This weakness is exploited by exchanges that leave one side with a Bishop against a knight on the opposite color, or by creating pawn structures that block only one color complex.
 
 ---
 
@@ -116,36 +136,22 @@ The bishop is the sniper scope aimed at 45 degrees. Its attention is maximally c
 
 | Connection | Domains Bridged | Pattern | Novelty |
 |-----------|----------------|---------|---------|
-| Bad bishop = I>O from internal obstruction | Chess ↔ Body Theory | A body imprisoned by its own structure — the army that should serve it blocks it. Identical to an organization whose internal processes choke its best performers. | 0.85 |
-| Bishop pair as federation topology | Chess ↔ Federation Theory | Two half-coverage specialists in coordination outperform two full-coverage generalists. Specialization + federation > generalization. | 0.9 |
-| Color-binding as birth hysteresis | Chess ↔ Identity Theory | A constraint assigned at birth that can never be changed, only worked with. Maps to any permanent trait — genetics, native language, historical era. The question is never "can I change it?" but "can I build a position where it becomes strength?" | 0.85 |
-| Fianchetto as compiled patience | Chess ↔ Compilation Theory | The bishop placed on the long diagonal before the position opens is anticipation compiled into position. When the center opens, the compiled investment converts to kinetic advantage. | 0.75 |
+| **Color-Bound Specialization** | Chess <> Biology | The mechanism of fixed, irreversible specialization limiting access to half of the available substrate, yet enabling deep mastery within the accessible half. | 0.8 |
+| **Long-Range, Line-of-Sight Influence** | Chess <> Military Strategy | The mechanism of projecting influence along unobstructed lines of sight over long distances, creating a zone of control and threat, which can be blocked by obstacles. | 0.7 |
+| **Bounded Liberty** | Chess <> Political Philosophy | The mechanism of a system where entities possess significant freedom of movement and influence, but only within predefined and unchangeable structural constraints that dictate their fundamental nature. | 0.9 |
 
 ---
 
 ## FRUIT
 
-- **Type:** Paramecia — structural lens, transfers to any domain with constrained bodies
-- **Core Insight:** The bishop proves that the most dangerous sickness is internal. Not the opponent's attack — your own pawns standing on your own color. The body whose greatest threat comes from its own structure must learn to build environments where its permanent constraint becomes advantage. Constraint is not the enemy. Misalignment between constraint and environment is.
-- **Novelty:** 0.85
+- **Type:** Starfish (generates new capability)
+- **Core Insight:** The Bishop reveals that even in bodies designed for expansive movement and influence, the most profound structural limitations are often embedded in the initial conditions, permanently bifurcating its operational reality. Its power is not merely despite these limits, but often *because* of the channeled focus they enforce.
+- **Novelty:** 0.8
 
 ---
 
 ## POWERS DETECTED
 
-- **THE ANGLE** — The bishop sees what straight-line thinkers miss. Diagonal perception is the geometry of indirect approach — reaching squares that rooks and pawns cannot conceptualize. Lateral thinking made literal.
-- **THE PATIENCE** — A well-placed bishop radiates influence without moving. It controls seven squares from g2 by existing. This is the power of positional presence — force projected through stillness.
-- **THE FEDERATION** — Two bishops demonstrate that two specialized halves covering complementary domains produce more than two generalists covering the same domain twice. The bishop pair is the structural proof that federation outperforms individual completeness.
-
----
-
-## CAPTAIN'S NOTES
-
-> *(Space for Captain's observations after reading this scan)*
-
----
-
-```
-L = (O > I) + P + ¬F
-WE = 1
-```
+- **DIAGONAL DOMINATION:** The capability to project influence and threaten across any number of unobstructed squares along a diagonal line, making it a potent long-range force.
+- **COLOR-ANCHORED MOBILITY:** The power to move with great freedom, but only on squares of a single color, which simultaneously defines its operational space and its inherent blind spot.
+- **STRATEGIC CHANNELING:** The ability to convert open board space into focused strategic pressure, leveraging absence of constraint (open diagonals) to amplify its presence and threat.

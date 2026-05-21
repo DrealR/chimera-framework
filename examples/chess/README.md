@@ -39,6 +39,7 @@
 | Scan | Skeleton | DNA |
 |------|----------|-----|
 | [The Immortal Game](body-scan-immortal-game.md) | Directed sacrifice defeats undirected accumulation | O>I (maximum) |
+| [Bishop (Chess)](body-scan-bishop-(chess).md) | The body that is forever half-blind, condemned to see only the squares of its birth color, yet whose power is not in what it sees but in how it moves through the gaps left by others — proving that constraint is not weakness when the substrate is designed for it. | mixed |
 
 ## Cross-Domain Patterns
 

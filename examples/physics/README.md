@@ -14,6 +14,8 @@
 | [Quantum Superposition](body-scan-quantum-superposition.md) | Existing in all states until measured — measurement destroys the body | Conditional |
 | [Special Relativity](body-scan-special-relativity.md) | The speed limit — nothing exceeds c | O>I |
 | [Star](body-scan-star.md) | Self-consuming fusion engine — powered by burning its own fuel | O>I → I>O (lifecycle) |
+| [Air](body-scan-air.md) | Air is the compiled equilibrium between two opposing metabolisms — photosynthesis and respiration — that have spent millions of years tuning each other into a stable composition, and now finds itself perturbed by a third process (industrial extraction and combustion) that operates faster than the equilibrium can rebalance, revealing that the body's stability was never intrinsic but always contingent on the specific conditions that created it. | mixed |
+| [Air (Physics Domain)](body-scan-air-(physics-domain).md) | The body that translates electromagnetic energy into kinetic motion through asymmetric heating - proving that fluidity requires constraint, where the very freedom of molecular movement emerges from strict conservation laws and boundary conditions. | mixed |
 
 ## Cross-Domain Patterns
 
