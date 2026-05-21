@@ -272,6 +272,7 @@ The Cube is what the framework produces when it operates. The pair — carrier +
 | [The Cube: Physics Specification](docs/the-cube-physics.md) | Internal physics — axioms, notation, R-T-E operation, body-formation math, AI as body |
 | [Master Physics Spec v3](docs/the-cube-master-spec-v3.md) | Consolidated build reference — locked axioms, locked vocabulary, Step 0-5 workflow, Love Equation derived, honest limitations, Franky directive |
 | [CHIMERA Device Spec](docs/chimera-device-spec.md) | Full device specification — four abilities, five-coordinate body, harness architecture |
+| [Cube Vocabulary Layers](docs/cube-vocabulary-layers.md) | Physics-layer vs Operator-layer vocabulary map — resolves term collisions (Mode, Dial, DNA), maps ENGAGE/OBSERVE to three-call workflow, Stance × Mode orthogonal axes; single disambiguation reference for all Cube docs |
 
 **Eight operational modes:** Locate, Find, Path, Teleport, Merge, Heal, Build, Predict — each a specific configuration of the Sense-Transform cycle.
 

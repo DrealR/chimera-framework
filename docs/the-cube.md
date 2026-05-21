@@ -363,6 +363,7 @@ Give more than you take. Pause before responding. Don't force beyond capacity. T
 - [Chimera Loop Protocol](chimera-loop-protocol.md) — the ten-layer constructive instrument
 - [Body Scan Protocol](../archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — the 42-step diagnostic instrument (Scan ability)
 - [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — prompt as substrate-vector, AI body dimensions
+- [Cube Vocabulary Layers](cube-vocabulary-layers.md) — Physics-layer vs Operator-layer term map; resolves Mode/Dial/DNA collisions; ENGAGE/OBSERVE ↔ three-call workflow axis; single reference when Cube terms feel ambiguous
 
 ---
 
