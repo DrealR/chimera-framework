@@ -202,3 +202,4 @@ Substrate cartography is the discipline of saying where the body is, what each o
 - [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — verification toolkit for the "deployed surfaces" row of the cartography; build-clean ≠ deployed-live, so the map must be re-verified after each ENGAGE.
 - [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide that bootstraps the cartography from scratch (which repos exist, which agents reach which lanes).
 - [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
+- [The Deletion Test](the-deletion-test.md) — the falsifiability procedure that docs must pass before graduating from private drafts to public; the private/public register distinction in cartography is the infrastructure that makes this graduation sequence possible.

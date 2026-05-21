@@ -79,6 +79,7 @@ This is the load-bearing physics under the framework's `WE = 1` claim that *cons
 - [What Is a Body?](../body-theory/WHAT-IS-A-BODY.md) — body theory primer.
 - [Gap Physics](gap-physics.md) — bodies have transduced bands; the gaps between bands are also structured.
 - [WE = 1 Formalization](we-equals-one-formalization.md) — the multi-transducer reading of one source.
+- [The Deletion Test](the-deletion-test.md) — distinguishes correct band-transduction readings from projection; the falsifiability procedure that makes this doc's claims checkable.
 
 ---
 
