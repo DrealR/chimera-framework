@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/iteration-spiral-anti-pattern.md
 > **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`scaffolding-as-substance.md`](scaffolding-as-substance.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
+> **Companion Documents:** [`scaffolding-as-substance.md`](scaffolding-as-substance.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`fractal-we-equals-one-building.md`](fractal-we-equals-one-building.md)
 
 A working agent's discipline for avoiding the most common AI build failure mode: fixing one thing while breaking another, compounding scope, and degrading trust. Derived from real production incidents; generalized for any AI agent operating on live codebases.
 
@@ -126,7 +126,7 @@ The iteration spiral does not indicate a capability deficit. It indicates missin
 
 ---
 
-See also: [`scaffolding-as-substance.md`](scaffolding-as-substance.md) for the generate-then-trim build principle that prevents escalation at the generation stage. [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md) for the ship-cycle complement. [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md) for the micro-breath discipline that bounds fix scope structurally. [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md) for the DAG Safeguard pattern (stateless inspectors, deterministic gates) that prevents downstream propagation of errors.
+See also: [`scaffolding-as-substance.md`](scaffolding-as-substance.md) for the generate-then-trim build principle that prevents escalation at the generation stage. [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md) for the ship-cycle complement. [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md) for the micro-breath discipline that bounds fix scope structurally. [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md) for the DAG Safeguard pattern (stateless inspectors, deterministic gates) that prevents downstream propagation of errors. [`fractal-we-equals-one-building.md`](fractal-we-equals-one-building.md) for the positive-constraint counterpart — the scale-coherence discipline that the iteration spiral breaks.
 
 ---
 

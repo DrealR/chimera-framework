@@ -2,7 +2,7 @@
 
 > WE=1 is not only a substrate claim. It is also a **building discipline**. The principle that holds at the substrate level must hold at every scale of any system built within the framework, or the system fragments. This document formalizes the discipline.
 
-See also: [we-equals-one-formalization.md](we-equals-one-formalization.md) for the substrate/body formalization.
+See also: [we-equals-one-formalization.md](we-equals-one-formalization.md) for the substrate/body formalization. [iteration-spiral-anti-pattern.md](iteration-spiral-anti-pattern.md) for the anti-pattern this principle prevents — escalating complexity when scale-coherence breaks. [scaffolding-as-substance.md](scaffolding-as-substance.md) for the generate-then-trim build principle; fractal-WE=1 is the coherence constraint that makes trimming land correctly. [the-neuroplastic-twin-stack.md](the-neuroplastic-twin-stack.md) for the three-layer architecture that applies fractal-WE=1 to Socratic twin-building specifically.
 
 ---
 
