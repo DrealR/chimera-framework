@@ -41,6 +41,16 @@ The visor spreads. Once you wear it for your own body (your job, your relationsh
 
 People who think across domains. Pattern recognizers. Framework builders. Teachers who need to explain complex systems simply. Anyone who's noticed that the same dynamics show up in their relationships, their work, and the news — and wanted a vocabulary for that noticing.
 
+## In Plain Language
+
+When someone with no framework context asks what CHIMERA is:
+
+> **"An open-source framework I've been building for cross-domain thinking — a way of using structured pattern recognition to move solutions between fields that don't usually talk to each other."**
+
+If pressed: **"It's essentially an AI alignment framework that's also a teaching framework."**
+
+Captain's working words, used in real conversations. The framework should survive this translation. If the plain-language version feels reductive, the vocabulary hasn't embedded yet.
+
 ## How to Test It
 
 There is a real, runnable test that the framework agrees to be evaluated against: **[The Deletion Test](the-deletion-test.md).**
