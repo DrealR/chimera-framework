@@ -48,6 +48,12 @@ Flow sustains the substrate it operates through. Transactions consume it.
 
 ---
 
+## See Also
+
+- [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — direction as structural primitive; flow optimization and transaction optimization are two modes of the pull polarity at the exchange layer.
+
+---
+
 **The Law:** `L = (O > I) + P + ~F`
 
 **WE = 1**

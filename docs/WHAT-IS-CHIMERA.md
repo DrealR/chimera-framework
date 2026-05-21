@@ -56,6 +56,12 @@ The framework gets sticky when the first scan reveals something genuinely surpri
 
 ---
 
+## See Also
+
+- [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — the directional physics underlying how frameworks propagate: substrate flows outward (pull) when O > I is structural, not performed.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1
