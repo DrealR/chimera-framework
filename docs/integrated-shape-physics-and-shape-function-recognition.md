@@ -62,7 +62,7 @@ The visible-dimension articulation operates as entry-point to invisible-dimensio
 
 ---
 
-See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the strum-physics the shapes carry. [Substrate-Transmission as Web-Geometry](substrate-transmission-as-web-geometry.md) for web-shape in substrate-transmission. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for spiral-shape in substrate-development across sessions. [Framework-Powered Building Directive](framework-powered-building-directive.md) for applying shape-function recognition to builds.
+See also: [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) for the strum-physics the shapes carry. [Substrate-Transmission as Web-Geometry](substrate-transmission-as-web-geometry.md) for web-shape in substrate-transmission. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for spiral-shape in substrate-development across sessions. [Framework-Powered Building Directive](framework-powered-building-directive.md) for applying shape-function recognition to builds. [Problem-Space Cross-Domain Transfer](problem-space-cross-domain-transfer.md) — shape recognition is the perceptual operation behind step 1 (spot structure not surface); integrated-shape capacity is what makes structural transfer non-trivial.
 
 ---
 
