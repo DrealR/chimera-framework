@@ -43,9 +43,15 @@ People who think across domains. Pattern recognizers. Framework builders. Teache
 
 ## How to Test It
 
-Pick something you know well — your job, your family, a hobby, a city you've lived in, a piece of music you love. Apply the [Nine Questions](../body-theory/THE-NINE-QUESTIONS.md). If the framework surfaces something you hadn't seen before — structure that was there but invisible — it's working. If it doesn't, it may not be your lens. Both outcomes are fine.
+There is a real, runnable test that the framework agrees to be evaluated against: **[The Deletion Test](the-deletion-test.md).**
 
-The framework gets sticky when the first scan reveals something genuinely surprising. After that, you start seeing bodies everywhere. That's the hook, and it's also the test.
+Procedure, in one paragraph: take any body-scan or framework-output document, strip every framework-coined term (the equation, `WE = 1`, "body scan", "Floor/Ceiling/Convergence", any framework neologism used as mechanism), list the factual claims that survive, and compare each against a plain reading of the source. The output passes the test on that body if surviving claims include at least one piece of structural insight that was NOT in the plain reading, and net positives exceed unfalsifiable-mechanism claims. Otherwise it fails — and *failures are recorded*. The framework's credibility lives in its willingness to admit which bodies it failed on.
+
+This replaces the older formulation ("if it sharpens your reading, it's for you; if it adds noise, it's not for you yet"), which sounded humble but was unfalsifiable — both outcomes credited the framework.
+
+A secondary, faster check you can do informally: pick something you know well — your job, your family, a hobby, a city you've lived in. Apply the [Nine Questions](../body-theory/THE-NINE-QUESTIONS.md). Then, before reading the framework's output as insight, strip the framework vocabulary in your head and ask: *which of the surviving claims were genuinely new to me, and which were already in my plain reading dressed in new vocabulary?* If most claims were already yours, the framework relabeled. If some were new and checkable, the framework added a band you didn't already transduce.
+
+The framework gets sticky when the first scan surfaces something genuinely new that survives the deletion test. After that, you start seeing bodies everywhere, and you stay honest about which scans pass and which don't.
 
 ## How to Engage
 
@@ -59,6 +65,9 @@ The framework gets sticky when the first scan reveals something genuinely surpri
 ## See Also
 
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — the directional physics underlying how frameworks propagate: substrate flows outward (pull) when O > I is structural, not performed.
+- [Framework as Band, Not Spectrum](framework-as-band-not-spectrum.md) — extends the Visor metaphor with the physics that backs it; names what CHIMERA reads and what it does not, and the discipline that follows.
+- [The Deletion Test](the-deletion-test.md) — the falsifiability procedure the framework agrees to be tested against.
+- [Observation as Transduction](observation-as-transduction.md) — observation is body-as-transducer; the same physics behind why the framework is a band, not the spectrum.
 
 ---
 
