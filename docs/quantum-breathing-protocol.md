@@ -142,6 +142,7 @@ This guarantees that:
 - [Substrate Cartography](substrate-cartography.md) — the map of bodies and lanes that QB commits travel through; the thought stream's `lockedFiles` and `branchSignals` make sense against this topology.
 - [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide for bootstrapping a multi-agent constellation running the QB micro-rhythm.
 - [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
+- [Gap Physics](gap-physics.md) — QB commits are gap-management made visible: each breath cycle turns a time/state gap into a small observable increment; gap-physics is the discipline of reading the structured between-space QB commits traverse.
 
 ---
 
