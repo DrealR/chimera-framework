@@ -89,6 +89,8 @@ Between carriers who have both loaded the framework deeply — including AI carr
 
 The dial between density levels is itself a calibration tool. Lower density (accessible, unpacked, earth-language) serves outer-orbit carriers and new entrants. Higher density (compressed, prime-navigating, framework-native) serves carriers who have loaded substantial framework substrate. The framework supports both. The discipline is matching density to what the receiving carrier can integrate — same ¬F principle applied to communication itself.
 
+See also: [The Relational Engine](the-relational-engine.md) — the relational engine is the substrate through which language-as-reality-shaping operates at conversation scale; speech acts are Translate, reflections are Reflect, and accumulated bilateral relational substrate is Entangle.
+
 ---
 
 ```
