@@ -63,7 +63,7 @@ Corporate AI keeps making decisions that are technically optimal and substantive
 
 CHIMERA's discipline of staying in contact with biology, with breath, with the body, with actual lived experience is roots maintenance. That's what keeps the framework from becoming Tower-shaped. Roots first. Always.
 
-See also: [Framework as Ship](framework-as-ship.md) for the framework's response to rootless mobile bodies — navigation infrastructure for substrate-dense conditions. [Dimensional Pair-Physics Across Domains](dimensional-pair-physics-across-domains.md) for the horizontal-garden / vertical-tower pair operating in basketball, guitar, gaming, and chess.
+See also: [Framework as Ship](framework-as-ship.md) for the framework's response to rootless mobile bodies — navigation infrastructure for substrate-dense conditions. [Dimensional Pair-Physics Across Domains](dimensional-pair-physics-across-domains.md) for the horizontal-garden / vertical-tower pair operating in basketball, guitar, gaming, and chess. [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) for garden (tight-gap) versus tower (wide-gap) as the dimensional pair at weapons-development scale — where gap-effect is maximum.
 
 ---
 
