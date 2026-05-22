@@ -152,6 +152,7 @@ Products fail when teams build objects without reading the gaps around them: use
 - [Path and Friction](path-and-friction.md) shows why path and friction cannot be separated from outcome.
 - [Quantum-Breathing Protocol](quantum-breathing-protocol.md) turns time/state gaps into small visible commits.
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — direction as structural primitive; gap is what makes directionality meaningful across any boundary.
+- [Observation as Transduction](observation-as-transduction.md) — the perceptual physics behind why gaps exist: each observer transduces only certain bands, so the spaces between those bands are structured, not arbitrary.
 
 ---
 
