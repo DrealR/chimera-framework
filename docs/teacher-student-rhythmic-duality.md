@@ -58,6 +58,7 @@ The same corollary points at where a body should direct its attention when it be
 - [Rate Mismatch as Primitive](rate-mismatch-as-primitive.md) — the parenthesis pattern (entering a domain that runs at a different rate than the body's natural practice) maps onto the student-pole period; the body re-syncs when accumulation completes.
 - [Friction as Foundational Primitive](friction-as-foundational-primitive.md) — ¬F as calibrated friction is the governing constraint in any teaching relationship; the teacher cannot force the student's learning rate above the student's integration capacity.
 - [Path and Friction](path-and-friction.md) — why outcomes require becoming: patient build-alongside is the path; pressure-shortcuts deliver outcomes without the becoming and produce nothing durable.
+- [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — patient build-alongside is value-production at the community scale; the teacher who stays is the operational instance of O > I applied where the real problem lives.
 
 ---
 
