@@ -61,6 +61,7 @@ The same corollary points at where a body should direct its attention when it be
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — patient build-alongside is value-production at the community scale; the teacher who stays is the operational instance of O > I applied where the real problem lives.
 - [Resonance Through Variance](resonance-through-variance.md) — the teaching pair is a resonance system; the domain is the anchor; teacher and student each express it through their own body-signature; calibration governs the distance that makes blending generative rather than forced.
 - [Anchor-and-Transfer Principle](anchor-and-transfer-principle.md) — the mastery arc the teacher scaffolds: anchor → movement-becomes-rhythm → freed consciousness transfers to new domains; the teacher's job is locating the student's existing anchors and extending from them.
+- [Derivative Principle](derivative-principle.md) — explains why the teacher's first move (locate where the student is already free) almost always finds something: informal practice builds substrate before formal naming arrives; recognition is the derivation operation.
 
 ---
 
