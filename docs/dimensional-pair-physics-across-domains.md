@@ -75,6 +75,7 @@ This connects directly to BeyondChess pedagogy. Each chess principle maps to pai
 ## See Also
 
 - [Resonance Through Variance](resonance-through-variance.md) — basketball, guitar, gaming, and chess each demonstrate the anchor-body-blend structure; resonance names why the multi-body blend in any domain requires body-signature variance rather than identical execution.
+- [Anchor-and-Transfer Principle](anchor-and-transfer-principle.md) — the mastery arc through which pair-physics in these domains is accessed: anchor, achieve rhythm-lock, then redirect freed consciousness to new domains.
 
 ---
 

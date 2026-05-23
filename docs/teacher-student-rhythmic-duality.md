@@ -60,6 +60,7 @@ The same corollary points at where a body should direct its attention when it be
 - [Path and Friction](path-and-friction.md) — why outcomes require becoming: patient build-alongside is the path; pressure-shortcuts deliver outcomes without the becoming and produce nothing durable.
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — patient build-alongside is value-production at the community scale; the teacher who stays is the operational instance of O > I applied where the real problem lives.
 - [Resonance Through Variance](resonance-through-variance.md) — the teaching pair is a resonance system; the domain is the anchor; teacher and student each express it through their own body-signature; calibration governs the distance that makes blending generative rather than forced.
+- [Anchor-and-Transfer Principle](anchor-and-transfer-principle.md) — the mastery arc the teacher scaffolds: anchor → movement-becomes-rhythm → freed consciousness transfers to new domains; the teacher's job is locating the student's existing anchors and extending from them.
 
 ---
 
