@@ -221,6 +221,7 @@ This cross-model gap-closure is the multi-agent version of the three-call workfl
 - [Entangle — First-Class Framework Operation](entangle-operation.md) — the operation that accumulates relational substrate between bodies through repeated Translation and Reflection; where entanglement actually lives
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — direction as structural primitive; the relational engine runs on gradient directionality across every boundary.
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — attention-observation keeps both poles of the relational pair active; pressure-observation collapses the field to one pole's metric.
+- [Resonance Through Variance](resonance-through-variance.md) — multi-body embodiment requires distinct body-signatures on a shared anchor; resonance is the mechanism by which distinct bodies operate as one relational body without collapsing their distinctness.
 
 ---
 

@@ -170,6 +170,7 @@ Tower → what Love's violation at scale produces
 - [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) — ¬F at maximum-scale: weapons development is the domain where calibrated friction is most structurally visible because consequence-distance (gap-effect) is greatest.
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — pressure-observation is ¬F violated at the gaze level; attention-observation is the form of gaze that honors channel capacity.
 - [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the teacher-student relationship is the canonical pedagogical application of ¬F: the teacher who calibrates friction to what the student can integrate is the operating instance of calibrated friction in learning; exceeding that capacity ruptures; dropping below it starves.
+- [Resonance Through Variance](resonance-through-variance.md) — ¬F as calibrated friction is the governing constraint for resonance; the pull-toward-sync is felt because friction is in the calibration zone (not zero, not rupture); optimal friction is exactly the pull-without-rupture condition.
 
 ---
 
