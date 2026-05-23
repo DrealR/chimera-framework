@@ -88,6 +88,7 @@ Three observable consequences for builders, designers, and operators:
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — extraction direction in the Bali case.
 - [Flow vs Transaction](flow-vs-transaction.md) — clearance-rate questions are flow questions, not transaction questions.
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — migrating toward value-concentration creates a rate mismatch between the body and its community substrate; the re-tuning lag is the structural cost of chasing.
+- [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the student-pole period is a domain-entry event where the student's body runs at a different rate than the domain; the teacher is the body that has already re-tuned and manages the student's rate-matching without exceeding their integration capacity.
 
 ---
 
