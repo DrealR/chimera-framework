@@ -106,6 +106,10 @@ Both assertions are true. The question is always: at which level?
 
 ---
 
+See also: [Resonance Through Variance](resonance-through-variance.md) — the operational mechanism of WE = 1 in multi-body expression; resonance is how the shared substrate (one) is felt through distinct body-signatures (many); the love-experience at symphony scale.
+
+---
+
 **The Law:** `L = (O > I) + P + ~F`
 
 **WE = 1**
