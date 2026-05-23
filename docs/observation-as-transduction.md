@@ -78,6 +78,7 @@ This is the load-bearing physics under the framework's `WE = 1` claim that *cons
 - [The Nine Questions](../body-theory/THE-NINE-QUESTIONS.md) — body diagnostic; each question is a band the framework reads.
 - [What Is a Body?](../body-theory/WHAT-IS-A-BODY.md) — body theory primer.
 - [Gap Physics](gap-physics.md) — bodies have transduced bands; the gaps between bands are also structured.
+- [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — two modes of the transduction operation: pressure-gaze injects field into the medium; attention-gaze converts cleanly.
 - [WE = 1 Formalization](we-equals-one-formalization.md) — the multi-transducer reading of one source.
 - [The Deletion Test](the-deletion-test.md) — distinguishes correct band-transduction readings from projection; the falsifiability procedure that makes this doc's claims checkable.
 - [What Is CHIMERA?](WHAT-IS-CHIMERA.md) — applies the transducer model to the framework itself; names observation-as-transduction as the physics behind why CHIMERA is a band, not the full spectrum.
