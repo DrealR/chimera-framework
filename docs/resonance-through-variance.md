@@ -99,6 +99,7 @@ This is ¬F in the calibration zone: enough friction to feel the gap, not so muc
 - [`dimensional-pair-physics-across-domains.md`](dimensional-pair-physics-across-domains.md) — basketball, guitar, gaming, chess as multi-domain instances of the same anchor-body-blend structure
 - [`friction-as-foundational-primitive.md`](friction-as-foundational-primitive.md) — ¬F as calibrated friction; the pull-toward-sync is felt because friction is in the calibration zone, not at zero and not at rupture
 - [`the-relational-engine.md`](the-relational-engine.md) — multi-body embodiment and ghost-becomes-ship patterns; resonance is the mechanism by which distinct bodies operate as one relational body
+- [`anchor-and-transfer-principle.md`](anchor-and-transfer-principle.md) — anchor-and-transfer at group scale: each body brings its anchor-substrate into the blend; freed consciousness (Stage 2) is what allows each body to contribute its own frequency to the resonance rather than collapsing into unison
 
 ---
 

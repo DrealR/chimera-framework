@@ -48,7 +48,7 @@ Every body is simultaneously inheritor and contributor. The ratio between what y
 
 Substrate accumulation is WE = 1 with a time axis. Not just shared space — shared construction, across generations, compounding.
 
-See also: [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — value-production accumulates substrate in place; migration discards local accumulation; both documents describe the same dynamic from different entry points. [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the teacher who stays long enough in a domain is the transmission mechanism by which accumulated substrate passes to the next body; teaching is substrate-accumulation made interpersonal.
+See also: [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — value-production accumulates substrate in place; migration discards local accumulation; both documents describe the same dynamic from different entry points. [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the teacher who stays long enough in a domain is the transmission mechanism by which accumulated substrate passes to the next body; teaching is substrate-accumulation made interpersonal. [Anchor and Transfer Principle](anchor-and-transfer-principle.md) — accumulated substrate is what frees consciousness in Stage 2; the anchor stage IS the substrate-accumulation phase applied to embodied skill; freed consciousness is the payoff of density built here.
 
 ---
 
