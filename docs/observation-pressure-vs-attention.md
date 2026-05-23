@@ -57,6 +57,7 @@ This arc is not unique to teaching. It is the standard arc in any pair-physics w
 - [Gap Physics](gap-physics.md) — the gap between stimulus and response; pressure collapses the gap; attention opens it.
 - [The Relational Engine](the-relational-engine.md) — the pair as the irreducible unit; attention-observation keeps both poles; pressure-observation collapses to one.
 - [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) — the six-step methodology that structures observation-as-attention in practice.
+- [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the teacher-student pair is the primary domain where pressure-observation vs attention-observation plays out; self-observation is the graduation endpoint the teaching arc terminates at.
 
 ---
 
