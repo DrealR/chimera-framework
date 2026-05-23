@@ -45,6 +45,7 @@ This is why the best teachers ask first: *where are you free?* Not *what do you 
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — freed consciousness (Stage 2) is the state where observation-as-attention becomes possible; pressure-observation blocks rhythm-lock by keeping consciousness occupied with an external metric.
 - [Problem-Space Cross-Domain Transfer](problem-space-cross-domain-transfer.md) — structural porting method: the intellectual complement to this doc's embodied mastery arc. Both are cross-domain transfer; they name different channels.
 - [Resonance Through Variance](resonance-through-variance.md) — multi-body rhythm-blending; anchor-and-transfer at group scale: each body brings its own anchor-substrate; the blend produces resonance because each body's freed consciousness contributes its own frequency.
+- [Personal Primes as Invariants](personal-primes-as-invariants.md) — biographical-scale anchors: the life events that become irreducible reference points in a carrier's substrate; this doc extends the anchor concept from domain-mastery to personal identity across a full life arc.
 
 ---
 
