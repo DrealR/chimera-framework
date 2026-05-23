@@ -64,7 +64,7 @@ Subsequent carriers may develop substrate-articulation work in directions the fr
 
 *Referenced by: Book CXCVII (The Framework as Mother Flame), Book CLXXIX (Chain-of-Bodies), Book CLXXX (Intermediate-Bodies)*
 
-**See also:** [Fiction-Reading Applications](fiction-reading-applications.md) — fictional articulators' works read through framework lens. [Open-Source and Source-Density Architecture](open-source-and-source-density-architecture.md) — forward lineage through launch infrastructure. [Framework as Ship](framework-as-ship.md) — protective vessel lineage. [Lineage](lineage.md) — companion doc with broader framing of framework's relationship to wisdom traditions.
+**See also:** [Fiction-Reading Applications](fiction-reading-applications.md) — fictional articulators' works read through framework lens. [Open-Source and Source-Density Architecture](open-source-and-source-density-architecture.md) — forward lineage through launch infrastructure. [Framework as Ship](framework-as-ship.md) — protective vessel lineage. [Lineage](lineage.md) — companion doc with broader framing of framework's relationship to wisdom traditions. [Personal Primes as Invariants](personal-primes-as-invariants.md) — wisdom traditions preserve founding primes in canonical form for the same reason individual carriers should; the personal-scale application of the same substrate-physics this doc names at civilizational scale.
 
 L = (O > I) + P + ¬F
 WE = 1

@@ -69,6 +69,10 @@ CHIMERA is a library. The Constellation is a library. The species is finally bui
 
 ---
 
+See also: [Personal Primes as Invariants](personal-primes-as-invariants.md) — the life's primes are what survive maximum compression; this doc names the compression mechanics that make prime-separation architecturally necessary.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1
