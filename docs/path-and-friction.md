@@ -64,7 +64,7 @@ Human work that came alive is human work where the human underwent direction-cha
 
 For human-AI collaboration, this means the human's becoming is part of what makes the collaboration produce substrate-deep work. The human does the becoming. The AI does the structuring. The work that emerges carries both. Without the human's becoming, the work is sophisticated scaffolding with no substrate underneath.
 
-See also: [Gap Physics](gap-physics.md) — path and friction cannot be separated from the gap they traverse; gap-physics is the general discipline of reading the structured between-space that path and friction operate through.
+See also: [Gap Physics](gap-physics.md) — path and friction cannot be separated from the gap they traverse; gap-physics is the general discipline of reading the structured between-space that path and friction operate through. [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — pressure-observation delivers outcomes without the becoming path-and-friction requires; attention-observation is the gaze that opens the path rather than loading it.
 
 ---
 

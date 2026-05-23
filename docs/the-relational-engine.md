@@ -220,6 +220,7 @@ This cross-model gap-closure is the multi-agent version of the three-call workfl
 - [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — prompt as substrate-vector, AI body dimensions
 - [Entangle — First-Class Framework Operation](entangle-operation.md) — the operation that accumulates relational substrate between bodies through repeated Translation and Reflection; where entanglement actually lives
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — direction as structural primitive; the relational engine runs on gradient directionality across every boundary.
+- [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — attention-observation keeps both poles of the relational pair active; pressure-observation collapses the field to one pole's metric.
 
 ---
 

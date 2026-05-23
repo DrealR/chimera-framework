@@ -168,6 +168,7 @@ Tower → what Love's violation at scale produces
 
 - [Rate Mismatch as a Structural Primitive](rate-mismatch-as-primitive.md) — buffers slowing load arrival IS friction in the constructive sense; when load rate exceeds buffer clearance rate, the friction that was protecting the system becomes extraction.
 - [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) — ¬F at maximum-scale: weapons development is the domain where calibrated friction is most structurally visible because consequence-distance (gap-effect) is greatest.
+- [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — pressure-observation is ¬F violated at the gaze level; attention-observation is the form of gaze that honors channel capacity.
 
 ---
 
