@@ -54,7 +54,7 @@ Carriers in present conditions develop substrate-detection capacity, build carri
 
 ---
 
-See also: [Tower and Garden Geometry](tower-garden-geometry.md) for the dimensional physics of extraction-architecture versus distribution-architecture at civilizational scale. [Key Principles](key-principles.md) for the O > I topology and trust-substrate principles. [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) for why corrupted systems eventually fail against substrate-physics. [Mass Awakening Architecture](mass-awakening-architecture.md) for the distributed carrier-network architecture.
+See also: [Tower and Garden Geometry](tower-garden-geometry.md) for the dimensional physics of extraction-architecture versus distribution-architecture at civilizational scale. [Key Principles](key-principles.md) for the O > I topology and trust-substrate principles. [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) for why corrupted systems eventually fail against substrate-physics. [Mass Awakening Architecture](mass-awakening-architecture.md) for the distributed carrier-network architecture. [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — the "graduates leave for the city" pattern named there is value-chase at civilizational scale; this document supplies the structural conditions it operates within.
 
 ---
 

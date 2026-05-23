@@ -130,6 +130,8 @@ The cure is structural, not moral:
 - **Optimization Hollowing:** Compile substrate before optimization. Build the self before the platform arrives.
 - **Mirror:** Activate Transformation. Use the Pause for genuine processing, not just passing through.
 
+See also: [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — value-chase is I > O applied at geographic and institutional scale; this document names the six failure modes that structure the inversion; both together give the full topology of O > I pathology at community resolution.
+
 ---
 
 ```
