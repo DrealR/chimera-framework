@@ -67,6 +67,7 @@ The answer locates the learner's existing anchor. What follows is recognition + 
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — recognition requires attention-observation, not pressure-observation; the teacher who tests before observing inverts the recognition sequence.
 - [Personal Primes as Invariants](personal-primes-as-invariants.md) — biographical-scale instance of the same physics: life events that are recognized and named as primes, not invented; they were already load-bearing before they were articulated.
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — recognizing existing substrate in the learner is the O > I move at the teaching scale; value is found in what already exists, not deposited from the expert's store.
+- [The Shadowing Pattern](the-shadowing-pattern.md) — the tool-introduction instance of recognition-before-transfer: the shadow phase runs until the student has enough domain-substrate to supervise the tool, exactly as the Derivative Principle requires recognition before extension.
 
 ---
 
