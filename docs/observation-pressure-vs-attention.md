@@ -59,6 +59,7 @@ This arc is not unique to teaching. It is the standard arc in any pair-physics w
 - [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) — the six-step methodology that structures observation-as-attention in practice.
 - [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the teacher-student pair is the primary domain where pressure-observation vs attention-observation plays out; self-observation is the graduation endpoint the teaching arc terminates at.
 - [Anchor and Transfer Principle](anchor-and-transfer-principle.md) — freed consciousness (Stage 2) is the state where observation-as-attention becomes possible; pressure-observation blocks rhythm-lock by keeping consciousness occupied with an external metric rather than letting it arrive at Stage 2.
+- [Derivative Principle](derivative-principle.md) — recognition (the teacher's first move) requires attention-observation; pressure-observation makes the learner's pre-existing informal practice invisible and inverts the recognition → naming → extension sequence.
 
 ---
 

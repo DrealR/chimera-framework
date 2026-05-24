@@ -70,6 +70,7 @@ The fix is architectural. Write the primes down flat. Separate them from their c
 - [Context Window as Life](context-window-as-life.md) — bounded context window with compression pressure; personal primes are what survives maximum compression.
 - [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) — tracking primes across substrate-dimensions of any body; a carrier's life is one such body.
 - [Substrate-Articulation Lineage](substrate-articulation-lineage.md) — wisdom traditions preserve their founding primes in canonical form; this doc names why that choice reflects the same substrate-physics.
+- [Derivative Principle](derivative-principle.md) — personal primes are the biographical-scale instance of the same physics: life events recognized and named as irreducibles that were already load-bearing in the substrate before their articulation.
 
 ---
 
