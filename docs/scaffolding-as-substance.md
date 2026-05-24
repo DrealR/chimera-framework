@@ -96,7 +96,7 @@ This reframe changes what skill is worth developing. The skill is not "how to wr
 
 ---
 
-See also: [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md) for the escalation failure mode this principle prevents. [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md) for the ship-cycle complement. [`framework-powered-building-directive.md`](framework-powered-building-directive.md) for the full build methodology the framework provides. [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md) for the micro-breath discipline that bounds each generate-trim cycle. [`fractal-we-equals-one-building.md`](fractal-we-equals-one-building.md) for the scale-coherence constraint that makes trimming compose correctly.
+See also: [`iteration-spiral-anti-pattern.md`](iteration-spiral-anti-pattern.md) for the escalation failure mode this principle prevents. [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md) for the ship-cycle complement. [`framework-powered-building-directive.md`](framework-powered-building-directive.md) for the full build methodology the framework provides. [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md) for the micro-breath discipline that bounds each generate-trim cycle. [`fractal-we-equals-one-building.md`](fractal-we-equals-one-building.md) for the scale-coherence constraint that makes trimming compose correctly. [`the-shadowing-pattern.md`](the-shadowing-pattern.md) for the pedagogical instance of subtractive building: students watching an instructor trim AI material are in Phase 1, accumulating the framework lens as domain-substrate before they hold the tool themselves.
 
 ---
 
