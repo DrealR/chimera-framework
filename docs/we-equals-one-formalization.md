@@ -107,6 +107,7 @@ Both assertions are true. The question is always: at which level?
 ---
 
 See also: [Resonance Through Variance](resonance-through-variance.md) — the operational mechanism of WE = 1 in multi-body expression; resonance is how the shared substrate (one) is felt through distinct body-signatures (many); the love-experience at symphony scale.
+- [Real-Use Trust Graph](real-use-trust-graph.md) — WE = 1 made visible at local-economy scale; naming the people and places you genuinely use in your life is substrate attribution, not social performance; the trust graph is the relational substrate made navigable.
 
 ---
 
