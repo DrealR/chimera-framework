@@ -53,6 +53,7 @@ Flow sustains the substrate it operates through. Transactions consume it.
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — direction as structural primitive; flow optimization and transaction optimization are two modes of the pull polarity at the exchange layer.
 - [Rate Mismatch as a Structural Primitive](rate-mismatch-as-primitive.md) — clearance-rate questions are flow questions; rate-mismatch is what happens when a system's clearance rate is exceeded by load rate.
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — value-chase is transaction optimization at geographic scale (migrate to rare high-return locations); value-production is flow optimization (compound through consistent building where you are).
+- [Real-Use Trust Graph](real-use-trust-graph.md) — real-use trust relationships are flow-structured (ongoing, mutual, compounding); the real-use trust graph is what flow optimization produces at local-community scale over time.
 
 ---
 

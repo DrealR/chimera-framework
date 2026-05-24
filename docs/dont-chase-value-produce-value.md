@@ -58,6 +58,7 @@ The teacher-student pair is the most direct operational instance of this: the te
 - [Civilizational Substrate-Conditions in the Present Era](civilizational-substrate-conditions-present-era.md) — the "graduates leave for the city" pattern is value-chase at civilizational scale; this principle is its corrective.
 - [Rate Mismatch as Primitive](rate-mismatch-as-primitive.md) — migrating toward value-concentration creates a rate mismatch between the body and its community substrate; the re-tuning lag is the structural cost of chasing.
 - [Derivative Principle](derivative-principle.md) — the teacher who sees value in what the student already carries applies O > I through recognition, the most substrate-efficient teaching act; value-production and recognition operate from the same structural move.
+- [Real-Use Trust Graph](real-use-trust-graph.md) — producing value where you are earns real-use trust; value-chasing severs you from the local graph; the community web forms around carriers who stay and build.
 
 ---
 
