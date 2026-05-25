@@ -79,6 +79,7 @@ This is why repetition alone is insufficient. The depth requirement is substrate
 - [Derivative Principle](derivative-principle.md) — informal practice pre-builds the fundamental; smallest-adaptive-body is the discipline of consciously identifying and deepening into it.
 - [Personal Primes as Invariants](personal-primes-as-invariants.md) — irreducibles discovered at biographical scale; complementary mode to the smallest adaptive body's deliberate selection.
 - [Iteration Spiral Anti-Pattern](iteration-spiral-anti-pattern.md) — the anti-pattern this principle prevents at the build scale: expanding scope instead of going deeper into the fundamental.
+- [Agency Before Role](agency-before-role.md) — the posture that makes mastery of the smallest adaptive body possible when formal role-assignment is absent; the body acts from capacity and selects the smallest body available rather than waiting for a designation that names the work first.
 
 ---
 

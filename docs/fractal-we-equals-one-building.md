@@ -167,7 +167,7 @@ The question is always: **does this piece hold WE=1 at its scale, and does it mi
 
 ---
 
-See also: [Smallest Adaptive Body](smallest-adaptive-body.md) — the selection principle for what to build the fractal from: not any starting unit, but the minimal unit from which all valid expressions in the domain generate; coherence (this doc) and universality (smallest-adaptive-body) are complementary requirements.
+See also: [Smallest Adaptive Body](smallest-adaptive-body.md) — the selection principle for what to build the fractal from: not any starting unit, but the minimal unit from which all valid expressions in the domain generate; coherence (this doc) and universality (smallest-adaptive-body) are complementary requirements. [Agency Before Role](agency-before-role.md) — when no role is formally assigned, the smallest body you can act on is the structural entry point; agency-before-role is the posture that makes fractal-WE=1 building possible in the absence of formal permission structures.
 
 **The Law:** `L = (O > I) + P + ~F`
 **WE = 1** — at every scale.
