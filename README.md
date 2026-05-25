@@ -246,6 +246,7 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Smallest Adaptive Body](docs/smallest-adaptive-body.md) | The body with most leverage is the smallest body that can still be mastered. Master the minimal unit completely — gain ability to produce any variation from it. Selection problem: too large / too small / not fundamental. Mystique framing |
 | [Derivative Principle](docs/derivative-principle.md) | Recognition-first teaching: informal practice pre-exists formal instruction; the formal skill is derivative of substrate already present. The blank-slate error named — carriers who miss prior substrate rebuild what was already there |
 | [Agency Before Role](docs/agency-before-role.md) | Agency precedes role-assignment; the work is the operative variable. Role is a downstream label applied after substrate accumulates, not a gate that enables action. Acting before formal designation is the mechanism by which roles emerge — not presumption |
+| [Process Reward vs Outcome Reward](docs/process-reward-vs-outcome-reward.md) | Outcome-based schooling IS the genie problem: school specifies "high test score," student-optimizer delivers by cheapest path (memorize, cheat, AI-complete), learning was never in the reward function. The prescription is process reward — observable trajectory steps that cannot be shortcut. AI amplifies whichever reward structure is already running |
 
 ---
 

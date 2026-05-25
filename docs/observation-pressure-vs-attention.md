@@ -61,6 +61,7 @@ This arc is not unique to teaching. It is the standard arc in any pair-physics w
 - [Anchor and Transfer Principle](anchor-and-transfer-principle.md) — freed consciousness (Stage 2) is the state where observation-as-attention becomes possible; pressure-observation blocks rhythm-lock by keeping consciousness occupied with an external metric rather than letting it arrive at Stage 2.
 - [Derivative Principle](derivative-principle.md) — recognition (the teacher's first move) requires attention-observation; pressure-observation makes the learner's pre-existing informal practice invisible and inverts the recognition → naming → extension sequence.
 - [The Shadowing Pattern](the-shadowing-pattern.md) — Phase 1 shadowing is attention-observation from the student's position: reading the instructor's decision-making process, not performing for a test; the sequence keeps pressure-observation out of the substrate-building phase.
+- [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md) — the genie problem applied to institutional design; pressure-observation is the gaze-level instance of the same structural failure (metric becomes target); this doc treats the reward-function specification problem at curriculum-design scale.
 
 ---
 
