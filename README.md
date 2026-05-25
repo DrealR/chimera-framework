@@ -326,6 +326,8 @@ Tier 2 (Deep work):   Cloud AI (Claude, etc.) — complex reasoning
 Tier 3 (Specialized): Domain-specific models for specific tasks
 ```
 
+**Portable AI source:** [Framework Reflection Sheet](docs/framework-reflection-sheet.md) — A compact operating manual designed to be loaded as a source in any AI environment (NotebookLM, Claude Projects, custom GPTs, custom agents). Defines position-reading discipline, BodyScan structure, translation-over-transformation, naming rules, and compression discipline. Loads the framework's operating method into any AI without requiring the full text.
+
 ---
 
 ## Operator Substrate — Running a Multi-Agent Constellation
