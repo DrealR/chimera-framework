@@ -167,5 +167,7 @@ The question is always: **does this piece hold WE=1 at its scale, and does it mi
 
 ---
 
+See also: [Smallest Adaptive Body](smallest-adaptive-body.md) — the selection principle for what to build the fractal from: not any starting unit, but the minimal unit from which all valid expressions in the domain generate; coherence (this doc) and universality (smallest-adaptive-body) are complementary requirements.
+
 **The Law:** `L = (O > I) + P + ~F`
 **WE = 1** — at every scale.

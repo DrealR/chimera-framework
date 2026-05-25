@@ -48,6 +48,7 @@ This is why the best teachers ask first: *where are you free?* Not *what do you 
 - [Personal Primes as Invariants](personal-primes-as-invariants.md) — biographical-scale anchors: the life events that become irreducible reference points in a carrier's substrate; this doc extends the anchor concept from domain-mastery to personal identity across a full life arc.
 - [Derivative Principle](derivative-principle.md) — explains why anchor-substrate almost always pre-exists: informal practice builds it before formal instruction names it; Stage 1 of the mastery arc begins from this pre-existing substrate, not from zero.
 - [The Shadowing Pattern](the-shadowing-pattern.md) — tool-introduction instance of the three-stage arc: shadow (anchor formation in the problem domain) → supervised use (movement-becomes-rhythm with the tool) → independent use (freed consciousness operates the tool without the instructor's judgment scaffold).
+- [Smallest Adaptive Body](smallest-adaptive-body.md) — selection principle for which body to anchor in: the minimal unit from which all valid expressions generate; this doc names the arc through which that selection is deepened into universal adaptability.
 
 ---
 
