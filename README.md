@@ -328,6 +328,10 @@ Tier 3 (Specialized): Domain-specific models for specific tasks
 
 **Portable AI source:** [Framework Reflection Sheet](docs/framework-reflection-sheet.md) — A compact operating manual designed to be loaded as a source in any AI environment (NotebookLM, Claude Projects, custom GPTs, custom agents). Defines position-reading discipline, BodyScan structure, translation-over-transformation, naming rules, and compression discipline. Loads the framework's operating method into any AI without requiring the full text.
 
+**NotebookLM instrument guides** — Two companion docs that complete the operating manual alongside the Framework Reflection Sheet. Load all three as sources in a NotebookLM project for full instrument coverage:
+- [NotebookLM Translation Sheet](docs/notebooklm-translation-sheet.md) — translates NotebookLM's controls into framework vocabulary; maps the four formats (Deep Dive, Brief, Critique, Debate) as distinct cognitive operations; use alongside the Reflection Sheet as a source.
+- [NotebookLM Spellbook](docs/notebooklm-spellbook.md) — renames all NotebookLM controls using fictional inheritance so settings become selectable by feel. Five stops: Magnet (Sources), Stance (Format), Breath (Length), Tongue (Language), Spell (Focus prompt).
+
 ---
 
 ## Operator Substrate — Running a Multi-Agent Constellation

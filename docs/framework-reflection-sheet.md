@@ -230,4 +230,11 @@ When in doubt:
 
 The framework lives in practice, not in documentation. This sheet exists to make the practice portable across AI environments where the framework isn't already present.
 
+---
+
+## See Also
+
+- [NotebookLM Translation Sheet](notebooklm-translation-sheet.md) — maps NotebookLM's controls to framework operations; load alongside this sheet for NotebookLM sessions
+- [NotebookLM Spellbook](notebooklm-spellbook.md) — fictional-inheritance renaming of all NotebookLM controls; the three docs together form the complete NotebookLM operating manual
+
 End of sheet.
