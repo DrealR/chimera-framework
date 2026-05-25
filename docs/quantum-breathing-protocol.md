@@ -143,6 +143,7 @@ This guarantees that:
 - [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide for bootstrapping a multi-agent constellation running the QB micro-rhythm.
 - [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
 - [Gap Physics](gap-physics.md) — QB commits are gap-management made visible: each breath cycle turns a time/state gap into a small observable increment; gap-physics is the discipline of reading the structured between-space QB commits traverse.
+- [Iteration Spiral Anti-Pattern](iteration-spiral-anti-pattern.md) — names the build-cycle escalation failure mode that QB micro-breath discipline structurally prevents; the 15-minute/50-line thresholds are the operational form of revert-not-escalate and smallest-possible-change disciplines.
 
 ---
 
