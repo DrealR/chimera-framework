@@ -68,6 +68,7 @@ The answer locates the learner's existing anchor. What follows is recognition + 
 - [Personal Primes as Invariants](personal-primes-as-invariants.md) — biographical-scale instance of the same physics: life events that are recognized and named as primes, not invented; they were already load-bearing before they were articulated.
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — recognizing existing substrate in the learner is the O > I move at the teaching scale; value is found in what already exists, not deposited from the expert's store.
 - [The Shadowing Pattern](the-shadowing-pattern.md) — the tool-introduction instance of recognition-before-transfer: the shadow phase runs until the student has enough domain-substrate to supervise the tool, exactly as the Derivative Principle requires recognition before extension.
+- [Smallest Adaptive Body](smallest-adaptive-body.md) — once informal substrate has been recognized and named, the complementary discipline: deliberately identify the most fundamental unit and deepen into it; the Derivative Principle surfaces the substrate, smallest-adaptive-body prescribes how to go deep once it is found.
 
 ---
 

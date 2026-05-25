@@ -71,6 +71,7 @@ The fix is architectural. Write the primes down flat. Separate them from their c
 - [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) — tracking primes across substrate-dimensions of any body; a carrier's life is one such body.
 - [Substrate-Articulation Lineage](substrate-articulation-lineage.md) — wisdom traditions preserve their founding primes in canonical form; this doc names why that choice reflects the same substrate-physics.
 - [Derivative Principle](derivative-principle.md) — personal primes are the biographical-scale instance of the same physics: life events recognized and named as irreducibles that were already load-bearing in the substrate before their articulation.
+- [Smallest Adaptive Body](smallest-adaptive-body.md) — complementary mode of working with the irreducible: primes are found through biographical descent; the smallest adaptive body is deliberately chosen and built toward; both address what is most fundamental, from opposite directions.
 
 ---
 
