@@ -245,6 +245,7 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [The Shadowing Pattern](docs/the-shadowing-pattern.md) | Instructor drives AI tool; student observes (shadows). Preserves cognitive sovereignty during tool introduction by separating exposure from execution. Three-phase arc: shadow → supervised → independent |
 | [Smallest Adaptive Body](docs/smallest-adaptive-body.md) | The body with most leverage is the smallest body that can still be mastered. Master the minimal unit completely — gain ability to produce any variation from it. Selection problem: too large / too small / not fundamental. Mystique framing |
 | [Derivative Principle](docs/derivative-principle.md) | Recognition-first teaching: informal practice pre-exists formal instruction; the formal skill is derivative of substrate already present. The blank-slate error named — carriers who miss prior substrate rebuild what was already there |
+| [Agency Before Role](docs/agency-before-role.md) | Agency precedes role-assignment; the work is the operative variable. Role is a downstream label applied after substrate accumulates, not a gate that enables action. Acting before formal designation is the mechanism by which roles emerge — not presumption |
 
 ---
 

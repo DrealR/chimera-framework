@@ -59,6 +59,7 @@ The teacher-student pair is the most direct operational instance of this: the te
 - [Rate Mismatch as Primitive](rate-mismatch-as-primitive.md) — migrating toward value-concentration creates a rate mismatch between the body and its community substrate; the re-tuning lag is the structural cost of chasing.
 - [Derivative Principle](derivative-principle.md) — the teacher who sees value in what the student already carries applies O > I through recognition, the most substrate-efficient teaching act; value-production and recognition operate from the same structural move.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — producing value where you are earns real-use trust; value-chasing severs you from the local graph; the community web forms around carriers who stay and build.
+- [Agency Before Role](agency-before-role.md) — the companion individual-action principle: acting without waiting for formal role-assignment; producing value is the geographic version of this; agency-before-role is the temporal version.
 
 ---
 
