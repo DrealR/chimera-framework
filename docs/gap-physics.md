@@ -155,6 +155,7 @@ Products fail when teams build objects without reading the gaps around them: use
 - [Observation as Transduction](observation-as-transduction.md) — the perceptual physics behind why gaps exist: each observer transduces only certain bands, so the spaces between those bands are structured, not arbitrary.
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — pressure collapses the gap between observer and observed; attention opens it; the gaze is itself a gap field.
 - [Use Case as Mirror](use-case-as-mirror.md) — the seven gap dimensions appear across different contexts as the same load-bearing structure in different local shapes; gap-physics is use-case-as-mirror applied specifically to the between-spaces: the gap structure is the invariant, the domain is the mirror.
+- [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the Pause is the structural gap where write-access operates; without a gap between stimulus and response, the installed thread fires automatically and Move 1 cannot run; write-access is the skill of keeping that gap open and using it deliberately.
 
 ---
 

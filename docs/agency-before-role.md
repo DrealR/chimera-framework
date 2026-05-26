@@ -47,6 +47,7 @@ The failure mode of role-first sequencing is that step 2 never happens if step 1
 - [Fractal WE=1 — Building Discipline](fractal-we-equals-one-building.md) — smallest body first at every scale; when no role is formally assigned, the smallest body you can act on is the structural entry point.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — acting before role assignment builds functional dependency, which is what real-use trust is made of; trust precedes role just as agency precedes role.
 - [O > I Pathology Topology](oi-pathology-topology.md) — waiting for role-assignment before acting is one path to I > O inversion; the body consumes its own readiness without returning value because it is waiting for permission.
+- [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the same self-determination principle applied at the substrate level: installed threads are not roles the body chose; write-access names the three-move mechanism by which a body reclaims authorship over its own attentional patterns, the same re-choosing that agency-before-role names at the level of formal designation.
 
 ---
 
