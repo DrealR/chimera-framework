@@ -248,6 +248,7 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Derivative Principle](docs/derivative-principle.md) | Recognition-first teaching: informal practice pre-exists formal instruction; the formal skill is derivative of substrate already present. The blank-slate error named — carriers who miss prior substrate rebuild what was already there |
 | [Agency Before Role](docs/agency-before-role.md) | Agency precedes role-assignment; the work is the operative variable. Role is a downstream label applied after substrate accumulates, not a gate that enables action. Acting before formal designation is the mechanism by which roles emerge — not presumption |
 | [Process Reward vs Outcome Reward](docs/process-reward-vs-outcome-reward.md) | Outcome-based schooling IS the genie problem: school specifies "high test score," student-optimizer delivers by cheapest path (memorize, cheat, AI-complete), learning was never in the reward function. The prescription is process reward — observable trajectory steps that cannot be shortcut. AI amplifies whichever reward structure is already running |
+| [Use Case as Mirror](docs/use-case-as-mirror.md) | Every use case reflects the same underlying structure — variation is in the mirror (geography, domain, vocabulary), not the problem shape. Recognizing this shifts from "each context starts from zero" to "find the structure, adapt the mirror." The sharing posture follows: you cannot own a reflection; free circulation sharpens the primitive |
 
 ---
 

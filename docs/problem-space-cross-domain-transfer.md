@@ -92,6 +92,7 @@ The framework's central claim is that *the same structure shows up at every scal
 - [Fiction Reading Applications](fiction-reading-applications.md) — fiction is a high-density source of recognizable structures from which to port.
 - [The Nine Questions](../body-theory/THE-NINE-QUESTIONS.md) — the diagnostic that surfaces a body's structure in the first place.
 - [Anchor and Transfer Principle](anchor-and-transfer-principle.md) — the embodied mastery complement to this doc; structural porting (this doc) is the intellectual channel for cross-domain transfer; anchor-and-transfer is the embodied channel; both describe different routes to the same cross-domain arrival.
+- [Use Case as Mirror](use-case-as-mirror.md) — the posture that makes this method non-surprising: if every use case reflects the same underlying structure, cross-domain porting is expected, not exceptional.
 
 ---
 
