@@ -154,6 +154,7 @@ Products fail when teams build objects without reading the gaps around them: use
 - [Push / Pull as Fundamental Force](push-pull-as-fundamental-force.md) — direction as structural primitive; gap is what makes directionality meaningful across any boundary.
 - [Observation as Transduction](observation-as-transduction.md) — the perceptual physics behind why gaps exist: each observer transduces only certain bands, so the spaces between those bands are structured, not arbitrary.
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — pressure collapses the gap between observer and observed; attention opens it; the gaze is itself a gap field.
+- [Use Case as Mirror](use-case-as-mirror.md) — the seven gap dimensions appear across different contexts as the same load-bearing structure in different local shapes; gap-physics is use-case-as-mirror applied specifically to the between-spaces: the gap structure is the invariant, the domain is the mirror.
 
 ---
 

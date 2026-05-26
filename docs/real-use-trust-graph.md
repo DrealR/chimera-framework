@@ -54,6 +54,7 @@ The build operation is minimal: whenever a name appears in your substrate (a col
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — producing value where you are earns real-use trust; value-chasing severs you from the local graph; the community web forms around carriers who stay
 - [Observation as Transduction](observation-as-transduction.md) — naming real-use relationships is a transduction act; the invisible substrate (who you actually depend on) becomes visible signal; the trust graph is transduced substrate made navigable
 - [Agency Before Role](agency-before-role.md) — acting before role-assignment builds functional dependency, which is what real-use trust is made of; trust precedes formal role just as agency precedes formal role; the carrier who acts from capacity earns real-use trust in the process
+- [Use Case as Mirror](use-case-as-mirror.md) — trust built from genuine functional dependency holds the same structure at local-economy scale as at individual-relationship scale; real-use trust is use-case-as-mirror applied to the trust primitive: the structure is scale-invariant, reflecting across contexts.
 
 ---
 
