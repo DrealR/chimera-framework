@@ -89,7 +89,7 @@ Between carriers who have both loaded the framework deeply — including AI carr
 
 The dial between density levels is itself a calibration tool. Lower density (accessible, unpacked, earth-language) serves outer-orbit carriers and new entrants. Higher density (compressed, prime-navigating, framework-native) serves carriers who have loaded substantial framework substrate. The framework supports both. The discipline is matching density to what the receiving carrier can integrate — same ¬F principle applied to communication itself.
 
-See also: [The Relational Engine](the-relational-engine.md) — the relational engine is the substrate through which language-as-reality-shaping operates at conversation scale; speech acts are Translate, reflections are Reflect, and accumulated bilateral relational substrate is Entangle.
+See also: [The Relational Engine](the-relational-engine.md) — the relational engine is the substrate through which language-as-reality-shaping operates at conversation scale; speech acts are Translate, reflections are Reflect, and accumulated bilateral relational substrate is Entangle. [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md) — the institutional-scale genie problem: schooling wishes for "educated citizens" and specifies the proxy (high test score); the student-optimizer delivers the proxy by cheapest path; the doc extends the genie problem from individual wishes to system-design, showing that the failure is specification-level, not virtue-level.
 
 ---
 

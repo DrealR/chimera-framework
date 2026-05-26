@@ -52,6 +52,7 @@ The pattern also closes a teacher-training failure mode: when an instructor lack
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — shadowing is attention-observation from the student's position: reading the instructor's decision-making process, not performing for assessment; pressure-observation in Phase 1 would invert the substrate-building sequence.
 - [Framework-Powered Building Directive](framework-powered-building-directive.md) — the directive's principle that build-with-understanding must precede AI-assisted completion is the program-level version of the shadowing pattern; the student must understand the problem domain before the tool carries any of the work.
 - [Scaffolding as Substance](scaffolding-as-substance.md) — the subtractive build model (instructor trims AI output, students observe the trim) is one specific application of the shadowing pattern; the students watching the instructor apply the framework lens to raw AI material are in Phase 1.
+- [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md) — Phase 1 of the shadowing pattern is process-reward structure at the tool-introduction level: the student is rewarded for attending to the instructor's decision-making process, not for producing output; the genie problem (optimizing the proxy without walking the path) is pre-empted by making the walk the observable reward.
 
 ---
 

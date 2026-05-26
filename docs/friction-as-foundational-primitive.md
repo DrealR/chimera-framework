@@ -172,6 +172,7 @@ Tower → what Love's violation at scale produces
 - [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the teacher-student relationship is the canonical pedagogical application of ¬F: the teacher who calibrates friction to what the student can integrate is the operating instance of calibrated friction in learning; exceeding that capacity ruptures; dropping below it starves.
 - [Resonance Through Variance](resonance-through-variance.md) — ¬F as calibrated friction is the governing constraint for resonance; the pull-toward-sync is felt because friction is in the calibration zone (not zero, not rupture); optimal friction is exactly the pull-without-rupture condition.
 - [Anchor and Transfer Principle](anchor-and-transfer-principle.md) — calibrated friction is the mechanism by which Stage 1 mechanics dissolve into Stage 2 rhythm; ¬F operating correctly in the anchor stage is what makes rhythm-lock possible.
+- [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md) — outcome reward is ¬F violated at the curriculum-design level: the shortcut (memorize, AI-complete) has near-zero friction to the proxy target; process reward restores calibrated friction to the path, making the walk structurally necessary and shortcuts structurally irrelevant.
 
 ---
 
