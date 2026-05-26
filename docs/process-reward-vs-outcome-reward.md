@@ -38,6 +38,7 @@ The honest tension to hold: the same AI that lets a teacher read process across 
 - [The Shadowing Pattern](the-shadowing-pattern.md) — Phase 1 (shadowing the expert before touching the tool) is process-reward structure; the student is rewarded for attending to the instructor's decision-making process, not for producing output; substrate builds as a structural consequence.
 - [Friction as Foundational Primitive](friction-as-foundational-primitive.md) — outcome reward removes friction from the shortcut; process reward restores calibrated friction to the path; ¬F is not "no friction" but "friction calibrated to the body's current capacity to integrate"; shortcuts are ¬F violated at the curriculum-design level.
 - [Language as Reality-Shaping](language-as-reality-shaping.md) — the genie problem stated at the level of wishes and responsive bodies; schooling applies the same structure institutionally: the wish (graduate educated citizens) is specified as a proxy (high test scores), the responsive body (the student-optimizer) delivers the proxy by any available path.
+- [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the institutional failure named in this doc (outcome reward producing read-only attention by design) is the systemic obstacle to the skill this companion doc names; process reward creates the structural conditions under which the three moves for building write-access become possible.
 
 ---
 
