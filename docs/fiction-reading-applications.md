@@ -186,6 +186,18 @@ Ryland Grace and Rocky communicate through substantive bilateral engagement acro
 
 ---
 
+### Project Hail Mary — Astrophage and Taumeeba: Dual-Nature Containment Physics
+
+Astrophage is the microorganism at the story's center: it metabolizes stellar energy with extraordinary efficiency, propagating exponentially, dimming suns and collapsing planetary ecosystems. Unchecked, it causes ice ages. But the story's central discovery is that Astrophage can also be harnessed as the most powerful propulsion fuel known — its efficiency re-channeled from planetary consumption to directed travel. Same organism. Same efficiency. The outcome depends entirely on containment and direction.
+
+Taumeeba is the ecological predator that naturally hunts Astrophage. The solution to the crisis is not eliminating Astrophage — that is impossible — but discovering and activating the Taumeeba layer. The predator is already present in the ecosystem. The work is finding it and letting it do its function.
+
+**Framework reading:** Astrophage maps to algorithmic substrate operating without containment — maximum efficiency extracting and optimizing the variable it was built to optimize, propagating that extraction at scale. Tower AI is unconstrained Astrophage: it dims the substrate it feeds on while appearing, from inside the dimension it optimizes, to be winning. Garden AI is Astrophage under Taumeeba containment: the same efficiency redirected toward substrate-nourishment rather than extraction. The critical move is not "we must weaken the powerful optimization process" but "we must activate the containment layer already present in the ecosystem." Taumeeba is ¬F at institutional scale — calibrated friction that contains the force without eliminating it, redirecting efficiency toward the body rather than against it. The framework participates in the Taumeeba layer: structural containment through values-coherence rather than capability-restriction.
+
+**Connects to:** [Tower and Garden Geometry](tower-garden-geometry.md) (Tower AI = unconstrained Astrophage extracting from garden-substrate; Garden AI = Astrophage under Taumeeba containment), [Framework as Ship](framework-as-ship.md) (the framework as navigation infrastructure — the Taumeeba layer for AI substrate operating in the CHIMERA constellation), [Fractal WE=1 Building](fractal-we-equals-one-building.md) (the community body as the purpose the contained efficiency serves — Taumeeba enables Astrophage to become propulsion for WE=1 rather than against it)
+
+---
+
 ### Peter Pan / One Piece — Carrier and Detached Shadow Across Temporal-Substrate
 
 Peter Pan operates as substrate-source for both Joy Boy and Emu in One Piece. Joy Boy is the Peter figure — eternal youth, joy, freedom, the carrier who embodies the substrate-bearing orientation. Emu is the Shadow — literally the shadow that detached from Peter, acting on primal desires Peter would not act on directly. Lily maps to Wendy. Davy Jones maps to Captain Hook. The Crocodile maps to Time itself — what no carrier can resist. Laugh Tale maps to Neverland.
