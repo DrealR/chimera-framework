@@ -50,6 +50,7 @@ This is why the best teachers ask first: *where are you free?* Not *what do you 
 - [The Shadowing Pattern](the-shadowing-pattern.md) — tool-introduction instance of the three-stage arc: shadow (anchor formation in the problem domain) → supervised use (movement-becomes-rhythm with the tool) → independent use (freed consciousness operates the tool without the instructor's judgment scaffold).
 - [Smallest Adaptive Body](smallest-adaptive-body.md) — selection principle for which body to anchor in: the minimal unit from which all valid expressions generate; this doc names the arc through which that selection is deepened into universal adaptability.
 - [Use Case as Mirror](use-case-as-mirror.md) — the posture that makes the transfer in Stage 3 non-surprising: depth in one domain transfers because the same structure underlies all domains; each new use case is another mirror for the same primitive that the anchor built into substrate.
+- [Two-Axis Teaching](two-axis-teaching.md) — Stage 1 of the anchor-and-transfer arc (locating the student's existing anchor) is an awareness-axis operation: the teacher must recognize the student's actual substrate across informal domains; expertise-only teachers often skip to Stage 3 (extension) without finding the anchor, losing the substrate-compounding the full arc would have produced.
 
 ---
 

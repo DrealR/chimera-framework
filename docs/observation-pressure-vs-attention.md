@@ -63,6 +63,7 @@ This arc is not unique to teaching. It is the standard arc in any pair-physics w
 - [The Shadowing Pattern](the-shadowing-pattern.md) — Phase 1 shadowing is attention-observation from the student's position: reading the instructor's decision-making process, not performing for a test; the sequence keeps pressure-observation out of the substrate-building phase.
 - [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md) — the genie problem applied to institutional design; pressure-observation is the gaze-level instance of the same structural failure (metric becomes target); this doc treats the reward-function specification problem at curriculum-design scale.
 - [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the self-observation endpoint named in this doc (bottom-right quadrant: student observing their own work without external eyes) is the state where write-access to one's own attention has been fully achieved; the teaching arc this doc describes is the social structure for developing that individual skill.
+- [Two-Axis Teaching](two-axis-teaching.md) — attention-observation (gaze directed at where the student actually is) is the awareness axis in the moment-by-moment teaching encounter; pressure-observation (gaze directed at the performance metric) is what expertise without awareness defaults to when the teacher's reference point is the domain rather than the student; the two-axis model explains structurally why pressure-observation is the expert's default.
 
 ---
 
