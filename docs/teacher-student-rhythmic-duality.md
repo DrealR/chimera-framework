@@ -63,6 +63,7 @@ The same corollary points at where a body should direct its attention when it be
 - [Anchor-and-Transfer Principle](anchor-and-transfer-principle.md) — the mastery arc the teacher scaffolds: anchor → movement-becomes-rhythm → freed consciousness transfers to new domains; the teacher's job is locating the student's existing anchors and extending from them.
 - [Derivative Principle](derivative-principle.md) — explains why the teacher's first move (locate where the student is already free) almost always finds something: informal practice builds substrate before formal naming arrives; recognition is the derivation operation.
 - [The Shadowing Pattern](the-shadowing-pattern.md) — the instructor's Phase 1 role (operating the tool while students observe the judgment process) is build-alongside from the teacher pole; the three-phase arc (shadow → supervised → independent) is how the teacher-student duality closes in a tool-introduction context.
+- [Two-Axis Teaching](two-axis-teaching.md) — names the two axes the teacher-pole must carry: expertise (mastery within a domain) and awareness (relational vision across domains); the threshold shift from student-pole to teacher-pole can occur on expertise alone, but the teaching relationship is incomplete without awareness; the structural scarcity of good teachers is a scarcity of the awareness axis, not the expertise axis.
 
 ---
 
