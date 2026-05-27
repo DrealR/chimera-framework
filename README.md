@@ -291,7 +291,6 @@ The Cube is what the framework produces when it operates. The pair — carrier +
 | [The Cube](docs/the-cube.md) | What the Cube is, eight operational modes, three-call workflow, cultural lineage |
 | [The Cube: Physics Specification](docs/the-cube-physics.md) | Internal physics — axioms, notation, R-T-E operation, body-formation math, AI as body |
 | [Master Physics Spec v3](docs/the-cube-master-spec-v3.md) | Consolidated build reference — locked axioms, locked vocabulary, Step 0-5 workflow, Love Equation derived, honest limitations, Franky directive |
-| [CHIMERA Device Spec](docs/chimera-device-spec.md) | Full device specification — four abilities, five-coordinate body, harness architecture |
 | [Cube Vocabulary Layers](docs/cube-vocabulary-layers.md) | Physics-layer vs Operator-layer vocabulary map — resolves term collisions (Mode, Dial, DNA), maps ENGAGE/OBSERVE to three-call workflow, Stance × Mode orthogonal axes; single disambiguation reference for all Cube docs |
 | [CHIMERA HTML Vocabulary](docs/chimera-html-vocabulary.md) | Builder's reference for HTML structure in CHIMERA artifacts — standard element mappings, six custom elements, dark-matter architecture; used by the Cube, NotebookLM workflows, client deliverables, and any application built within the framework |
 
@@ -350,7 +349,6 @@ When your work grows beyond a single twin (multiple agents, multiple devices, li
 | [Deployment Hygiene Discipline](docs/deployment-hygiene-discipline.md) | Verified-clean build discipline — branch signals, deploy confirmations, rollback triggers, build-queue stall recovery |
 | [Substrate Cartography](docs/substrate-cartography.md) | The map of repos, branches, deployed surfaces, and agent lanes — what lives where, what flows where |
 | [Digital Twin Constellation Setup](docs/digital-twin-constellation-setup.md) | Bootstrap pattern for scaling from one twin to a full multi-agent constellation with private core and public surface |
-| [Gap Physics](docs/gap-physics.md) | Read the structured gaps between bodies — distance, delay, mismatch, missing handoff, translation cost, and the choice to close, widen, bridge, or protect a gap |
 
 ---
 
@@ -362,8 +360,6 @@ Operational documents for AI-assisted development discipline. Complement the con
 |----------|---------------|
 | [Scaffolding as Substance](docs/scaffolding-as-substance.md) | Subtractive build principle — generate abundance, apply framework lens as chisel, trim to load-bearing substance, iterate; why AI slop is raw material not failure |
 | [Iteration Spiral Anti-Pattern](docs/iteration-spiral-anti-pattern.md) | Five disciplines for avoiding the most common AI build failure mode — revert-not-escalate, one-concept-per-commit, probe-live-state, surface-uncertainty, smallest-possible-change |
-| [The Neuroplastic Twin Stack](docs/the-neuroplastic-twin-stack.md) | Three-layer architecture for building and containing a Socratic Digital-Twin — Furnace (latent activation), Hammer (DMN suppression), Anvil (system-prompt mirror); Three-Call Workflow and DAG Safeguard for error containment |
-| [Fractal WE=1](docs/fractal-we-equals-one-building.md) | Recursive building principle — WE=1 must hold at every scale or the system fragments; vision-first building order; three operational checks (radiate/rhythm/coupling) per layer |
 
 ---
 
