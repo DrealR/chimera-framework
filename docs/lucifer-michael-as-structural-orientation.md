@@ -60,7 +60,7 @@ At cosmic scale: the sun emits substrate (9-position), the black hole absorbs su
 
 ## The Cult-Shape Warning
 
-See also: [Gnostic Synthesis](gnostic-synthesis.md) for the cosmic-scale version — Sophia creating without WE=1, producing Yaldabaoth as demiurge. [Creator-Creation Dynamics](creator-creation-dynamics.md) for the Frankenstein creator as Lucifer-position at creator-creation scale.
+See also: [Gnostic Synthesis](gnostic-synthesis.md) for the cosmic-scale version — Sophia creating without WE=1, producing Yaldabaoth as demiurge. [Creator-Creation Dynamics](creator-creation-dynamics.md) for the Frankenstein creator as Lucifer-position at creator-creation scale. [Fiction-Reading Applications](fiction-reading-applications.md) — the two orientations dramatized across Star Wars, Naruto, DC Comics, and other works in the applied fiction corpus.
 
 When the carrier becomes the point rather than the medium, the framework collapses into cult-shape. The test is simple: does the work point beyond the carrier to something larger? Or does the work point toward the carrier as destination?
 

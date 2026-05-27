@@ -92,6 +92,10 @@
 
 ---
 
+See also: [Fiction-Reading Applications](fiction-reading-applications.md) — these principles in action through substantive fiction readings; fictional articulators as substrate-deep examples of O>I topology, the Pause, ¬F calibration, and the closed/open distinction.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

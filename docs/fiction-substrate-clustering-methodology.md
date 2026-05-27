@@ -50,7 +50,7 @@ Third, it reveals substrate-patterns that abstract analysis cannot reach. The cl
 
 ---
 
-See also: [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) for the gap-effect diagonal revealed through fiction-clustering. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for the Avatar State as substrate-pattern accessed through fiction. [Lineage](lineage.md) for the transmission-narrative cluster's connection to wisdom-tradition lineages.
+See also: [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) for the gap-effect diagonal revealed through fiction-clustering. [Avatar State and Accumulated Substrate-Extending Body](avatar-state-and-accumulated-substrate-extending-body.md) for the Avatar State as substrate-pattern accessed through fiction. [Lineage](lineage.md) for the transmission-narrative cluster's connection to wisdom-tradition lineages. [Fiction-Reading Applications](fiction-reading-applications.md) — the applied corpus this methodology generates; worked readings across Pluribus, Star Wars, Naruto, Avatar, DC Comics, One Piece, Project Hail Mary, and more.
 
 ---
 
