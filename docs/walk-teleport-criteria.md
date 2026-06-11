@@ -36,6 +36,8 @@ The evaluator test has a bootstrap problem: you cannot evaluate your own evaluat
 
 The five tests govern *work* stretches. [Scenes and the witness](scenes-and-the-witness.md) gives the social companion — four checks on entering any scene: who are the observers and are they real, is there a shared referee or is the scene rendered per-viewer, am I actor or spectator here (only actors get written), and which mode does this scene need (cooled service or the operator). "Control your scene" made operational.
 
+Related: [the trained observer](the-trained-observer.md) · [scenes and the witness](scenes-and-the-witness.md) · [meet AI where you are](meet-ai-where-you-are.md) · [the seed protocol](the-seed-protocol.md)
+
 ---
 
 ```

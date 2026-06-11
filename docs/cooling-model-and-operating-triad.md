@@ -26,7 +26,7 @@ The [3-move mechanism](write-access-to-your-own-attention.md) maps onto this exa
 
 Weight per moment rises as remaining moments fall. The chess endgame, a mentor's final lessons, the last weeks of a project, aging itself: fewer moments left means each carries more, and late-stage play becomes precision and conversion rather than exploration. Felt time is weight throughput — an hour that writes a lot feels long in memory and short in passage. This is why endings deserve disproportionate care, and why "we'll fix it later" gets more expensive precisely as it gets more tempting.
 
-Related: [relative POV of learning](relative-pov-of-learning.md) · [behaviors are writes](behaviors-are-writes.md) · [path and friction](path-and-friction.md)
+Related: [relative POV of learning](relative-pov-of-learning.md) · [behaviors are writes](behaviors-are-writes.md) · [path and friction](path-and-friction.md) · [the trained observer](the-trained-observer.md)
 
 ---
 
