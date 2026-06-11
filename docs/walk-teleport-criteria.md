@@ -32,6 +32,10 @@ Four questions, one per pocket: *Will this road make me stronger? Will I see thi
 
 The evaluator test has a bootstrap problem: you cannot evaluate your own evaluator from inside it. The patch is external calibration — reality (does the build stand), other walkers (do they catch what you missed), real load (does the kid actually use it). This is the deepest function of the relationship criterion, and it is why shipping ([the seed protocol](the-seed-protocol.md), move four) is part of the epistemics, not just the delivery. See also [meet AI where you are](meet-ai-where-you-are.md) for the altitude version of the evaluator rule.
 
+## The scene version
+
+The five tests govern *work* stretches. [Scenes and the witness](scenes-and-the-witness.md) gives the social companion — four checks on entering any scene: who are the observers and are they real, is there a shared referee or is the scene rendered per-viewer, am I actor or spectator here (only actors get written), and which mode does this scene need (cooled service or the operator). "Control your scene" made operational.
+
 ---
 
 ```
