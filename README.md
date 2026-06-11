@@ -364,6 +364,33 @@ Operational documents for AI-assisted development discipline. Complement the con
 
 ---
 
+## The Walk/Teleport Layer — Identity, Friction, and Building With AI
+
+A coherent cluster added from roughly a month of walked material (guitar, the park, SPARK, the literacy crisis, myth/storage research). It answers the AI era's central question — *is the thing the machine built mine?* — mechanically, and gives the decision tool, the build protocol, and the failure modes around it. Start with the **[Boot Seed](BOOT-SEED.md)** (the portable, paste-anywhere front end), then:
+
+| Document | What It Covers |
+|----------|---------------|
+| [The Two Roots](docs/the-two-roots.md) | Most deep problems are *identity-through-transformation* or *traversal* in costume; teleportation is their collision; AI work is a teleportation event |
+| [Question-Distance vs Answer-Distance](docs/question-distance-vs-answer-distance.md) | Distance is measured in solution survival, not question recognition; the gap between the two is the work to be walked |
+| [Identity Is the Residue of Walked Paths](docs/identity-as-residue-of-walked-paths.md) | Writes happen in friction; zero friction = zero write surface; the danger is laundering open problems as closed |
+| [The Walk/Teleport Criteria](docs/walk-teleport-criteria.md) | The decision tool — five tests (residue, recurrence, openness, evaluator, relationship) + two guards; the human/AI ratio is an output, never an input |
+| [The Seed Protocol](docs/the-seed-protocol.md) | The build protocol — split the path, walk the open stretches first (the seed/continuity carrier), teleport the closed ones with the evaluator live, ship to cool; plus the aliveness test |
+| [Meet AI Where You're At](docs/meet-ai-where-you-are.md) | The altitude axis — capability may exceed your level only where evaluation doesn't; level is a climb rate, not an altitude |
+| [The Firewall](docs/the-firewall.md) | The promotion gate — a connection earns its place only by producing a decision/number/move/build step; the two failure modes; how it overfires |
+| [The Cooling Model & Operating Triad](docs/cooling-model-and-operating-triad.md) | Field / Denominator / Operator; belief = learning that cooled; time is the cooling medium; weight density |
+| [Behaviors Are Writes](docs/behaviors-are-writes.md) | Every action writes the actor's own weights; identity is the behavioral pattern (the 4,000-year-old judgment-scene anchor) |
+| [Relative POV of Learning](docs/relative-pov-of-learning.md) | Expertise is a collapsed gap; the master is the worst time-estimator; good teaching refuses to teleport from its own frame |
+| [Antenna vs Storage](docs/antenna-vs-storage.md) | The stack collapsed search cost; thinking is combinatorial over what's *loaded*; the daily-retrieval rebuild; SPARK as a compounding-restoration program |
+| [Myth as Storage / Constraint as Error Correction](docs/myth-as-storage.md) | Meter and rhyme are checksums; how oral traditions beat a channel whose every node rewrites; the feed as constraints-stripped maximal-mutation; Phonix as a checksum workshop |
+| [Two-Layer Absorption](docs/two-layer-absorption.md) | Grade the claim by the world, the weighting by the walker's path; origin does not grade truth |
+| [Speedrunning Life](docs/speedrunning-life.md) | The goal-chaser's emptiness mechanically explained; "know what the friction is for," not "don't cheat" |
+| ["No Coincidences" Correction](docs/no-coincidences-correction.md) | True of threads, unearned of weight; selection effects manufacture hits; the marksman painting the target |
+| [The Failure-Mode Specimen Drawer](docs/failure-mode-specimen-drawer.md) | Wild-caught literal jumps and borrowed credibility, plus a logged case of the firewall overfiring |
+| [Experience vs Ontology](docs/experience-vs-ontology.md) | An altered state can't certify its own realm (the instrument is being modified); judge by the writes it leaves |
+| [Guitar Proofs Ledger](docs/guitar-proofs-ledger.md) | The G-to-B seam (hunt any domain's seam); the open-strings-aren't-one-E correction |
+
+---
+
 ## Key Principles
 
 **The Pause:** The gap between stimulus and response where free will lives. The Observer beneath thought. Consciousness's unhackable quality.

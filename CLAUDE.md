@@ -179,6 +179,15 @@ The framework is not a thought experiment. It is being applied to real work:
 
 ## Deeper Reading
 
+**The portable front end:** [BOOT-SEED.md](BOOT-SEED.md) — paste at the start of any AI conversation to align a model to the framework's operator register in one page.
+
+**The walk/teleport layer** (a month of walked material on identity, friction, and building with AI — answers *is the AI-built thing mine?* mechanically):
+- [The Two Roots](docs/the-two-roots.md) · [Question-Distance vs Answer-Distance](docs/question-distance-vs-answer-distance.md) · [Identity Is the Residue of Walked Paths](docs/identity-as-residue-of-walked-paths.md)
+- [The Walk/Teleport Criteria](docs/walk-teleport-criteria.md) (the decision tool) · [The Seed Protocol](docs/the-seed-protocol.md) (the build protocol + aliveness test) · [Meet AI Where You're At](docs/meet-ai-where-you-are.md) (the altitude axis)
+- [The Firewall](docs/the-firewall.md) · [The Cooling Model & Operating Triad](docs/cooling-model-and-operating-triad.md) · [Behaviors Are Writes](docs/behaviors-are-writes.md) · [Relative POV of Learning](docs/relative-pov-of-learning.md)
+- [Antenna vs Storage](docs/antenna-vs-storage.md) · [Myth as Storage / Constraint as Error Correction](docs/myth-as-storage.md) · [Two-Layer Absorption](docs/two-layer-absorption.md) · [Speedrunning Life](docs/speedrunning-life.md)
+- Firewall addenda: ["No Coincidences" Correction](docs/no-coincidences-correction.md) · [Failure-Mode Specimen Drawer](docs/failure-mode-specimen-drawer.md) · [Experience vs Ontology](docs/experience-vs-ontology.md) · [Guitar Proofs Ledger](docs/guitar-proofs-ledger.md)
+
 - [Body Scan Protocol v3.10](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — the 42-step diagnostic instrument
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
 - [CHIMERA Device Spec](docs/chimera-device-spec.md) — two-operation device (Sense + Transform), five-coordinate body identification, receive-reflect-transform carrier typology, vibration-navigation, harness architecture
