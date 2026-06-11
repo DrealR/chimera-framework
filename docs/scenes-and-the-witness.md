@@ -46,6 +46,21 @@ Folds into the [walk/teleport criteria](walk-teleport-criteria.md) as the scene'
 
 That is "control your scene" made operational.
 
+## The greeting (the minimum scene)
+
+A *hi* to a passing stranger is the minimum unit of scene-creation. Two people passing are two solo stories; the greeting converts them into a shared scene for one second, with both parties actor and witness simultaneously. And it writes both directions at once: your rep cools friendliness into your natural state, and it lands in their day as a small unearned gift — the [Love Equation](../body-theory/LOVE-EQUATION.md) at its smallest denomination, O > I for one breath, no transaction, nothing wanted back. Two hundred of those a month is a compounding program on your own character that leaks small good into the neighborhood as a byproduct. The whole framework at minimum viable scale.
+
+## Character mistakes vs skill mistakes (the split that keeps the courage)
+
+The recorded age makes every act re-enterable by observers arriving from futures with different rules — the [async scene](#the-async-break-a-second-separate-cut) extended in time, the judgment scene gone ambient. The correct response is not *performing safety* — it's **cooling goodness until it's unconscious**, so the version of you stamped at any random moment is just the real one. Character as the only viable privacy strategy.
+
+But one split must stay crisp or the internet-fear quietly eats the [park courage](the-trained-observer.md): **character mistakes and skill mistakes are different species, and only one belongs in private.**
+
+- *How you treat people* — cool that at home, in the scenes that close, so the public stamp catches a finished thing.
+- *Fumbled chords in front of strangers* are **not** mistakes in that sense — they're the [witness-gradient](the-trained-observer.md) running as designed. Performing slightly before ready is the learning accelerant; the crowd forgives an honest reach. So **walk skills hot in public, on purpose, forever.** Keep only the character work behind closed doors.
+
+If "be good every moment" ever starts to mean "be safe every moment," it has become a different rule wearing the first one's clothes. And a grace note the framework owes itself: *"one bad thing ruins all the good"* is how the **feed** judges — frozen planks, no carrier — not how the [judgment scene](behaviors-are-writes.md) works, where the heart is weighed whole and the question is what you did *after.* Don't let the internet's broken memory become your internal witness's standard. The forty-two assessors keep better books than the comment section.
+
 ## Witness architecture
 
 If witnessed writes are deeper than solo writes, then **the choice of observers is a write-access decision** — who you let watch you is partly who you become. This turns *vicinity* (from the three-eras work) from inherited to **cast**: an architecture you author. Six witness types, each writing a different thing:

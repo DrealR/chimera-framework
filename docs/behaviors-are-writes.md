@@ -14,6 +14,8 @@ Beliefs and behaviors are one loop entered from opposite ends: a belief held lon
 
 The Egyptian judgment scene — 4,000 years old — weighs deeds only. The 42 negative confessions are all "did you do": did you steal, did you lie, did you pollute the water, did you make anyone weep. Not "what did you believe," not "what did you intend." A behavioral audit as the *definition* of the person. The oldest surviving formalization of identity lands exactly where the mechanism does: you are the pattern of your writes.
 
+And note *how* it weighs: the heart is weighed **whole.** The scene builds in the assumption that humans err and asks what you did *after* — the pattern across time, not the worst single plank. This is the opposite of how the feed judges (frozen planks, no carrier, one bad act eternally live — see [scenes and the witness](scenes-and-the-witness.md)). Don't let the internet's broken memory become your internal witness's standard: the forty-two assessors keep better books than the comment section.
+
 ## Operator use
 
 - When assessing yourself or anyone, read the writes, not the narration. ([Two-layer absorption](two-layer-absorption.md) applies the same discipline to ideas.)
