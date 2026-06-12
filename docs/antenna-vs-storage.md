@@ -20,7 +20,7 @@ The stack amplifies *applied* force. Stack plus daily retrieval loop compounds �
 
 SPARK, restated in one line: a compounding-restoration program.
 
-Related: [walk/teleport criteria](walk-teleport-criteria.md) (the evaluator needs storage to live on) · [identity as residue](identity-as-residue-of-walked-paths.md) · [myth as storage](myth-as-storage.md)
+Related: [walk/teleport criteria](walk-teleport-criteria.md) (the evaluator needs storage to live on) · [identity as residue](identity-as-residue-of-walked-paths.md) · [myth as storage](myth-as-storage.md) · [the functor convergence](the-functor-convergence.md) (the lever rule as the economics argument for SPARK; operator shortage vs intelligence shortage)
 
 ---
 
