@@ -41,7 +41,7 @@ Hollow bodies fail all three the same way: no center because nothing was refused
 
 Next build: write the seed by hand before opening anything. One page — center, refusals, feel, seam. Time it. Then count what fraction of the whole build that hour was versus the teleported rest, and check the output against the aliveness test. If the seeded build feels different in your hands than the unseeded ones, the protocol has weight. If not, revise it. The proof is never the map; it's the build.
 
-Related: [walk/teleport criteria](walk-teleport-criteria.md) · [meet AI where you are](meet-ai-where-you-are.md) · [identity as residue](identity-as-residue-of-walked-paths.md)
+Related: [walk/teleport criteria](walk-teleport-criteria.md) · [meet AI where you are](meet-ai-where-you-are.md) · [identity as residue](identity-as-residue-of-walked-paths.md) · [the functor convergence](the-functor-convergence.md)
 
 ---
 

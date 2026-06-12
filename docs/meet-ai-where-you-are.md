@@ -24,7 +24,7 @@ From the Theseus correction: slow plank-by-plank replacement preserves identity,
 
 So transformation has a **maximum safe speed.** Exceed it and even gradual-looking change becomes teleportation in chunks. The real variable under "meet it where you're at" is therefore the **metabolization rate** — your level isn't a fixed altitude you occupy, it's a *climb rate* you can sustain. Push the machine faster than you can metabolize what it returns and you're teleporting regardless of how incremental it looks on the surface.
 
-Related: [the seed protocol](the-seed-protocol.md) · [relative POV of learning](relative-pov-of-learning.md) · [cooling model](cooling-model-and-operating-triad.md) · [pain typology](pain-typology.md) · [the trained observer](the-trained-observer.md)
+Related: [the seed protocol](the-seed-protocol.md) · [relative POV of learning](relative-pov-of-learning.md) · [cooling model](cooling-model-and-operating-triad.md) · [pain typology](pain-typology.md) · [the trained observer](the-trained-observer.md) · [the functor convergence](the-functor-convergence.md)
 
 ---
 
