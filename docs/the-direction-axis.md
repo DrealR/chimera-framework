@@ -71,6 +71,7 @@ Every extraction story's answer is **not defense — it is generosity:** pointin
 - [Don't Chase Value, Produce Value](dont-chase-value-produce-value.md) — chasing is the inward orientation (attention on the self's acquisition); producing is the outward orientation (attention on what the act gives the field). Minimalism is the engineering that frees the operator to produce.
 - [Observation as Transduction](observation-as-transduction.md) — observation is the act that weights a field; the Direction Axis specifies that the *direction* of that weighting (toward self vs toward field) is what determines whether the transduction generates or extracts.
 - [Mortality as Gift](mortality-as-gift.md) — starlight as a walked path still arriving (a dead source in genuine present-tense contact) is the outward orientation across time: the transmission was emitted to be received, not hoarded; the brightest stars are the truths emitted nearest the universal human center.
+- [Attention Primitives: Capture, Direction, and Occupancy](attention-primitives-capture-occupancy.md) — the micro-mechanics of how capture-state and occupancy interact with the directional facing; names all three native properties of the attention organ so the Direction Axis can be seen as training the whole organ at once, not just the facing.
 
 ---
 

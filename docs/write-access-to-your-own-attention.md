@@ -47,6 +47,7 @@ The institutional prescription is process reward — structuring observable traj
 - [Agency Before Role](agency-before-role.md) — the same self-determination principle applied at a different layer: agency-before-role names it at the level of formal designation; this doc names it at the level of internal substrate threading.
 - [The Shadowing Pattern](the-shadowing-pattern.md) — the Shadow → Interrogate → Drive arc is the pedagogical instantiation of the three moves applied to tool introduction; shadowing = Move 1 (observing expert decision-making, seeing the thread); interrogating = Move 2 (testing under load); driving = Move 3 (building independently with the skill now load-bearing).
 - [Two-Axis Teaching](two-axis-teaching.md) — the awareness axis is the teacher equivalent of write-access: the ability to redirect attention from what the domain demands toward what the student actually needs; expertise-only teaching is read-only attention (the domain's logic runs the session); awareness-equipped teaching is write-access (the teacher can override the domain's default trajectory to meet the student where they are).
+- [Attention Primitives: Capture, Direction, and Occupancy](attention-primitives-capture-occupancy.md) — names the organ's three native properties (direction, capture-state, occupancy) that the three moves are actually training simultaneously; shows why Move 1 requires occupancy tolerance, Move 2 is capture override under load, and Move 3 (anchoring) is the new thread cooling into a default through repeated outward occupation.
 
 ---
 
