@@ -40,6 +40,7 @@ The institutional prescription is process reward — structuring observable traj
 
 ## See Also
 
+- [Attention's Three Properties](attention-three-properties.md) — this doc names *how* the organ is trained (the three moves); the three-properties doc names *what* gets trained: direction, capture-resistance, and occupancy-tolerance, with modulation (an intensity dial) added to steering.
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — self-observation (the bottom-right quadrant, endpoint of the teaching arc) is the state where write-access has been fully achieved; the teaching arc this doc describes is the social structure for developing this individual skill.
 - [Gap Physics](gap-physics.md) — the Pause is the structural gap where write-access operates; without a gap between stimulus and response, the installed thread fires automatically and Move 1 cannot run; write-access is the skill of keeping that gap open and using it deliberately.
 - [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md) — outcome-rewarded systems are the institutional mechanism that produces read-only attention at scale; process reward creates the structural conditions under which the three moves become possible.

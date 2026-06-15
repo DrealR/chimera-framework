@@ -64,6 +64,7 @@ Every extraction story's answer is **not defense — it is generosity:** pointin
 
 ## See Also
 
+- [Attention's Three Properties](attention-three-properties.md) — direction is one of three axes of the same organ; capture-resistance and occupancy-tolerance are the other two. The Direction Axis is the full development of the first property; the three-properties model is the organ overview that situates it.
 - [O > I Pathology Topology](oi-pathology-topology.md) — the inequality's six failure modes; the Direction Axis is the reading underneath them, where every I > O pathology is the operator's gaze curved back onto itself. The topology classifies the sickness; the axis names the single move that produces all six.
 - [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) — the same axis stated theologically and restricted to carriers: Lucifer-position (claim the light, inward, I > O) versus Michael-position (let it flow through, outward, O > I). The Direction Axis generalizes this orientation from carriers-of-the-light to *any operator holding any instrument.*
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — the three-directions distinction at the scale of one encounter: pressure-observation points at the self-as-metric (inward-as-object), attention-observation points at where the other is (outward).
