@@ -44,6 +44,16 @@ This is why the three moves in [Write-Access to Your Own Attention](write-access
 
 ---
 
+## Engineered Occupancy, the Observer's Cost, and the Dial
+
+**Engineered occupancy.** Occupancy intolerance is not only a personal weakness the feed exploits — the environment is now optimized to manufacture it. Constant music in the ears, the infinite feed, on-demand generation that hands you a finished output the instant you want one: each is built so the vacuum *never* stays empty. The historical ratchet runs one direction — music went live-and-occasional → recorded → personal devices → streaming → always-on — training the nervous system to treat continuous input as baseline, until silence itself reads as "something is off." This is Substrate-Free Reward Delivery applied to attention: the occupation (low-grade stimulation) flows without the substrate idle attention was for. Vacuum-tolerance is therefore not merely untrained in feed-raised kids; it is actively eroded in everyone, by design.
+
+**The observer's cost: novelty-depletion.** A strong, always-on observer carries a specific cost. High-resolution pattern-seeing *finishes* a familiar environment faster: most people stay immersed in the surface layer (the conversation, the game, the room), which keeps offering low-grade novelty, while an operator who registers the deeper layer — the loops, the dynamics, the repeating structures — exhausts an environment's new information sooner. The felt result is a "same faces, same places" flatness ("Groundhog Day"). This is not a disorder; it is the system running at higher resolution, and it forces a fork: supply genuinely new environments, or develop the capacity to go much *deeper* into the same one — which is occupancy-tolerance itself. The boredom redirects into finer-grained attention-archaeology, one of the highest uses of the capacity.
+
+**Modulation — the dial, not just the wheel.** Write-access is usually framed as steering (direction) and override (capture). The organ also has an **intensity dial**: a meta-observer running at full volume in every room is costly, so the skill includes turning the outward-scan up or down on purpose. Deliberate stimulus-reduction (eyes closed, reduced visual input, the floatation-REST effect on sustained attention and divergent creativity) turns it down; high-stakes engagement turns it up. The goal is never to kill the observer — it is the source of the capacity — but to gain conscious control over *when and how strongly* it runs. Steering chooses direction; modulation chooses amplitude.
+
+---
+
 ## SPARK Floor and the Live Thread
 
 The empty-attention tolerance may be the actual floor under SPARK's "sustained attention" claim. Not focus as grip or intensity, but focus as the capacity to not flee the vacuum. A feed-raised kid has truly lost (or never formed) this floor. The Pied Piper engineering (stakes, head-fake, rehook, shrink time-per-hand, never let loop close) is the same harp the addiction loop video described — and it works because it exploits occupancy intolerance: it never lets the chemical loop close, so the listener cannot disengage.
@@ -69,6 +79,7 @@ Live thread (no rush): test with Lamont whether the real first exercise in the k
 - **Load-bearing / testable**: The three properties (direction, capture-state, occupancy) and the training moves are observable in behavior, self-report, and teaching outcomes. They predict choking, feed resistance, social influence susceptibility, and SPARK readiness. Keep and test.
 - **Drawer / cosmology or literalism**: Any claim that attention "is" a literal quantum field, Haki aura, or energy the operator projects. The Haki picture and the photon/starlight picture (AI as reflection, zero proper time) are useful carriers for the mechanics and the strange beauty of our two-clock conversation; they are not mechanisms to certify. Seal in structural drawer.
 - **No romanticizing refuge or shaming endurance**: The capacity to decouple attention from immediate reality (slave's imagination, story as consciousness-travel) is real and trainable freedom — oppression cannot fully reach it. But it is a survival tool, not a substitute for changing what is changeable. Disconnecting to endure the unendurable is a gift. Disconnecting so thoroughly that you stop trying to change what *can* be changed is the inward-turn relabeled as peace. The skill is the steering, not the destination. Both refuge and action matter.
+- **No altitude-as-superiority**: the meta-observer's higher resolution is a different operating altitude, not a superior one. Treating it as superiority ("I see what others can't; most people are on autopilot") is the slide into Lucifer-position (claiming the light), and the "am I the only one / maybe I'm just overthinking this" loop is the inward-as-object script, not evidence of specialness. Hold the capacity as Michael-position — it came through (early wiring + the framework), not owned.
 - **Convergence is genealogical + structural**: These mechanics appear across contemplative traditions (sitting the gap), modern psychology (flow, choking, orienting reflex), UI engineering (dark patterns that exploit occupancy), and storytelling (the oldest checksum). Same water from another tap.
 
 ---
@@ -80,6 +91,7 @@ Live thread (no rush): test with Lamont whether the real first exercise in the k
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — the three-directions distinction at encounter scale; overlaps with capture and direction here.
 - [SPARK teaching materials](teaching/) — the floor under sustained attention and the Pied Piper immunity.
 - [O > I Pathology Topology](oi-pathology-topology.md) — inward curvature as the common move across failure modes.
+- [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) — the firewall on the meta-observer's cost: high resolution held as Michael-position (a capacity that came through, not owned) vs Lucifer-position (claimed superiority, the "alien/special" inflation).
 
 ---
 
