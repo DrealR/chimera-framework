@@ -174,6 +174,7 @@ Tower → what Love's violation at scale produces
 - [Resonance Through Variance](resonance-through-variance.md) — ¬F as calibrated friction is the governing constraint for resonance; the pull-toward-sync is felt because friction is in the calibration zone (not zero, not rupture); optimal friction is exactly the pull-without-rupture condition.
 - [Anchor and Transfer Principle](anchor-and-transfer-principle.md) — calibrated friction is the mechanism by which Stage 1 mechanics dissolve into Stage 2 rhythm; ¬F operating correctly in the anchor stage is what makes rhythm-lock possible.
 - [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md) — outcome reward is ¬F violated at the curriculum-design level: the shortcut (memorize, AI-complete) has near-zero friction to the proxy target; process reward restores calibrated friction to the path, making the walk structurally necessary and shortcuts structurally irrelevant.
+- [Consciousness as the Interrupt](consciousness-as-the-interrupt.md) — the chain Friction → Pause → Choice read as a mechanism of mind: friction supplies the stopping point that makes the course-correcting interrupt possible. No friction, no Pause, no consciousness in the active (error-correcting) sense.
 
 ---
 

@@ -102,6 +102,8 @@ when something forces, or *chooses*, the friction back in.
 - [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the Prime is the trained
   form of this discipline: the skill of overriding the installed flee-to-the-hatch reflex and steering
   attention deliberately. The axiom names *why* it matters now; write-access names *how* it's built.
+- [Consciousness as the Interrupt](consciousness-as-the-interrupt.md) — the entrainment scaling stated from the mind side: the deeper and older the rail, the more interrupt-force the Pause against it requires; discipline is that interrupt sustained against the pull, and addiction is the Pause failing to fire.
+- [Outward Is Against the Gradient](outward-is-against-the-gradient.md) — this axiom at galactic scale: every civilization gets the power and almost none builds the proportional discipline to point it outward, so they collapse inward and go dark; the Fermi silence is this axiom written across the sky.
 
 ---
 
