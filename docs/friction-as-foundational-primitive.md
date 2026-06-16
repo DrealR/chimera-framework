@@ -167,6 +167,7 @@ Tower → what Love's violation at scale produces
 ## See Also
 
 - [Rate Mismatch as a Structural Primitive](rate-mismatch-as-primitive.md) — buffers slowing load arrival IS friction in the constructive sense; when load rate exceeds buffer clearance rate, the friction that was protecting the system becomes extraction.
+- [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the friction necessity used to supply is what installed self-discipline as a free byproduct of being alive; a frictionless, always-on environment removes that necessity, so the discipline must now be built on purpose. The escape hatch is calibrated friction removed at the level of a human life.
 - [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) — ¬F at maximum-scale: weapons development is the domain where calibrated friction is most structurally visible because consequence-distance (gap-effect) is greatest.
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — pressure-observation is ¬F violated at the gaze level; attention-observation is the form of gaze that honors channel capacity.
 - [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md) — the teacher-student relationship is the canonical pedagogical application of ¬F: the teacher who calibrates friction to what the student can integrate is the operating instance of calibrated friction in learning; exceeding that capacity ruptures; dropping below it starves.
