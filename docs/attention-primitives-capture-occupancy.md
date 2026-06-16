@@ -93,6 +93,7 @@ Live thread (no rush): test with Lamont whether the real first exercise in the k
 - [SPARK teaching materials](teaching/) — the floor under sustained attention and the Pied Piper immunity.
 - [O > I Pathology Topology](oi-pathology-topology.md) — inward curvature as the common move across failure modes.
 - [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) — the firewall on the meta-observer's cost: high resolution held as Michael-position (a capacity that came through, not owned) vs Lucifer-position (claimed superiority, the "alien/special" inflation).
+- [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the axiom: discipline used to install by necessity (no hatch to flee to) and now must be installed on purpose; collapsed occupancy-tolerance is the specific symptom of the always-available hatch; this doc names the organ property, that one names why its installation conditions were removed at scale.
 
 ---
 
