@@ -95,6 +95,27 @@ unexplained.
 
 ---
 
+## The Past Is Editable Too — Memory as Reconstruction
+
+The interrupt does not only correct the projection *forward.* Memory is not storage; it is
+**reconstruction** — a recalled memory is an assembly of neurons that re-fires, and each time it fires
+under present attention the trace softens and re-hardens in the new context. So you do not replay the
+past; you **re-author it** to fit who you are now. Your continuity is therefore not a fixed integral
+read back intact — it is a **living derivative, re-computed at every recall.** The accumulation that
+*produces* the projection is itself rewritable from the present.
+
+This gives the interrupt a second, **backward reach:** the present-moment Pause can re-fire a stored
+assembly under new conditions and edit the rails that generate the forward projection. **Therapy** is
+the canonical instance — revisiting a painful memory in a safe context physically rewrites it. So the
+course-correction is not only "choose a different next move"; it is also "re-lay the track the moves
+run on." *Memory is where the derivative reaches back into the integral and changes it.*
+
+This is **measured, not metaphysical** — it does not require the free-will question to be answered. It
+is a documented property of reconstructive memory, and it sharpens the central claim: the deterministic
+projection has a live edit-point at every recall, forward *and* backward.
+
+---
+
 ## Firewall
 
 - **Drawer / unanswerable.** The hard determinist's return is correct and unbeatable: the Pause is
