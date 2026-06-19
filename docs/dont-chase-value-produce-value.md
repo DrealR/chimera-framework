@@ -60,6 +60,9 @@ The teacher-student pair is the most direct operational instance of this: the te
 - [Derivative Principle](derivative-principle.md) — the teacher who sees value in what the student already carries applies O > I through recognition, the most substrate-efficient teaching act; value-production and recognition operate from the same structural move.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — producing value where you are earns real-use trust; value-chasing severs you from the local graph; the community web forms around carriers who stay and build.
 - [Agency Before Role](agency-before-role.md) — the companion individual-action principle: acting without waiting for formal role-assignment; producing value is the geographic version of this; agency-before-role is the temporal version.
+- [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — impact-as-fuel vs money-as-fuel is this
+  principle applied to the engineer's whole life; the human-specific problem you notice (the real lack
+  in a real person) is value produced, not chased.
 
 ---
 

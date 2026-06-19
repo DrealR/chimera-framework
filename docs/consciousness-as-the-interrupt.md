@@ -153,6 +153,9 @@ projection has a live edit-point at every recall, forward *and* backward.
 - [Outward Is Against the Gradient](outward-is-against-the-gradient.md) — the same active-variable
   claim at cosmic scale: the inward projection is the attractor, and the conscious outward-turn is the
   rare interrupt written against it.
+- [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the diagnostic ("if you have to ask AI what
+  to build, that's the problem") applies the interrupt to the direction question; noticing a real problem
+  is present-moment outward attention only a consciousness with a stake can supply.
 
 ---
 

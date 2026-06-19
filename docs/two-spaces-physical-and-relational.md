@@ -102,6 +102,9 @@ literal-jump guard: planets are still physical bodies, just far apart.
   friction; the wall-less space is frictionless, which is why it has no brakes.
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the more powerful
   the vehicle, the more deliberately you must hold the anchor.
+- [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the anchor that tethers the mind in wall-less
+  space must be real, specific, and yours; without it the freedom of the relational frontier becomes
+  the floating zombie's drift.
 
 ---
 
