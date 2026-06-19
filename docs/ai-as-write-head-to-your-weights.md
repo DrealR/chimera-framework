@@ -101,6 +101,10 @@ write faster than you ever could alone.
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the faster the
   write-head, the more steering it demands.
 - [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the anchor is what keeps you the author under the write-head; looping the strategic is the "let it write you" failure mode made automatic (AFK the implementation, never the vision).
+- [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — the
+  write-head is one face of the amplifier: it doesn't only extend reach, it re-weaves what you are at
+  speed; Magneto vs Xavier is the direction question that determines whether the re-weaving compounds
+  or dissolves.
 
 ---
 

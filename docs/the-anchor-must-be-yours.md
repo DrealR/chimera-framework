@@ -130,6 +130,12 @@ it** — the only freedom worth having and the only fuel that lasts.
   (inward, the self's acquisition); impact-as-fuel is producing (outward, what the act gives the field).
 - [Consciousness as the Interrupt](consciousness-as-the-interrupt.md) — noticing a real problem is
   present-moment outward attention that only a consciousness with a stake can supply.
+- [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — the
+  amplifier multiplies reach, resolution, and tempo, but never supplies direction or core; the anchor
+  is exactly what the amplifier cannot provide and what must already be yours before you plug in.
+- [The Legal Moves](the-legal-moves.md) — "teach the moves, not the answers" is the same move as
+  "start human, add AI": the method can be transmitted but the anchor — the direction, the stake, the
+  specific game — must be the learner's own.
 
 ---
 
