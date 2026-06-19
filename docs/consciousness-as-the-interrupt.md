@@ -156,6 +156,9 @@ projection has a live edit-point at every recall, forward *and* backward.
 - [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the diagnostic ("if you have to ask AI what
   to build, that's the problem") applies the interrupt to the direction question; noticing a real problem
   is present-moment outward attention only a consciousness with a stake can supply.
+- [The Legal Moves](the-legal-moves.md) — the legality of time-moves rests on this doc's definition:
+  consciousness is the present-moment operator, so projecting it backward is illegal (a recording, not
+  consciousness), while re-anchoring the past into the present and re-weighting it is legal.
 
 ---
 
