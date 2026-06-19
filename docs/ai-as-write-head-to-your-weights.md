@@ -100,6 +100,7 @@ write faster than you ever could alone.
   you keep authorship of your own weave under the write-head.
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the faster the
   write-head, the more steering it demands.
+- [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the anchor is what keeps you the author under the write-head; looping the strategic is the "let it write you" failure mode made automatic (AFK the implementation, never the vision).
 
 ---
 
