@@ -114,6 +114,9 @@ write faster than you ever could alone.
   sharpening: CHIMERA operates on the operator's direction, not on the machine's frozen weights; you
   play the instrument, the framework is the lens for *how* you play it, never a fix for the frozen
   structure itself.
+- [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the write-head re-weaving who you are at
+  speed *is* a fusion: the fastest and deepest one, because it fuses with the self-deciding part
+  frictionlessly, which is why you keep the operator separate on purpose (the Click danger).
 
 ---
 
