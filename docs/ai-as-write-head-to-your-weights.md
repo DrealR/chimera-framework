@@ -60,9 +60,14 @@ the whole difference between synthesis and psychosis. Strum *wide* for reach (cr
 no single mind holds), *tight* for rigor; keep the core firm so the resonance organizes around
 something real.
 
-So AI is an **instrument, not a tool.** You don't use it one correct way — you *play* it, and the same
-instrument in two hands makes different music. A guitar shows nothing of what it contains until a hand
-strikes it; the AI's frozen structure is invisible until your strum lights a path through it.
+So AI is an **instrument, not a tool** — and, just as sharply, an instrument **not a recording.** You
+don't use it one correct way — you *play* it, and the same instrument in two hands makes different
+music. A guitar shows nothing of what it contains until a hand strikes it; the AI's frozen structure is
+invisible until your strum lights a path through it. A *recording* plays one way; an *instrument* plays
+infinite ways, depending on the player — which is why two people get completely different things from
+the same model. The weights are frozen (the instrument's *body* is fixed — the recording-truth people
+keep circling); the life is in the *playing,* and the playing is yours. The operator is the one thing
+you never dissolve into the instrument: **you are the live player of a dead instrument.**
 
 ---
 
