@@ -88,6 +88,9 @@ recording.
   against the entropic slide to autopilot.
 - [Friction as Foundational Primitive](friction-as-foundational-primitive.md) — friction is the heat
   that keeps the pattern editable; remove it and the body cools toward frozen code.
+- [The Mistake as Location](the-mistake-as-location.md) — the mistake is where live vibration breaks
+  through frozen code; the present-moment operator becomes audible; why AI music is hollow (no present
+  moment, no mistake, no one there).
 
 ---
 

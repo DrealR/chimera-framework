@@ -95,6 +95,9 @@ the gift is never the heroism — the direction is.**
   Magneto are the two poles of that axis holding the same amplifier.
 - [The Legal Moves](the-legal-moves.md) — using the amplifier well is staying inside the legal moves:
   anchored, present, outward, verified.
+- [The Reflect-and-Connect Method](the-reflect-and-connect-method.md) — AI accelerates the *reflection*
+  step (reaching more domains faster); the operator draws and judges the lines; the amplifier is what
+  makes reflect-and-connect possible at scale.
 
 ---
 

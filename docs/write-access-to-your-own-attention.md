@@ -50,6 +50,9 @@ The institutional prescription is process reward — structuring observable traj
 - [Attention Primitives: Capture, Direction, and Occupancy](attention-primitives-capture-occupancy.md) — names the organ's three native properties (direction, capture-state, occupancy) that the three moves are actually training simultaneously; shows why Move 1 requires occupancy tolerance, Move 2 is capture override under load, and Move 3 (anchoring) is the new thread cooling into a default through repeated outward occupation.
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the axiom that frames why write-access matters now: the newest and most demanding fire (tech/AI) requires more self-discipline than any previous tool, and also actively erodes the conditions that install it; write-access is the trained form of the discipline the axiom demands — the Prime names *why*, write-access names *how*.
 - [Consciousness as the Interrupt](consciousness-as-the-interrupt.md) — names what the three moves train: consciousness as the Pause that course-corrects against the trained projection. Move 2 *is* that Pause walked under load; Move 3 is the new path cooling into flow. That doc names *what* the faculty is; this one names *how* it is built.
+- [The Mistake as Location](the-mistake-as-location.md) — mastery is the cooled result of repeated
+  paid pauses; the master's intentional off-rail move is write-access on the rail itself (unintentional
+  = where you are; intentional = where you've chosen to be; stumbles converted to signatures).
 
 ---
 

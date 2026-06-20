@@ -85,6 +85,9 @@ you.
   you re-weave.
 - [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — "teach the moves, not the answers" is the
   same claim as "start human, the anchor must be yours."
+- [The Reflect-and-Connect Method](the-reflect-and-connect-method.md) — the structure-vs-costume check
+  is how the referee tells a legal connection from a foul; the Log Pose is the direction-checker in
+  relational space that keeps the method honest.
 
 ---
 
