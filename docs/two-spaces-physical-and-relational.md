@@ -105,6 +105,7 @@ literal-jump guard: planets are still physical bodies, just far apart.
 - [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the anchor that tethers the mind in wall-less
   space must be real, specific, and yours; without it the freedom of the relational frontier becomes
   the floating zombie's drift.
+- [The Reflect-and-Connect Method](the-reflect-and-connect-method.md) — how you navigate this space without drifting: the compass (fixed facts) fails here, so you switch to the Log Pose (the direction-and-anchor check); the two failure modes are implosion (too rigid, the compass) and explosion (the no-Log-Pose drift, the lost soul).
 
 ---
 
