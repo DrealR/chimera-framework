@@ -136,6 +136,9 @@ it** — the only freedom worth having and the only fuel that lasts.
 - [The Legal Moves](the-legal-moves.md) — "teach the moves, not the answers" is the same move as
   "start human, add AI": the method can be transmitted but the anchor — the direction, the stake, the
   specific game — must be the learner's own.
+- [The Splitting Body](the-splitting-body.md) — the disconnected person asking AI what problem to solve
+  is the lost-anchor failure at social scale; friction-removal without floor-raising seals you off from
+  where the problems are, so the machine inherits the anchor the life dissolved.
 
 ---
 

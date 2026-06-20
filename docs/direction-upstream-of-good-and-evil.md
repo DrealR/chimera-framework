@@ -88,6 +88,9 @@ random" was the discipline working.)
 - [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — Xavier and
   Magneto are the two poles of direction holding the *same amplifier;* the gift is never the heroism,
   the direction is.
+- [The Splitting Body](the-splitting-body.md) — the inward-turn at social scale: the circle narrows
+  until the halves stop recognizing each other (WE = 1 fracturing); the firewall — "hold WE = 1 while
+  naming the split, or you become the split" — is the direction prescription applied to diagnosis itself.
 
 ---
 
