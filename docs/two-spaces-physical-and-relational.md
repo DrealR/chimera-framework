@@ -106,6 +106,9 @@ literal-jump guard: planets are still physical bodies, just far apart.
   space must be real, specific, and yours; without it the freedom of the relational frontier becomes
   the floating zombie's drift.
 - [The Reflect-and-Connect Method](the-reflect-and-connect-method.md) — how you navigate this space without drifting: the compass (fixed facts) fails here, so you switch to the Log Pose (the direction-and-anchor check); the two failure modes are implosion (too rigid, the compass) and explosion (the no-Log-Pose drift, the lost soul).
+- [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the vehicle-and-instrument that fuses with
+  the self-deciding part frictionlessly; the Click danger is exactly the risk this map guards against:
+  the anchor is what prevents the fast fusion from running away with you in the wall-less space.
 
 ---
 

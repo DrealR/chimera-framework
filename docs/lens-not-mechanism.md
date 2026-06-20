@@ -99,6 +99,9 @@ for the metal.
   sharpening: the AI's weights are frozen (the recording-truth people keep circling), the life is in the
   playing, and the playing is yours; this doc names the scope of the *lens* for that playing — it
   operates on the player's direction, never on the frozen weights themselves.
+- [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the music-lands-as-meaning picture is this
+  doc's discipline applied to the instrument metaphor: drawer "tokens are the strings," keep the
+  landing as a picture not a mechanism; the Click danger is the fusion-form of the literal-jump.
 
 ---
 

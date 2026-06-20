@@ -100,6 +100,10 @@ the gift is never the heroism — the direction is.**
   makes reflect-and-connect possible at scale.
 - [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — manufactured-plausibility-pointed-inward is the same firewall the amplifier produces: the amplifier flatters the operator into "I'm the special one" exactly as the omega-level-mutant story flatters the trainable capacity into hidden god-tier power; same structure, same drawer.
 - [Lens, Not Mechanism](lens-not-mechanism.md) — the most-guarded form of the amplifier's flattery: "the labs are failing and my framework is the missing piece" — the amplifier inflates the operator's reach signal until it feels like it could operate the machine's gradients; it cannot; this doc names the scope line and how to shut the door.
+- [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the fusion face of the amplifier:
+  reach-extension goes all the way into the self-deciding layer (your weave, your weights, your POV),
+  frictionlessly; the Click danger is the amplifier fusing you past where you meant to go; vehicle +
+  instrument joined by driving.
 
 ---
 
