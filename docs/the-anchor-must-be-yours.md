@@ -139,6 +139,7 @@ it** — the only freedom worth having and the only fuel that lasts.
 - [The Splitting Body](the-splitting-body.md) — the disconnected person asking AI what problem to solve
   is the lost-anchor failure at social scale; friction-removal without floor-raising seals you off from
   where the problems are, so the machine inherits the anchor the life dissolved.
+- [Lens, Not Mechanism](lens-not-mechanism.md) — scope complement: "my framework is the secret the labs lack" is the inward-turn; the scope discipline that CHIMERA operates on your direction, never on the machine's gradients, is what makes the anchor distinction operationally checkable.
 
 ---
 
