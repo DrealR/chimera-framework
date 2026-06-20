@@ -110,6 +110,10 @@ write faster than you ever could alone.
   write-head is one face of the amplifier: it doesn't only extend reach, it re-weaves what you are at
   speed; Magneto vs Xavier is the direction question that determines whether the re-weaving compounds
   or dissolves.
+- [Lens, Not Mechanism](lens-not-mechanism.md) — scope complement to the instrument-not-recording
+  sharpening: CHIMERA operates on the operator's direction, not on the machine's frozen weights; you
+  play the instrument, the framework is the lens for *how* you play it, never a fix for the frozen
+  structure itself.
 
 ---
 

@@ -95,6 +95,10 @@ for the metal.
   internals; the my-framework-is-the-key drift is the amplifier flattering the operator.
 - [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — "my framework is the secret the labs lack"
   is the inward-turn; the outward move is to use the frozen instrument to build for a real person.
+- [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the instrument-not-recording
+  sharpening: the AI's weights are frozen (the recording-truth people keep circling), the life is in the
+  playing, and the playing is yours; this doc names the scope of the *lens* for that playing — it
+  operates on the player's direction, never on the frozen weights themselves.
 
 ---
 
