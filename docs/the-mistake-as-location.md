@@ -90,6 +90,7 @@ intentional one is where you've CHOSEN to be.*
 - [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — mastery as the cooled
   result of repeated paid pauses; the master's intentional off-rail move is write-access on the rail
   itself.
+- [Dimension-Stripping: Constrained Input Concentrates Attention](dimension-stripping-concentrates-attention.md) — freeing a channel deepens flow and gives the operator more to attend with at the fork; the mistake is *where* flow breaks and the live operator shows through; dimension-stripping is how that operator trains the channels so flow runs deeper.
 
 ---
 

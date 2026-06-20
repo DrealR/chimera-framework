@@ -91,6 +91,7 @@ random" was the discipline working.)
 - [The Splitting Body](the-splitting-body.md) — the inward-turn at social scale: the circle narrows
   until the halves stop recognizing each other (WE = 1 fracturing); the firewall — "hold WE = 1 while
   naming the split, or you become the split" — is the direction prescription applied to diagnosis itself.
+- [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — the Yoda note this doc carries ("root beats elaboration") now has its mechanism named: recombinability is *why* the fundamental wins; the direction axis is the source of that mechanism (outward-facing = still recombinable; cooled inward = stuck specialization).
 
 ---
 

@@ -108,6 +108,7 @@ becomes "control the field" or "move people," Xavier has become Magneto.
   accelerates the *reflection;* the operator draws and judges the lines.
 - [The Mistake as Location](the-mistake-as-location.md) — "the mistake is where the operator shows
   through" is itself a clean reflect-and-connect line across music, teaching, and sport.
+- [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — the Log Pose is what keeps "fundamentals have unexplored range" from drifting into "I'm secretly omega-level"; the reflect-and-connect method is the *discipline* that holds the ego's flattering version of the rubber-beats-fire insight.
 
 ---
 
