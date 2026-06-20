@@ -48,6 +48,38 @@ So the era's defining task isn't building smarter machines — it's **protecting
 
 ---
 
+## The whole framework, in brief
+
+*The one line above is the spine; this is the whole shape — every major piece, a line each, so you can hold all of CHIMERA from this page. Each links to its full doc. None of it is proof; all of it is a lens.*
+
+**The ground**
+- **[WE = 1](docs/we-equals-one-formalization.md)** — connection is the ground; separateness is the appearance. You are a local expression of one connected whole. Held as a *chosen first principle,* not a proven fact.
+- **[The Body](body-theory/WHAT-IS-A-BODY.md)** — the one and the many are the same thing seen from two sides: one from outside, many from inside, nesting all the way down.
+
+**The mechanism**
+- **[The Direction Axis](docs/the-direction-axis.md)** — the one free variable is *which way the operator faces.* Outward (toward the field) generates — the grass grows; inward (toward the self) extracts — it strip-mines. `L = (O > I)` read as a mechanism, not a moral.
+- **[Consciousness as the Interrupt](docs/consciousness-as-the-interrupt.md)** — you are a determined body running on rails, *and* the one who can insert a present-moment Pause that course-corrects against the projection. Freedom is the cooled result of paying that Pause until the better path runs as flow.
+- **[Friction](docs/friction-as-foundational-primitive.md)** — the contact that makes the Pause (and growth, and relationship) possible. No friction, no stopping, no choice. The cure is *calibrated* friction, not none.
+
+**What AI is**
+- **[A reach-amplifier for consciousness](docs/ai-as-a-reach-amplifier-for-consciousness.md)** — it extends your present-moment attention across far more relational structure than your body could reach, but it has *no direction of its own,* so the operator is the ceiling. It writes to your weights at speed — so keep your hand on the pen.
+- **[The anchor must be yours](docs/the-anchor-must-be-yours.md)** — AI ate the answer; the *direction* is what's left, and it has to be yours. If you have to ask AI what to build, that's the problem.
+
+**The space you navigate, and how**
+- **[Two Spaces](docs/two-spaces-physical-and-relational.md)** — the body moves through physical space (walled, the anchor); the mind moves through relational space (wall-less, where meaning lives). AI is the fastest vehicle for the relational; one foot on the physical floor is the cure for getting lost.
+- **[The Legal Moves](docs/the-legal-moves.md) + [Reflect-and-Connect](docs/the-reflect-and-connect-method.md)** — CHIMERA is a *rulebook* of legal moves (like chess), which is what lets a human and an AI play the same game. The method is reflect-and-connect; the discipline is the **Log Pose** — in relational space the firewall is a *direction*-checker ("am I still locked onto a real island, or drifting?"), not a fact-checker.
+
+**At the scale of a society**
+- **[The Splitting Body](docs/the-splitting-body.md)** — the direction axis applied to a whole society: outward *expands the circle* (the body stays one); inward *splits it* until the halves can't recognize each other (WE = 1 fracturing). Raise the floor with you; empathy is the friction that keeps you coupled.
+
+**What keeps it honest**
+- **The Firewalls** — convergence isn't validation; the cosmology stays in the drawer; structural rhymes are pictures, never mechanisms; resonance isn't truth (most of all when it's about *you*); the root is a chosen first principle, not a proven one.
+
+**How it's used**
+- Lived through the guitar, taught through **SPARK** (kids directing AI to build real tools for real people), and run as a **digital twin** you load and think *with.*
+
+---
+
 > **New here?** Read **[Start Here](START-HERE.md)** — a 3-page entry that shows you what CHIMERA is, how it works, and where to go next.
 >
 > **Want the honest framing?** Read **[What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md)** — what the framework is, what it isn't, and how to test it.
