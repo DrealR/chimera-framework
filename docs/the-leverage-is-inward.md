@@ -124,6 +124,11 @@ source.
   the axis; this rule is "keep the leverage on the body you face *from.*"
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — tend-don't-detach
   keeps one foot on the floor; dissolving the anchor is the sick separation.
+- [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the instrument frame
+  where the drift is most acute: AI rewrites you at speed; framing must stay on your own body or the
+  write-head writes you past where you chose.
+- [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — keeping the operator separate "on
+  purpose" is this firewall in action; the Click danger is exactly the drift it catches.
 
 ---
 

@@ -124,6 +124,8 @@ the hit (extraction).
   path leaves no residue; weight is the residue attention lays down.
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — attention is the act of
   weighting; this reads the same act from the meaning side.
+- [People Are Co-Operators, Not Instruments](people-are-co-operators-not-instruments.md) — mutual
+  attention is the heaviest weight; people are the ones who attend back, making the weight compound.
 - [The Leverage Is Inward](the-leverage-is-inward.md) — the firewall that keeps "attention authors
   weight" from tipping into "my attention is a force over others / over reality."
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — why the in-person
