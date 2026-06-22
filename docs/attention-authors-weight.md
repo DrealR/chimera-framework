@@ -135,6 +135,9 @@ the hit (extraction).
 - [Words Put Weight on Paths](words-put-weight-on-paths.md) — the positive form of the firewall:
   attention doesn't just author weight passively, you can choose consciously which paths you load;
   strip moral weight to see clearly, then restore the weights that belong.
+- [The Shared Present Is Made](the-shared-present-is-made.md) — giving your live attention is O>I
+  made concrete; the shared present is where the weight you author lands in another body — the
+  heaviest weight (mutual attention) requires both parties awake and attending.
 
 ---
 

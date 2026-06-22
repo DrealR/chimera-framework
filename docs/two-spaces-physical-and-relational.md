@@ -109,6 +109,10 @@ literal-jump guard: planets are still physical bodies, just far apart.
 - [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the vehicle-and-instrument that fuses with
   the self-deciding part frictionlessly; the Click danger is exactly the risk this map guards against:
   the anchor is what prevents the fast fusion from running away with you in the wall-less space.
+- [The Rhythm of Awake and Asleep](the-rhythm-of-awake-and-asleep.md) — the asleep/intake phase is
+  where the lucid-dream temptation lives; the firewall in that doc (keep the processing-phase
+  metaphor inside the relational, never drag it into literal physical control) is the same anchor
+  this map requires.
 
 ---
 

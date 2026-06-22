@@ -165,6 +165,13 @@ projection has a live edit-point at every recall, forward *and* backward.
 - [Because I Choose To](because-i-choose-to.md) — the posture form of the one free variable: the
   choosing is the live act inside determinism, free even when the outcome isn't; Neo's line is this
   doc's one-free-variable stated as a stance rather than a mechanism.
+- [The Shared Present Is Made](the-shared-present-is-made.md) — the interrupt becomes *shared*
+  when mutual recognition collapses two automated flows into one now; change (the Pause) only
+  happens in the shared present — this doc is *that* the course-correction can happen, that one
+  names *where* it lands.
+- [The Rhythm of Awake and Asleep](the-rhythm-of-awake-and-asleep.md) — the awake phase is when
+  the Pause fires and the operator authors; the asleep/intake phase is when the cooled rail
+  consolidates; the interrupt belongs to awake — rhythm gives it a cycle to live in.
 
 ---
 

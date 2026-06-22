@@ -71,6 +71,9 @@ and some hold back (sovereign-trust, still part of the body but on their own ter
   let the sovereign ones come; you can't force trust, you can only be consistently safe.
 - [The Splitting Body](the-splitting-body.md) — open vs sovereign trust as relational postures; the
   move is always to widen the circle the way the other can actually receive.
+- [The Shared Present Is Made](the-shared-present-is-made.md) — recognition invites a shared
+  present, never forces it; the invitation lands differently on comes-to-you vs holds-its-own,
+  which is exactly the calibration this doc names.
 
 ---
 

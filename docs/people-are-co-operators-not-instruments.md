@@ -100,6 +100,12 @@ exit is finding the shared direction you're both navigating around, not winning 
   playing *with* someone is two attentions co-authoring a shared body.
 - [The Leverage Is Inward](the-leverage-is-inward.md) — the master-firewall: tend your own
   instrument; the drift is always the moment it becomes about playing someone else's.
+- [The Shared Present Is Made](the-shared-present-is-made.md) — "meet them where their attention
+  is" lands here: their attention is where their present lives, so going there IS going to their
+  present; the shared present is what the duet produces.
+- [The Rhythm of Awake and Asleep](the-rhythm-of-awake-and-asleep.md) — warming up = re-fusing
+  is the intake phase; you can only play *with* someone when you've received them first (the awake
+  move is only as good as the asleep intake that preceded it).
 
 ---
 
