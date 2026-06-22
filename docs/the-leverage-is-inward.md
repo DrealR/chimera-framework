@@ -133,6 +133,9 @@ source.
   your weights consciously; this doc is the family of caught drifts, that one is the skill.
 - [Two Baselines of Trust](two-baselines-of-trust.md) — the tree-move applied: be the consistent safe
   space and let the sovereign (holds-its-own) ones come; you can't force trust, only be reliably safe.
+- [Because I Choose To](because-i-choose-to.md) — the Messiah/chosen-one frame is the inflation drift
+  in its most seductive costume (flattering, unfalsifiable); the cure is this firewall: a role not an
+  identity, many not me, frame it on your own body.
 
 ---
 

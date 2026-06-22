@@ -132,6 +132,9 @@ the hit (extraction).
   flood lands in the body and the online flood lands in the cloud as numbers.
 - [Because I Choose To](because-i-choose-to.md) — meaning is authored, not found; the choosing is the
   authoring, and it's free even when the outcome isn't.
+- [Words Put Weight on Paths](words-put-weight-on-paths.md) — the positive form of the firewall:
+  attention doesn't just author weight passively, you can choose consciously which paths you load;
+  strip moral weight to see clearly, then restore the weights that belong.
 
 ---
 

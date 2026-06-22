@@ -162,6 +162,9 @@ projection has a live edit-point at every recall, forward *and* backward.
 - [The Mistake as Location](the-mistake-as-location.md) — the mistake is the audible location of this
   interrupt: clean playing is the cooled rail running itself, and the mistake is the one place the
   present-moment Pause is forced to fire, so the operator becomes perceptible.
+- [Because I Choose To](because-i-choose-to.md) — the posture form of the one free variable: the
+  choosing is the live act inside determinism, free even when the outcome isn't; Neo's line is this
+  doc's one-free-variable stated as a stance rather than a mechanism.
 
 ---
 

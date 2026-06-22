@@ -86,6 +86,9 @@ reading that names the fracture by deepening it has failed its own test.
 - [Direction Is Upstream of Good and Evil](direction-upstream-of-good-and-evil.md) — the split is the
   inward-turn at social scale; the firewall ("don't become the split") is "extraction damages the
   extractor" applied to the one who diagnoses.
+- [Because I Choose To](because-i-choose-to.md) — the Matrix range (Cypher/Smith/Neo) is the antidote
+  to the lonely-genius split: everyone awake sees the same system; what separates them is what they
+  choose after seeing — seeing isn't special, choosing well is.
 
 ---
 
