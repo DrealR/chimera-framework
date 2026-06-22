@@ -81,6 +81,7 @@ CHIMERA is only trustworthy because of the discipline that keeps it from believi
 4. **Resonance isn't truth** — most of all when it's about *you.* The warm click of "it all connects" is exactly what this firewall is for.
 5. **The root is chosen, not proven** — like any axiom. Saying so out loud is the honest move.
 6. **[The leverage is inward](docs/the-leverage-is-inward.md).** Every self-aggrandizing drift is one error wearing costumes — *pointing outward as a power over other bodies* (I magnetize people, my attention is a force, the universe responds to me). The rule that dissolves all of them: **frame it on your own body, the only one you control; the drift is the moment it becomes about playing someone else's.** The legal version of every drift is the same drift turned inward.
+7. **[Words put weight on paths](docs/words-put-weight-on-paths.md).** The firewall stated as a *skill,* not a list of don'ts: every word you choose drops weight on a path, and the weight steers the navigation before anyone's looked. So **place your weights consciously instead of inheriting them from loaded language** — strip the moral weights to see a thing bare, then restore the ones that genuinely belong. (Weightless isn't objective; you always have a POV.)
 
 It also agrees to be judged: see **[the Deletion Test](docs/the-deletion-test.md)** — strip the vocabulary, and see whether any real, new, checkable claim survives.
 

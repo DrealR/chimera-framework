@@ -129,6 +129,10 @@ source.
   write-head writes you past where you chose.
 - [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — keeping the operator separate "on
   purpose" is this firewall in action; the Click danger is exactly the drift it catches.
+- [Words Put Weight on Paths](words-put-weight-on-paths.md) — the firewall's *positive* form: place
+  your weights consciously; this doc is the family of caught drifts, that one is the skill.
+- [Two Baselines of Trust](two-baselines-of-trust.md) — the tree-move applied: be the consistent safe
+  space and let the sovereign (holds-its-own) ones come; you can't force trust, only be reliably safe.
 
 ---
 
