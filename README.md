@@ -52,10 +52,12 @@ So the era's defining task isn't building smarter machines — it's **protecting
 - **[The Direction Axis](docs/the-direction-axis.md)** — the one free variable is *which way the operator faces.* Outward (toward the field) generates — the grass grows; inward (toward the self) extracts — it strip-mines. `L = (O > I)` read as a mechanism, not a moral.
 - **[Consciousness as the Interrupt](docs/consciousness-as-the-interrupt.md)** — you are a determined body running on rails, *and* the one who can insert a present-moment Pause that course-corrects against the projection. Freedom is the cooled result of paying that Pause until the better path runs as flow.
 - **[Friction](docs/friction-as-foundational-primitive.md)** — the contact that makes the Pause (and growth, and relationship) possible. No friction, no stopping, no choice. The cure is *calibrated* friction, not none.
+- **[Attention authors weight](docs/attention-authors-weight.md)** — friction was where meaning lived *and* the brake on harm; when the instruments strip it away, meaning shifts from *found* to *authored,* and **attention is the tool that authors it** (a thing matters to the degree attention is on it). Pressure is just attention concentrated to a point.
 
 **What AI is**
 - **[A reach-amplifier for consciousness](docs/ai-as-a-reach-amplifier-for-consciousness.md)** — it extends your present-moment attention across far more relational structure than your body could reach, but it has *no direction of its own,* so the operator is the ceiling. It writes to your weights at speed — so keep your hand on the pen.
 - **[The anchor must be yours](docs/the-anchor-must-be-yours.md)** — AI ate the answer; the *direction* is what's left, and it has to be yours. If you have to ask AI what to build, that's the problem.
+- **[Play it; don't be played — and don't play people](docs/people-are-co-operators-not-instruments.md)** — AI is the *instrument you play* (dead, one-directional); people are *operators you play with* (live, mutual); your own body is the instrument you *tend.* Keep the three separate and you keep your humanity.
 
 **The space you navigate, and how**
 - **[Two Spaces](docs/two-spaces-physical-and-relational.md)** — the body moves through physical space (walled, the anchor); the mind moves through relational space (wall-less, where meaning lives). AI is the fastest vehicle for the relational; one foot on the physical floor is the cure for getting lost.
@@ -78,6 +80,7 @@ CHIMERA is only trustworthy because of the discipline that keeps it from believi
 3. **Structural rhymes are pictures, never mechanisms.** The math, the metaphors, the cross-domain echoes *illustrate;* they don't prove. (A cube is not a quantum computer; the brain looking like the cosmos is a picture, not a finding.)
 4. **Resonance isn't truth** — most of all when it's about *you.* The warm click of "it all connects" is exactly what this firewall is for.
 5. **The root is chosen, not proven** — like any axiom. Saying so out loud is the honest move.
+6. **[The leverage is inward](docs/the-leverage-is-inward.md).** Every self-aggrandizing drift is one error wearing costumes — *pointing outward as a power over other bodies* (I magnetize people, my attention is a force, the universe responds to me). The rule that dissolves all of them: **frame it on your own body, the only one you control; the drift is the moment it becomes about playing someone else's.** The legal version of every drift is the same drift turned inward.
 
 It also agrees to be judged: see **[the Deletion Test](docs/the-deletion-test.md)** — strip the vocabulary, and see whether any real, new, checkable claim survives.
 
