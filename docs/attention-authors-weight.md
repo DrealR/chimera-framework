@@ -130,6 +130,8 @@ the hit (extraction).
   weight" from tipping into "my attention is a force over others / over reality."
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — why the in-person
   flood lands in the body and the online flood lands in the cloud as numbers.
+- [Because I Choose To](because-i-choose-to.md) — meaning is authored, not found; the choosing is the
+  authoring, and it's free even when the outcome isn't.
 
 ---
 
