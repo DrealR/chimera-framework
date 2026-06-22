@@ -93,6 +93,11 @@ beginner on a grand piano*). There is a sweet-spot match between operator skill 
   *vehicle* face; "the operator is the ceiling" applied here to model choice.
 - [Lens, Not Mechanism](lens-not-mechanism.md) — the music-as-meaning and tokens-as-strings are pictures,
   not mechanisms; don't tighten the rhyme into the machine's internals.
+- [People Are Co-Operators, Not Instruments](people-are-co-operators-not-instruments.md) — fusion
+  with the *dead* instrument is one-directional and fast; fusion with a *live* co-operator is mutual,
+  paid in real time, and can't be shortcut — the frame's true home is your own body.
+- [The Leverage Is Inward](the-leverage-is-inward.md) — keeping the operator separate "on purpose" is
+  one face of the master-firewall: frame it on your own body, never as power over another's.
 
 ---
 

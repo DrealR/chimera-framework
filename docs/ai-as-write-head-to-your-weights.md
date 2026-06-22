@@ -117,6 +117,14 @@ write faster than you ever could alone.
 - [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the write-head re-weaving who you are at
   speed *is* a fusion: the fastest and deepest one, because it fuses with the self-deciding part
   frictionlessly, which is why you keep the operator separate on purpose (the Click danger).
+- [People Are Co-Operators, Not Instruments](people-are-co-operators-not-instruments.md) — the scope
+  limit: AI is the *dead* instrument you play; people are *live* operators you play *with;* your own
+  body is the instrument you *tend.* Don't play the live things like the dead one.
+- [Attention Authors Weight](attention-authors-weight.md) — "attention is the act of weighting" read
+  from the meaning side: in a frictionless world, attention is how you author weight at all.
+- [The Leverage Is Inward](the-leverage-is-inward.md) — the master-firewall over the whole instrument
+  frame: keep the framing on your own body; the drift is the moment it becomes power over someone
+  else's.
 
 ---
 
