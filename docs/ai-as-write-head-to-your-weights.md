@@ -125,6 +125,10 @@ write faster than you ever could alone.
 - [The Leverage Is Inward](the-leverage-is-inward.md) — the master-firewall over the whole instrument
   frame: keep the framing on your own body; the drift is the moment it becomes power over someone
   else's.
+- [Setting the Field with Words](setting-the-field-with-words.md) — the field you set is what the
+  write-head writes through; clarity-of-intent is how you keep authorship under the amplifier (get
+  clear in yourself first, then set the field to carry that clarity — an unclear intent gets amplified
+  into confusion).
 
 ---
 

@@ -74,6 +74,10 @@ and some hold back (sovereign-trust, still part of the body but on their own ter
 - [The Shared Present Is Made](the-shared-present-is-made.md) — recognition invites a shared
   present, never forces it; the invitation lands differently on comes-to-you vs holds-its-own,
   which is exactly the calibration this doc names.
+- [Collapse to See the Structure, Restore to Meet the Person](strip-to-understand-restore-to-love.md)
+  — the structural reason to drop the type essentialism: comes-to-you / holds-its-own are behaviors
+  any body can show, not fixed essences; collapse to one body to read the behavior, restore the
+  individual to meet the person.
 
 ---
 

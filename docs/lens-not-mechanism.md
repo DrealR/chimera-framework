@@ -105,6 +105,10 @@ for the metal.
 - [Live Systems Have a Seam](live-systems-have-a-seam.md) — the seam-as-detector is this doc's firewall
   applied to systems: a system too clean to be true usually is; the seamless pitch is the literal-jump
   wearing a promise of zero tradeoff.
+- [Setting the Field with Words](setting-the-field-with-words.md) — the companion field-level
+  discipline: a framework is a pre-built field, not the territory; steer by building the field across
+  the conversation, not by picking single words — the same "scope, not magic" boundary applied at the
+  conversation layer.
 
 ---
 

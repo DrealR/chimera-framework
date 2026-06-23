@@ -97,6 +97,9 @@ actual presence.
 - [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — AI is where attention already
   is; the loop is a way to meet people where their attention lives and show the third way (work with it
   deeply and keep the operator's seat) — a working present made, not an automated one.
+- [Collapse to See the Structure, Restore to Meet the Person](strip-to-understand-restore-to-love.md)
+  — the restore is the shared-present discipline: put the face back on the moment you turn from the
+  pattern to the person; the present is made by meeting the individual, not the collapsed type.
 
 ---
 

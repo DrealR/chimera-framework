@@ -84,6 +84,12 @@ Keep it a **mirror, not an identity:** the physical *illustrates* the relational
   form (place your weights consciously) rather than its catalog of caught drifts.
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the two kinds of
   weight (observation vs definition) and the physical-as-mirror live here.
+- [Setting the Field with Words](setting-the-field-with-words.md) — the mechanism under this doc:
+  weight = which associative region a word lights up; the field is the conversation-primed space that
+  decides how much each word pulls; you steer by building the field, not picking single words.
+- [Collapse to See the Structure, Restore to Meet the Person](strip-to-understand-restore-to-love.md)
+  — costume-stripping applied to reading people and stories: observe the bare structure before the
+  costume names it; restore the costume to meet the actual person.
 
 ---
 

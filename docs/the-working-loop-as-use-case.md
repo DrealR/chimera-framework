@@ -92,6 +92,9 @@ playing you."**
   is the ceiling; a better instrument helps but the operator makes the music.
 - [The Shared Present Is Made](the-shared-present-is-made.md) — the conversation-over-time is the music;
   AI is also where attention already is, so it's a place to meet people and bridge.
+- [Setting the Field with Words](setting-the-field-with-words.md) — the AI amplifies the field you
+  build, so the loop stays generative rather than becoming an echo chamber by keeping the operator's
+  clarity in the field, not just in the single response; genie-defense lives here.
 
 ---
 
