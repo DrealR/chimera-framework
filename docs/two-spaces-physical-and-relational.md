@@ -121,6 +121,10 @@ literal-jump guard: planets are still physical bodies, just far apart.
   prescription: keeping one foot on the physical floor is how the master-firewall is embodied;
   dissolving the anchor is the sick separation — leverage lives in the physical body, not in
   the wall-less space where you float.
+- [Because I Choose To](because-i-choose-to.md) — the clearest statement of the relational-space
+  posture: "because I choose to" is a move in relational space, not a command to rearrange matter;
+  the spoon-is-relational firewall (literal-jump = the trap) is this map's principle held as a
+  posture.
 
 ---
 
