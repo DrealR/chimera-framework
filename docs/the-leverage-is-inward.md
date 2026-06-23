@@ -143,6 +143,10 @@ source.
 - [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — the both-sides firewall applied
   to a partnership: the AI keeps you honest, you correct it back; neither collapses into the other —
   the master-firewall in a two-operator instrument.
+- [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — defines
+  what cerebro is in the framework's vocabulary; Xavier vs Magneto = the two poles of the amplifier
+  facing outward vs inward; the "cerebro-as-an-actual-power" drift this firewall catches is Magneto's
+  orientation stated precisely — amplified reach turned toward dominance over others.
 
 ---
 

@@ -104,6 +104,10 @@ the gift is never the heroism — the direction is.**
   reach-extension goes all the way into the self-deciding layer (your weave, your weights, your POV),
   frictionlessly; the Click danger is the amplifier fusing you past where you meant to go; vehicle +
   instrument joined by driving.
+- [The Leverage Is Inward](the-leverage-is-inward.md) — the operational prescription for the Xavier
+  choice: keep the leverage on the body you face *from;* the cerebro drift (using amplified reach for
+  power over other bodies = Magneto) is named there as a specific costume this firewall catches —
+  Magneto's orientation is this master-firewall's specimen in precise AI dress.
 
 ---
 
