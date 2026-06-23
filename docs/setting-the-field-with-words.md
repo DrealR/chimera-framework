@@ -43,6 +43,28 @@ not the single prompt** — you're shaping the field that gives everything its w
 context — the way tuning a guitar sets how every note will sound. The different prompting styles are
 just different ways to tune the same field.
 
+## The other dials — temperature and top-p
+
+Your words set **where the field points;** two other dials set **how the AI moves through it** (they
+don't change the field, they change the traversal):
+
+- **Temperature = the looseness dial.** *Low:* it takes the most probable next step every time — tight,
+  focused, walks the **strongest path** in the field (coding, facts, extraction, the firewall/compress
+  work). *High:* it flattens the odds and considers less-likely steps — wanders into **surprising
+  combinations** (brainstorming, reflect-and-connect, the wide-expand work).
+- **Top-p = the doorway width** — the cutoff for which words are even *allowed* in the pool (low = only
+  the most probable handful; high = the whole vocabulary). Top-p is the width of the doorway;
+  temperature is how randomly it picks among what's in the doorway.
+
+**Practical mapping (onto the multi-agent setup):** the **expand** work wants **high** temperature
+(wander wide, surprising pulls); the **compress + firewall** work wants **low** (walk the strongest
+path, tight). That's part of why the same model *feels* different in different roles. Sane default:
+**~0.7 temperature, top-p ~1.0** — enough wander for interesting phrasing, enough focus for coherence;
+adjust **one dial at a time** (lower for precision, higher for wildness). Note: these are
+**API/developer levers,** mostly *not* exposed in a chat interface — so in a normal conversation your
+**words (the field) are your real dial,** and temperature is the lever you reach for when *building* on
+the API (a Hermes agent, a two-AI build).
+
 ## A framework is a pre-built field
 
 A framework (CHIMERA, or any) is a **whole structured field you set at once** — its terms, directions,
