@@ -92,6 +92,7 @@ random" was the discipline working.)
   until the halves stop recognizing each other (WE = 1 fracturing); the firewall — "hold WE = 1 while
   naming the split, or you become the split" — is the direction prescription applied to diagnosis itself.
 - [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — the Yoda note this doc carries ("root beats elaboration") now has its mechanism named: recombinability is *why* the fundamental wins; the direction axis is the source of that mechanism (outward-facing = still recombinable; cooled inward = stuck specialization).
+- [The Leverage Is Inward](the-leverage-is-inward.md) — direction applied to the self: keeping the leverage on the body you face *from* is how the inward/outward axis becomes operational at the individual scale; the master-firewall is direction-axis physics with the frame locked onto your own body.
 
 ---
 

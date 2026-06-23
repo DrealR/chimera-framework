@@ -19,7 +19,7 @@ So individuality is not threatened by machines answering closed questions. It is
 - For builders: the open stretches of a build are small — often an hour against the machine's minutes — but they are the identity-bearing stretches. Walk them first, by hand. That's [the seed protocol](the-seed-protocol.md).
 - For teachers and parents: the kid version of this whole document is one sentence — *the friction is where the self gets written* (see [speedrunning life](speedrunning-life.md) for the teaching frame).
 
-Related: [the two roots](the-two-roots.md) · [behaviors are writes](behaviors-are-writes.md) · [path and friction](path-and-friction.md) · [friction as foundational primitive](friction-as-foundational-primitive.md)
+Related: [the two roots](the-two-roots.md) · [behaviors are writes](behaviors-are-writes.md) · [path and friction](path-and-friction.md) · [friction as foundational primitive](friction-as-foundational-primitive.md) · [attention authors weight](attention-authors-weight.md) (weight is the residue attention lays down; a frictionless path leaves no residue — the same substrate-physics read from the meaning side)
 
 ---
 

@@ -1,6 +1,6 @@
 # The Failure-Mode Specimen Drawer
 
-Wild-caught examples of the firewall's named failure modes, kept verbatim for calibration. The point of a specimen drawer is the same as in any field science: you recognize the live animal faster after handling preserved ones. ([The firewall](the-firewall.md) names the modes; this drawer shows them in the wild.)
+Wild-caught examples of the firewall's named failure modes, kept verbatim for calibration. The point of a specimen drawer is the same as in any field science: you recognize the live animal faster after handling preserved ones. ([The firewall](the-firewall.md) names the modes; [The Leverage Is Inward](the-leverage-is-inward.md) is the single rule that generates the catalog; this drawer shows them in the wild.)
 
 ## Specimen (a) — the literal jump, purest form
 

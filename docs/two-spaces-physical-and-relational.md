@@ -113,6 +113,14 @@ literal-jump guard: planets are still physical bodies, just far apart.
   where the lucid-dream temptation lives; the firewall in that doc (keep the processing-phase
   metaphor inside the relational, never drag it into literal physical control) is the same anchor
   this map requires.
+- [Attention Authors Weight](attention-authors-weight.md) — in-person pressure lands in the body,
+  online pressure lands in the relational cloud as numbers; the two-spaces map read from the weight
+  side: physical weight accrues in the body, relational weight accumulates in the cloud where
+  attention lives.
+- [The Leverage Is Inward](the-leverage-is-inward.md) — tend-don't-detach is this map's operating
+  prescription: keeping one foot on the physical floor is how the master-firewall is embodied;
+  dissolving the anchor is the sick separation — leverage lives in the physical body, not in
+  the wall-less space where you float.
 
 ---
 
