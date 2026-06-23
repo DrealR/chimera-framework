@@ -39,6 +39,31 @@ is a weight that pre-bends the path, and place your weights consciously instead 
 from loaded language.* The free mind is the one that places its own weights on purpose rather than
 getting yanked by the ones baked into the words.
 
+## The weight dial in practice — match the weight to the truth
+
+This is *not* "heavy words bad, light words good." **Heavy weights are a precision tool,** and there
+are real cases where you *want* the hard bend:
+
+- **When you genuinely mean the absolute** — "non-negotiable," "I will never do that" — and softening
+  it would *lie* about how fixed it is.
+- **When you want a fast direction-change** — a heavy word turns a conversation hard in one move where
+  light words would take many ("that's wrong" vs "I see it a little differently"). The teleport vs the
+  walk, in language.
+- **When you want to plant a fixed point** — an absolute word sets a stake the rest organizes around.
+
+Heavy weights are *wrong* only when they **overshoot your actual meaning** ("you *never* listen" when
+you meant "I felt unheard"). So the rule is **match the weight to the truth** — turn exactly as much as
+you mean to; the master isn't the one who bends hardest, but the one who turns only as much as the
+truth requires.
+
+**The mechanism (grounded, not poetic):** a word's weight is *how much it shifts the probability-field
+for what comes next.* Light words leave the trajectory intact (the **walk**); heavy words redirect it
+(the **reflection/jump** — the y = x bounce, the onion's layer-shift). And note **two separate axes,
+don't conflate them:** **weight** (how hard a word bends the path) vs **meaning-density** (how much it
+specifies). "Never" = high-weight, low-density; a precise technical term = low-weight, high-density.
+*(These map onto studied dimensions — valence ≈ charge, intensity/hedging ≈ weight, concreteness ≈
+density — with existing rated word-lists to build on rather than rating from scratch.)*
+
 ---
 
 ## Two kinds of weight: observation and definition

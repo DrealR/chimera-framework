@@ -93,6 +93,24 @@ confusion; on a clear one, it gives you the thing you meant. **Get clear in your
 field to carry that clarity.** The operator's clarity is what keeps the partnership generative instead
 of a hall of mirrors.
 
+## The operator tends the field — why chains drift
+
+When a human operates an AI live, the field stays clean because **the operator tends it every turn** —
+setting the weights, catching the drift, stripping the bad path before it compounds. That tending is
+the load-bearing act, and it explains the failure mode of multi-agent systems:
+
+**Chain AIs with no human in the loop and each one sets the field for the *next,* with no live operator
+correcting between handoffs — so the field drifts, every handoff is a telephone-step where the weights
+shift slightly, and small drifts compound across the chain** (which is why hallucination *accumulates*
+in agentic pipelines: each step builds on the previous step's drift with nobody stripping the bad
+weights between them). So the **hard problem of agentic AI is automating the operator's live
+field-tending** — and it's hard precisely because that judgment (knowing *which* weight is wrong, which
+drift to catch) is the **live present-moment thing the frozen models lack.** You can't remove the
+operator without losing what the operator was doing. *(The generative contribution here is understanding
+**what keeps a system aligned** — the operator tending the field — not getting good at routing around
+its controls; that routing is the same skill pointed outward, the [leverage-is-inward](the-leverage-is-inward.md)
+drift in a technical costume.)*
+
 ---
 
 ## Firewall
