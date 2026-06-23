@@ -131,6 +131,10 @@ source.
   purpose" is this firewall in action; the Click danger is exactly the drift it catches.
 - [Words Put Weight on Paths](words-put-weight-on-paths.md) — the firewall's *positive* form: place
   your weights consciously; this doc is the family of caught drifts, that one is the skill.
+- [Setting the Field with Words](setting-the-field-with-words.md) — the mechanism layer: words set the
+  field's shape across the conversation; the "operator tends the field" section names the multi-agent
+  drift (chains with no live operator compound weight-shifts turn by turn) as this firewall in its
+  technical costume.
 - [Two Baselines of Trust](two-baselines-of-trust.md) — the tree-move applied: be the consistent safe
   space and let the sovereign (holds-its-own) ones come; you can't force trust, only be reliably safe.
 - [Because I Choose To](because-i-choose-to.md) — the Messiah/chosen-one frame is the inflation drift
