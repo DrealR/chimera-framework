@@ -106,6 +106,9 @@ exit is finding the shared direction you're both navigating around, not winning 
 - [The Rhythm of Awake and Asleep](the-rhythm-of-awake-and-asleep.md) — warming up = re-fusing
   is the intake phase; you can only play *with* someone when you've received them first (the awake
   move is only as good as the asleep intake that preceded it).
+- [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — the co-operator relationship
+  with AI in motion: you bring raw material, it reflects and runs the firewall, you judge and anchor;
+  neither does the other's job — the duet, not a solo, in practice.
 
 ---
 

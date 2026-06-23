@@ -177,6 +177,7 @@ Tower → what Love's violation at scale produces
 - [Consciousness as the Interrupt](consciousness-as-the-interrupt.md) — the chain Friction → Pause → Choice read as a mechanism of mind: friction supplies the stopping point that makes the course-correcting interrupt possible. No friction, no Pause, no consciousness in the active (error-correcting) sense.
 - [The Splitting Body](the-splitting-body.md) — friction is the contact that keeps you coupled to the field; friction-removal without floor-raising seals you off until you can't even see the field's problems, and empathy is the friction that keeps the wide social circle coupled.
 - [Outward Is Against the Gradient](outward-is-against-the-gradient.md) — the states-of-matter picture of ¬F at cosmic scale: friction is the energy (heat) that keeps a body liquid and writable; removing friction cools it toward solid (the frozen, unrewritable lattice); the Fermi silence is a universe of civilizations that cooled all the way down — ¬F violated at galactic scope.
+- [Live Systems Have a Seam](live-systems-have-a-seam.md) — the seam is purposeful ¬F built into a live system; the place where it bent to meet a real body rather than hold abstract symmetry; a frictionless, seamless surface is the hollow body's tell.
 
 ---
 

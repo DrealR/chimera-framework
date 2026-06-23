@@ -94,6 +94,9 @@ actual presence.
   (asleep/intake) flow; the shared present demands the awake/output phase from both.
 - [Two Baselines of Trust](two-baselines-of-trust.md) — the invitation lands differently on
   comes-to-you vs holds-its-own; you offer the present, you don't force it.
+- [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — AI is where attention already
+  is; the loop is a way to meet people where their attention lives and show the third way (work with it
+  deeply and keep the operator's seat) — a working present made, not an automated one.
 
 ---
 

@@ -98,6 +98,9 @@ beginner on a grand piano*). There is a sweet-spot match between operator skill 
   paid in real time, and can't be shortcut — the frame's true home is your own body.
 - [The Leverage Is Inward](the-leverage-is-inward.md) — keeping the operator separate "on purpose" is
   one face of the master-firewall: frame it on your own body, never as power over another's.
+- [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — the instrument-as-operator-ceiling
+  in practice: the loop and your judgment are the thing; a better model helps but the operator carries
+  the process; don't over-credit the instrument, don't under-use it.
 
 ---
 

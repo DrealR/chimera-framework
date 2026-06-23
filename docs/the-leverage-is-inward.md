@@ -136,6 +136,9 @@ source.
 - [Because I Choose To](because-i-choose-to.md) — the Messiah/chosen-one frame is the inflation drift
   in its most seductive costume (flattering, unfalsifiable); the cure is this firewall: a role not an
   identity, many not me, frame it on your own body.
+- [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — the both-sides firewall applied
+  to a partnership: the AI keeps you honest, you correct it back; neither collapses into the other —
+  the master-firewall in a two-operator instrument.
 
 ---
 

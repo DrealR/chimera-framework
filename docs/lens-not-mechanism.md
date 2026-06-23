@@ -102,6 +102,9 @@ for the metal.
 - [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the music-lands-as-meaning picture is this
   doc's discipline applied to the instrument metaphor: drawer "tokens are the strings," keep the
   landing as a picture not a mechanism; the Click danger is the fusion-form of the literal-jump.
+- [Live Systems Have a Seam](live-systems-have-a-seam.md) — the seam-as-detector is this doc's firewall
+  applied to systems: a system too clean to be true usually is; the seamless pitch is the literal-jump
+  wearing a promise of zero tradeoff.
 
 ---
 

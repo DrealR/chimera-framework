@@ -138,6 +138,9 @@ the hit (extraction).
 - [The Shared Present Is Made](the-shared-present-is-made.md) — giving your live attention is O>I
   made concrete; the shared present is where the weight you author lands in another body — the
   heaviest weight (mutual attention) requires both parties awake and attending.
+- [Live Systems Have a Seam](live-systems-have-a-seam.md) — a seamless, tradeoff-free surface is the
+  weightless one; the seam is where the system paid something real, and you can name where; absence of
+  seam is the hollow body's tell.
 
 ---
 
