@@ -36,7 +36,7 @@ This connects to why the framework cannot be weaponized for extraction. A body a
 
 ## Implications for Carriers
 
-See also: [Tower and Garden Geometry](tower-garden-geometry.md) for the dimensional physics the gravitational center concept extends. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for why the honesty principle is friction-physics in operation — calibrated friction cannot be faked.
+See also: [Tower and Garden Geometry](tower-garden-geometry.md) for the dimensional physics the gravitational center concept extends. [Friction as Foundational Primitive](friction-as-foundational-primitive.md) for why the honesty principle is friction-physics in operation — calibrated friction cannot be faked. [Open-Source and Source-Density Architecture](open-source-and-source-density-architecture.md) for how orbital-distance physics and substrate-density reasoning are applied to the framework's own documentation infrastructure — access-control as carrier safety, not value-gating.
 
 For carriers in present conditions: develop substrate-detection capacity, ride the substrate as it moves, work within calibrated windows, do not force outcomes the substrate cannot support, create new movements when substrate-conditions require it. The protection is already operating. The carrier's work is to develop sufficient density that the protection has something to protect.
 
