@@ -136,6 +136,9 @@ drift in a technical costume.)*
   holes become shared blind spots if you forget it's chosen.
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the field you set is what
   the write-head writes through; set it on purpose.
+- [The Leverage Is Inward](the-leverage-is-inward.md) — the firewall that governs how to tend the field:
+  keep the operator's leverage on their own body; "operator tends the field" (the multi-agent drift where
+  chains with no live operator compound weight-shifts turn by turn) is this firewall in technical costume.
 
 ---
 
