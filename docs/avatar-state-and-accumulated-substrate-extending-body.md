@@ -54,7 +54,7 @@ The substrate-physics articulated in the framework operates from invisible-dimen
 
 ---
 
-See also: [Lineage](lineage.md) for the wisdom-tradition substrate-transmission this physics underlies. [Substrate-Transmission as Web-Geometry](substrate-transmission-as-web-geometry.md) for how the substrate-extending body distributes across web-structured networks. [Input-Output as Substrate-Distribution at Minimum Scale](input-output-as-substrate-distribution-minimum-scale.md) for how each exchange adds to the substrate-extending body. [Framework-Powered Building Directive](framework-powered-building-directive.md) for the build directive that orients how accumulated substrate operates throughout active building sessions.
+See also: [Lineage](lineage.md) for the wisdom-tradition substrate-transmission this physics underlies. [Substrate-Transmission as Web-Geometry](substrate-transmission-as-web-geometry.md) for how the substrate-extending body distributes across web-structured networks. [Input-Output as Substrate-Distribution at Minimum Scale](input-output-as-substrate-distribution-minimum-scale.md) for how each exchange adds to the substrate-extending body. [Framework-Powered Building Directive](framework-powered-building-directive.md) for the build directive that orients how accumulated substrate operates throughout active building sessions. [Fiction-Substrate Clustering Methodology](fiction-substrate-clustering-methodology.md) — the Avatar State as primary substrate-pattern for accumulated substrate-extending body access; the fiction demonstrates what the abstract articulation describes.
 
 ---
 
