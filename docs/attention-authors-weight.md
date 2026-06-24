@@ -141,6 +141,9 @@ the hit (extraction).
 - [Live Systems Have a Seam](live-systems-have-a-seam.md) — a seamless, tradeoff-free surface is the
   weightless one; the seam is where the system paid something real, and you can name where; absence of
   seam is the hollow body's tell.
+- [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) applies
+  attention-authors-weight as the meaning-side of the word-weight mechanic; the Cube's field-setting
+  layer is the operational context where "what attention loads" becomes navigational.
 
 ---
 

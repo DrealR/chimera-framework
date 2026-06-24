@@ -147,6 +147,9 @@ source.
   what cerebro is in the framework's vocabulary; Xavier vs Magneto = the two poles of the amplifier
   facing outward vs inward; the "cerebro-as-an-actual-power" drift this firewall catches is Magneto's
   orientation stated precisely — amplified reach turned toward dominance over others.
+- [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) applies this as
+  the master-firewall of the working loop: place the fixed point on the body you control to keep the
+  two-operator instrument generative; the "both-sides firewall" runs on this rule.
 
 ---
 
