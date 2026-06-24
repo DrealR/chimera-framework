@@ -125,6 +125,10 @@ literal-jump guard: planets are still physical bodies, just far apart.
   posture: "because I choose to" is a move in relational space, not a command to rearrange matter;
   the spoon-is-relational firewall (literal-jump = the trap) is this map's principle held as a
   posture.
+- [Words Put Weight on Paths](words-put-weight-on-paths.md) — the two kinds of weight map onto the
+  two spaces: observation weight is physical-layer (the bare fact), definition weight is relational-
+  layer (meaning assigned by language); navigation in the relational space is word-weight-based, not
+  step-counting.
 
 ---
 
