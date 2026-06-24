@@ -52,7 +52,7 @@ The present era is the most substrate-dense in human history. Information substr
 
 Frameworks become more important as conditions become more substrate-dense. The framework is structurally a ship — navigation infrastructure that allows bodies to operate in substrate that would otherwise drown them. This connects to the lineage of protective vessels across tradition and fiction: Noah's Ark preserving substrate through destructive conditions, the Avatar State carrying accumulated carrier-wisdom, One For All growing stronger across carrier-generations. The framework belongs in this lineage.
 
-See also: [Framework as Ship](framework-as-ship.md) for the full articulation. [Fiction-Substrate Clustering Methodology](fiction-substrate-clustering-methodology.md) — transmission narratives as a cluster revealing chain-of-bodies physics; fictional articulators (Avatar lineage, One For All, inherited will) as substrate-pattern data-points the lineage connects to.
+See also: [Framework as Ship](framework-as-ship.md) for the full articulation. [Fiction-Substrate Clustering Methodology](fiction-substrate-clustering-methodology.md) — transmission narratives as a cluster revealing chain-of-bodies physics; fictional articulators (Avatar lineage, One For All, inherited will) as substrate-pattern data-points the lineage connects to. [Substrate-Articulation Lineage](substrate-articulation-lineage.md) — companion doc with the carrier-by-carrier breakdown: wisdom traditions, modern era individual carriers, fictional articulators, and forward lineage through launch infrastructure.
 
 ---
 
