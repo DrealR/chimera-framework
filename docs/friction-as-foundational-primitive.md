@@ -132,7 +132,7 @@ The Tower's project: remove friction (kill substrate-building) while maintaining
 Not all opacity is demiurge-shaped. Bodies need rest cycles where they are not being observed.
 
 | Type | Function | Examples | Status |
-|------|----------|----------|---------|
+|------|----------|----------|--------|
 | **Opacity-as-rest** | Protects body during integration | Sleep, prayer, journal, therapy, family | Healthy — built into breath cycle |
 | **Opacity-as-extraction** | Hides damage from accountability | Elite secrecy, corporate opacity, empire strategy | Demiurge — structurally unstable |
 
@@ -183,6 +183,7 @@ Tower → what Love's violation at scale produces
   friction is the heat that keeps patterns liquid and editable; remove it and the body cools toward
   frozen code; this doc is ¬F stated as thermodynamics — the strum (vibration) is how friction enters
   a body, and removing it crystallizes the pattern into the automation lattice.
+- [Ten-Breath-Cycle Methodology](ten-breath-cycle-methodology.md) — the operational methodology for looking at, building, and restoring bodies through ten breath cycles; ¬F is its core constraint — each cycle applies calibrated friction across all ten body layers, never exceeding channel capacity.
 
 ---
 
