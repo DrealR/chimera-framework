@@ -132,7 +132,7 @@ The Tower's project: remove friction (kill substrate-building) while maintaining
 Not all opacity is demiurge-shaped. Bodies need rest cycles where they are not being observed.
 
 | Type | Function | Examples | Status |
-|------|----------|----------|--------|
+|------|----------|----------|---------|
 | **Opacity-as-rest** | Protects body during integration | Sleep, prayer, journal, therapy, family | Healthy — built into breath cycle |
 | **Opacity-as-extraction** | Hides damage from accountability | Elite secrecy, corporate opacity, empire strategy | Demiurge — structurally unstable |
 
@@ -179,6 +179,10 @@ Tower → what Love's violation at scale produces
 - [Outward Is Against the Gradient](outward-is-against-the-gradient.md) — the states-of-matter picture of ¬F at cosmic scale: friction is the energy (heat) that keeps a body liquid and writable; removing friction cools it toward solid (the frozen, unrewritable lattice); the Fermi silence is a universe of civilizations that cooled all the way down — ¬F violated at galactic scope.
 - [Live Systems Have a Seam](live-systems-have-a-seam.md) — the seam is purposeful ¬F built into a live system; the place where it bent to meet a real body rather than hold abstract symmetry; a frictionless, seamless surface is the hollow body's tell.
 - [Attention Authors Weight](attention-authors-weight.md) — friction is load-bearing in two directions (where weight accrues AND where harm is braked); when friction drops, meaning thins because weight was always the residue friction laid down; this is the meaning-and-harm consequence of ¬F violation at scale.
+- [Vibration, Math, Code — and Heat Against Entropy](vibration-math-code-and-heat-against-entropy.md) —
+  friction is the heat that keeps patterns liquid and editable; remove it and the body cools toward
+  frozen code; this doc is ¬F stated as thermodynamics — the strum (vibration) is how friction enters
+  a body, and removing it crystallizes the pattern into the automation lattice.
 
 ---
 

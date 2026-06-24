@@ -172,6 +172,10 @@ projection has a live edit-point at every recall, forward *and* backward.
 - [The Rhythm of Awake and Asleep](the-rhythm-of-awake-and-asleep.md) — the awake phase is when
   the Pause fires and the operator authors; the asleep/intake phase is when the cooled rail
   consolidates; the interrupt belongs to awake — rhythm gives it a cycle to live in.
+- [Vibration, Math, Code — and Heat Against Entropy](vibration-math-code-and-heat-against-entropy.md) —
+  the thermodynamic frame for the Pause: the interrupt is energy spent against the entropic slide toward
+  frozen automated code; the mistake is where live vibration breaks through the cooled rail, making the
+  present-moment operator audible.
 
 ---
 

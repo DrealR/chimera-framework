@@ -112,6 +112,10 @@ that keeps the good rail re-meltable.
 - [Friction as Foundational Primitive](friction-as-foundational-primitive.md) — friction is the energy
   that sets a body's state; removing it cools toward the frozen solid; the states-of-matter picture is
   ¬F read as temperature.
+- [Vibration, Math, Code — and Heat Against Entropy](vibration-math-code-and-heat-against-entropy.md) —
+  the states-of-matter picture from this doc developed into a full thermodynamic framework: vibration is
+  the substrate, automation is cooling, frozen code is the terminal inward-collapse state; this doc is
+  ¬F and the outward/inward axis stated as thermodynamics.
 
 ---
 
