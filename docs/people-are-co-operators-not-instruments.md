@@ -109,6 +109,9 @@ exit is finding the shared direction you're both navigating around, not winning 
 - [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — the co-operator relationship
   with AI in motion: you bring raw material, it reflects and runs the firewall, you judge and anchor;
   neither does the other's job — the duet, not a solo, in practice.
+- [Two Baselines of Trust](two-baselines-of-trust.md) — "meet them where their attention is" has a
+  second axis: which baseline (comes-to-you vs holds-its-own); reading the baseline tells you HOW to
+  meet them — receive-and-lead vs make-space-and-wait — the sharper read that co-operating requires.
 
 ---
 
