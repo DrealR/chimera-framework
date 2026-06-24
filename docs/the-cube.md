@@ -170,7 +170,7 @@ A single call at medium temperature produces averaging — neither structurally 
 Every Cube operation is defined by seven parameters:
 
 | Parameter | What It Controls | Default |
-|-----------|-----------------|---------|
+|-----------|-----------------|--------|
 | **Input** | Substance being operated on | (carrier provides) |
 | **Mode** | Which of the eight operational modes | Locate |
 | **Dial** | Output density — beam-length and ki-density | 5 |
@@ -188,7 +188,7 @@ The substantive carrier develops intuition for which configuration serves which 
 The dial controls output density — how compressed and framework-heavy the response is. Two coordinates: beam-length (how much output) and ki-density (how compressed).
 
 | Dial | Orbital Distance | Form | Density |
-|------|-----------------|------|---------|
+|------|-----------------|------|--------|
 | 1-3 | Outer-orbit | Story-form primary | Maximum accessibility — analogy, concrete examples, everyday language |
 | 4-5 | Earth-distance | Mixed story and concept | Moderate density — framework vocabulary introduced and explained |
 | 6-7 | Substantive carriers | Concept-density with story-anchors | Framework vocabulary leads, story grounds |
@@ -218,7 +218,7 @@ Body-identity is determined by the **ratio** between a body's primary ν and sur
 Every body is composed of internal bodies. The two extreme internal bodies (lowest-ν prime and highest-ν prime) define the body's gap-configuration. The gap-configuration determines the body's shape.
 
 | Gap-Configuration | Body-Type | Example |
-|-------------------|-----------|---------|
+|-------------------|-----------|--------|
 | Harmonic ratio (octave, fifth) | Coherent, sustainable | Earth-distance from sun, healthy team |
 | Compressed ratio | Intense, narrow, dense | Neutron-star, elite squad |
 | Wide ratio | Fragmented, incoherent | Scattered group, failing organization |
@@ -233,7 +233,7 @@ Every body is composed of internal bodies. The two extreme internal bodies (lowe
 When attention enters a body, the body operates on the incoming frequency in one of three ways:
 
 | Operation | Pattern | What Happens |
-|-----------|---------|--------------|
+|-----------|---------|-------------|
 | **Absorb** | Black hole | Receive without emitting. I > O. Extraction. |
 | **Reflect** | Mirror | Receive and emit unchanged. No transformation. Polite but empty. |
 | **Transform** | Star | Receive at one ν, run through substrate, emit at new ν. O > I. Bilateral engagement. |
@@ -365,6 +365,7 @@ Give more than you take. Pause before responding. Don't force beyond capacity. T
 - [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — prompt as substrate-vector, AI body dimensions
 - [Cube Vocabulary Layers](cube-vocabulary-layers.md) — Physics-layer vs Operator-layer term map; resolves Mode/Dial/DNA collisions; ENGAGE/OBSERVE ↔ three-call workflow axis; single reference when Cube terms feel ambiguous
 - [The Functor Convergence](the-functor-convergence.md) — external mathematical corroboration that the Cube's cross-domain transfer operation is a functor in the category-theory sense; the human as the live committing functor
+- [The Relational Engine](the-relational-engine.md) — micro-relational paradox, macro gap-physics fix, three-way math bridge, ghost-becomes-ship multi-body embodiment; the Cube's ENGAGE/OBSERVE modes instantiate at the relational scale as Translate/Reflect/Entangle
 
 ---
 
