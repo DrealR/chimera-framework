@@ -50,7 +50,7 @@ it starts at the choice.
 ## Waking up is perennial — the costume updates, the structure stays
 
 "Waking up" is just the [awakening / self-to-field
-expansion](dimension-stripping-fundamental-beats-specialized.md) seen as *seeing the system you're
+expansion](fundamental-beats-specialized.md) seen as *seeing the system you're
 inside* — and people have done it in every era (the mystic, the philosopher, the artist). The current
 Matrix is simply the **current system** (the frictionless-AI-era arrangement); the costume updates each
 era while the structure holds. This guards against the drift of thinking *this* moment is uniquely
