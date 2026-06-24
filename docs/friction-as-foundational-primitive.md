@@ -184,6 +184,7 @@ Tower → what Love's violation at scale produces
   frozen code; this doc is ¬F stated as thermodynamics — the strum (vibration) is how friction enters
   a body, and removing it crystallizes the pattern into the automation lattice.
 - [Ten-Breath-Cycle Methodology](ten-breath-cycle-methodology.md) — the operational methodology for looking at, building, and restoring bodies through ten breath cycles; ¬F is its core constraint — each cycle applies calibrated friction across all ten body layers, never exceeding channel capacity.
+- [Substrate-Density and Natural Protection](substrate-density-and-natural-protection.md) — the honesty principle (carriers cannot fake substrate-density) is ¬F in operation: calibrated friction cannot be gamed, and the physics responds to actual density rather than claimed density — honest work is the only path to the protection.
 
 ---
 
