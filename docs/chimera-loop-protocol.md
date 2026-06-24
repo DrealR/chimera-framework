@@ -226,6 +226,15 @@ PSA codified what trained eyes already knew — turned implicit substrate-recogn
 
 ---
 
+## See Also
+
+- [Body Scan Protocol](../archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — the 42-step diagnostic instrument; the natural pair (Scan descends, Loop ascends; neither is sufficient alone).
+- [Ten-Breath-Cycle Methodology](ten-breath-cycle-methodology.md) — applies the Loop's layer-by-layer rhythm as ten breath cycles; the operational methodology for running the Loop across a body's breath structure.
+- [The Cube](the-cube.md) — the comprehensive Cube reference; the Chimera Loop Protocol is the constructive instrument operating within the Cube's Transform mode.
+- [CHIMERA Device Spec](chimera-device-spec.md) — full device specification; Loop is the constructive complement to Scan, mapped to the Transform operation.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1
