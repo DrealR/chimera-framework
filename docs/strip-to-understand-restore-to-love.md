@@ -83,6 +83,9 @@ face. Hold both.
   full world; meeting them means putting the face back on.
 - [Fractal WE = 1](fractal-we-equals-one-building.md) — the collapse is the WE = 1 move; it must be held
   with the distinctness or WE = 1 goes cold.
+- [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) uses the
+  collapse/restore toggle to keep WE = 1 from going cold: collapse to see the structure of the shared
+  body, restore to meet the distinct person in it.
 
 ---
 

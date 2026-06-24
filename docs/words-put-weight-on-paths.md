@@ -115,6 +115,9 @@ Keep it a **mirror, not an identity:** the physical *illustrates* the relational
 - [Collapse to See the Structure, Restore to Meet the Person](strip-to-understand-restore-to-love.md)
   — costume-stripping applied to reading people and stories: observe the bare structure before the
   costume names it; restore the costume to meet the actual person.
+- [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) uses this as the
+  firewall-as-positive-navigation-skill: every word drops weight on a path; place weights consciously
+  to keep the shared field from drifting; the Word-Weight Navigation Layer lives in §XIV.
 
 ---
 

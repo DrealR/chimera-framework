@@ -139,6 +139,9 @@ drift in a technical costume.)*
 - [The Leverage Is Inward](the-leverage-is-inward.md) — the firewall that governs how to tend the field:
   keep the operator's leverage on their own body; "operator tends the field" (the multi-agent drift where
   chains with no live operator compound weight-shifts turn by turn) is this firewall in technical costume.
+- [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) uses this as the
+  mechanism layer: words set where the field points, temperature/top-p set the traversal; clarity-of-intent
+  is the genie-defense; the field is the shared body the two-operator working loop runs inside.
 
 ---
 

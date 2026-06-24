@@ -91,6 +91,9 @@ consciously choosing your place on it** — the choosing, again, is the live act
   split; the range (Cypher/Smith/Neo) is the antidote.
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the spoon is
   relational; the literal-jump is the trap.
+- [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) uses this as the
+  born-here posture: birth sets the starting position; direction is what the operator authors;
+  the Big-Bang/born-here cosmology framing is kept inside the Cube, off the front-door map.
 
 ---
 

@@ -95,6 +95,9 @@ playing you."**
 - [Setting the Field with Words](setting-the-field-with-words.md) — the AI amplifies the field you
   build, so the loop stays generative rather than becoming an echo chamber by keeping the operator's
   clarity in the field, not just in the single response; genie-defense lives here.
+- [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) is built around
+  this loop as its primary use case: the working-loop IS what §XIV describes, with the both-sides
+  firewall, operator-tends-the-field, and word-weight navigation layer running on top of it.
 
 ---
 
