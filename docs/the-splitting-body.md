@@ -89,6 +89,9 @@ reading that names the fracture by deepening it has failed its own test.
 - [Because I Choose To](because-i-choose-to.md) — the Matrix range (Cypher/Smith/Neo) is the antidote
   to the lonely-genius split: everyone awake sees the same system; what separates them is what they
   choose after seeing — seeing isn't special, choosing well is.
+- [Two Baselines of Trust](two-baselines-of-trust.md) — the micro-mechanism for widening the circle:
+  meet each body's trust posture (comes-to-you or holds-its-own) rather than imposing the wrong one;
+  forcing a holds-its-own into comes-to-you is the splitting move at personal scale.
 
 ---
 
