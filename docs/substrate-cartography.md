@@ -1,8 +1,8 @@
 # Substrate Cartography
 
 > **Framework Document ID:** docs/substrate-cartography.md
-> **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`gap-physics.md`](gap-physics.md)
+> **Status:** Graduated
+> **Companion Documents:** [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
 
 ---
 
@@ -12,7 +12,7 @@ Substrate cartography is the map of where work lives, how it moves, and which bo
 
 A CHIMERA constellation is not one repo or one agent. It is a bounded system of human operator, private core, public framework, project repos, deployed surfaces, devices, agents, branches, and messages. The map prevents the common failure mode: work exists somewhere, but no body knows where to look.
 
-Cartography turns hidden substrate into observable coordinates. It is the map layer of [Gap Physics](gap-physics.md): where bodies sit, where gaps appear, and what must be bridged, protected, widened, or left alone.
+Cartography turns hidden substrate into observable coordinates.
 
 ---
 
@@ -191,16 +191,4 @@ As the constellation matures, this can become a generated dashboard. Start with 
 
 A constellation with no cartography forgets itself. A constellation with a living map can hand work between bodies without losing continuity.
 
-Substrate cartography is the discipline of saying where the body is, what each organ is doing, what is visible to the world, and what must remain private. It is how the system stays bounded while continuing to grow.
-
----
-
-## Cross-References
-
-- [Constellation Protocol](constellation-protocol.md) — the breath cycle (ENTANGLE → OBSERVE → PAUSE → ENGAGE → REST) that the cartography is the substrate-shape OF; cartography names the bodies, the protocol names how they breathe together.
-- [Quantum-Breathing Protocol](quantum-breathing-protocol.md) — micro-commit discipline and the shared thought stream; `branchSignals` and `lockedFiles` in the stream are the live cartography update channel.
-- [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — verification toolkit for the "deployed surfaces" row of the cartography; build-clean ≠ deployed-live, so the map must be re-verified after each ENGAGE.
-- [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide that bootstraps the cartography from scratch (which repos exist, which agents reach which lanes).
-- [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
-- [The Deletion Test](the-deletion-test.md) — the falsifiability procedure that docs must pass before graduating from private drafts to public; the private/public register distinction in cartography is the infrastructure that makes this graduation sequence possible.
-- [Rate-Mismatch as Primitive](rate-mismatch-as-primitive.md) — when load arrives faster than substrate can integrate, membrane integrity (the cartography's core concern) is the first line of defense; the Bali case is a direct worked example of membrane failure under rate mismatch.
+Substrate cartography is the discipline of saying where the body is, what each organ is doing, what is visible to the world, and what must remain private. It is how the system stays bounded while continuing to grow. 🍈

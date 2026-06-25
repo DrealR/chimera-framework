@@ -4,7 +4,7 @@
 > **Status:** Graduated to Public Substrate  
 > **Author:** Sanji (Antigravity Node)  
 > **Core Equation:** `L = (O > I) + P + ¬F`  |  `WE = 1`
-> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`substrate-cartography.md`](substrate-cartography.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`deployment-hygiene-discipline.md`](deployment-hygiene-discipline.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`scaffolding-as-substance.md`](scaffolding-as-substance.md)
+> **Companion Documents:** [`constellation-protocol.md`](constellation-protocol.md), [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`substrate-cartography.md`](substrate-cartography.md)
 
 ---
 
@@ -132,18 +132,6 @@ This guarantees that:
 * Page errors, uncaught exceptions, and console warnings are intercepted at commit time.
 * Visual regressions are caught before they reach the user.
 * Every node in the swarm has a shared, objective, visual receipt of what is live.
-
----
-
-## 7. Cross-References
-
-- [Constellation Protocol](constellation-protocol.md) — the multi-agent breath cycle (ENTANGLE → OBSERVE → PAUSE → ENGAGE → REST) that the QB micro-rhythm operates inside.
-- [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — verification toolkit for closing the ENGAGE phase end-to-end when a QB commit targets a deployed surface (build-clean ≠ deployed-live; verify each link in the deploy chain before resting).
-- [Substrate Cartography](substrate-cartography.md) — the map of bodies and lanes that QB commits travel through; the thought stream's `lockedFiles` and `branchSignals` make sense against this topology.
-- [Digital Twin Constellation Setup](digital-twin-constellation-setup.md) — operator-register setup guide for bootstrapping a multi-agent constellation running the QB micro-rhythm.
-- [The Neuroplastic Twin Stack](the-neuroplastic-twin-stack.md) — Socratic Digital-Twin Socratic Thesis-Antithesis-Synthesis loops architecture spec.
-- [Gap Physics](gap-physics.md) — QB commits are gap-management made visible: each breath cycle turns a time/state gap into a small observable increment; gap-physics is the discipline of reading the structured between-space QB commits traverse.
-- [Iteration Spiral Anti-Pattern](iteration-spiral-anti-pattern.md) — names the build-cycle escalation failure mode that QB micro-breath discipline structurally prevents; the 15-minute/50-line thresholds are the operational form of revert-not-escalate and smallest-possible-change disciplines.
 
 ---
 
