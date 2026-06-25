@@ -110,6 +110,7 @@ See also: [Resonance Through Variance](resonance-through-variance.md) — the op
 - [Real-Use Trust Graph](real-use-trust-graph.md) — WE = 1 made visible at local-economy scale; naming the people and places you genuinely use in your life is substrate attribution, not social performance; the trust graph is the relational substrate made navigable.
 - [The Splitting Body](the-splitting-body.md) — WE = 1 fracturing at social scale; mutual recognition breaking is the social black hole; the cure and its firewall: hold WE = 1 even while naming the split, or you become the split.
 - [Fractal WE=1 — Building Discipline Across Scales](fractal-we-equals-one-building.md) — WE=1 extended into building discipline; the principle that holds at substrate level must hold at every scale of any built system, or the system fragments; three operational checks (radiate-or-accumulate, natural rhythm, clean coupling) for each piece.
+- [Observation as Transduction](observation-as-transduction.md) — the physics under the WE=1 multi-body claim: one source, many transducers, each reading a different band; the plurality is in the transducers, not in the source; what makes WE=1 structurally grounded rather than metaphysical.
 
 ---
 
