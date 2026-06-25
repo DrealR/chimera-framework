@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/push-pull-as-fundamental-force.md
 > **Status:** Graduated to Public Substrate
-> **Companion Documents:** [`gap-physics.md`](gap-physics.md), [`flow-vs-transaction.md`](flow-vs-transaction.md), [`input-output-as-substrate-distribution-minimum-scale.md`](input-output-as-substrate-distribution-minimum-scale.md), [`substrate-accumulation.md`](substrate-accumulation.md), [`the-relational-engine.md`](the-relational-engine.md), [`WHAT-IS-CHIMERA.md`](WHAT-IS-CHIMERA.md), [`rate-mismatch-as-primitive.md`](rate-mismatch-as-primitive.md)
+> **Companion Documents:** [`gap-physics.md`](gap-physics.md), [`flow-vs-transaction.md`](flow-vs-transaction.md), [`input-output-as-substrate-distribution-minimum-scale.md`](input-output-as-substrate-distribution-minimum-scale.md), [`substrate-accumulation.md`](substrate-accumulation.md), [`the-relational-engine.md`](the-relational-engine.md), [`WHAT-IS-CHIMERA.md`](WHAT-IS-CHIMERA.md), [`rate-mismatch-as-primitive.md`](rate-mismatch-as-primitive.md), [`framework-as-band-not-spectrum.md`](framework-as-band-not-spectrum.md)
 
 ---
 
