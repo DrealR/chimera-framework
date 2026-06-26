@@ -93,6 +93,10 @@ the gift is never the heroism — the direction is.**
   *direction* or the *core;* the operator brings those or there's nothing to scale.
 - [The Direction Axis](the-direction-axis.md) — it scales whichever way the operator faces; Xavier and
   Magneto are the two poles of that axis holding the same amplifier.
+- [Direction Is Upstream of Good and Evil](direction-upstream-of-good-and-evil.md) — the moral charge
+  under the Xavier/Magneto split: good/evil stutters on the sympathetic villain, but direction (inward
+  vs outward) holds; the amplifier scales direction, not intent, which is why Magneto's orientation is
+  the more precise diagnosis than "bad guy with powers."
 - [The Legal Moves](the-legal-moves.md) — using the amplifier well is staying inside the legal moves:
   anchored, present, outward, verified.
 - [The Reflect-and-Connect Method](the-reflect-and-connect-method.md) — AI accelerates the *reflection*
