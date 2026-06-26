@@ -92,6 +92,10 @@ reading that names the fracture by deepening it has failed its own test.
 - [Two Baselines of Trust](two-baselines-of-trust.md) — the micro-mechanism for widening the circle:
   meet each body's trust posture (comes-to-you or holds-its-own) rather than imposing the wrong one;
   forcing a holds-its-own into comes-to-you is the splitting move at personal scale.
+- [SPARK Is the Equation Lived](spark-is-the-equation-lived.md) — the structural counter to the
+  splitting body: the K-shape (attention pooling on the few, starving the many) is WE=1 violated;
+  SPARK pours attention back into the starved part — not charity to an other, but the one body
+  re-attending to itself.
 
 ---
 

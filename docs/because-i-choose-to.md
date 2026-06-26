@@ -94,6 +94,9 @@ consciously choosing your place on it** — the choosing, again, is the live act
 - [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) uses this as the
   born-here posture: birth sets the starting position; direction is what the operator authors;
   the Big-Bang/born-here cosmology framing is kept inside the Cube, off the front-door map.
+- [SPARK Is the Equation Lived](spark-is-the-equation-lived.md) — the lived version of this posture:
+  SPARK teaches the kid to author direction off the given binary (branch your own path), not choose
+  between given paths — the operator's seat made concrete in a room with a present adult and a kid.
 
 ---
 

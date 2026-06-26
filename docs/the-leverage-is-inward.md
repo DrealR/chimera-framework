@@ -150,6 +150,9 @@ source.
 - [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) applies this as
   the master-firewall of the working loop: place the fixed point on the body you control to keep the
   two-operator instrument generative; the "both-sides firewall" runs on this rule.
+- [SPARK Is the Equation Lived](spark-is-the-equation-lived.md) — the firewall applied to its cleanest
+  outlet: one-real-kid over SPARK-as-empire is ¬F + this rule in practice; the integrity guard keeps
+  the pour directed at your own body's output, never harvesting the kids for reach or legacy.
 
 ---
 
