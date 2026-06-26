@@ -177,6 +177,7 @@ projection has a live edit-point at every recall, forward *and* backward.
   frozen automated code; the mistake is where live vibration breaks through the cooled rail, making the
   present-moment operator audible.
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the interrupt's highest-stakes application: AI compresses the time between attention and re-weighting, so the Pause must fire faster and more reliably than any previous tool required; the one-free-variable is now under the heaviest write-load in history.
+- [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the Pause is what holds the anchor under the pull of wall-less relational space; the interrupt is the mechanism that keeps the mind tethered to the physical floor when the fastest vehicle in history is pulling it into a space with no floor and no brakes.
 
 ---
 

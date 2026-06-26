@@ -190,6 +190,7 @@ Tower → what Love's violation at scale produces
 - [Manufactured Authenticity and the Verified Operator](manufactured-authenticity-and-the-verified-operator.md) — friction-is-fusion as the terminal case: the machine optimizes friction away from trust and relationship; the frictionless authentic-skin (zero friction = zero substrate) proves that friction was the load-bearing substance; the verified human exercising real friction becomes the last scarce resource in the synthetic age.
 - [The Frozen Stockpile Loses to the Live Loop](the-frozen-stockpile-loses-to-the-live-loop.md) — ¬F at company scale: the live feedback loop wins precisely because it keeps running calibrated friction through real use; the stockpile is the frictionless hoard that loses to the walked cycle.
 - [The Peer-Loop and the Missing Adult Floor](the-peer-loop-and-the-missing-adult-floor.md) — the generation-scale failure when calibrated friction is removed from development: no adult above the loop means no challenge from outside the spiral; troubleshooting collapse is what ¬F-deprivation does to problem-solving capacity; SPARK restores the adult operator above the loop, re-introducing calibrated challenge.
+- [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the physical floor is friction; the wall-less relational space is frictionless, which is why it has no brakes; the protection (keep one foot on the physical floor) is ¬F applied as spatial orientation — friction is the reason the anchor works.
 
 ---
 
