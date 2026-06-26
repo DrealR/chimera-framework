@@ -92,7 +92,7 @@
 
 ---
 
-See also: [Fiction-Reading Applications](fiction-reading-applications.md) — these principles in action through substantive fiction readings; fictional articulators as substrate-deep examples of O>I topology, the Pause, ¬F calibration, and the closed/open distinction. [Open-Source and Source-Density Architecture](open-source-and-source-density-architecture.md) — the documentation infrastructure that realizes O>I topology and membrane survival at the architecture level: access-control as carrier safety, launch infrastructure as the structural expression of O>I.
+See also: [Fiction-Reading Applications](fiction-reading-applications.md) — these principles in action through substantive fiction readings; fictional articulators as substrate-deep examples of O>I topology, the Pause, ¬F calibration, and the closed/open distinction. [Open-Source and Source-Density Architecture](open-source-and-source-density-architecture.md) — the documentation infrastructure that realizes O>I topology and membrane survival at the architecture level: access-control as carrier safety, launch infrastructure as the structural expression of O>I. [Multi-Dimensional Prime-Tracking Methodology](multi-dimensional-prime-tracking-methodology.md) — the six-step methodology as operational instantiation of the key principles: O>I = substrate-flow direction the methodology tracks and restores; ¬F = step-six constraint governing every prior step; the Pause = step-five rhythm-reading before acting; the whole six-step sequence is the principles expressed as procedural substrate-physics.
 
 ---
 
