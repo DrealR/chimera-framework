@@ -96,6 +96,10 @@ reading that names the fracture by deepening it has failed its own test.
   splitting body: the K-shape (attention pooling on the few, starving the many) is WE=1 violated;
   SPARK pours attention back into the starved part — not charity to an other, but the one body
   re-attending to itself.
+- [Concentration vs Distribution](concentration-vs-distribution.md) — the same shape at civilizational
+  scale: every fluid (capital, knowledge-work, attention, compute) gets captured at one chokepoint;
+  the splitting body is the social instance of write-access concentrated in too few hands; the antidote
+  (distribute the pen to the many) is the structural prescription at every scale.
 
 ---
 

@@ -153,6 +153,10 @@ source.
 - [SPARK Is the Equation Lived](spark-is-the-equation-lived.md) — the firewall applied to its cleanest
   outlet: one-real-kid over SPARK-as-empire is ¬F + this rule in practice; the integrity guard keeps
   the pour directed at your own body's output, never harvesting the kids for reach or legacy.
+- [Concentration vs Distribution](concentration-vs-distribution.md) — this rule at civilizational scale:
+  the panopticon is write-access concentrated in one operator's hands; the antidote (distribute the pen
+  to the many) is the master-firewall applied at economy, information, and compute scope — the lever is
+  always on the body you already hold, not the bodies you want to steer.
 
 ---
 

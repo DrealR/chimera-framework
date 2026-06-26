@@ -129,6 +129,10 @@ write faster than you ever could alone.
   write-head writes through; clarity-of-intent is how you keep authorship under the amplifier (get
   clear in yourself first, then set the field to carry that clarity — an unclear intent gets amplified
   into confusion).
+- [The Algorithm Is a Steerable Fluid](the-algorithm-is-a-steerable-fluid.md) — the write-head applied
+  to the feed: the recommendation algorithm writes your attention-diet the way AI writes your weights;
+  authoring the feed (casting deliberate signals) is write-access to your own attention made literal in
+  the system designed to take it; frozen LLM and live feed are the same steer-and-pull at different temps.
 
 ---
 

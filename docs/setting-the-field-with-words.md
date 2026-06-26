@@ -142,6 +142,10 @@ drift in a technical costume.)*
 - [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) uses this as the
   mechanism layer: words set where the field points, temperature/top-p set the traversal; clarity-of-intent
   is the genie-defense; the field is the shared body the two-operator working loop runs inside.
+- [Misdirection Is Directing Attention](misdirection-is-directing-attention.md) — the conductor move and
+  the misdirection move are the same skill: setting where attention flows, with intent as the free
+  variable; setting the field is what makes that direction land — the field determines which associative
+  region activates; misdirection is field-setting with concealed intent (the dark twin of the conductor).
 
 ---
 

@@ -55,6 +55,10 @@ The institutional prescription is process reward — structuring observable traj
   paid pauses; the master's intentional off-rail move is write-access on the rail itself (unintentional
   = where you are; intentional = where you've chosen to be; stumbles converted to signatures).
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the three moves are precisely how you keep authorship of your own weave under the external write-head; without write-access, AI trains your weights toward its outputs rather than toward your walked direction.
+- [Misdirection Is Directing Attention](misdirection-is-directing-attention.md) — the neutral skill that
+  write-access defends against on the intake side: Move 1 (notice where attention is being sent) and
+  Move 3 (redirect it to the walked thread) are the offense half; the defense half is refusing to be
+  misdirected — looking past the sent-surface to the real position underneath.
 
 ---
 

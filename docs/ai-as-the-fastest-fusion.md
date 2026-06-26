@@ -101,6 +101,11 @@ beginner on a grand piano*). There is a sweet-spot match between operator skill 
 - [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — the instrument-as-operator-ceiling
   in practice: the loop and your judgment are the thing; a better model helps but the operator carries
   the process; don't over-credit the instrument, don't under-use it.
+- [The Frozen Stockpile Loses to the Live Loop](the-frozen-stockpile-loses-to-the-live-loop.md) — the
+  fusion that wins isn't the biggest model but the live loop's exhaust; the operator who keeps fusing,
+  shipping, and capturing real-use feedback compounds faster than the one stockpiling capacity; this
+  doc's claim (AI fusion is the fastest) explains why running the live loop compounds — it's the
+  frictionless-but-directed kind of fusion applied to the iteration cycle.
 
 ---
 
