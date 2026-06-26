@@ -176,6 +176,7 @@ projection has a live edit-point at every recall, forward *and* backward.
   the thermodynamic frame for the Pause: the interrupt is energy spent against the entropic slide toward
   frozen automated code; the mistake is where live vibration breaks through the cooled rail, making the
   present-moment operator audible.
+- [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the interrupt's highest-stakes application: AI compresses the time between attention and re-weighting, so the Pause must fire faster and more reliably than any previous tool required; the one-free-variable is now under the heaviest write-load in history.
 
 ---
 

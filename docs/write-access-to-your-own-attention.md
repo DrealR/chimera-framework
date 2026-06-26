@@ -54,6 +54,7 @@ The institutional prescription is process reward — structuring observable traj
 - [The Mistake as Location](the-mistake-as-location.md) — mastery is the cooled result of repeated
   paid pauses; the master's intentional off-rail move is write-access on the rail itself (unintentional
   = where you are; intentional = where you've chosen to be; stumbles converted to signatures).
+- [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the three moves are precisely how you keep authorship of your own weave under the external write-head; without write-access, AI trains your weights toward its outputs rather than toward your walked direction.
 
 ---
 

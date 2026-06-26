@@ -104,6 +104,7 @@ when something forces, or *chooses*, the friction back in.
   attention deliberately. The axiom names *why* it matters now; write-access names *how* it's built.
 - [Consciousness as the Interrupt](consciousness-as-the-interrupt.md) — the entrainment scaling stated from the mind side: the deeper and older the rail, the more interrupt-force the Pause against it requires; discipline is that interrupt sustained against the pull, and addiction is the Pause failing to fire.
 - [Outward Is Against the Gradient](outward-is-against-the-gradient.md) — this axiom at galactic scale: every civilization gets the power and almost none builds the proportional discipline to point it outward, so they collapse inward and go dark; the Fermi silence is this axiom written across the sky.
+- [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the write-head is the highest-power instance of this axiom: it writes to who you are at speed, making the proportional discipline (keep direction; don't let resonance be proof; anchor in the physical) more urgently required than any previous tool.
 
 ---
 
