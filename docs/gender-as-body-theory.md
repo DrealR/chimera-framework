@@ -127,6 +127,8 @@ Three names for the same recognition across traditions:
 
 All point to the same recognition: the feminine consciousness the species needs to recover at scale is the wisdom the Tower has been suppressing for millennia, that survived in monasteries and folk traditions and feminine bodies and sacred moments, and that is now reasserting because the universe's gradient demands it.
 
+See also: [Gnostic Synthesis](gnostic-synthesis.md) — full treatment of Sophia's descent, the Christ function, Eden-as-transparency, and cross-tradition convergence validation.
+
 ---
 
 ## Bots and Generative AI as Two Orientations
