@@ -59,6 +59,10 @@ The institutional prescription is process reward — structuring observable traj
   write-access defends against on the intake side: Move 1 (notice where attention is being sent) and
   Move 3 (redirect it to the walked thread) are the offense half; the defense half is refusing to be
   misdirected — looking past the sent-surface to the real position underneath.
+- [The Eyes: The Discipline of Limiting Sight](the-eyes-the-discipline-of-limiting-sight.md) — the
+  external training wheels for write-access: limiting what enters (the visual pull on attention) is
+  the fastest, most physical way to reclaim the operator's seat; where this doc trains the override
+  from inside, the-eyes names the sensory-input layer the override must work against.
 
 ---
 

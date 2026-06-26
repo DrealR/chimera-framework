@@ -97,6 +97,10 @@ consciously choosing your place on it** — the choosing, again, is the live act
 - [SPARK Is the Equation Lived](spark-is-the-equation-lived.md) — the lived version of this posture:
   SPARK teaches the kid to author direction off the given binary (branch your own path), not choose
   between given paths — the operator's seat made concrete in a room with a present adult and a kid.
+- [Not Getting Installed by AI](not-getting-installed-by-ai.md) — Neo wins by choosing *through*
+  the install, not fighting it; the one weight that cannot be overwritten is a choice freely made;
+  this doc is the literacy layer for keeping that weight yours when AI is the surface doing the
+  installing.
 
 ---
 
