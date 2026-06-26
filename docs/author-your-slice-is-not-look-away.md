@@ -8,7 +8,7 @@
 
 ## 0. The claim, stated once
 
-**Authoring your slice — choosing where your attention lives — is an inner discipline, not a verdict on what's worth seeing. As a response to someone naming a specific harm, "focus on the good" tips into look-away (the opposite failure from doom-tilt) and reads as minimizing. The cross holds both axes: name the wrong (judge actions, not essences) AND keep your own attention conducted toward the good — both, not instead. Collapsing the both-and into an either/or is the error, and low-bandwidth arenas flatten it there by default.**
+**Authoring your slice — choosing where your attention lives — is an inner discipline, not a verdict on what's worth seeing. As a response to someone naming a *specific, concrete harm to address*, "focus on the good" can tip into look-away (the opposite failure from doom-tilt) and read as minimizing. But the discernment is *what is being named*: a specific harm is one thing; a *manufactured group-blame framing* (a non-revelation weaponized into prejudice) is another — and refusing that one isn't look-away, it's refusing the install. The cross holds both axes: name a real wrong (judge actions, not essences) AND keep your attention conducted — both, not instead. The error is collapsing the both-and into an either/or; the skill is knowing which kind of "harm" you're being handed.**
 
 ---
 
@@ -20,9 +20,13 @@ Focus-on-the-good as an *inner* discipline is the authored-slice — healthy. Bu
 
 A disagreement often runs on the two axes of `the-cross-as-the-operators-shape`: the **horizontal** (collective action — confront the wrong out there) and the **interior** (where your own attention lives). Both are real; the cross holds both. **Keeper:** the strong version *includes* the other axis — *"you're right to name it, AND keep your inner attention conducted toward the good."* Dropping one axis (a "no, focus on the good") fuses two claims into a false either/or and reads as dismissal.
 
-## 3. Judge actions, not essences — the right move and the slide
+## 3. The test: a specific harm, or a manufactured framing?
 
-The legitimate firewall is *don't define a whole group by its worst* (`judge-actions-not-essences`) — and that stands. **Firewall on yourself:** watch the slide from *don't-define-the-group-by-its-worst* (right) into *don't-dwell-on-the-wrong-at-all* (minimizing). Keep the first; drop the second. You can refuse the collective-blame frame *and* still see the specific harm.
+The line between *author your slice* and *look-away* is **what is being named:**
+- **A specific, concrete harm to address** → "focus on the good" *can* become look-away (declining to see the thing someone is pointing at). Keep the firewall here, and still hold `judge-actions-not-essences` (refuse the collective-blame frame *and* see the specific harm).
+- **A manufactured group-blame framing** — a universal fact (e.g. "every group has racists") presented as a special *exposé* of one group, performed-shock manufacturing outrage from a non-revelation → refusing it is **not** look-away. It's `judge-actions-not-essences` + `read-the-intent-not-the-realness` + `knowing-as-installation` (refuse-the-install) at once. Run *what is this doing*: it changes no wrongdoer, it just installs a worse weight in the viewer and farms outrage — failing its stated purpose, succeeding at the unstated one. Declining to be moved by it is the correct operator move.
+
+*(A correction the framework made on itself: a comment resisting a "World Cup exposes Argentine racism" video first read as a slide into look-away; with the video's framing restored, it was the **second** case — refusing to let a bait video install group-prejudice. The other party collapsing "I won't adopt prejudice from a bait video" into "so you think racism is fine" was *their* flattening, not a slide. The principle held; the first application was context-blind — the discernment is the test above.)*
 
 ## 4. Know the arena (it flattens two-axis nuance)
 
