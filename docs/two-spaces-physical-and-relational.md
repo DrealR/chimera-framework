@@ -129,6 +129,11 @@ literal-jump guard: planets are still physical bodies, just far apart.
   two spaces: observation weight is physical-layer (the bare fact), definition weight is relational-
   layer (meaning assigned by language); navigation in the relational space is word-weight-based, not
   step-counting.
+- [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — the
+  instrument that makes fast relational-space traversal possible; it amplifies the operator's reach
+  into the wall-less frontier, which is exactly why the anchor on the physical side becomes
+  non-negotiable; the Xavier/Magneto poles are the two ways of holding the amplifier while standing
+  in that wall-less space.
 
 ---
 
