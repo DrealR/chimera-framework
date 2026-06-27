@@ -111,6 +111,8 @@ See also: [Resonance Through Variance](resonance-through-variance.md) — the op
 - [The Splitting Body](the-splitting-body.md) — WE = 1 fracturing at social scale; mutual recognition breaking is the social black hole; the cure and its firewall: hold WE = 1 even while naming the split, or you become the split.
 - [Fractal WE=1 — Building Discipline Across Scales](fractal-we-equals-one-building.md) — WE=1 extended into building discipline; the principle that holds at substrate level must hold at every scale of any built system, or the system fragments; three operational checks (radiate-or-accumulate, natural rhythm, clean coupling) for each piece.
 - [Observation as Transduction](observation-as-transduction.md) — the physics under the WE=1 multi-body claim: one source, many transducers, each reading a different band; the plurality is in the transducers, not in the source; what makes WE=1 structurally grounded rather than metaphysical.
+- [The Eye-Lock: Mutual Recognition](the-eye-lock-mutual-recognition.md) — the smallest unit of WE = 1 enacted: two interiors recognizing each other as interiors; the mutual gaze is the minimum-cardinality shared-body event; being-seen-back is partly constitutive of the self, so automation that removes mutual gaze removes the recognition that holds WE = 1 at the personal scale.
+- [The Conductor as the Operator](the-conductor-as-the-operator.md) — P (the present human) made literal at orchestra scale; the conductor holds the unified *now* the players cannot supply from inside their own parts; WE = 1 requires a live present to be one body rather than many correct parts playing separately.
 
 ---
 

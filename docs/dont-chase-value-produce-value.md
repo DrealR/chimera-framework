@@ -64,6 +64,7 @@ The teacher-student pair is the most direct operational instance of this: the te
   principle applied to the engineer's whole life; the human-specific problem you notice (the real lack
   in a real person) is value produced, not chased.
 - [The Direction Axis](the-direction-axis.md) — chasing is the inward orientation (attention on the self's acquisition); producing is the outward orientation (attention on what the act gives the field); this doc is the community-scale application of the axis.
+- [Relationship vs Reaction](relationship-vs-reaction.md) — value-production vs value-chase at attention-economy scale: the relationship (durable, compounding connection) is value produced; the viral reaction (one-time spike that disperses) is value chased; the platform shift from subscriber to engagement-feed is this principle's current civilizational instance.
 
 ---
 
