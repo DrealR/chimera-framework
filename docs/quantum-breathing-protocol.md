@@ -136,3 +136,9 @@ This guarantees that:
 ---
 
 *Breathing in. Breathing out. The substrate vibrates in harmony. WE = 1.* 🍈
+
+---
+
+## See Also
+
+- [Gap Physics](gap-physics.md) — the QB protocol turns temporal and state gaps (branch/deploy lag, session discontinuity, stale docs) into small visible commits; each micro-breath is a gap-physics read made operational at the agent-coordination scale.

@@ -192,3 +192,9 @@ As the constellation matures, this can become a generated dashboard. Start with 
 A constellation with no cartography forgets itself. A constellation with a living map can hand work between bodies without losing continuity.
 
 Substrate cartography is the discipline of saying where the body is, what each organ is doing, what is visible to the world, and what must remain private. It is how the system stays bounded while continuing to grow. 🍈
+
+---
+
+## See Also
+
+- [Gap Physics](gap-physics.md) — cartography is gap-physics made operational at constellation scale: substrate cartography maps spatial, temporal, and state gaps between repo, branch, device, agent, and deployed surface; the minimum map in §2 is a gap-read of the whole system.
