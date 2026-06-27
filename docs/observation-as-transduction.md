@@ -83,6 +83,7 @@ This is the load-bearing physics under the framework's `WE = 1` claim that *cons
 - [The Deletion Test](the-deletion-test.md) — distinguishes correct band-transduction readings from projection; the falsifiability procedure that makes this doc's claims checkable.
 - [What Is CHIMERA?](WHAT-IS-CHIMERA.md) — applies the transducer model to the framework itself; names observation-as-transduction as the physics behind why CHIMERA is a band, not the full spectrum.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — naming real-use relationships is a transduction act; the invisible substrate (who you actually depend on) becomes visible signal; the trust graph is transduced substrate made navigable.
+- [The Direction Axis](the-direction-axis.md) — the direction of the weighting (toward self vs toward field) determines whether a transduction act generates or extracts; this doc names the observation operation, the direction-axis names the facing that decides its valence.
 
 ---
 

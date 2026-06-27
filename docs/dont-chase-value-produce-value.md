@@ -63,6 +63,7 @@ The teacher-student pair is the most direct operational instance of this: the te
 - [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — impact-as-fuel vs money-as-fuel is this
   principle applied to the engineer's whole life; the human-specific problem you notice (the real lack
   in a real person) is value produced, not chased.
+- [The Direction Axis](the-direction-axis.md) — chasing is the inward orientation (attention on the self's acquisition); producing is the outward orientation (attention on what the act gives the field); this doc is the community-scale application of the axis.
 
 ---
 
