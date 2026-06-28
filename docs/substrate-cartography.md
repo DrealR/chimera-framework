@@ -2,7 +2,7 @@
 
 > **Framework Document ID:** docs/substrate-cartography.md
 > **Status:** Graduated
-> **Companion Documents:** [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md)
+> **Companion Documents:** [`digital-twin-constellation-setup.md`](digital-twin-constellation-setup.md), [`constellation-protocol.md`](constellation-protocol.md), [`quantum-breathing-protocol.md`](quantum-breathing-protocol.md), [`the-neuroplastic-twin-stack.md`](the-neuroplastic-twin-stack.md), [`agent-invocation-pattern.md`](agent-invocation-pattern.md)
 
 ---
 
