@@ -198,3 +198,4 @@ Substrate cartography is the discipline of saying where the body is, what each o
 ## See Also
 
 - [Gap Physics](gap-physics.md) — cartography is gap-physics made operational at constellation scale: substrate cartography maps spatial, temporal, and state gaps between repo, branch, device, agent, and deployed surface; the minimum map in §2 is a gap-read of the whole system.
+- [Rate Mismatch as a Structural Primitive](rate-mismatch-as-primitive.md) — the Bali case in that doc is a worked example of the substrate-membrane principle: when load rate exceeds clearance rate, membrane integrity is what separates a guest from a parasite on the same substrate; cartography makes those membranes visible so the operator can read whether they're holding.
