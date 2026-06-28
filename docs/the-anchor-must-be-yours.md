@@ -141,6 +141,7 @@ it** — the only freedom worth having and the only fuel that lasts.
   where the problems are, so the machine inherits the anchor the life dissolved.
 - [Lens, Not Mechanism](lens-not-mechanism.md) — scope complement: "my framework is the secret the labs lack" is the inward-turn; the scope discipline that CHIMERA operates on your direction, never on the machine's gradients, is what makes the anchor distinction operationally checkable.
 - [Being Yourself Is the Gift](being-yourself-is-the-gift.md) — self-acceptance is the anchor at the identity level: the performer performs because the anchor is external (wanting acceptance from others); being yourself is the anchor operating correctly — the strategic direction is yours because you're not outsourcing it to the crowd's approval; un-performance and anchor-ownership are the same structure.
+- [Let Structure Emerge, Don't Blueprint It](let-structure-emerge-dont-blueprint-it.md) — the anchor principle at organizational scale: blueprinting the big structure before running a real instance is the strategic-direction-outsourced-to-vision failure at build scale; the anchor is the small specific working unit, and the bigger structure must emerge from it rather than being designed from a vision of completion.
 
 ---
 

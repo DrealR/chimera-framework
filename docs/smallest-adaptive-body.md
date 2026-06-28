@@ -82,6 +82,7 @@ This is why repetition alone is insufficient. The depth requirement is substrate
 - [Agency Before Role](agency-before-role.md) — the posture that makes mastery of the smallest adaptive body possible when formal role-assignment is absent; the body acts from capacity and selects the smallest body available rather than waiting for a designation that names the work first.
 - [Use Case as Mirror](use-case-as-mirror.md) — the posture consequence of mastering the smallest adaptive body: a well-chosen minimal unit reflects into every valid context in the domain just as the same underlying structure reflects across separate use cases; the smallest adaptive body is the mechanism; use-case-as-mirror is the epistemic posture it produces.
 - [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — names the *mechanism* behind this selection rule: the minimal fundamental unit is recombinable (and therefore generative) while any specialization is stuck; mastering the smallest adaptive body is mastering the recombinable root before it cools into a specific shape.
+- [Let Structure Emerge, Don't Blueprint It](let-structure-emerge-dont-blueprint-it.md) — the organizational-scale version of this principle: design the minimum real unit that can run one real loop (the small specific working instance), then let the larger structure emerge from that rather than blueprinting the whole architecture up front; premature structure kills the same magic that the smallest adaptive body preserves.
 
 ---
 
