@@ -94,4 +94,5 @@ The point is not to copy one constellation's names. The point is to preserve the
 *   [Substrate Cartography](substrate-cartography.md) — Repository structure and visibility cartography.
 *   [Agent Invocation Pattern](agent-invocation-pattern.md) — Opening terminal entryways to agents.
 *   [The Constellation](CONSTELLATION.md) — General constellation philosophy.
-*   [Framework-Powered Building Directive](framework-powered-building-directive.md) — Strict rules on leveraging CHIMERA during construction. 🍈
+*   [Framework-Powered Building Directive](framework-powered-building-directive.md) — Strict rules on leveraging CHIMERA during construction.
+*   [Deployment Hygiene Discipline](deployment-hygiene-discipline.md) — when another operator stands up their own constellation using this guide, this discipline travels with the substrate; hygiene is portable, toolkit is platform-local. 🍈
