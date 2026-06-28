@@ -142,3 +142,4 @@ This guarantees that:
 ## See Also
 
 - [Gap Physics](gap-physics.md) — the QB protocol turns temporal and state gaps (branch/deploy lag, session discontinuity, stale docs) into small visible commits; each micro-breath is a gap-physics read made operational at the agent-coordination scale.
+- [Iteration Spiral Anti-Pattern](iteration-spiral-anti-pattern.md) — the build-cycle discipline that the QB micro-breath limits (15-min/50-line) structurally protect against: escalating fix scope past the point of revertability. QB Protocol is structural protection against iteration spirals at the commit-frequency layer.
