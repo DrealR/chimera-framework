@@ -191,6 +191,7 @@ Tower → what Love's violation at scale produces
 - [The Frozen Stockpile Loses to the Live Loop](the-frozen-stockpile-loses-to-the-live-loop.md) — ¬F at company scale: the live feedback loop wins precisely because it keeps running calibrated friction through real use; the stockpile is the frictionless hoard that loses to the walked cycle.
 - [The Peer-Loop and the Missing Adult Floor](the-peer-loop-and-the-missing-adult-floor.md) — the generation-scale failure when calibrated friction is removed from development: no adult above the loop means no challenge from outside the spiral; troubleshooting collapse is what ¬F-deprivation does to problem-solving capacity; SPARK restores the adult operator above the loop, re-introducing calibrated challenge.
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the physical floor is friction; the wall-less relational space is frictionless, which is why it has no brakes; the protection (keep one foot on the physical floor) is ¬F applied as spatial orientation — friction is the reason the anchor works.
+- [The Love Is the Depth, Not the Topic](the-love-is-the-depth-not-the-topic.md) — the love is friction-engaged depth: nobody loves a topic, the love is the way of engaging (going deep enough to see the beauty in it); ¬F governs this — money-pressure is anti-friction-calibration that kills the love precisely because it applies force from outside the body's own motivation; the obligation-vs-love distinction is ¬F at the level of intrinsic learning.
 
 ---
 

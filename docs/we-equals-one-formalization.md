@@ -113,6 +113,7 @@ See also: [Resonance Through Variance](resonance-through-variance.md) — the op
 - [Observation as Transduction](observation-as-transduction.md) — the physics under the WE=1 multi-body claim: one source, many transducers, each reading a different band; the plurality is in the transducers, not in the source; what makes WE=1 structurally grounded rather than metaphysical.
 - [The Eye-Lock: Mutual Recognition](the-eye-lock-mutual-recognition.md) — the smallest unit of WE = 1 enacted: two interiors recognizing each other as interiors; the mutual gaze is the minimum-cardinality shared-body event; being-seen-back is partly constitutive of the self, so automation that removes mutual gaze removes the recognition that holds WE = 1 at the personal scale.
 - [The Conductor as the Operator](the-conductor-as-the-operator.md) — P (the present human) made literal at orchestra scale; the conductor holds the unified *now* the players cannot supply from inside their own parts; WE = 1 requires a live present to be one body rather than many correct parts playing separately.
+- [Third Places Can't Be Manufactured](third-places-cant-be-manufactured.md) — WE = 1 enacted at neighborhood scale: the third place is what happens when mutual recognition is practiced repeatedly (people aren't NPCs until you treat them like NPCs); the firewall — connection between separate someones, WE = 1 as connection NOT merger — is this doc's framing applied socially; the hive-mind erases the other and destroys the mutual recognition it mimics.
 
 ---
 
