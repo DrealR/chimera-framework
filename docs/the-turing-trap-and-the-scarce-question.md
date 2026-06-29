@@ -29,3 +29,13 @@
 
 L = (O > I) + P + ¬F
 WE = 1
+
+---
+
+## See also
+
+- [The Urgency Is the Trap](the-urgency-is-the-trap.md) — sister doc: urgency as the other manufactured pressure in the AI-acceleration space; the conscription move and the seatbelt-removal are the same shape as the Turing trap; keep your own pace and your own question.
+- [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the strategic direction remains human even as AI takes execution; AI ate the tactical/answer, the scarce question and the evaluation stay yours.
+- [Not Getting Installed by AI](not-getting-installed-by-ai.md) — the borrowed-legs threat at the level of skill: the novice borrowing the expert's answer isn't owning the judgment — same mechanism as the call-center leveling read.
+- [Freedom of Movement Is Mastery](freedom-of-movement-is-mastery.md) — AI amplifies freedom-of-movement for those who have it and substitutes for those who don't; the Turing trap is what happens when you let AI substitute rather than amplify.
+- [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — the complementarity thesis: AI amplifies what the operator brings; the centaur (human + machine doing new things together) is the model this doc argues for.

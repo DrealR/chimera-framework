@@ -38,3 +38,13 @@ People get caught in the storm, the river — they haven't learned the regulatio
 
 L = (O > I) + P + ¬F
 WE = 1
+
+---
+
+## See also
+
+- [The Mistake Is the Map](the-mistake-is-the-map.md) — "a mistake is the map, not the prison" (§4); the same ownership stance — treat falling-short as navigation data, not as sentence; the character-building loop is the skill-building loop at the level of being.
+- [Judge Actions, Not Essences](judge-actions-not-essences.md) — the outward application of the same discipline: don't freeze your own identity by a mistake, and don't freeze others' — correct, don't condemn; essentialism outward is the same error as shame inward.
+- [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the attention-training layer: what you watch is your training data, and curating input (predict-first-then-check) is write-access on the intake side; this doc is write-access pointed at character formation.
+- [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — what you consume programs who you become; the anonymous-from-yourself insight and the write-head insight are the same install-mechanism at different layers — character is the accumulated residue of all inputs.
+- [Not Getting Installed by AI](not-getting-installed-by-ai.md) — the operator move against being installed by AI is the same move as against being installed by provocations; keep the filter on, run predict-first, don't let any output carve you without your noticing.

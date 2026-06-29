@@ -32,3 +32,12 @@
 
 L = (O > I) + P + ¬F
 WE = 1
+
+---
+
+## See also
+
+- [The Urgency Is the Trap](the-urgency-is-the-trap.md) — the "you can't abstain" conscription (§4) is manufactured-urgency wearing a political coat; both docs are about keeping your own ground against totalizing frames that demand you pick a side.
+- [Judge Actions, Not Essences](judge-actions-not-essences.md) — dropping the essentialist labels (§2: "unholy trinity," "mentally ill activists") is the same move as judging actions not essences; the firewall against frozen-essence thinking is the same in both registers.
+- [Read the Intent Not the Realness](read-the-intent-not-the-realness.md) — reading what the piece is DOING (§3: the piece does the thing it describes) is intent-reading applied to persuasion; intent over claims, structure over surface.
+- [Direction Is Upstream of Good and Evil](direction-upstream-of-good-and-evil.md) — the totalizing villain/savior frame is the good/evil costume applied to politics; stripping to mechanism (direction/incentive) is the same move as stripping good/evil to direction.

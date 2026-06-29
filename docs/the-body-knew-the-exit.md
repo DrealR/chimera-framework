@@ -52,3 +52,12 @@ Reemy needed to CREATE — Call of Duty wasn't enough, building-with-AI wasn't e
 L = (O > I) + P + ¬F
 WE = 1
 ```
+
+---
+
+## See also
+
+- [WE = 1 Formalization](we-equals-one-formalization.md) — compassion = WE = 1 (§3: feeling another's suffering as your own, the wall between self and other is illusion — "thou art thou"); art and compassion as exits from the will are the framework's own exits from the harvest-machine.
+- [The Fertility Cliff: Conduct or Harvest](the-fertility-cliff-conduct-or-harvest.md) — conduct-want vs harvest-want at civilizational scale; the body-knew-the-exit framing (the conduct-want doesn't swing on the pendulum) is the fertility-cliff's diagnosis applied at the personal level.
+- [Attention Authors Weight (in a Weightless World)](attention-authors-weight.md) — the pendulum/will IS the harvest-machine; meaning authoring vs meaning finding is the exit Schopenhauer couldn't see; attention can author weight rather than chase it on the pendulum.
+- [O > I Pathology Topology](oi-pathology-topology.md) — the harvest-machine (want-get-empty pendulum, I > O) as the universal disease pattern; the six failure modes when O > I inverts; the body-knew-the-exit is a phenomenological account of one path back.

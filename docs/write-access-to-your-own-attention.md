@@ -64,6 +64,7 @@ The institutional prescription is process reward — structuring observable traj
   the fastest, most physical way to reclaim the operator's seat; where this doc trains the override
   from inside, the-eyes names the sensory-input layer the override must work against.
 - [A False Authority Fears Your Knowing](a-false-authority-fears-your-knowing.md) — read-the-intent applied to authority itself: the gatekeeper claims write-access to your relationship with truth ("believe me, I hold the keys"); the operator takes write-access back; false authority is revealed by whether it *fears your knowing* — forbidding knowledge is the tell; apply the firewall to the messenger too.
+- [You're Never Anonymous From Yourself](you-are-never-anonymous-from-yourself.md) — every action installs the self whether seen or not; what you watch is your training data; curate it and run predict-first-then-check — the intake-side discipline that complements write-access on the attention-output side.
 
 ---
 

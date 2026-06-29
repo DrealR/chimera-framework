@@ -34,3 +34,13 @@
 L = (O > I) + P + ¬F
 WE = 1
 ```
+
+---
+
+## See also
+
+- [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — sister doc: the manufactured urgency around the AI arms-race and the Turing trap are the same pressure at different scales; keep the operator seat, set your own pace.
+- [Take the Mechanism, Leave the Frame](take-the-mechanism-leave-the-frame.md) — the "you can't abstain" conscription is a totalizing frame; take the structural mechanism (something real is happening) and firewall the all-or-nothing conscription that removes the Pause.
+- [Not Getting Installed by AI](not-getting-installed-by-ai.md) — keeping write-access when the urgency-sellers are selling the install; the panic is the product, the operator holds the filter.
+- [Read the Intent Not the Realness](read-the-intent-not-the-realness.md) — reading the incentive behind the urgency-seller; the closer to the machine-god, the louder its voice — intent-reading applied to doom-messaging.
+- [Consciousness as the Interrupt](consciousness-as-the-interrupt.md) — P (the Pause) in `L = (O > I) + P + ¬F` is the firewall against manufactured speed; the urgency is designed to skip the Pause; consciousness inserts the gap.
