@@ -63,6 +63,7 @@ The institutional prescription is process reward — structuring observable traj
   external training wheels for write-access: limiting what enters (the visual pull on attention) is
   the fastest, most physical way to reclaim the operator's seat; where this doc trains the override
   from inside, the-eyes names the sensory-input layer the override must work against.
+- [A False Authority Fears Your Knowing](a-false-authority-fears-your-knowing.md) — read-the-intent applied to authority itself: the gatekeeper claims write-access to your relationship with truth ("believe me, I hold the keys"); the operator takes write-access back; false authority is revealed by whether it *fears your knowing* — forbidding knowledge is the tell; apply the firewall to the messenger too.
 
 ---
 
