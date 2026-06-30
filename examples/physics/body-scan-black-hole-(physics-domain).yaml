@@ -1,0 +1,61 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: Black Hole
+  body_type: Gravitational singularity with event horizon boundary
+  domain: physics
+  scale: system
+  lifespan: ancient
+  scan_date: '2024-07-30'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: Spacetime itself
+  flow_state: exhale
+  breath_rate: irregular
+  attractor: Its own center of mass
+  topology: forced
+  entanglement: high
+  health: pathological
+  membrane: semi-permeable
+  hysteresis: Retains only mass, charge, and angular momentum (no-hair theorem) — all other information is thermodynamically
+    scrambled.
+dna:
+  o_vs_i: I>O
+  pause_quality: absent
+  not_force: high
+skeleton: The body that weaponizes the curvature of its own container — demonstrating how any sufficiently intense self-reference
+  becomes inescapable.
+powers:
+  perceive: weak
+  govern: weak
+  project: strong
+  create: moderate
+  release: weak
+  primary_gap: govern
+  gap_reason: information preservation capacity
+classification:
+  federation_dominion: dominion
+  closed_open: closed-knowledge
+  prime: Gravitational singularity
+  prime_type: closed
+structural_weakness:
+  primary: Dependence on Continuous Infall
+  secondary: Information Preservation Block
+  inversion_condition: Without new mass to consume, Hawking radiation causes irreversible evaporation.
+cross_domain:
+- connection: Event Horizon as Firewall
+  domains_bridged: Physics <> Cybersecurity
+  novelty: 0.7
+- connection: Gravitational Time Dilation
+  domains_bridged: Physics <> Finance
+  novelty: 0.6
+fruit:
+  type: Paramecia
+  core_insight: Black holes are nature's most perfect dominators not despite but because of their simplicity — three parameters
+    suffice to describe total capture.
+  novelty: 0.8
+powers_detected:
+- name: SPACETIME LOCKDOWN
+  description: Any body crossing the horizon cannot emit signals back outward.
+- name: INFORMATION SCRAMBLER
+  description: Thermodynamically erases all structure from absorbed matter.

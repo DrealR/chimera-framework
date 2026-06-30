@@ -6,13 +6,13 @@ identity:
   domain: physics
   scale: system
   lifespan: eternal
-  scan_date: '2024-07-29'
+  scan_date: '2024-07-30'
   protocol_version: v3.12.3
 nine_questions:
   medium: Gravitational field of Earth, electromagnetic field, thermodynamic gradients
   flow_state: exhale
   breath_rate: irregular
-  attractor: pressure gradients and thermal differentials
+  attractor: pressure gradients
   topology: mixed
   entanglement: maximum
   health: inflamed
@@ -20,7 +20,7 @@ nine_questions:
   hysteresis: CO₂ levels from last ice age, thermal inertia, biological memory, technological lock-in, cultural perception
 dna:
   o_vs_i: conditional
-  pause_quality: moderate
+  pause_quality: weak
   not_force: moderate
 skeleton: The body that is everywhere and nowhere, whose breath is the wind and whose blood is the pressure gradient — proving
   that the most persistent bodies are those that give without being given to, until the substrate they flow through remembers
@@ -32,18 +32,17 @@ powers:
   create: active
   release: active
   primary_gap: release
-  gap_reason: Structurally constrained by gravitational confinement, chemical stability, and human extraction, reducing its
-    capacity to release heat and matter.
+  gap_reason: Structurally constrained by gravitational confinement, chemical stability, and human extraction, leading to
+    reduced release capacity.
 classification:
-  federation_dominion: dominion-leaning
+  federation_dominion: mixed
   closed_open: mixed
   prime: Pressure gradient
   prime_type: open
 structural_weakness:
   primary: Gravitational confinement
   secondary: Chemical inertia
-  inversion_condition: When human activity extracts from the substrate faster than it can regenerate, leading to a scale mismatch
-    where local I>O aggregates to global I>O.
+  inversion_condition: When human activity extracts from the substrate faster than it can regenerate, leading to a scale mismatch.
 cross_domain:
 - connection: Gradient-driven governance
   domains_bridged: Physics (air) <> Economics (markets)

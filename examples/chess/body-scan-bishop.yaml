@@ -44,9 +44,8 @@ classification:
   prime_type: closed
 structural_weakness:
   primary: inherent color-bound limitation
-  secondary: lack of open diagonals
-  inversion_condition: When a Bishop that primarily "takes" without "giving" influence is part of a tactical sequence that
-    sacrifices its future potential for immediate gain.
+  secondary: Obstruction by own pieces
+  inversion_condition: ''
 cross_domain:
 - connection: Color-Bound Specialization
   domains_bridged: Chess <> Biology
