@@ -21,7 +21,7 @@ nine_questions:
 dna:
   o_vs_i: mixed-scale-dependent
   pause_quality: strong
-  not_force: maximum
+  not_force: high
 skeleton: The body that translates electromagnetic energy into kinetic motion through asymmetric heating - proving that fluidity
   requires constraint, where the very freedom of molecular movement emerges from strict conservation laws and boundary conditions.
 powers:

@@ -1,0 +1,60 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: The natural number 1
+  body_type: Prime numerical body (logically necessary)
+  domain: math
+  scale: system
+  lifespan: eternal
+  scan_date: '2024-05-22'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: all mathematical substrates
+  flow_state: exhale
+  breath_rate: slow
+  attractor: Its own singularity
+  topology: flowing
+  entanglement: high
+  health: healthy
+  membrane: semi-permeable
+  hysteresis: No scars (no history). Its behavior is fully determined by current axiomatic systems.
+dna:
+  o_vs_i: O>I
+  pause_quality: excellent
+  not_force: maximum
+skeleton: The body that is nothing and everything simultaneously — the only number that, when removed, leaves no arithmetic
+  behind, proving that true foundations are not built but are the emptiness that makes building possible.
+powers:
+  perceive: absent
+  govern: active
+  project: active
+  create: active
+  release: absent
+  primary_gap: perceive
+  gap_reason: 1 is the perceptual substrate, not a perceiver.
+classification:
+  federation_dominion: federation
+  closed_open: mixed
+  prime: The indivisible unit of counting
+  prime_type: closed
+structural_weakness:
+  primary: Dependence on 0
+  secondary: Vacuum fragility
+  inversion_condition: If another '1' were postulated (1' with 1'×a=a), the entire real number system would collapse into
+    equivalence classes.
+cross_domain:
+- connection: Identity Element
+  domains_bridged: Math <> Physics
+  novelty: 0.7
+- connection: Primordial Unit
+  domains_bridged: Math <> Biology
+  novelty: 0.4
+fruit:
+  type: Paramecia
+  core_insight: 1 is not a number but the permission for numbers to exist — the silent law that allows all other laws to speak.
+  novelty: 0.8
+powers_detected:
+- name: INVARIANCE PROJECTION
+  description: Can impose its unchanging nature onto any operand through multiplication
+- name: VOID COMPRESSION
+  description: Can collapse infinite series (e.g., 1/2 + 1/4 + ... = 1) while remaining indivisible

@@ -29,18 +29,18 @@ powers:
   perceive: weak
   govern: weak
   project: strong
-  create: moderate
-  release: weak
+  create: weak
+  release: absent
   primary_gap: govern
   gap_reason: information preservation capacity — root failure that makes Hawking radiation thermal rather than structured.
 classification:
   federation_dominion: dominion
-  closed_open: closed-knowledge
+  closed_open: mixed
   prime: Gravitational singularity
   prime_type: closed
 structural_weakness:
   primary: Dependence on Continuous Infall
-  secondary: Information Preservation Block
+  secondary: ''
   inversion_condition: Without new mass to consume, Hawking radiation causes irreversible evaporation.
 cross_domain:
 - connection: Event Horizon as Firewall

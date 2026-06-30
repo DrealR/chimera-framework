@@ -46,7 +46,7 @@ structural_weakness:
   primary: Substrate dependency
   secondary: Quantum fragility
   inversion_condition: The black hole's own 'exhale' (Hawking radiation) destroys it, making it vulnerable to quantum effects
-    at small scales, eventually leading to evaporation.
+    at small scales.
 cross_domain:
 - connection: Event horizon as one-way membrane
   domains_bridged: Physics <> Biology

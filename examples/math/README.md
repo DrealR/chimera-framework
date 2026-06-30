@@ -28,6 +28,9 @@
 | [Mandelbrot Set](body-scan-mandelbrot.md) | Infinite boundary from finite rule — complexity from simplicity | O>I |
 | [Prime Gap](body-scan-prime-gap.md) | Body-as-absence — the space between primes | Mixed |
 | [Prime/Composite Breath](body-scan-prime-composite-breath.md) | The integers breathe — expanding into composite richness then contracting to prime indivisibility | O>I |
+| [0 in Math](body-scan-0-in-math.md) | The body that defines the boundary between presence and absence, allowing for both the accumulation of value and its complete dissolution, yet remains inherently untouched by either. | O>I |
+| [1 (Mathematical Identity)](body-scan-1-(mathematical-identity).md) | The number that proves multiplication requires nothing — the point where the operation dissolves into transparency, revealing that the operation's only purpose is to leave things unchanged. | Neither O>I nor I>O |
+| [1 (Mathematics)](body-scan-1-(mathematics).md) | The body that is nothing and everything simultaneously — the only number that, when removed, leaves no arithmetic behind, proving that true foundations are not built but are the emptiness that makes building possible. | O>I |
 
 ## Cross-Domain Patterns
 

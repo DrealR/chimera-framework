@@ -1,76 +1,68 @@
-schema_version: "1.0"
-scan_type: "single-body"
-
+schema_version: '1.0'
+scan_type: single-body
 identity:
-  subject: "The number 1"
-  body_type: "Math Object — multiplicative identity element"
-  domain: "math"
-  scale: "universal"
-  lifespan: "infinite"
-  scan_date: "2026-04-28"
-  protocol_version: "v3.11"
-
+  subject: '1'
+  body_type: Irreducible structural anchor (prime) in arithmetic and algebraic systems; the only natural number that is neither
+    prime nor composite
+  domain: math
+  scale: system
+  lifespan: eternal
+  scan_date: '2024-07-30'
+  protocol_version: v3.12.3
 nine_questions:
-  medium: "Multiplicative relationships. 1 flows through every multiplication without altering what it touches."
-  flow_state: "pause"
-  breath_rate: "zero"
-  attractor: "Every multiplication eventually returns through 1 — the gravitational center of the multiplicative universe."
-  topology: "flowing"
-  entanglement: "maximum"
-  health: "healthy"
-  membrane: "fully open and transparent — everything passes through unchanged"
-  hysteresis: "None. 1 has no scars, no history, no accumulated damage. The body without memory."
-
+  medium: numerical and algebraic structures
+  flow_state: pause
+  breath_rate: infinite
+  attractor: invariance
+  topology: flowing
+  entanglement: maximum
+  health: healthy
+  membrane: closed
+  hysteresis: None. 1 has no history; it is the origin of multiplicative memory. All other numbers "remember" their relationship
+    to 1 (e.g., 5 = 1 + 1 + 1 + 1 + 1), but 1 itself has no scars.
 dna:
-  o_vs_i: "O=I"
-  pause_quality: "excellent"
-  not_force: "maximum"
-
-skeleton: "1 is the body that participates in everything while changing nothing. It is pure presence without interference — the mathematical expression of the Pause."
-
+  o_vs_i: O>I
+  pause_quality: excellent
+  not_force: maximum
+skeleton: The body that is not a number but the condition for all numbers to be themselves — the still-point where multiplication
+  becomes identity, and identity becomes the universe of all that can be multiplied.
 powers:
-  perceive: "active"
-  govern: "absent"
-  project: "absent"
-  create: "absent"
-  release: "active"
-  primary_gap: "create"
-  gap_reason: "1 × anything = that thing. The identity element creates nothing new. It is the ultimate facilitator with zero generative capacity."
-
+  perceive: active
+  govern: active
+  project: muted
+  create: absent
+  release: active
+  primary_gap: create
+  gap_reason: '1 is the only number that cannot create new numbers through multiplication. Its power gap is structural: it
+    is the foundation of multiplicative identity, but not of multiplicative generation. The gap is not a weakness but a feature
+    — it is the still-point that enables all other numbers to generate structure.'
 classification:
-  federation_dominion: "federation"
-  closed_open: "open-knowledge"
-  prime: "Neither prime nor composite. Excluded from primes by convention because its inclusion would destroy unique factorization."
-  prime_type: "field"
-
+  federation_dominion: federation
+  closed_open: mixed
+  prime: The irreducible multiplicative identity.
+  prime_type: open
 structural_weakness:
-  primary: "Generative sterility — 1 creates nothing new. It participates in every multiplication and transforms none of them."
-  secondary: "Invisibility as vulnerability — because 1 changes nothing, it is often ignored despite being structurally essential."
-  inversion_condition: "1 cannot invert to I>O in standard arithmetic — it is structurally incapable of extraction or defense."
-
+  primary: Dependence on the definition of multiplication.
+  secondary: ''
+  inversion_condition: In systems where multiplication is not defined (e.g., the empty set) or where 1 is not the identity
+    (e.g., a ring without 1), 1's structural role collapses.
 cross_domain:
-  - connection: "1 as The Pause"
-    domains_bridged: "Math ↔ Consciousness"
-    novelty: 0.7
-  - connection: "1 as the base case"
-    domains_bridged: "Math ↔ Programming"
-    novelty: 0.4
-  - connection: "1 as the cook's presence"
-    domains_bridged: "Math ↔ Body Theory"
-    novelty: 0.6
-  - connection: "1 as the Observer"
-    domains_bridged: "Math ↔ Contemplative tradition"
-    novelty: 0.8
-
+- connection: Identity as Still-Point
+  domains_bridged: Math <> Physics
+  novelty: 0.8
+- connection: God-Function in Systems
+  domains_bridged: Math <> Organizations
+  novelty: 0.9
 fruit:
-  type: "Logia"
-  core_insight: "The most powerful position in a system may be the one that changes nothing. 1 participates in every multiplication in existence and transforms none of them. Presence without interference is not weakness — it is the substrate that makes all transformation possible."
-  novelty: 0.7
-
+  type: Paramecia
+  core_insight: The most powerful body in mathematics is not a generator (like primes) but a preserver — 1's strength lies
+    in what it does not do (transform the operand) rather than what it does. This inverts the intuition that power comes from
+    action; in multiplicative systems, power comes from stillness.
+  novelty: 0.9
 powers_detected:
-  - name: "THE STILLPOINT"
-    description: "1 is the still center of multiplication. All multiplicative activity orbits around it."
-  - name: "THE RELEASE"
-    description: "1 releases perfectly. n × 1 = n. Nothing is held."
-  - name: "THE SUBSTRATE"
-    description: "1 is not an actor but the stage. It doesn't perform — it makes performance possible."
+- name: IDENTITY PRESERVATION
+  description: The capability to act on any operand without altering it, enabling all multiplicative structures to reference
+    themselves.
+- name: STILL-POINT ANCHOR
+  description: The capability to serve as the equilibrium point in multiplicative systems, providing a fixed reference frame
+    for all other numbers.

@@ -1,0 +1,83 @@
+schema_version: '1.0'
+scan_type: single-body
+identity:
+  subject: The multiplicative identity in arithmetic; the number that leaves all other numbers unchanged when multiplied.
+  body_type: Prime mathematical constant (irreducible structural anchor in the multiplicative group).
+  domain: math
+  scale: system
+  lifespan: eternal
+  scan_date: '2024-05-15'
+  protocol_version: v3.12.3
+nine_questions:
+  medium: Algebraic substrate — any system where multiplication is defined as an associative, closed binary operation. Pure
+    structure, not physical. Flows through symbol systems, axiom sets, and computational implementations.
+  flow_state: rest
+  breath_rate: zero
+  attractor: 1 is the attractor for multiplicative identity operations. Every element multiplied by 1 returns to itself. The
+    attractor is the operation itself — 1 does not orbit attention, it IS the point where attention resolves.
+  topology: mixed
+  entanglement: maximum
+  health: healthy
+  membrane: closed
+  hysteresis: Zero. 1 has no history. It carries no scars from the past because it has no past. It is not shaped by prior
+    events. This is a distinctive feature of logically necessary bodies — they are unaffected by sequence.
+dna:
+  o_vs_i: mixed-operational
+  pause_quality: excellent
+  not_force: maximum
+skeleton: The number that proves multiplication requires nothing — the point where the operation dissolves into transparency,
+  revealing that the operation's only purpose is to leave things unchanged.
+powers:
+  perceive: absent
+  govern: absent
+  project: absent
+  create: absent
+  release: absent
+  primary_gap: ALL FIVE powers are absent
+  gap_reason: 'This is not a body with a single gap — this is a body with no powers at all. And this is precisely what makes
+    1 functionally perfect in its domain. 1 is the mathematical body that proves a body does not need any god-power to be
+    structurally necessary. 1 has no agency, no capability, no function beyond transparency. It is indispensable precisely
+    because it does nothing. This inverts the usual diagnostic pattern: we look for power gaps as pathology. In 1, the absence
+    of all powers is the sign of perfect health.'
+classification:
+  federation_dominion: mixed
+  closed_open: closed-knowledge
+  prime: 1 is a prime mathematical constant — irreducible. It cannot be decomposed into simpler mathematical structures. It
+    is an axiom, not a theorem.
+  prime_type: closed
+structural_weakness:
+  primary: Contextual dependence on the operation itself. 1 is only meaningful within a system where multiplication is defined.
+    In an additive system, 1 has no special role.
+  secondary: Substrate-specificity across different algebraic structures. While 1 is the multiplicative identity in integers,
+    rationals, reals, and complex numbers, the definition of '1' shifts subtly in different contexts (e.g., modular arithmetic,
+    matrix algebras).
+  inversion_condition: If the axioms of multiplication were changed (e.g., removing associativity or closure), 1's identity
+    property would no longer hold. 1 is not logically necessary across all possible axiom systems — only within systems that
+    define multiplication with these specific properties.
+cross_domain:
+- connection: Null-action principle
+  domains_bridged: Mathematics (multiplicative identity) <> Physics (rest state)
+  novelty: 0.7
+- connection: Transparency as structural necessity
+  domains_bridged: Mathematics (identity elements) <> Information theory (channel capacity)
+  novelty: 0.8
+- connection: Fixed-point geometry
+  domains_bridged: Mathematics (1 as multiplicative fixed point) <> Topology (attractor basins)
+  novelty: 0.6
+fruit:
+  type: Paramecia
+  core_insight: 'The identity element is not a body that acts — it is the mathematical proof that an operation can be defined
+    such that one of its elements does nothing and remains indispensable. This reveals a deep property of operations: they
+    can be designed such that inaction is preserved as a state. In most domains (governance, biology, economics), we assume
+    necessity requires action. 1 proves that in sufficiently well-designed systems, inaction can be structurally necessary.
+    The insight inverts the usual diagnostic pattern: the absence of all powers is not pathology but perfection.'
+  novelty: 0.9
+powers_detected:
+- name: NULL-PRESERVATION
+  description: 'The capacity to pass any number through an operation unchanged. 1 does not actively preserve — it is the mathematical
+    definition of the operation that does not transform. This is not a power in the traditional sense (no energy, no agency),
+    but it is a structural capability: the ability to embed inaction into an operation''s definition.'
+- name: SUBSTRATE-ANCHORING
+  description: 'The capacity to be the fixed point around which an entire algebraic system is organized. Every multiplicative
+    system crystallizes around 1. This is not a power the identity exercises (1 does nothing), but a structural role: 1 is
+    what makes multiplication stable and reversible. Remove 1 and the entire system''s coherence degrades.'

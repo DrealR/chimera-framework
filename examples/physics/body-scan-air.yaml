@@ -2,11 +2,11 @@ schema_version: '1.0'
 scan_type: single-body
 identity:
   subject: Air
-  body_type: Fluid body with no fixed shape
+  body_type: Fluid body
   domain: physics
   scale: system
   lifespan: eternal
-  scan_date: '2024-07-29'
+  scan_date: '2024-07-30'
   protocol_version: v3.12.3
 nine_questions:
   medium: Gravitational field of Earth, electromagnetic field, thermodynamic gradients
@@ -15,7 +15,7 @@ nine_questions:
   attractor: pressure gradients
   topology: mixed
   entanglement: maximum
-  health: pathological
+  health: inflamed
   membrane: semi-permeable
   hysteresis: CO₂ levels from last ice age, thermal inertia, biological memory, technological lock-in, cultural perception
 dna:
@@ -32,18 +32,18 @@ powers:
   create: active
   release: active
   primary_gap: release
-  gap_reason: Structurally constrained by gravitational confinement, chemical stability, and human extraction, leading to
-    reduced release capacity.
+  gap_reason: Structurally constrained by gravitational confinement, chemical stability, and human extraction, reducing its
+    capacity to release heat and matter.
 classification:
-  federation_dominion: dominion-leaning
+  federation_dominion: mixed
   closed_open: mixed
   prime: Pressure gradient
   prime_type: open
 structural_weakness:
   primary: Gravitational confinement
   secondary: Chemical inertia
-  inversion_condition: When human activity extracts from the substrate faster than it can regenerate, shifting from O>I to
-    I>O.
+  inversion_condition: When human activity extracts from the substrate faster than it can regenerate, leading to a scale mismatch
+    where local I>O aggregates to global I>O.
 cross_domain:
 - connection: Gradient-driven governance
   domains_bridged: Physics (air) <> Economics (markets)
