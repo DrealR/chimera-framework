@@ -47,8 +47,9 @@ classification:
 structural_weakness:
   primary: Color-bound constraint
   secondary: Pawn structure dependency
-  inversion_condition: If the bishop could move orthogonally or change color, its O>I would flip to I>O as its unique constraint-based
-    power would be diluted, making it a less specialized and thus less efficient piece.
+  inversion_condition: If the bishop could move orthogonally or change color, its O>I would flip to I>O as its unique value
+    proposition (diagonal projection) would be diluted, making it less specialized and thus less efficient in its current
+    role.
 cross_domain:
 - connection: Color-bound projection
   domains_bridged: Chess <> Optics

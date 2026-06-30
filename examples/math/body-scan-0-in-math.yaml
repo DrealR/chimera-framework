@@ -42,7 +42,8 @@ classification:
 structural_weakness:
   primary: Inability to serve as a multiplicative identity.
   secondary: Dimensional mismatch between additive and multiplicative roles.
-  inversion_condition: If 0 were to become the multiplicative identity (0=1), collapsing arithmetic into triviality.
+  inversion_condition: If 0 could be both additive and multiplicative identity, collapsing arithmetic into triviality (e.g.,
+    if 0 = 1, then all numbers are equal).
 cross_domain:
 - connection: Additive Identity as Structural Anchor
   domains_bridged: Math <> Physics

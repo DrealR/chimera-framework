@@ -46,8 +46,8 @@ classification:
 structural_weakness:
   primary: Multiplicative fragility
   secondary: Context dependence
-  inversion_condition: Not applicable, as O=I in addition and I>O in multiplication are inherent properties, not conditions
-    for inversion.
+  inversion_condition: When 0's role as multiplicative annihilator is removed, or when its behavior becomes consistent across
+    addition and multiplication.
 cross_domain:
 - connection: Neutrality as equilibrium
   domains_bridged: Math (0) <> Physics (vacuum state)

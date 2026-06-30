@@ -22,7 +22,7 @@ nine_questions:
   hysteresis: Zero. 1 has no history. It carries no scars from the past because it has no past. It is not shaped by prior
     events. This is a distinctive feature of logically necessary bodies — they are unaffected by sequence.
 dna:
-  o_vs_i: mixed-operational
+  o_vs_i: conditional
   pause_quality: excellent
   not_force: maximum
 skeleton: The number that proves multiplication requires nothing — the point where the operation dissolves into transparency,
@@ -33,12 +33,11 @@ powers:
   project: absent
   create: absent
   release: absent
-  primary_gap: ALL FIVE powers are absent
-  gap_reason: 'This is not a body with a single gap — this is a body with no powers at all. And this is precisely what makes
+  primary_gap: ALL FIVE powers are absent.
+  gap_reason: This is not a body with a single gap — this is a body with no powers at all. And this is precisely what makes
     1 functionally perfect in its domain. 1 is the mathematical body that proves a body does not need any god-power to be
     structurally necessary. 1 has no agency, no capability, no function beyond transparency. It is indispensable precisely
-    because it does nothing. This inverts the usual diagnostic pattern: we look for power gaps as pathology. In 1, the absence
-    of all powers is the sign of perfect health.'
+    because it does nothing.
 classification:
   federation_dominion: mixed
   closed_open: closed-knowledge
@@ -47,10 +46,8 @@ classification:
   prime_type: closed
 structural_weakness:
   primary: Contextual dependence on the operation itself. 1 is only meaningful within a system where multiplication is defined.
-    In an additive system, 1 has no special role.
-  secondary: Substrate-specificity across different algebraic structures. While 1 is the multiplicative identity in integers,
-    rationals, reals, and complex numbers, the definition of '1' shifts subtly in different contexts (e.g., modular arithmetic,
-    matrix algebras).
+  secondary: Substrate-specificity across different algebraic structures. The definition of '1' shifts subtly in different
+    contexts (e.g., modular arithmetic, matrix algebras).
   inversion_condition: If the axioms of multiplication were changed (e.g., removing associativity or closure), 1's identity
     property would no longer hold. 1 is not logically necessary across all possible axiom systems — only within systems that
     define multiplication with these specific properties.

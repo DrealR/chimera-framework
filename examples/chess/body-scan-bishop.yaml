@@ -45,9 +45,8 @@ classification:
 structural_weakness:
   primary: inherent color-bound limitation
   secondary: lack of open diagonals
-  inversion_condition: When a Bishop is forced into a position where it can only make isolated transactions (captures) without
-    contributing to overall board control, its O>I nature could be inverted to I>O, as it primarily 'takes' without 'giving'
-    influence.
+  inversion_condition: When a Bishop is forced to primarily 'take' without 'giving' influence, sacrificing its future potential
+    for immediate, isolated gains.
 cross_domain:
 - connection: Color-Bound Specialization
   domains_bridged: Chess <> Biology

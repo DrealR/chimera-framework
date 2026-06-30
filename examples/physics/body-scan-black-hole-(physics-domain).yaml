@@ -6,7 +6,7 @@ identity:
   domain: physics
   scale: system
   lifespan: ancient
-  scan_date: '2024-07-29'
+  scan_date: '2024-07-30'
   protocol_version: v3.12.3
 nine_questions:
   medium: Spacetime itself
@@ -15,7 +15,7 @@ nine_questions:
   attractor: Its own center of mass
   topology: forced
   entanglement: high
-  health: healthy
+  health: pathological
   membrane: semi-permeable
   hysteresis: Retains only mass, charge, and angular momentum (no-hair theorem) — all other information is thermodynamically
     scrambled.
@@ -27,15 +27,15 @@ skeleton: The body that weaponizes the curvature of its own container — demons
   becomes inescapable.
 powers:
   perceive: weak
-  govern: weak
-  project: strong
+  govern: degraded
+  project: active
   create: weak
-  release: absent
+  release: blocked
   primary_gap: govern
-  gap_reason: information preservation capacity — root failure that makes Hawking radiation thermal rather than structured.
+  gap_reason: information preservation capacity
 classification:
   federation_dominion: dominion
-  closed_open: mixed
+  closed_open: closed-knowledge
   prime: Gravitational singularity
   prime_type: closed
 structural_weakness:
