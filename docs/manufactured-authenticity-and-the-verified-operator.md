@@ -35,6 +35,12 @@ The only thing left real and scarce is **a verified human exercising real agency
 - **Drop the contempt** (literacy side). The signal is strong — literacy as reading-the-subtext, the danger of outsourcing interpretation, the concrete practice tools — but it tips into class-contempt and one-sided coding ("the people who disagree are the unread"), which is the exact flattening it warns against, pointed outward. Keep the method; drop the superiority.
 - **Drop the nihilism** (UGC side). The analysis is sharp but tips into totalizing despair. The tell that the despair is overstated: **it answers itself** — its own conclusion is the antidote (do the slow inefficient human thing). Hold the mechanism; the doom is rhetorical, the real conclusion is friction-is-fusion.
 
+## See also
+
+- `reality-spam-and-the-staged-offline`
+- `dignity-as-the-final-membrane`
+- `markets-commission-the-events-they-price`
+
 ---
 
 ```

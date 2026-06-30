@@ -89,6 +89,13 @@ Across the month we kept arriving at: *what survives the AI era is the human in 
 
 Attention is the scarce resource of the age (Simon, 1971), measured as time-spent, and the thing we don't see because we swim in it. It behaves like a fluid: it pools by default (cumulative advantage → the split-body) and flows high-to-low, so the starved place gives the highest return per pour. The same shape appears at every scale because attention is the fast/informational layer everywhere — literally in the brain and in LLM-attention, as real mechanism in predator-fishing and engagement-farming, as the newly-visible fluid on the internet, and as the highest-charge reciprocal form between two present people. A machine can route attention but can't give it; the human's irreplaceable, un-automatable move is the conductor's: read the field, pick the low-pressure place, pour consistently until a channel forms, let it sustain and spread, and keep the direction pointed out to them and never in to me. That move, done by hand, in a room, with a real kid, is SPARK — the human inversion of the algorithm, the un-flattening of the flattened world, the breath on the ember.
 
+## See also
+
+- `dignity-as-the-final-membrane`
+- `boundary-override-capitalism`
+- `reality-spam-and-the-staged-offline`
+- `the-conductor-and-the-harvester-matched-pair`
+
 ---
 
 ```

@@ -29,6 +29,12 @@ A streamer selling **winter skullcaps in summer for $750k in five minutes** — 
 
 **Firewall:** when two people running the shared frame land on the same read, that's **a shared method producing convergent reads** (the frame working), *not* mystical entanglement. Felt closeness real; explanation mundane; don't promote it.
 
+## See also
+
+- `dignity-as-the-final-membrane`
+- `boundary-override-capitalism`
+- `reality-spam-and-the-staged-offline`
+
 ---
 
 ```

@@ -36,6 +36,13 @@ The volume **forces** filtering (an inbox is a sea of scam; clarity is now *work
 
 Don't teach kids to **detect fakes** (the losing race that raises the floor and leaves them behind). Teach them to **read intent and function** — the AI-proof operator skill no better-fake defeats, because the fake still has a *why.*
 
+## See also
+
+- `dignity-as-the-final-membrane`
+- `boundary-override-capitalism`
+- `reality-spam-and-the-staged-offline`
+- `markets-commission-the-events-they-price`
+
 ---
 
 ```

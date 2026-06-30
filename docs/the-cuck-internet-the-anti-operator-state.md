@@ -33,6 +33,12 @@ A death-as-spectator rhyme is real on *structure* (consciousness-without-agency)
 
 Generative AI forces the question. **Keeper:** a human is for being **the operator** — the present one who conducts attention, holds the pen, makes the small real thing, exercises real agency (the verified, friction-full human the synthetic age makes scarce; "we're here to fart around" = friction-is-fusion). The crisis is real because the cuck-internet *removes* the human from the seat; the answer — and SPARK — is to put the human back in it.
 
+## See also
+
+- `dignity-as-the-final-membrane`
+- `reality-spam-and-the-staged-offline`
+- `markets-commission-the-events-they-price`
+
 ---
 
 ```

@@ -24,6 +24,12 @@
 
 **Keeper:** a third place takes (1) **make the room** — the mutual gaze, turn NPCs into someones — AND (2) **keep it un-performed** — be yourself so they can be themselves (`being-yourself-is-the-gift`). It's not just where you *see* people; it's where you can be *unperformed* with them. **Home is wherever you're both seen and unhidden** — mutual recognition + mutual un-performance = the real room.
 
+## See also
+
+- `reality-spam-and-the-staged-offline`
+- `dignity-as-the-final-membrane`
+- `the-cuck-internet-the-anti-operator-state`
+
 ---
 
 ```
