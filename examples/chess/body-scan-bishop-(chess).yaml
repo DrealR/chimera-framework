@@ -1,71 +1,82 @@
 schema_version: '1.0'
 scan_type: single-body
 identity:
-  subject: Bishop - diagonal-moving chess piece with unlimited range along color-bound diagonals
-  body_type: Constrained linear projector
+  subject: Bishop
+  body_type: Geometric constraint body
   domain: chess
   scale: system
-  lifespan: mature
+  lifespan: embryonic
   scan_date: '2024-07-29'
   protocol_version: v3.12.3
 nine_questions:
-  medium: 64-square checkered board with strict alternating color pattern.
-  flow_state: pause
-  breath_rate: moderate
-  attractor: Long diagonals, particularly the central a1-h8 and h1-a8 diagonals.
+  medium: The chessboard's 8x8 grid and the rules of diagonal movement.
+  flow_state: exhale
+  breath_rate: irregular
+  attractor: The longest open diagonal
   topology: mixed
   entanglement: high
-  health: inflamed
-  membrane: semi-closed
-  hysteresis: Pawn structure scars - early pawn moves create permanent diagonal channels or blocks that constrain bishop mobility
-    for the entire game.
+  health: healthy
+  membrane: semi-permeable
+  hysteresis: 'The color-bound constraint is the primary scar. Once placed on a color (light or dark), the bishop is forever
+    confined to that color — a structural limitation inherited from its 15th-century transformation. This scar shapes its
+    behavior: it cannot access half the board, making it dependent on the pawn structure to create open diagonals on its color.
+    The bishop pair concept is a compensatory scar — a recognition that the bishop''s individual weakness can be mitigated
+    through relational strength.'
 dna:
   o_vs_i: conditional
-  pause_quality: weak
+  pause_quality: absent
   not_force: high
-skeleton: The piece that trades universality for penetration - gaining infinite projection along chosen angles by permanently
-  sacrificing access to half the battlefield.
+skeleton: The body that is forever half-blind, condemned to see only the squares of its birth color, yet whose power is not
+  in what it sees but in how it moves through the gaps left by others — proving that constraint is not weakness when the substrate
+  is designed for it.
 powers:
   perceive: selective
-  govern: absent
+  govern: external
   project: active
   create: monotonic
   release: blocked
-  primary_gap: release
-  gap_reason: 'The bishop''s inability to release its color-binding creates cascading limitations: cannot access half the
-    board, cannot escape pawn blockades on its color, cannot adapt when the game shifts to opposite-colored squares.'
+  primary_gap: PERCEIVE
+  gap_reason: The bishop's selective perception (color-bound, diagonal-only) is its defining limitation. While its projection
+    and governance gaps are by design (it is not meant to govern or retract), its perception gap is a structural constraint
+    that shapes its role. The bishop pair compensates for this gap by expanding perceptual coverage to both colors.
 classification:
-  federation_dominion: federation-leaning
-  closed_open: closed-knowledge
-  prime: Diagonal projection under color constraint
+  federation_dominion: mixed
+  closed_open: mixed
+  prime: The diagonal movement rule.
   prime_type: closed
 structural_weakness:
-  primary: Color-binding creates fundamental brittleness.
-  secondary: Irrelevance when critical action shifts to opposite-colored squares.
-  inversion_condition: When the game's critical action shifts to squares of the opposite color, the bishop becomes structurally
-    irrelevant.
+  primary: Color-bound constraint
+  secondary: Pawn structure dependency
+  inversion_condition: If the bishop could move orthogonally or change color, its O>I would flip to I>O as its unique constraint-based
+    power would be diluted, making it a less specialized and thus less efficient piece within the game's economy.
 cross_domain:
-- connection: Specialist vs Generalist Trade-off
-  domains_bridged: Chess <> Evolution
-  novelty: 0.3
-- connection: Linear Projection Under Constraint
-  domains_bridged: Chess <> Physics
-  novelty: 0.4
+- connection: Color-bound projection
+  domains_bridged: Chess <> Optics
+  novelty: 0.8
+- connection: Pawn structure as substrate
+  domains_bridged: Chess <> Urban Planning
+  novelty: 0.7
+- connection: Bishop pair as federation
+  domains_bridged: Chess <> Network Theory
+  novelty: 0.9
 fruit:
   type: Paramecia
-  core_insight: The bishop reveals that maximum power and maximum vulnerability can be structurally identical - the same color-binding
-    that enables unlimited diagonal projection also creates complete blindness to half the battlefield. This suggests that
-    optimization within constraints necessarily creates brittleness outside those constraints, and that the most powerful
-    specialized tools are simultaneously the most fragile.
-  novelty: 0.7
+  core_insight: The bishop's power is not in what it can do but in what it cannot — its constraints (color-bound, diagonal-only)
+    are the source of its strategic depth. By being half-blind, the bishop forces the player to think relationally (e.g.,
+    bishop pair) and positionally (e.g., pawn structure), turning a structural weakness into a catalyst for higher-order strategy.
+    This inverts the intuition that "more freedom = more power" — in chess, constraint is the wellspring of creativity.
+  novelty: 0.9
 powers_detected:
-- name: DIAGONAL DOMINANCE
-  description: Projects unlimited linear influence along diagonal vectors, controlling multiple squares simultaneously through
-    pure geometric extension. The mechanism converts single-square occupation into multi-square territorial control through
-    unobstructed straight-line projection.
-- name: COLOR LOCK
-  description: Maintains perfect fidelity to color constraint across all moves, never accessing opposite-colored squares regardless
-    of strategic incentives. The mechanism trades tactical flexibility for strategic reliability within its operational domain.
-- name: GEOMETRIC AMPLIFICATION
-  description: Converts central positioning into exponentially increased influence through diagonal multiplication. The mechanism
-    leverages board geometry where central squares provide access to maximum diagonal networks.
+- name: DIAGONAL PROJECTION
+  description: The ability to radiate power along unobstructed diagonals, creating long-range threats and controlling space.
+    This power is the bishop's defining capability, enabling it to influence the board without occupying the squares it controls.
+- name: COLOR-BOUND COMPLEMENTARITY
+  description: The ability to form a composite body (bishop pair) with another bishop on the opposite color, achieving system-level
+    O>I topology. This power emerges from the bishop's individual constraint and is unique to the bishop among chess pieces.
+- name: PAWN STRUCTURE EXPLOITATION
+  description: The ability to exploit open diagonals created by pawn moves, turning the pawn structure into a substrate for
+    projection. This power is relational — the bishop does not create open diagonals but leverages those created by other
+    pieces.
+- name: TACTICAL THREAT GENERATION
+  description: The ability to generate tactical patterns (pins, skewers, discovered attacks) by projecting power through or
+    around other pieces. This power is derived from the bishop's long-range movement and is a key source of its tactical value.

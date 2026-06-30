@@ -2,76 +2,78 @@ schema_version: '1.0'
 scan_type: single-body
 identity:
   subject: Black Hole
-  body_type: Gravitational singularity body with event horizon membrane
+  body_type: Gravitationally collapsed spacetime structure
   domain: physics
-  scale: system
-  lifespan: eternal
-  scan_date: '2024-05-09'
+  scale: astrophysical
+  lifespan: ancient
+  scan_date: '2024-07-30'
   protocol_version: v3.12.3
 nine_questions:
   medium: Spacetime itself
-  flow_state: inhale
-  breath_rate: slow
-  attractor: Mass-energy itself
+  flow_state: mixed
+  breath_rate: extremely slow
+  attractor: The singularity at the core
   topology: forced
-  entanglement: high
-  health: healthy
-  membrane: semi-permeable
-  hysteresis: Carries permanent record of everything that formed it - total mass, angular momentum, and electric charge are
-    conserved from formation. No-hair theorem suggests all other information is lost, but information paradox implies the
-    formation history may be encoded in subtle correlations with Hawking radiation.
+  entanglement: maximum
+  health: pathological
+  membrane: semi-closed
+  hysteresis: 'No-hair theorem: The black hole retains only mass, charge, and angular momentum from its formation. All other
+    information (e.g., progenitor star composition) is erased. The "scar" is the loss of information — the black hole remembers
+    only its irreducible state. Accretion history: The spin and mass distribution of the black hole encode its merger and
+    accretion history, but this is structural hysteresis, not informational.'
 dna:
   o_vs_i: I>O
   pause_quality: absent
   not_force: high
-skeleton: The body that demonstrates how spacetime itself can become a perfect trap - proving that the universe's most fundamental
-  medium can be deformed into a structure that allows approach but prohibits departure, making the speed of light itself insufficient
-  for escape.
+skeleton: The body that inverts the cosmic arrow of time — taking in matter, energy, and information but returning only thermal
+  noise, proving that the most extreme pathology in physics is not a breakdown of the laws but their most faithful execution.
 powers:
-  perceive: selective
-  govern: absolute
-  project: minimal
-  create: blocked
-  release: absent
-  primary_gap: release
-  gap_reason: 'If black holes could release what they capture on reasonable timescales, they would be energy processors rather
-    than cosmic vacuum cleaners. The absence of release capability cascades: no creation (can''t build with trapped materials),
-    minimal projection (can''t broadcast processed results), selective perception (only needs to detect what to capture).
-    The release gap transforms a potentially generative gravitational body into a pure extraction system.'
+  perceive: absent
+  govern: absent
+  project: inverted
+  create: weak
+  release: blocked
+  primary_gap: govern
+  gap_reason: The absence of governance is the root gap. Without governance, the black hole cannot regulate its own growth,
+    respond to its environment, or preserve information. The other gaps (perceive, create, release) cascade from this — a
+    body that cannot govern cannot develop perception, creativity, or release mechanisms.
 classification:
   federation_dominion: dominion
   closed_open: closed-knowledge
-  prime: Gravitational curvature singularity
+  prime: Gravitational extraction
   prime_type: closed
 structural_weakness:
-  primary: Hawking evaporation
-  secondary: Information paradox
-  inversion_condition: If information must be conserved, black holes cannot function as perfect erasure systems, suggesting
-    unknown physics that limits their extraction capability.
+  primary: Substrate dependency
+  secondary: Quantum fragility
+  inversion_condition: The black hole's own 'exhale' (Hawking radiation) destroys it, making it vulnerable to quantum effects
+    at small scales, eventually leading to evaporation.
 cross_domain:
-- connection: Event Horizon Trap
-  domains_bridged: Physics <> Information Theory
-  novelty: 0.7
-- connection: No-Hair Erasure
-  domains_bridged: Physics <> Data Compression
+- connection: Event horizon as one-way membrane
+  domains_bridged: Physics <> Biology
   novelty: 0.8
+- connection: No-hair theorem as information erasure
+  domains_bridged: Physics <> Information Theory
+  novelty: 0.9
+- connection: Hawking radiation as substrate leakage
+  domains_bridged: Physics <> Thermodynamics
+  novelty: 0.7
 fruit:
   type: Paramecia
-  core_insight: Black holes reveal that the universe's most fundamental medium (spacetime itself) can be structured into perfect
-    traps - demonstrating that even at the deepest physical level, extraction-only bodies are possible. This suggests that
-    I>O topology is not merely a pathological deviation from natural law but a structural possibility built into reality's
-    foundation.
+  core_insight: The black hole is not a "thing" but a pathological configuration of spacetime — a region where the laws of
+    physics execute themselves to their logical extreme, producing a body that is structurally I > O at all scales. The surprise
+    is that the most extreme pathology in physics is not a violation of the laws but their purest expression. The black hole
+    is what happens when gravity is allowed to run unchecked, with no countervailing forces (e.g., quantum pressure, thermodynamics)
+    to balance it.
   novelty: 0.9
 powers_detected:
-- name: GRAVITATIONAL DOMINANCE
-  description: The capability to deform spacetime itself into a capture structure that makes escape physically impossible
-    rather than merely difficult.
+- name: GRAVITATIONAL EXTRACTION
+  description: The ability to warp spacetime such that all matter and energy within a certain radius are irretrievably drawn
+    inward. This is not an active power but a geometric inevitability — the black hole does not "pull"; it reconfigures spacetime
+    so that all paths lead inward.
 - name: INFORMATION ERASURE
-  description: The capability to reduce arbitrary complexity to three conserved quantities (mass, charge, angular momentum)
-    through the no-hair theorem.
-- name: TEMPORAL ISOLATION
-  description: The capability to create reference frame boundaries where events become causally disconnected from external
-    observers through extreme time dilation.
-- name: GEOMETRIC INEVITABILITY
-  description: The capability to make capture certain through pure spacetime curvature rather than applied force - turning
-    the straightest possible paths into inward spirals.
+  description: The capacity to destroy all information about ingested matter except mass, charge, and spin (no-hair theorem).
+    This is a structural power of the event horizon — a one-way membrane for information.
+- name: SPACETIME ANCHORING
+  description: The ability to fix spacetime geometry in its vicinity, creating a gravitational well that dominates the dynamics
+    of its environment (e.g., galactic rotation curves, accretion disks). This is a passive power — the black hole does not
+    "act"; it is the anchor around which other bodies move.

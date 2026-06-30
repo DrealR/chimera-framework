@@ -6,7 +6,7 @@ identity:
   domain: physics
   scale: system
   lifespan: ancient
-  scan_date: '2024-07-30'
+  scan_date: '2024-07-29'
   protocol_version: v3.12.3
 nine_questions:
   medium: Spacetime itself
@@ -15,7 +15,7 @@ nine_questions:
   attractor: Its own center of mass
   topology: forced
   entanglement: high
-  health: pathological
+  health: healthy
   membrane: semi-permeable
   hysteresis: Retains only mass, charge, and angular momentum (no-hair theorem) — all other information is thermodynamically
     scrambled.
@@ -32,7 +32,7 @@ powers:
   create: moderate
   release: weak
   primary_gap: govern
-  gap_reason: information preservation capacity
+  gap_reason: information preservation capacity — root failure that makes Hawking radiation thermal rather than structured.
 classification:
   federation_dominion: dominion
   closed_open: closed-knowledge
