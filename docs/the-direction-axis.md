@@ -41,6 +41,8 @@ The directional claim earns its keep by predicting outcomes that a metaphysical 
 
 - **Burnout.** Burnout is **directional betrayal,** not quantity of work. Twelve aligned hours can feel alive; eight hours performing a care you do not feel "go straight to the bones" — the operator forced to face a sun it does not orbit. (The popular cure — "find your passion, become the 5%, monetize what you love" — is the inward-turn relabeled as liberation, and belongs in the drawer.)
 
+- **Performance.** Performance-mode social attention is the self-as-object inside an encounter: the operator monitors image, status, safety, desirability, or spiritual/competent appearance instead of meeting the actual field. Dropping the costume is the micro-Pause that re-points attention outward. Still water is not passivity; it is reduced signal interference.
+
 ---
 
 ## The Cure Is Outward — and Minimalism Is the Engineering
@@ -81,6 +83,7 @@ Every extraction story's answer is **not defense — it is generosity:** pointin
 - [O > I Pathology Topology](oi-pathology-topology.md) — the inequality's six failure modes; the Direction Axis is the reading underneath them, where every I > O pathology is the operator's gaze curved back onto itself. The topology classifies the sickness; the axis names the single move that produces all six.
 - [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) — the same axis stated theologically and restricted to carriers: Lucifer-position (claim the light, inward, I > O) versus Michael-position (let it flow through, outward, O > I). The Direction Axis generalizes this orientation from carriers-of-the-light to *any operator holding any instrument.*
 - [Observation Pressure vs Attention](observation-pressure-vs-attention.md) — the three-directions distinction at the scale of one encounter: pressure-observation points at the self-as-metric (inward-as-object), attention-observation points at where the other is (outward).
+- [Performance as Inward Extraction](performance-as-inward-extraction.md) — the social-performance diagnostic as the everyday encounter version of inward extraction.
 - [Dimension-Stripping: Constrained Input Concentrates Attention](dimension-stripping-concentrates-attention.md) — Daredevil as the cleanest costume: attention learning to *select* under constraint IS the direction axis applied to perception; the constraint removes a channel and forces attention to find the load-bearing signal (the outward-facing move at perceptual scale).
 - [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — awakening = the fundamental's range expanding *self to field* = the outward-turn made into a power-up; the self-to-field expansion IS this axis articulated through One Piece's power system.
 - [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the Prime is, at root, training *which way the operator faces* while attending, not only what it attends to; inward strips the heaven you stand in, outward grows the field. The three moves are how a person re-points the gaze.

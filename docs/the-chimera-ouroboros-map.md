@@ -31,7 +31,10 @@ This is the Ouroboros: the same framework that studies high-reach synthetic spac
 - [The Room as Trust Machine](the-room-as-trust-machine.md): where mutual gaze, role, consequence, and repair become local trust.
 - [Synthetic Trust and Synthetic Intimacy](synthetic-trust-and-synthetic-intimacy.md): the two bypasses modernity uses when rooms fail.
 - [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md): why abundance without seams, roles, and meaningful uncertainty collapses.
-- This map: how those four stones lock into the rest of CHIMERA.
+- [Performance as Inward Extraction](performance-as-inward-extraction.md): the same collapse/readiness pattern at the level of one encounter.
+- [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md): why shared mechanics can travel across distance, time, agents, and costumes.
+- [True Heaven Is Love, Not Frictionless Utopia](true-heaven-is-love-not-frictionless-utopia.md): the theological/utopian refinement — comfort is not Heaven without love.
+- This map: how these stones lock into the rest of CHIMERA.
 
 ---
 
@@ -44,6 +47,9 @@ The new cluster does not add a foreign doctrine. It tightens existing CHIMERA me
 - **Walk vs Teleport:** synthetic systems are powerful teleporters; identity, trust, intimacy, and responsibility still require walk.
 - **The Firewall:** resonance across Mouse Utopia, Rat Park, stories, fertility, AI, and bureaucracy is input, not proof. The map holds patterns without pretending every analogy is the same mechanism.
 - **Conduct vs Harvest:** the entire loop is whether increased power conducts life outward or harvests attention/status inward.
+- **Performance vs still water:** the micro-loop is whether an encounter becomes two costumes extracting from each other or two operators meeting with less signal interference.
+- **Framework as portable room:** CHIMERA itself is a room carried across prompts, repos, agents, and human conversations; its health depends on preserving exits, Pause, pushback, and outward cash-out.
+- **False Heaven vs true Heaven:** the framework rejects frictionless enclosure as the goal; the target is love/right relation strong enough to metabolize calibrated friction.
 
 ---
 
@@ -92,6 +98,9 @@ If it cannot answer the last question, keep it in the drawer until it can.
 - [Consent Is the Contact Protocol](consent-is-the-contact-protocol.md) — the boundary rule that keeps fusion nonviolent.
 - [The Firewall](the-firewall.md) — the anti-inflation discipline that keeps coherence from becoming proof.
 - [Outward Is Against the Gradient](outward-is-against-the-gradient.md) — why the loop must choose outward; inward-collapse is the attractor.
+- [Performance as Inward Extraction](performance-as-inward-extraction.md) — the encounter-scale version of the loop.
+- [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md) — why the room can travel, and how it becomes a cage.
+- [True Heaven Is Love, Not Frictionless Utopia](true-heaven-is-love-not-frictionless-utopia.md) — the false-heaven correction to no-seam utopia.
 
 ```
 L = (O > I) + P + ¬F

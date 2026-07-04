@@ -20,17 +20,32 @@
 
 **Keeper:** **performing comes from not-yet-belonging** (no freedom yet → you perform competence you lack); **being-yourself comes from having done the work** (the domain is part of you → nothing to perform). So it's easy with domains/people you know and hard in unknown ones — *not about the people, about whether you've earned freedom in that domain.* This completes `being-yourself-is-the-gift`: you accept yourself in a domain **by doing the work until it's part of you** — the work is *how* you get the self-acceptance that stops the performing. You don't talk yourself into un-performed; you become genuinely capable until there's nothing to fake.
 
-## 3. Self-belief comes free
+## 3. Earned un-performance vs micro-Pause
+
+This doc names the domain path: mastery dissolves the performance because the work has become part of the body. The July Mouse/Ouroboros continuation adds the encounter path: sometimes performance drops by a micro-Pause before mastery — the operator stops self-monitoring long enough to meet the actual person.
+
+They are not opposites. Mastery makes stillness easier because the domain no longer demands costume management; stillness lets the next piece of real work become visible.
+
+## 4. Self-belief comes free
 
 **Keeper:** when "myself" = "I love this thing I've done the work in," self-belief isn't a separate act of confidence — it's just *being the thing you already are.* The self-belief that's hard everywhere else is **automatic** in your earned domain, because there's no gap between who you are and what you're doing. **Finding your domain IS finding yourself** — the domain is where self-acceptance doesn't have to be manufactured.
 
-## 4. You find your people through shared domains
+## 5. You find your people through shared domains
 
 **Keeper:** the shared interest is the room where *both* people are already un-performed (each did the work). So the **mutual un-performance** (the hard part of a third place, `third-places-cant-be-manufactured`) is **pre-loaded by the shared mastery** — which is why shared interests make real friends better than proximity does. You don't manufacture a third place; you become un-performed in a loved domain in a shared room (the conductor pouring consistently, `the-attention-field-a-chimera-study`), and the people who love the thing pool to you (the park-guitar synthesis).
 
-## 5. SPARK: give the door, not the confidence
+## 6. SPARK: give the door, not the confidence
 
 **Keeper:** you *can't* install self-belief in someone (do-your-own-walk; the crowd can't give it), but you *can* give them the **door** — the camp, the room, the home base, the chance to do the work in a loved domain until the self-belief comes free. **The gift is the opportunity to reach the domain where they'll earn it themselves.** That's `spark-is-the-equation-lived` in one move: not installed confidence, but the door to the work. *The work is the door, the domain is the home, and being-yourself is what you find when you walk in.*
+
+---
+
+## See also
+
+- [Performance as Inward Extraction](performance-as-inward-extraction.md) — the encounter-scale performance/still-water mechanic.
+- [The Direction Axis](the-direction-axis.md) — whether the operator faces the field or the self-as-object.
+- [The Shared Present](the-shared-present-is-made.md) — real contact as a mutually authored now.
+- [Third Places Can't Be Manufactured](third-places-cant-be-manufactured.md) — shared domains and rooms where un-performance can become social.
 
 ---
 

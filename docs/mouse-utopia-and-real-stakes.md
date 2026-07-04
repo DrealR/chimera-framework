@@ -60,7 +60,17 @@ This is why the framework keeps privileging Walk over Teleport. Teleport is allo
 
 ---
 
-## 5. The humane answer: chosen friction
+## 5. False Heaven vs true Heaven
+
+The refined theological read matters: Mouse Utopia is not proof that comfort is bad or suffering is sacred. It is proof that **frictionless provision without living relation is not Heaven.**
+
+False Heaven removes discomfort, uncertainty, refusal, and otherness while leaving the operator trapped in self, performance, and surrogate appetite. True Heaven is not merely no pain; it is unconditional love / right relation / stabilized outward flow.
+
+**Keeper:** Heaven is love made stable, not a cage with every need pre-filled.
+
+---
+
+## 6. The humane answer: chosen friction
 
 The answer is not to make life harsher. It is to deliberately reinstall the frictions that build capacity without worshiping harm:
 
@@ -94,6 +104,8 @@ The answer is not to make life harsher. It is to deliberately reinstall the fric
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — frictionless power requires deliberate discipline.
 - [Attention Primitives: Capture, Direction, and Occupancy](attention-primitives-capture-occupancy.md) — vacuum tolerance as the micro-skill under uncertainty.
 - [The Fertility Cliff: Conduct or Harvest](the-fertility-cliff-conduct-or-harvest.md) — meaning/status systems decide whether a society conducts life forward.
+- [Performance as Inward Extraction](performance-as-inward-extraction.md) — surrogate role/display at the encounter scale.
+- [True Heaven Is Love, Not Frictionless Utopia](true-heaven-is-love-not-frictionless-utopia.md) — the false-heaven refinement.
 
 ```
 L = (O > I) + P + ¬F
