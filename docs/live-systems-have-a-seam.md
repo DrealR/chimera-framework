@@ -57,6 +57,7 @@ something somewhere, and you can find where.
 
 ## See Also
 
+- [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md) — applies the seam detector to perfect-world failure: no uncertainty, no role, no consequence, and no tradeoff becomes weightless rather than alive.
 - [Friction as a Foundational Primitive](friction-as-foundational-primitive.md) — the seam is friction
   built into a system on purpose; the place it touches a real body.
 - [Attention Authors Weight](attention-authors-weight.md) — a seamless, tradeoff-free surface is the

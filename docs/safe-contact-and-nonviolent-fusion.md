@@ -67,6 +67,8 @@ The promise is not protection from all harm. The promise is a practiced body for
 
 ## See also
 
+- [Consent Is the Contact Protocol](consent-is-the-contact-protocol.md) — names the live boundary protocol that lets safe contact become fusion without force.
+- [The Room as Trust Machine](the-room-as-trust-machine.md) — rooms are the local infrastructure where safe contact can repeat, remember, and repair.
 - [The Eye-Lock: Mutual Recognition](the-eye-lock-mutual-recognition.md) — the smallest visible unit of safe contact.
 - [The Stable Bond of Opposites](the-stable-bond-of-opposites.md) — unity that keeps two poles distinct.
 - [Third Places Can't Be Manufactured](third-places-cant-be-manufactured.md) — safe contact requires local memory and repeated mutual presence.

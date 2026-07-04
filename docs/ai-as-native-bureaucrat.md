@@ -65,6 +65,8 @@ People-literacy handles intent, attention, and operator posture. Structural limi
 
 ## See also
 
+- [Synthetic Trust and Synthetic Intimacy](synthetic-trust-and-synthetic-intimacy.md) — situates bureaucracy as synthetic trust and AI companions/feeds as synthetic intimacy; both must route back to rooms.
+- [The Room as Trust Machine](the-room-as-trust-machine.md) — the living correction to token-only trust: mutual gaze, local memory, consequence, and repair.
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — token systems can write weights into the operator.
 - [Read the Intent, Not the Realness](read-the-intent-not-the-realness.md) — the stable literacy when surface verification fails.
 - [The Eye-Lock: Mutual Recognition](the-eye-lock-mutual-recognition.md) — mutual recognition is the human correction to token-only trust.

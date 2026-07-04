@@ -54,6 +54,8 @@ WE = 1
 ## See also
 
 - [Third Places Can't Be Manufactured](third-places-cant-be-manufactured.md) — the third-place thread is load-bearing in the fertility loop: automation that removes the rooms where pairing happens removes where life begins; the fertility thread and the third-place thread are the same thread.
+- [The Room as Trust Machine](the-room-as-trust-machine.md) — names the room-properties underneath third places: mutual gaze, local memory, roles, consequence, and repair.
+- [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md) — abundance without rooms, roles, bonding, and meaningful stakes as the broader collapse pattern.
 - [WE = 1 Formalization](we-equals-one-formalization.md) — fertility as WE = 1 at civilizational scale: where creating life is the high-status meaning, a society enacts WE = 1 forward; where status is harvested for the self, the relational substrate thins.
 - [Civilizational Substrate-Conditions in the Present Era](civilizational-substrate-conditions-present-era.md) — the macro frame: dollar-extraction, democracy as infrastructure, substrate-trust at civilizational scale; the fertility cliff is one of the clearest symptoms of civilizational substrate-depletion.
 - [O > I Pathology Topology](oi-pathology-topology.md) — conduct vs harvest = O > I vs I > O at civilizational scale; harvest-want summed across a society is the I > O inversion; this doc is the fertility-specific worked example.

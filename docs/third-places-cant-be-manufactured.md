@@ -26,6 +26,8 @@
 
 ## See also
 
+- [The Room as Trust Machine](the-room-as-trust-machine.md) — expands the third-place claim into the broader room-physics: repeated mutual presence, local memory, roles, consequence, and repair.
+- [Synthetic Trust and Synthetic Intimacy](synthetic-trust-and-synthetic-intimacy.md) — names the two bypasses that appear when rooms fail: trust without intimacy and intimacy without mutuality.
 - `reality-spam-and-the-staged-offline`
 - `dignity-as-the-final-membrane`
 - `the-cuck-internet-the-anti-operator-state`
