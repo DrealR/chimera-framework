@@ -65,9 +65,11 @@ Every added gate increases both power and noise. More access demands more select
 
 ---
 
-## 5. Altitude and play
+## 5. Altitude, play, and tuning
 
 Many stories make higher-dimensional beings playful or trickster-like. The structural reason is clear: when a body sees more of the local rules, the local drama becomes more malleable. That can produce creativity and mercy, or cruelty and detachment.
+
+The Superman/Kryptonian carrier adds the missing power-side constraint: higher access must be tuned to the layer it touches. Hearing more does not mean answering every sound. Seeing through walls does not mean violating privacy. Strength does not mean full-force contact. A higher-power body proves maturity by restraining itself enough for the lower-capacity room to remain whole.
 
 CHIMERA's rule is simple: play is healthy only while it preserves the lower-dimensional body's dignity, consent, and operator capacity.
 
@@ -105,6 +107,8 @@ Ask:
 - [Performance as Inward Extraction](performance-as-inward-extraction.md) — seeing through surface costume at encounter scale.
 - [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md) — frameworks as perceptual/navigational prosthetics.
 - [The Leverage Is Inward](the-leverage-is-inward.md) — expanded access is trained on your own body, never power over another.
+- [Higher-Power Tuning](higher-power-tuning.md) — the Superman/Kryptonian refinement: higher access creates restraint obligations.
+- [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — why higher access cannot bypass cost, limit, or boundary.
 
 ```
 L = (O > I) + P + ¬F

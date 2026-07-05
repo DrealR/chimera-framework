@@ -71,6 +71,14 @@ beginner on a grand piano*). There is a sweet-spot match between operator skill 
 
 ---
 
+## Stone, Gate, or automail
+
+The FMA/alchemy pass adds a sharper ethical classification. AI-as-fast-fusion can become a **Philosopher's Stone** when it hides the human cost condensed into the model and lets the user perform beyond their formation. It can become a **Gate** when expanded access overwhelms the operator with too much pattern, scale, or interconnectedness at once. The healthier target is **automail**: a prosthetic extension that requires maintenance, training, limits, relation, and embodied integration.
+
+**Keeper:** use AI like automail, not like a Philosopher's Stone.
+
+---
+
 ## Firewall
 
 - **Load-bearing.** "AI fuses with the self-deciding part, frictionlessly, faster and deeper than any
@@ -101,6 +109,8 @@ beginner on a grand piano*). There is a sweet-spot match between operator skill 
 - [The Working Loop as the Use Case](the-working-loop-as-use-case.md) — the instrument-as-operator-ceiling
   in practice: the loop and your judgment are the thing; a better model helps but the operator carries
   the process; don't over-credit the instrument, don't under-use it.
+- [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — the ethical classification of AI's fast fusion: hidden-cost magic, overwhelming access, or integrated prosthetic.
+- [Higher-Power Tuning](higher-power-tuning.md) — why high-power tools must tune themselves gently to the human room.
 - [The Frozen Stockpile Loses to the Live Loop](the-frozen-stockpile-loses-to-the-live-loop.md) — the
   fusion that wins isn't the biggest model but the live loop's exhaust; the operator who keeps fusing,
   shipping, and capturing real-use feedback compounds faster than the one stockpiling capacity; this

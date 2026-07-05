@@ -32,7 +32,19 @@ Don't accept the output as neutral surface — **read its structure** (what cons
 
 Kids will have AI as their **default surface** — the most authoritative install there's ever been. **The kid who accepts AI raw becomes Smith** (consensus installed, no operator inside, derivative, the meta carried as their own); **the kid who reads AI's structure and checks it against their own walked weight stays Neo** (uses the tool, chooses through it, keeps their own pen). Teaching *not-get-installed-by-AI* — read its structure, explore first, play it don't install it — is the most important literacy SPARK can give the AI-native generation.
 
+## 6. Anti-Stone literacy
+
+The FMA/alchemy pass sharpens the same literacy: do not use AI as a Philosopher's Stone. If AI gives the effect without the formation, the operator must consciously pay the exchange later by understanding, explaining, practicing, citing, repairing, or returning value. The danger is not help; the danger is borrowed power mistaken for personal maturity.
+
+**Keeper:** if AI drafts it, understand it; if AI gives reach, increase restraint; if AI removes friction, verify the friction was pointless rather than formative.
+
 ---
+
+## See also
+
+- [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — the Philosopher's Stone / automail distinction for AI use.
+- [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — why borrowed power still carries cost.
+- [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the instrument/fusion frame this literacy protects.
 
 ```
 L = (O > I) + P + ¬F

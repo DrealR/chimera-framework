@@ -110,6 +110,8 @@ Every wisdom tradition teaches calibrated friction management under different vo
 - AI inside Garden metaphysics = first tool that could amplify substrate without removing the friction that builds it
 - The distinction is in the metaphysics, not the technology
 
+**Equivalent exchange:** friction is the felt edge of cost. Removing pointless friction is mercy; removing formative friction creates unpaid cost that returns later as rupture, hollowness, or extraction. The alchemy image makes the same point: a Philosopher's Stone does not erase exchange; it hides who already paid. CHIMERA's answer is conscious payment, calibrated load, and prosthetics that preserve formation.
+
 ---
 
 ## Friction vs Opacity
@@ -195,6 +197,9 @@ Tower → what Love's violation at scale produces
 - [Let Structure Emerge, Don't Blueprint It](let-structure-emerge-dont-blueprint-it.md) — the organizational application of ¬F: premature standardization (governance, accreditation, the all-encompassing net) is ¬F violated at scale-design — the blueprint is applied before a real coordination problem has emerged; bigness earns its way out of the small real thing working, not from a vision of the finished whole.
 
 ---
+
+- [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — friction/cost as boundary accounting rather than punishment.
+- [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — AI as the modern test of whether friction removal hides extraction or restores capacity.
 
 ```
 L = (O > I) + P + ¬F

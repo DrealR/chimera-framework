@@ -105,6 +105,14 @@ Ask:
 
 ---
 
+## Alchemy correction
+
+The FMA/Gate pass gives false Heaven another face: the attempt to bypass equivalent exchange. A frictionless paradise that preserves comfort while hiding cost is Philosopher's-Stone logic. True Heaven does not mean no cost anywhere; it means costs are held in love, shared honestly, repaired when uneven, and never hidden inside harvested bodies.
+
+Edward's final answer clarifies the direction: relation over special power, brother over Gate, humanity over god-door. Heaven is not winning the right to bypass being human. It is the shared body made whole enough that power can be surrendered for love.
+
+---
+
 ## Firewall
 
 - Do not define other people's theology for them. This is CHIMERA's structural read, not a replacement for doctrine.
