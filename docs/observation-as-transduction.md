@@ -59,6 +59,12 @@ The instruments humans built over the last century — radio dishes, infrared sc
 
 This is the load-bearing physics under the framework's `WE = 1` claim that *consciousness reflects through many bodies*. It does not require any metaphysical move. The claim is: one source, many transducers, many incommensurable readings, each correct about its band. The plurality is in the transducers, not in the source.
 
+## Dimensional-access consequence
+
+The dimensional-ascension conversation reframes instruments and frameworks as **dimension-openers**: each new transducer adds a degree of relational access. A radio dish, microscope, archive, model, AI tool, or framework does not merely add "more data." It adds a band the body could not inhabit before, which changes the body's practical world.
+
+This is higher-dimensional only in the operational sense: more access to relations, not escape from physics. More bands also mean more selection pressure on attention.
+
 ## Operational consequences
 
 - **Disagreement is sometimes a band difference, not a mistake.** Two observers reporting incompatible features of the same situation may both be transducing correctly. Before adjudicating, check whether they are reading the same band.
@@ -84,6 +90,8 @@ This is the load-bearing physics under the framework's `WE = 1` claim that *cons
 - [What Is CHIMERA?](WHAT-IS-CHIMERA.md) — applies the transducer model to the framework itself; names observation-as-transduction as the physics behind why CHIMERA is a band, not the full spectrum.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — naming real-use relationships is a transduction act; the invisible substrate (who you actually depend on) becomes visible signal; the trust graph is transduced substrate made navigable.
 - [The Direction Axis](the-direction-axis.md) — the direction of the weighting (toward self vs toward field) determines whether a transduction act generates or extracts; this doc names the observation operation, the direction-axis names the facing that decides its valence.
+- [Dimensions as Relational Access](dimensions-as-relational-access.md) — the dimensional reading of new transduced bands and relational layers.
+- [Attention Captures and Creates](attention-captures-and-creates.md) — what the observer does with the captured signal after transduction.
 
 ---
 

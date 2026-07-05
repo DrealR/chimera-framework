@@ -54,6 +54,14 @@ This is why the three moves in [Write-Access to Your Own Attention](write-access
 
 ---
 
+## Capture and return
+
+The dimensional-ascension continuation adds a fourth operational reading without replacing the three properties: attention **captures** a body from the field and reconstructs it inside the observer. Capture becomes healthy when it returns outward as creation, service, repair, speech, craft, or restraint. Capture without return becomes consumption — the organ taking in worlds without metabolizing them back into any room.
+
+This keeps the earlier capture-state precise: some attention is seized by the world; some is steered by the operator; all captured material still needs direction and metabolism.
+
+---
+
 ## SPARK Floor and the Live Thread
 
 The empty-attention tolerance may be the actual floor under SPARK's "sustained attention" claim. Not focus as grip or intensity, but focus as the capacity to not flee the vacuum. A feed-raised kid has truly lost (or never formed) this floor. The Pied Piper engineering (stakes, head-fake, rehook, shrink time-per-hand, never let loop close) is the same harp the addiction loop video described — and it works because it exploits occupancy intolerance: it never lets the chemical loop close, so the listener cannot disengage.
@@ -95,6 +103,8 @@ Live thread (no rush): test with Lamont whether the real first exercise in the k
 - [Lucifer-Michael as Structural Orientation](lucifer-michael-as-structural-orientation.md) — the firewall on the meta-observer's cost: high resolution held as Michael-position (a capacity that came through, not owned) vs Lucifer-position (claimed superiority, the "alien/special" inflation).
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the axiom: discipline used to install by necessity (no hatch to flee to) and now must be installed on purpose; collapsed occupancy-tolerance is the specific symptom of the always-available hatch; this doc names the organ property, that one names why its installation conditions were removed at scale.
 - [Dimension-Stripping: Constrained Input Concentrates Attention](dimension-stripping-concentrates-attention.md) — removing a channel is capture-management at the input level: starve one capture source and the freed attention is redirected to the channels that remain; this doc names the organ mechanics, dimension-stripping is the deliberate training protocol built on them.
+- [Attention Captures and Creates](attention-captures-and-creates.md) — the capture/metabolism/return cycle that keeps high-access perception from becoming consumption.
+- [Dimensions as Relational Access](dimensions-as-relational-access.md) — attention as the finite selector inside expanded relational access.
 
 ---
 

@@ -116,6 +116,14 @@ projection has a live edit-point at every recall, forward *and* backward.
 
 ---
 
+## Two-time clarification
+
+The dimensional-ascension pass gives the time language a cleaner split. **Time 1** is causal/linear: the accumulated body, the rails, the forward consequence that makes projections possible. **Time 2** is relational/qualitative: the way present attention changes a memory's weight, a future's pull, or the meaning of an event without changing the event itself.
+
+The interrupt lives at the hinge. It reads Time 1, then uses Time 2 to reweight and redirect before the next rail cools. That is why the past is editable as memory and the future is open as conduct, without claiming literal timeline control.
+
+---
+
 ## Firewall
 
 - **Drawer / unanswerable.** The hard determinist's return is correct and unbeatable: the Pause is
@@ -178,6 +186,7 @@ projection has a live edit-point at every recall, forward *and* backward.
   present-moment operator audible.
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the interrupt's highest-stakes application: AI compresses the time between attention and re-weighting, so the Pause must fire faster and more reliably than any previous tool required; the one-free-variable is now under the heaviest write-load in history.
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the Pause is what holds the anchor under the pull of wall-less relational space; the interrupt is the mechanism that keeps the mind tethered to the physical floor when the fastest vehicle in history is pulling it into a space with no floor and no brakes.
+- [Time as Relational Movement](time-as-relational-movement.md) — the two-time articulation: causal rails plus relational reweighting.
 
 ---
 

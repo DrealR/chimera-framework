@@ -46,6 +46,14 @@ That is the training — ordinary, real, no totem required.
 
 ---
 
+## Dimensional-access clarification
+
+The July dimensional-ascension pass widened the word "dimension." A dimension can be a spatial axis, but it can also be a perceptual/relational channel. Dimension-stripping is therefore the training inverse of dimensional expansion: close one channel, force attention to develop another, then return to the full field with more usable access.
+
+**Keeper:** higher access is not more input by default. Sometimes the next dimension opens because one noisy dimension gets quiet.
+
+---
+
 ## Firewall
 
 - **Load-bearing.** "Constrained input concentrates attention; concentrated attention trains the sense
@@ -67,6 +75,7 @@ That is the training — ordinary, real, no totem required.
 - [Attention Primitives: Capture, Direction, and Occupancy](attention-primitives-capture-occupancy.md) —
   removing a channel is capture-management at the input level: starve one capture source and attention
   is freed to be directed where it's needed.
+- [Dimensions as Relational Access](dimensions-as-relational-access.md) — the expanded dimensional read this training protocol now sits inside.
 
 ---
 
