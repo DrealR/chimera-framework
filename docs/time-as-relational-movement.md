@@ -95,6 +95,7 @@ The goal is not to remove irreversibility. The goal is to make irreversible choi
 - [Attention Authors Weight](attention-authors-weight.md) — attention as the author of meaning in weightless conditions.
 - [Dimensions as Relational Access](dimensions-as-relational-access.md) — higher-dimensional access as longer causal/relational reach.
 - [True Heaven Is Love, Not Frictionless Utopia](true-heaven-is-love-not-frictionless-utopia.md) — why removing all friction/consequence is not the goal.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — stillness while directed is high operator movement in relational time; Pause is motion becoming conscious before action.
 
 ```
 L = (O > I) + P + ¬F

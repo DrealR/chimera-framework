@@ -112,6 +112,10 @@ The FMA/Gate pass gives false Heaven another face: the attempt to bypass equival
 Edward's final answer clarifies the direction: relation over special power, brother over Gate, humanity over god-door. Heaven is not winning the right to bypass being human. It is the shared body made whole enough that power can be surrendered for love.
 
 ---
+## Coherence correction
+
+False Heaven often presents itself as unity, but if that unity requires erasure of bodies, boundaries, variance, refusal, or cost, it is absorption rather than love. True Heaven is coherence without erasure: shared presence stabilized by O > I, Pause, and calibrated friction.
+
 
 ## Firewall
 
@@ -131,6 +135,8 @@ Edward's final answer clarifies the direction: relation over special power, brot
 - [Direction Is Upstream of Good and Evil](direction-upstream-of-good-and-evil.md) — theological costumes over the direction mechanism.
 - [The Direction Axis](the-direction-axis.md) — Heaven/Hell as outward/inward operator states in practice.
 - [The Room as Trust Machine](the-room-as-trust-machine.md) — love needs a room, not only resources.
+- [Coherence Without Erasure](coherence-without-erasure.md) — the true-heaven firewall: unity that preserves bodies, not absorption that calls itself peace.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — true peace is not inertia; it is motion made conscious enough to choose love.
 
 ```
 L = (O > I) + P + ¬F

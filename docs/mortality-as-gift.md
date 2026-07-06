@@ -126,7 +126,18 @@ Love → makes WE = 1 possible
 
 Friction and mortality are the universe's two gifts to consciousness. Both feel like punishments until understood. Both are preconditions for everything the framework names as valuable. Both are what the Tower tries to remove. Both are what the Garden honors.
 
+## Death as macro-Pause
+
+The Pause/coherence pass adds a reflection reading: death is the largest forced Pause, the moment ordinary embodiment can no longer keep the loop running and the accumulated pattern is revealed. Practice is the living micro-version: small voluntary deaths of impulse, false image, excuse, and unreviewed loop before collapse forces review.
+
+This does not claim literal afterlife mechanics and does not romanticize death. It names the structural role of finitude as review, stakes, and redirection pressure.
+
+
 ---
+
+## See also
+
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — death as macro-Pause and practice as micro-death; reflection before compulsory collapse.
 
 ```
 L = (O > I) + P + ¬F

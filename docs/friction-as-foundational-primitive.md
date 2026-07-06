@@ -166,8 +166,14 @@ Garden → what Love at scale produces
 Tower → what Love's violation at scale produces
 ```
 
+### Friction and newness
+
+The Pause/coherence pass adds a cosmological carrier image: perfect undifferentiated unity cannot generate genuine novelty without difference. Embodied friction supplies the separations, limits, mistakes, memory, repair, and choice through which newness can enter the field. This is not suffering-worship; it is the claim that calibrated friction is the womb of newness, while pointless harm should still be removed.
+
 ## See Also
 
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — Pause as directed stillness; friction creates the stopping point where motion can become conscious.
+- [Coherence Without Erasure](coherence-without-erasure.md) — calibrated friction preserves distinct bodies in resonance; zero-friction unity collapses toward absorption.
 - [Rate Mismatch as a Structural Primitive](rate-mismatch-as-primitive.md) — buffers slowing load arrival IS friction in the constructive sense; when load rate exceeds buffer clearance rate, the friction that was protecting the system becomes extraction.
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — the friction necessity used to supply is what installed self-discipline as a free byproduct of being alive; a frictionless, always-on environment removes that necessity, so the discipline must now be built on purpose. The escape hatch is calibrated friction removed at the level of a human life.
 - [Weapons-Spine and Gap-Effect Physics](weapons-spine-and-gap-effect-physics.md) — ¬F at maximum-scale: weapons development is the domain where calibrated friction is most structurally visible because consequence-distance (gap-effect) is greatest.

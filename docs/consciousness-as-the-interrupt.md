@@ -7,6 +7,7 @@
 > drawers the metaphysics the way the two-axis cut requires. Firewalls applied in writing.
 >
 > **Date:** June 2026
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -29,6 +30,7 @@ extrapolation of the prior ones.*
 
 Determinism is kept for the body and the past. One live variable is carved out that Spinoza did not
 allow: **the conscious course-correction in the present moment.**
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -49,6 +51,7 @@ consciousness. *A closed system can be read; a system with a live present-moment
 And the Flash wins **facing outward** — improvising for others — while Reverse-Flash calculated for
 himself. [The Direction Axis](the-direction-axis.md) was riding underneath the free-will point the
 whole time.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -70,6 +73,7 @@ Overcoming it is consciousness deployed at high cost against a deeply trained pr
 rails (survival, food, sex) need the most force to interrupt because they are the oldest — the core of
 the onion, with [self-discipline proportional to power](self-discipline-proportional-to-power.md)
 naming the same scaling from the power side.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -92,6 +96,7 @@ Spinoza's freedom-as-understanding and this freedom-as-mastery are **the same th
 times:** he describes the end state (aligned, flowing, understanding the necessity); this supplies the
 *mechanism that gets there* — the present-moment Pause that does the actual writing he left
 unexplained.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -113,6 +118,7 @@ run on." *Memory is where the derivative reaches back into the integral and chan
 This is **measured, not metaphysical** — it does not require the free-will question to be answered. It
 is a documented property of reconstructive memory, and it sharpens the central claim: the deterministic
 projection has a live edit-point at every recall, forward *and* backward.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -121,6 +127,7 @@ projection has a live edit-point at every recall, forward *and* backward.
 The dimensional-ascension pass gives the time language a cleaner split. **Time 1** is causal/linear: the accumulated body, the rails, the forward consequence that makes projections possible. **Time 2** is relational/qualitative: the way present attention changes a memory's weight, a future's pull, or the meaning of an event without changing the event itself.
 
 The interrupt lives at the hinge. It reads Time 1, then uses Time 2 to reweight and redirect before the next rail cools. That is why the past is editable as memory and the future is open as conduct, without claiming literal timeline control.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -140,6 +147,7 @@ The interrupt lives at the hinge. It reads Time 1, then uses Time 2 to reweight 
 - **Don't promote the picture to physics.** The Flash, the integral/derivative, the onion are
   *illustrations* of the mechanism, not proof of it. They make the claim legible; they do not certify
   it.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 
@@ -187,6 +195,7 @@ The interrupt lives at the hinge. It reads Time 1, then uses Time 2 to reweight 
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the interrupt's highest-stakes application: AI compresses the time between attention and re-weighting, so the Pause must fire faster and more reliably than any previous tool required; the one-free-variable is now under the heaviest write-load in history.
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the Pause is what holds the anchor under the pull of wall-less relational space; the interrupt is the mechanism that keeps the mind tethered to the physical floor when the fastest vehicle in history is pulling it into a space with no floor and no brakes.
 - [Time as Relational Movement](time-as-relational-movement.md) — the two-time articulation: causal rails plus relational reweighting.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
 
 ---
 

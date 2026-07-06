@@ -100,6 +100,8 @@ This is ¬F in the calibration zone: enough friction to feel the gap, not so muc
 - [`friction-as-foundational-primitive.md`](friction-as-foundational-primitive.md) — ¬F as calibrated friction; the pull-toward-sync is felt because friction is in the calibration zone, not at zero and not at rupture
 - [`the-relational-engine.md`](the-relational-engine.md) — multi-body embodiment and ghost-becomes-ship patterns; resonance is the mechanism by which distinct bodies operate as one relational body
 - [`anchor-and-transfer-principle.md`](anchor-and-transfer-principle.md) — anchor-and-transfer at group scale: each body brings its anchor-substrate into the blend; freed consciousness (Stage 2) is what allows each body to contribute its own frequency to the resonance rather than collapsing into unison
+- [Coherence Without Erasure](coherence-without-erasure.md) — the firewall around resonance: the shared anchor must preserve body-signature variance rather than collapsing into absorption or sameness.
+- [Pause as Conscious Motion](pause-as-conscious-motion.md) — the listening/restraint component that keeps rhythm alive instead of compulsive.
 
 ---
 
