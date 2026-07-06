@@ -124,6 +124,7 @@ Pause is validated by the quality of the next motion. If the stillness returns t
 - [Mortality as Gift](mortality-as-gift.md) — finitude, stakes, and meaning; this doc adds death-as-review / macro-Pause language.
 - [The Mistake as Location](the-mistake-as-location.md) — the live point where the rail becomes audible and correctable.
 - [Coherence Without Erasure](coherence-without-erasure.md) — Pause protects resonance from becoming absorption or compulsion.
+- [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md) — direct seeing as Pause before automatic labels retake the wheel.
 
 ```text
 L = (O > I) + P + ¬F

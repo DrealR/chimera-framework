@@ -35,6 +35,8 @@ Physically the slice was **given** (senses + environment). Online you must **con
 
 **Keeper:** the slice is what makes you *you* and makes life livable; the flood dissolves it into an ocean. Being an operator now means **consciously holding your slice** — the guitar, the real conversations, the people you care about are the *authored slice,* the livable band chosen against the flood. SPARK at depth: *"you have a lens, it's yours to author — choose your slice."*
 
+See also: [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md) — direct seeing temporarily suspends automatic labels without denying the need for a livable slice; [Mirrors as Relational Perception](mirrors-as-relational-perception.md) — perception as field information refracted through operator structure.
+
 ---
 
 ```

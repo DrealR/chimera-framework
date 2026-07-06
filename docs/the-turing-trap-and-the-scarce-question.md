@@ -23,6 +23,19 @@
 
 **Keeper:** AI leveled the call-center floor by helping novices most (30-40%) and experts ~0% — because the LLM distributed the experts' good answers to the novices. The leveling is real AND the judgment still ORIGINATES from mastery; someone earned it first, and the novice is borrowing it. "Never ship what you can't explain": borrowing the answer isn't owning the judgment — that's the borrowed-legs thread. The floor rises, but the source of what's being distributed is still a human who did the work. Be the source, not only the borrower.
 
+## 3.5 Cheap execution, expensive questions
+
+As cheap models get good enough at known tasks, execution becomes table stakes. The strategic split becomes:
+
+- **Execution layer:** route known, bounded, evaluable work to cheap fast models.
+- **Imagination / redirection layer:** spend frontier model calls, human attention, time, and risk on questions that change what the execution layer should do.
+
+The Mitchell Hashimoto-style `$40 question` is the clean carrier image: the frontier model's answer mattered, but the scarce ingredient was the operator with enough domain context to ask the question at all. Most people would have used cheaper execution to move faster through the old backlog. The high-leverage operator asks whether the backlog is still the right body.
+
+**Keeper:** when execution becomes cheap, the question becomes expensive.
+
+**Firewall:** technical imagination is not fantasy. It is imagination constrained by fingertip familiarity with the domain, the tools, the costs, and the verification surface.
+
 ## 4. The dark end — why the seat matters
 
 **Keeper:** Labor CAN be driven out of the production function — it is economically possible to run an economy where a few rich consume the output, the numbers add up, and there is no auto-correction. So keeping humans valuable is a CHOICE, not a law of nature, and concentrated wealth becomes concentrated power. Hold this as real structural risk, not doom (the tech is promising; the distribution is the danger). Your personal move is to be un-substitutable: the operator seat IS your bargaining leverage. Stay in the loop, do the thing the machine can't, and keep your hand on the question and the evaluation — that's the chair that doesn't get automated away.

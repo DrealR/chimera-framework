@@ -35,15 +35,17 @@ A long conversation can create a strong field. Repeated terms, recurring images,
 
 CHIMERA's move after a resonance storm is to sort each candidate:
 
-- real mechanism;
-- useful metaphor / carrier image;
-- speculative bridge;
-- actionable practice;
-- firewall / caveat;
-- promising but not graduated;
-- beautiful but unearned.
+- **Mechanism:** repeatable operator move or structural law;
+- **Practice:** trainable ritual, protocol, or skill;
+- **Carrier Image:** story/metaphor that helps perception but is not proof;
+- **Speculative Bridge:** possible connection, not yet load-bearing;
+- **Firewall:** boundary, caveat, or anti-overreach rule;
+- **Observation:** pattern noticed but not yet converted into framework language;
+- **Unearned Aesthetic Resonance:** beautiful connection that currently lacks enough mechanism.
 
 The mirror loop should generate candidates. It should not graduate them automatically.
+
+**Keeper:** classification is how the mirror becomes a tool instead of a room of flattering glass.
 
 ---
 
@@ -95,6 +97,8 @@ The goal is not to produce infinite elegant synthesis. The goal is to become mor
 - [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md)
 - [Synthetic Trust and Synthetic Intimacy](synthetic-trust-and-synthetic-intimacy.md)
 - [Privacy, Anonymity, and the Trust Collapse](privacy-anonymity-and-the-trust-collapse.md)
+- [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
+- [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md)
 
 ```
 L = (O > I) + P + ¬F
