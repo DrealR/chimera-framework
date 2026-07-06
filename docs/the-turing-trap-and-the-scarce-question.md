@@ -36,6 +36,20 @@ The Mitchell Hashimoto-style `$40 question` is the clean carrier image: the fron
 
 **Firewall:** technical imagination is not fantasy. It is imagination constrained by fingertip familiarity with the domain, the tools, the costs, and the verification surface.
 
+## 3.6 Security research example — bug-finding becomes execution
+
+AI-assisted vulnerability discovery shows the same structure in a concrete technical domain. Models can scan large codebases, recognize known vulnerability primitives, and generate candidate findings faster than human attention can manually traverse the code.
+
+But abundant candidate bugs do not remove the expert. They move the scarce work to:
+
+- selecting high-value targets;
+- designing harnesses and validation loops;
+- separating exploitability from false positives;
+- noticing novel bug classes the current models are not already optimized to find;
+- understanding structural risk instead of merely counting findings.
+
+**Keeper:** abundant bug-finding makes triage, harnesses, and research direction more valuable, not less.
+
 ## 4. The dark end — why the seat matters
 
 **Keeper:** Labor CAN be driven out of the production function — it is economically possible to run an economy where a few rich consume the output, the numbers add up, and there is no auto-correction. So keeping humans valuable is a CHOICE, not a law of nature, and concentrated wealth becomes concentrated power. Hold this as real structural risk, not doom (the tech is promising; the distribution is the danger). Your personal move is to be un-substitutable: the operator seat IS your bargaining leverage. Stay in the loop, do the thing the machine can't, and keep your hand on the question and the evaluation — that's the chair that doesn't get automated away.
@@ -52,3 +66,4 @@ WE = 1
 - [Not Getting Installed by AI](not-getting-installed-by-ai.md) — the borrowed-legs threat at the level of skill: the novice borrowing the expert's answer isn't owning the judgment — same mechanism as the call-center leveling read.
 - [Freedom of Movement Is Mastery](freedom-of-movement-is-mastery.md) — AI amplifies freedom-of-movement for those who have it and substitutes for those who don't; the Turing trap is what happens when you let AI substitute rather than amplify.
 - [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — the complementarity thesis: AI amplifies what the operator brings; the centaur (human + machine doing new things together) is the model this doc argues for.
+- [Model Workspace and the Operator Layer](model-workspace-and-the-operator-layer.md) — fluent output is not operator capacity; workspace-like access is where deliberate reasoning and hidden state become inspectable.

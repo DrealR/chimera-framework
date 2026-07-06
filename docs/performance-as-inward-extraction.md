@@ -117,6 +117,7 @@ Before or inside an interaction, ask:
 - [People Are Co-Operators, Not Instruments](people-are-co-operators-not-instruments.md) — the ethical guard: meet the other as a co-operator, not an instrument.
 - [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md) — surrogate behaviors when rooms and roles collapse.
 - [The Shared Present](the-shared-present-is-made.md) — mutual recognition as the local body where real contact happens.
+- [Raw Confession as Public Body Scan](raw-confession-as-public-body-scan.md) — public honesty as a forced Pause / reflection point when performance drops.
 
 ```
 L = (O > I) + P + ¬F

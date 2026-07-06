@@ -30,6 +30,13 @@ This is `seeing-is-believing-vs-believing-is-seeing` again: the **visible fast h
 
 ---
 
+## See also
+
+- [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — the reaction spike as harvested attention.
+- [The Attention Field](the-attention-field-a-chimera-study.md) — attention as scarce, flowing, and harvestable.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

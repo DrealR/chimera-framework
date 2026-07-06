@@ -94,6 +94,7 @@ Attention is the scarce resource of the age (Simon, 1971), measured as time-spen
 - `dignity-as-the-final-membrane`
 - `boundary-override-capitalism`
 - `reality-spam-and-the-staged-offline`
+- [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — rage bait as attention-fluid harvest through a missing Pause.
 - `the-conductor-and-the-harvester-matched-pair`
 
 ---
