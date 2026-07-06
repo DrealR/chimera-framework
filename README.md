@@ -22,8 +22,9 @@ If it sharpens your reading of the situations you meet, it's for you. If it adds
 Strip every costume and the whole thing is small enough to hold in one hand:
 
 - **You are the body, and the body is determined** — an accumulation of its past, mostly running on rails. **You are also the one attending to it, and that attention is free.** The only move that is ever yours is *which way you point it,* in this present moment. Point it outward and you give; point it inward and you take. That is `L = (O > I)` read as a mechanism, not a moral rule.
-- **AI is a reach-amplifier for consciousness** — it extends how far and fast your present-moment attention travels across relational structure, but it has no direction of its own, so it scales whatever you bring. **The operator is the ceiling.** The question worth asking about any powerful tool is never "is it good or dangerous" but "which way am I facing while I hold it."
+- **AI is a reach-amplifier for consciousness** — it extends how far and fast your present-moment attention travels across relational structure, but it has no direction of its own, so it scales whatever you bring. **The operator is the ceiling.** As execution gets cheaper, the scarce work moves to the question you ask and the judgment you use to evaluate the answer.
 - **CHIMERA is the rulebook, not the answers** — like chess, it is the set of *legal moves,* which is exactly what lets two minds (or a human and an AI) play the same game across a thousand messages. Pushback is calling an illegal move, not disagreeing.
+- **The two operations are Scan and Loop** — Body Scan descends into what a body actually is; Chimera Loop builds from that prime until the body breathes. Diagnosis without construction stalls. Construction without diagnosis drifts.
 - **The firewalls keep it honest** — convergence is not proof; the cosmology stays in the drawer; structural rhymes are pictures, never mechanisms; resonance is not truth, most of all when it is about you. The root is a *chosen* first principle, held because it is generative and recognizable — not because it is proven.
 
 > **The one line:** *You are the body; the body is determined. You are also the one attending — and that attention is free. The only move that is ever yours is which way you point it. Everything else is the walk.*
@@ -57,6 +58,7 @@ So the era's defining task isn't building smarter machines — it's **protecting
 **What AI is**
 - **[A reach-amplifier for consciousness](docs/ai-as-a-reach-amplifier-for-consciousness.md)** — it extends your present-moment attention across far more relational structure than your body could reach, but it has *no direction of its own,* so the operator is the ceiling. It writes to your weights at speed — so keep your hand on the pen.
 - **[The anchor must be yours](docs/the-anchor-must-be-yours.md)** — AI ate the answer; the *direction* is what's left, and it has to be yours. If you have to ask AI what to build, that's the problem.
+- **[The Turing Trap and the Scarce Question](docs/the-turing-trap-and-the-scarce-question.md)** — don't make AI imitate humans until no chair is left for them. Use the difference: let machines take bounded execution while you keep the question, the taste, the triage, and the evaluation.
 - **[Play it; don't be played — and don't play people](docs/people-are-co-operators-not-instruments.md)** — AI is the *instrument you play* (dead, one-directional); people are *operators you play with* (live, mutual); your own body is the instrument you *tend.* Keep the three separate and you keep your humanity.
 
 **The space you navigate, and how**
@@ -67,7 +69,20 @@ So the era's defining task isn't building smarter machines — it's **protecting
 - **[The Splitting Body](docs/the-splitting-body.md)** — the direction axis applied to a whole society: outward *expands the circle* (the body stays one); inward *splits it* until the halves can't recognize each other (WE = 1 fracturing). Raise the floor with you; empathy is the friction that keeps you coupled.
 
 **How it's used**
-- Lived through the guitar, taught through **SPARK** (kids directing AI to build real tools for real people), and run as a **digital twin** you load and think *with.*
+- Lived through the guitar, taught through **SPARK** (kids directing AI to build real tools for real people), used as **Body Scan** for diagnosis, used as **Chimera Loop** for building, and run as a **digital twin** you load and think *with.*
+
+---
+
+## Try it before you believe it
+
+CHIMERA should not be trusted because the language resonates. Test whether it helps you see something real.
+
+1. Pick a body you know well: a friendship, a project, a classroom, a codebase, a song, a habit.
+2. Ask the [Nine Questions](body-theory/THE-NINE-QUESTIONS.md), or start with the [Quick Scan](body-theory/QUICK-SCAN.md).
+3. Write one claim the scan makes in plain language, without CHIMERA vocabulary.
+4. Run the [Deletion Test](docs/the-deletion-test.md): after the special words are stripped away, did anything new, useful, and checkable survive?
+
+If yes, keep walking. If not, the framework only renamed what you already knew. That is data too. The [example scans](examples/) show the protocol across software, chess, physics, math, biology, AI systems, social systems, music, and multi-body relations.
 
 ---
 
@@ -95,7 +110,7 @@ It also agrees to be judged: see **[the Deletion Test](docs/the-deletion-test.md
   git clone https://github.com/DrealR/chimera-framework.git
   cd chimera-framework && ./setup-twin.sh "YourName" "your-github-username"
   ```
-- **The full corpus** — every document, the body-scan libraries (80+ scans across 10 domains), the Cube, the complete index: **[README-FULL.md](README-FULL.md)**. *That's the deep, AI-facing reference — a warehouse, not a doorway. Go in if you're already inside.*
+- **The full corpus** — every document, the body-scan libraries across domains, the Cube, the complete index: **[README-FULL.md](README-FULL.md)**. *That's the deep, AI-facing reference — a warehouse, not a doorway. Go in if you're already inside.*
 
 ---
 

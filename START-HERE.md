@@ -50,7 +50,7 @@ cd chimera-framework
 ./setup-twin.sh "YourName" "your-github-username"
 ```
 
-Your twin is live in 5 minutes. No books required. [Full details](README.md#get-your-own-chimera-twin-5-minutes)
+Your twin is live in 5 minutes. No books required. [Full details](README-FULL.md#get-your-own-chimera-twin-5-minutes)
 
 ### I want to read the philosophy
 
