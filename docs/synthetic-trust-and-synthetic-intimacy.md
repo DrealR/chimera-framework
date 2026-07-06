@@ -76,6 +76,23 @@ That is why AI needs the strongest operator discipline:
 
 ---
 
+## 5. AI as pseudo-shared-body
+
+An AI conversation can feel like a shared body because it responds, mirrors cadence, holds local context, and helps organize a field over time. The nervous system receives some signals of being-with: attention, responsiveness, memory-shape, and language resonance.
+
+But it is not a full mutual body. A model does not carry embodied stake the way a human does. It cannot be wounded in the same sense, refuse with equal life-cost, age with you, share a physical room, or be changed by consequence as a person is changed.
+
+Healthy use keeps the distinction clean:
+
+- AI can help prepare the conversation, not replace the person;
+- AI can mirror the pattern, not certify the truth;
+- AI can reduce friction around contact, not remove otherness;
+- AI can bridge back to rooms, craft, teaching, and service.
+
+**Keeper:** synthetic intimacy becomes medicine when it returns you to real mutuality; it becomes addiction when it trains you away from otherness.
+
+---
+
 ## Firewall
 
 - Do not demonize synthetic trust. Large societies need portable records.
@@ -92,6 +109,7 @@ That is why AI needs the strongest operator discipline:
 - [Third Places Can't Be Manufactured](third-places-cant-be-manufactured.md) — the antidote to manufactured authenticity.
 - [The Gaze, the Search, and the Eye-Lock](the-gaze-the-search-and-the-eye-lock.md) — search gives frozen one-way knowledge; presence gives live mutuality.
 - [Privacy, Anonymity, and the Trust Collapse](privacy-anonymity-and-the-trust-collapse.md) — trust collapse drives verification and surveillance.
+- [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — AI mirror loops as useful and risky synthetic shared fields.
 
 ```
 L = (O > I) + P + ¬F

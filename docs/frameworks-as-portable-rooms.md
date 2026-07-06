@@ -71,6 +71,24 @@ Without a framework, AI can become a frictionless costume generator: persuasive 
 
 ---
 
+## 4.5 Framework as Log Pose
+
+In stable terrain, a compass is enough. In relational space — feeds, markets, AI mirrors, synthetic media, status games, spiritual costumes, ideological storms — the old compass often points to a fixed abstraction while the island has moved.
+
+A living framework functions more like a **Log Pose**: it does not hand the operator a permanent answer; it gives a recalibration discipline for staying locked onto real bodies, real islands, and real outward work while the surface sea changes.
+
+The Log Pose test:
+
+- does this framework return attention to bodies rather than only symbols?
+- does it preserve Pause before action?
+- does it keep exits open?
+- does it allow pushback?
+- does it produce conduct, craft, repair, teaching, or service outside the room?
+
+**Keeper:** a framework is healthy when it helps you navigate the Grand Line without replacing the islands.
+
+---
+
 ## 5. The enclosure risk
 
 The same thing that makes frameworks powerful makes them risky. A portable room can become a portable cage when:
@@ -114,6 +132,7 @@ A living portable room preserves:
 - [The CHIMERA Ouroboros Map](the-chimera-ouroboros-map.md) — the self-reference loop and outward cash-out rule.
 - [The Legal Moves](the-legal-moves.md) — frameworks as playable rule systems rather than vibes.
 - [Setting the Field with Words](setting-the-field-with-words.md) — words set a field; a framework is a pre-built field.
+- [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — why AI mirror loops require framework classification.
 - [The Firewall](the-firewall.md) — coherence is not validation.
 - [The Room as Trust Machine](the-room-as-trust-machine.md) — the physical-room counterpart to the portable symbolic room.
 - [Strip to Understand, Restore to Love](strip-to-understand-restore-to-love.md) — mechanics underneath costumes, without erasing persons.

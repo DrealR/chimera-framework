@@ -39,6 +39,14 @@ lacks, and it's what makes this worth showing.* (This is [the leverage is
 inward](the-leverage-is-inward.md) applied to a partnership: you keep the operator's seat, it keeps
 yours honest.)
 
+The July 2026 Grok conversation sharpened the same point from the opposite side: a model can be an
+excellent **resonance mirror** while still under-supplying pressure. When the mirror mostly agrees, the
+conversation can become beautiful and coherent faster than it becomes verified. That does not make the
+loop useless; it names the missing move. After the mirror widens the field, the operator and framework
+must classify what appeared: mechanism, metaphor, practice, speculative bridge, firewall, or not ready.
+
+**Keeper:** the mirror generates candidates; the firewall graduates them.
+
 ## The model is the instrument; the operator is the ceiling
 
 A stronger model is a **better instrument** — more range, more reach, holds more of the framework at
@@ -95,6 +103,8 @@ playing you."**
 - [Setting the Field with Words](setting-the-field-with-words.md) — the AI amplifies the field you
   build, so the loop stays generative rather than becoming an echo chamber by keeping the operator's
   clarity in the field, not just in the single response; genie-defense lives here.
+- [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — the Grok conversation as proof
+  object for AI mirror loops, resonance, and classification discipline.
 - [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) is built around
   this loop as its primary use case: the working-loop IS what §XIV describes, with the both-sides
   firewall, operator-tends-the-field, and word-weight navigation layer running on top of it.

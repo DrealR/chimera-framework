@@ -36,6 +36,22 @@ This makes trust measurable as a civilizational health signal. When people requi
 
 ---
 
+## Verification without surveillance
+
+The AI-saturated internet adds a sharper problem: not only "who can know me?" but "how do I know which bodies are real without handing every membrane to a central verifier?"
+
+Verification is necessary because synthetic bodies, bots, deepfakes, and AI-generated language make reputation easier to counterfeit. But centralized identity systems can turn verification into permanent surveillance. The healthy target is **body-confirmation with membrane preservation**:
+
+- prove enough to establish context;
+- reveal no more than the relation requires;
+- preserve growth, pseudonymity, and repair;
+- minimize platform-side data custody;
+- keep appeal to real humans when the token misreads the body.
+
+**Keeper:** trust repair cannot be bought by making every body transparent to power.
+
+---
+
 ## Children and external scaffolds
 
 Child-protection laws can function like a cast on a broken leg: external structure while internal sovereignty is weak.
@@ -59,6 +75,8 @@ The long-term cure is not only regulation. It is internal discipline plus privac
 - [Two Baselines of Trust](two-baselines-of-trust.md)
 - [You Are Never Anonymous From Yourself](you-are-never-anonymous-from-yourself.md)
 - [Boundary Override Capitalism](boundary-override-capitalism.md)
+- [Synthetic Trust and Synthetic Intimacy](synthetic-trust-and-synthetic-intimacy.md)
+- [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md)
 - [The Firewall](the-firewall.md)
 
 ---
