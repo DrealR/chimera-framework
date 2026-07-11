@@ -20,11 +20,23 @@ A **living magnet** is an operator-steered representation of who you are and whe
 1. Maintain magnet (who I am / where I face)
 2. Generate / refresh resonance pool(s)
 3. Extract present-moment signals from the pool
-4. Human reviews and engages organically
-5. Engagement feedback strengthens the magnet
+4. (v1) Signature-filter soil cards — fertile metric chords in resonant topics
+5. Human reviews, engages, or position-plants
+6. Non-interference window — observe propagation
+7. Feedback strengthens magnet + signature reference library
 ```
 
 No automated replies. System surfaces; operator decides.
+
+### v1 evolution: field sensor, not only people matcher
+
+Magnet v0 finds **people**. Magnet v1 also finds **regions of the field**:
+
+- present-moment posts whose **metric signatures** (views as light; likes/reposts/comments as derived dimensions) match healthy or early-momentum patterns  
+- in topics that overlap `current_direction`  
+- then supports **positioned planting** of CHIMERA-grounded seeds and **non-interference** after plant  
+
+See [Attention Metric Signatures](attention-metric-signatures.md) and [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md). Design detail: core `drafts/living-magnet-v1-signature-aware.md`.
 
 ---
 
