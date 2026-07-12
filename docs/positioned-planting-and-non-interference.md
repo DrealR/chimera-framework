@@ -116,6 +116,12 @@ Not a substitute for real X data — a cheap rehearsal of positioning vs chasing
 
 ---
 
+## Attention trees (branch layer)
+
+Within one thread, the main post is the **trunk** (most visibility). Comments are **branches** (usually residual drips). Rare **secondary attractors** are comments that pull their own field — sometimes rivaling the trunk. Early plants on growing trunks raise odds of a meaningful branch; most still plateau after a front-loaded drip. That is field structure, not personal failure — release ownership (¬F). Full map: [Attention Trees and Secondary Attractors](attention-trees-and-secondary-attractors.md).
+
+---
+
 ## See also
 
 - [Attention Metric Signatures](attention-metric-signatures.md)  

@@ -58,6 +58,17 @@ Heuristics for navigation — **not** universal laws. Re-validate on your domain
 
 **Music metaphor (carrier):** views = volume of the room; ratios = which chord is being played.
 
+### Thread / branch layer (extension)
+
+Signatures apply to **comments**, not only main posts. Thread shape matters:
+
+| Shape | Rough read |
+|-------|------------|
+| **Top-heavy** | Trunk dominates V; comments are pure drips |
+| **Distributed** | One or more comments pull real V (secondary attractors / “fusion points”) |
+
+Outlier comments need dual study: **metric** (comment V vs trunk V) + **resonance** (how the comment relates to the post). See [Attention Trees and Secondary Attractors](attention-trees-and-secondary-attractors.md).
+
 ---
 
 ## Operator read method

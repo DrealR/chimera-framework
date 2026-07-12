@@ -44,6 +44,8 @@ Recency alone is the strongest cut into the true present-moment layer. Signature
 
 Then: **positioned plant** CHIMERA-grounded seeds → **non-interference** → observe multi-scale. See [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md).
 
+**Attention trees:** Prefer growing trunks; most comments stay drips; rare secondary attractors are study gems (metric + resonance). See [Attention Trees and Secondary Attractors](attention-trees-and-secondary-attractors.md).
+
 Design detail: core `drafts/living-magnet-v1-signature-aware.md`.
 
 ---

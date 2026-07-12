@@ -185,6 +185,7 @@ Tag plants made during concentration windows for multi-scale observation (stream
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
 - [Field Literacy Across Domains](field-literacy-across-domains.md)  
+- [Attention Trees and Secondary Attractors](attention-trees-and-secondary-attractors.md)  
 
 ```text
 L = (O > I) + P + ¬F
