@@ -36,6 +36,19 @@ Authenticity ↔ strategy tension holds at every stage. CHIMERA keeps strategy f
 
 Same arc as martial arts, music, conversation: awkward competence → fluency.
 
+### Why “try” often backfires structurally
+
+| Stance | Relational quality | Field effect |
+|--------|-------------------|--------------|
+| **Trying** (force virality, fit in, stand out, game metrics) | Separation — field as object to manipulate | Friction, mechanical tone, turbulence instead of clean bend |
+| **Doing** (genuine observation/question from where you are) | Participation *as part of* the field | Less self-consciousness; room for organic response |
+
+The field is not a conscious agent, but **participation quality** is legible to humans and often to ranking systems that favor organic momentum over forced patterns. Over-control frequently produces the opposite of the intended outcome — not magic, **coherence vs force**.
+
+CHIMERA: ¬F names this; O>I keeps “doing” from becoming pure extraction; Pause keeps “doing” from pure reaction.
+
+**Alien gap:** literacy makes automatic rage/engagement loops visible — you feel outside them (Dave). That’s development, not failure. Integration closes the gap without returning to unconsciousness.
+
 ### CHIMERA along the arc
 
 | Early | Mature |

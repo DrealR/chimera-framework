@@ -53,6 +53,18 @@ Reposts do **not** 1:1 add their views to the original. They are **distribution 
 
 These are **rare, high-signal**. They prove attention can **self-organize** — local contribution reshapes the structure. Worth studying; not the daily scoreboard.
 
+### Big-body activation
+
+A special accelerator: when a **high-gravity account** replies to a comment, that branch can jump from drip to secondary attractor almost instantly (legitimacy + distribution + feedback into the trunk). Example shape: niche drama comment → public reply from the named party → thread density explodes around the branch.
+
+| Honest read | Practice |
+|-------------|---------|
+| Activation is often the *main* driver of branch V | Early plants on high-stakes trunks are bets, not entitlements |
+| Most gems look ordinary *before* activation | Don’t only engage after the whale surfaces (late scraps) |
+| Whale-only hunting is another force game | Prefer resonance + soft medium; treat big-body density as optional multiplier |
+
+Capture-type spectrum (rage mega-V vs activated branch): [Attention Capture Types](attention-capture-types.md).
+
 ### Why they matter strategically
 
 - Highest-leverage participation without massive personal reach: early, high-quality comments on strong trunks  
