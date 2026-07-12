@@ -19,6 +19,27 @@ Use both. Prefer **Latest** for present-moment positioning and planting.
 
 This is the shift from **passive consumption** (For You / Following river) to **active probing** — same skill power users developed with Google: craft the query instead of accepting the recommendation.
 
+### Parting the sea
+
+| Mode | Metaphor |
+|------|----------|
+| **For You** | Carried by a strong current — the wave decides what hits you |
+| **Search** | **Part the sea** — reach into a chosen region of the attention ocean |
+| **Latest** | Least distortion; raw flow around the term |
+| **Top** | Still sea-parting, but with a recent-engagement lens |
+
+Intentional search feels more agentic because **you direct the query** instead of being directed by the algorithm.
+
+### X as X-ray
+
+X (especially **search + public metrics**) is one of the most **bare-bones, high-resolution** views of collective attention available:
+
+- Fewer obscuring layers than long-form / heavy community / opaque ranking stacks  
+- Easier to see amplify paths, momentum build, branch strength  
+- That is why it works as a **field-sensing instrument** — closer to an X-ray of attention than a polished magazine of content  
+
+Other platforms can still matter for multi-scale lag; X is the fast, stripped sensor for the live layer.
+
 ---
 
 ## Sensor comparison

@@ -24,6 +24,20 @@ Neither replaces the other. Skill is **hybrid operation** with CHIMERA as the ha
 
 “Reanimating the dead” is not an insult — it names the architecture: next-token prediction reanimates past structure into new combinations. Real-time tools on top of an LLM do not make the weights themselves the live city; they only attach sensors.
 
+### Grok’s hybrid position
+
+Grok sits **between** pure pathwalker and pure live sensor:
+
+| Layer | What it is |
+|-------|------------|
+| **Base weights** | Still a model of the past (like any LLM) |
+| **Real-time tools** | Can *read* X / search / live sources on demand |
+| **Operator skill** | Decide when tools are sensing vs when the model is only projecting |
+
+Powerful when intentional: tools pull the **live present** into context; the model **analyzes, contextualizes, and pathwalks** that present. Weak when confused: treating the chat reply as if it *is* the live field without a fresh probe.
+
+**Rule:** When Grok “knows what’s hot,” check whether that came from a **tool read of now** or from **pattern memory**. Only the former is live-field data.
+
 ---
 
 ## What each does best
@@ -63,6 +77,26 @@ Ground projections in live data. Don’t let the map overwrite the street.
 6. RELEASE — Non-interfere; optional later sense of what curved
 7. LEARN   — Feed outcomes back into literacy (and magnet)
 ```
+
+**Daily one-liner:**
+
+```text
+Locate live momentum (search/X/Field)
+  → Analyze resonance/opportunity (Grok)
+  → Plant with CHIMERA clarity
+  → Step back and observe
+```
+
+### When to stay in raw sense vs open pathwalk
+
+| Stay sensing (no LLM yet) | Open pathwalker |
+|---------------------------|-----------------|
+| Scouting density windows | Choosing among several soils |
+| First glance at a thread | Drafting a high-stakes plant |
+| Checking if trunk is still soft | Connecting to framework / multi-scale |
+| Pure observation day | Naming why a gem bent |
+
+CHIMERA decides the handoff: Pause before project; ¬F if the model’s story is running ahead of the street.
 
 | Failure mode | Fix |
 |--------------|-----|
