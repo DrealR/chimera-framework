@@ -80,6 +80,7 @@ Safeguard: periodic unfiltered contact with the raw field.
 
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
+- [Live Event Concentration](live-event-concentration.md)  
 - [Attention Metric Signatures](attention-metric-signatures.md)  
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md)  
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  

@@ -72,6 +72,7 @@ Success metric: **felt authenticity + early landing + preserved optionality** â€
 
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Field Literacy Across Domains](field-literacy-across-domains.md)  
+- [Live Event Concentration](live-event-concentration.md)  
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md)  
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)  
 
