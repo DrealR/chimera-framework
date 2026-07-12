@@ -193,6 +193,8 @@ Useful for Magnet topic design: you choose which territories to probe regularly,
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [AI as Social Navigation Device](ai-as-social-navigation-device.md)  
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md)  
+- [Attention Flow and Local Present](attention-flow-and-local-present.md)  
+- [Field Literacy Development](field-literacy-development.md)  
 
 ```text
 L = (O > I) + P + ¬F
