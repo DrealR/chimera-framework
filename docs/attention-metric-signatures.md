@@ -71,6 +71,37 @@ Outlier comments need dual study: **metric** (comment V vs trunk V) + **resonanc
 
 ---
 
+## How reposts relate to views (X mechanics)
+
+Reposts are **distribution**, not free views on the original.
+
+| Aspect | What happens | Implication |
+|--------|--------------|-------------|
+| **View counting** | Views on a *repost* are tracked on that repost. They do **not** 1:1 add to the original’s view counter. | 10K reposts ≠ +10K V on the trunk |
+| **Reach** | Each repost puts the original into more feeds. That **indirectly** drives more views on the original over time. | R is a strong algorithmic / distribution signal |
+| **Engagement on the repost** | Likes / replies / reposts *of the repost* live on the repost node | Amplification can happen without deep labor on the trunk |
+| **Branching** | Each repost is a small outward visibility branch | Most are weak; some can become secondary nodes (quote-with-comment stronger than bare repost) |
+
+### Spread momentum vs conversation momentum
+
+| Signal | Chord | Often means | Planting note |
+|--------|-------|-------------|---------------|
+| **High R, low C** | **amplify_wave** / spread | Easy amplification; emotional, meme, rage, tribal flash | Good for *reach* observation; often shallow soil for long dialogue plants |
+| **High C, mod R** | **discussion** | Labor, tension, teaching, debate | Better soil if you want a branch that *talks* |
+| **High R and high C** | closer to **healthy_balance** | Spread + processing | High-value when still in recency window |
+| **High V, low R and C** | hollow / soft_consume | Presence without relation | Usually weak soil |
+
+**Why high R + low C is common:** repost is low-cost; comment costs energy; some posts are *designed* for spread; algorithm rewards repost momentum even when comments stay thin.
+
+**Field use:** treat **R as a Tier-2 secondary signal** (distribution heat), not a substitute for recency or for comment quality. Prefer:
+
+- **early amplify** when you want to ride distribution (plant light; expect drips)  
+- **discussion / healthy_balance** when you want secondary-attractor odds via resonance  
+
+Never rank solely on repost count.
+
+---
+
 ## Operator read method
 
 **Primary cut is always extreme recency** (last 30–60 minutes). Signatures are a **secondary** layer on top of that window — never a replacement for it.

@@ -1,6 +1,6 @@
 # Attention Trees and Secondary Attractors
 
-> **Origin:** July 2026 — hierarchical attention inside X threads (trunk vs branch drips); secondary nodes / “fusion points” when strong comments rival the main post; iShowSpeed plant test (early drip then plateau); metric + resonance spark analysis; physics mirrors (magnetism, gravity); CHIMERA as resonance edge.
+> **Origin:** July 2026 — hierarchical attention inside X threads (trunk vs branch drips); secondary nodes / “fusion points” when strong comments rival the main post; iShowSpeed plant test (early drip then plateau); metric + resonance spark analysis; physics mirrors (magnetism, gravity); CHIMERA as resonance edge; *Holy Man* plant craft (observe + invite + slow the loop); reposts as distribution branches.
 >
 > **Date:** July 2026
 >
@@ -21,6 +21,12 @@ Attention inside a single thread is **not flat**. It forms a tree:
 > Most plants stay drips. Rare plants ignite. You cannot fully force which is which — but you can raise odds by **position** (strong growing trunk, early) and **resonance** (real relation to the post).
 
 Live example shape: early reply on a growing post gets a quick bump (e.g. ~25 views), then plateaus while the trunk keeps climbing. Front-loaded attention + weak branch pull + algorithmic decay = normal case, not failure of the system.
+
+---
+
+## Reposts as outward branches
+
+Reposts do **not** 1:1 add their views to the original. They are **distribution vectors**: weak outward branches that *indirectly* feed the trunk’s reach. Quote/repost-with-comment is a stronger branch than a bare repost. High R + thin C = **spread momentum** (amplify_wave); high C = **conversation momentum**. Full mechanics: [Attention Metric Signatures](attention-metric-signatures.md#how-reposts-relate-to-views-x-mechanics).
 
 ---
 
@@ -85,8 +91,37 @@ When a comment pulls unusual visibility relative to the main post:
 - **Clarification / insight** — missing context, sense-making  
 - **Humor / meme** — shareable moment  
 - **Status / tribal** — identity alignment in the thread  
+- **Holy Man move** (below) — observe + invite + slow the loop  
 
 Track a few gems over weeks. Intuition compounds. Do not turn this into a recipe book that kills presence.
+
+---
+
+## Holy Man pattern (strong-branch craft)
+
+Film mirror: *Holy Man* — Eddie Murphy enters a live commercial, does not seize the show. He **inserts** into the existing loop until a new focus forms inside it.
+
+| Move | On X | Effect |
+|------|------|--------|
+| **Simple observation** | “I see X in this…” | Names something already latent in the post |
+| **Invite / question** | “Do you see it?” / open hook | Pulls others into co-creation, not monologue |
+| **Slow the loop** | Interrupt autopilot energy of the thread | Creates tension + new focus |
+| **Don’t replace the event** | Stay a branch; don’t fight to be the trunk | New attractor *inside* the existing one |
+
+**Low-resonance default:** sits on the post, no new tension, gets drip, dies.  
+**High-resonance path:** observation + relation + optional question/tension → comment becomes its own small gravity well.
+
+This is **genuine participation**, not engagement bait. CHIMERA (O>I, Pause, ¬F, WE=1) raises odds of the Holy Man move; it does not guarantee fusion.
+
+**Operator sequence:**
+
+```text
+1. Growing trunk (recency + momentum; note R vs C shape)
+2. Real relation to what the post is actually doing
+3. Observe / invite / slight redirect — not takeover
+4. Plant once
+5. Non-interfere — branch has its own life
+```
 
 ---
 
