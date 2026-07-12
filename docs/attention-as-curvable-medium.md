@@ -66,6 +66,56 @@ Craft for clean bends: [Attention Trees — Holy Man pattern](attention-trees-an
 
 **Competitive edge:** In noise, clean relational integrity bends better than optimized soulless volume. Automating the intervention usually *reduces* clean-bend rate (presence is part of the mass).
 
+### Operator table (expanded)
+
+| Operator | Improves bend quality by… | Practical effect |
+|----------|---------------------------|------------------|
+| **O > I** | Prefer add (insight, clarity, useful tension) over extract | Real curvature more often than reactive paste |
+| **Pause** | Slow the rush | Timing lands clean; rush → turbulence |
+| **¬F** | Refuse over-control of outcome | Organic secondary attractors; force → resistance |
+| **WE = 1** | Stay distinct while inside shared flow | Bends that feel like *you*, not generic opt |
+
+---
+
+## High-potential sites (where bends are more likely)
+
+Recency + momentum remain core. Refine with **softness + opportunity**:
+
+| Condition | Why | How to spot |
+|-----------|-----|-------------|
+| **Rapid growth phase** | Medium still soft; patterns not rigid | Strong V relative to age (early momentum) |
+| **High-density zones** | Temporary concentration of eyes | Streams, sports, flashpoints — [Live Event Concentration](live-event-concentration.md) |
+| **Distributed branch vitality** | Thread already supports secondary nodes | Multiple comments with outlier V vs trunk |
+| **Emotional / narrative tension** | Built-up energy with room to redirect | Often high R, thinner C (spread with open conversation space) |
+| **Resonance opportunity** | You actually have something real to say | Magnet `current_direction` / framework fit |
+
+**Field evolution:** early-momentum flag → branch-vitality label → event keywords. Still never replace Tier 1 recency. Complementary sensor: [Search as Field Probe](search-as-field-probe.md).
+
+---
+
+## Non-interference and natural curvature
+
+Non-interference is **not passivity**. It is deliberate: after you introduce mass, let the geodesic reveal itself.
+
+| Do | Don’t |
+|----|--------|
+| Plant early while responsive | Spam-manage every reply path |
+| Re-enter if *new* real contribution | Anxiety-loop the drip for views |
+| Stay available to genuine replies | Force the branch into a secondary attractor |
+
+**When re-intervention is valid:** early window still soft; genuine clarification needed; high-resonance add still true.  
+**CHIMERA:** Pause before second touch; ¬F after first plant; O>I on whether continued presence still adds.
+
+Mature posture: **Plant with integrity → step back → stay available if real engagement happens.**
+
+---
+
+## Firewall: skill vs genuine participation
+
+As filters and curvature literacy improve, the shadow is **optimization cosplay**: “maximize bend rate” instead of authentic contribution.
+
+The strongest bends usually come from people who are **present and have something real to say** — not from pure effect-chasing. Keep CHIMERA as **active core**, not wallpaper. Metric literacy serves genuine participation; it does not replace it. See [Genuine Live-Layer Participation](genuine-live-layer-participation.md).
+
 ---
 
 ## Practice reframe
@@ -93,12 +143,13 @@ Craft for clean bends: [Attention Trees — Holy Man pattern](attention-trees-an
 
 | Domain | Clean bend |
 |--------|------------|
-| **Physics** | Mass → curvature; small mass at right place; fluid eddies |
+| **Physics** | Mass → curvature; geodesics; induced fields; sensitive dependence (small early push → large path change) |
 | **Avatar / bending** | Direct the element; don’t thrash the ocean |
-| **Martial / flow** | Redirect opponent’s energy; don’t meet force with force |
-| **Rooms / conversation** | Timing, question, observation > loudest volume |
-| **AI internals** | Attention weights redirect next-token paths — same family of “weight on path” |
+| **Martial / flow** | Redirect opponent’s energy; yield sometimes stronger than dominate |
+| **Rooms / conversation** | Observation + question > loudest volume |
+| **AI internals** | Token attention weights redirect next-path — same family as social “weight on path” |
 | **X Field** | Comment as local mass on a social attention manifold |
+| **Search** | Intentional probe into concentration (Latest = live slice) — [Search as Field Probe](search-as-field-probe.md) |
 
 X is a **fast training ground** for intervention literacy transferable to rooms, products, and AI loops.
 
@@ -136,6 +187,8 @@ Hierarchy unchanged: Tier 1 recency keeps you in soft, live medium. Curvature li
 - [The Attention Field — A CHIMERA Study](the-attention-field-a-chimera-study.md)  
 - [Field Literacy Across Domains](field-literacy-across-domains.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
+- [Search as Field Probe](search-as-field-probe.md)  
+- [Live Event Concentration](live-event-concentration.md)  
 
 ```text
 L = (O > I) + P + ¬F
