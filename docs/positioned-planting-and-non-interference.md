@@ -125,6 +125,7 @@ Within one thread, the main post is the **trunk** (most visibility). Comments ar
 ## See also
 
 - [Attention Metric Signatures](attention-metric-signatures.md)  
+- [Attention Trees and Secondary Attractors](attention-trees-and-secondary-attractors.md)  
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md)  
 - [Real-Time Attention Layer](real-time-attention-layer.md)  
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
