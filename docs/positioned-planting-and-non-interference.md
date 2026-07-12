@@ -124,6 +124,14 @@ Within one thread, the main post is the **trunk** (most visibility). Comments ar
 
 A plant is a **localized intervention** in a curvable medium. Goal is not only visibility but **meaningful local bend** — clean redirect vs noise attach vs forced turbulence. Soft medium (early, high-momentum) bends more easily. After you introduce curvature, non-interference lets the field follow its own dynamics. See [Attention as a Curvable Medium](attention-as-curvable-medium.md).
 
+## Coherence check (gnosis-aware)
+
+Beyond early + momentum, ask:
+
+> Am I increasing coherence / serving real seeing, or feeding a sleep-loop (outrage, doom broadcast, status theater)?
+
+Literacy without this check can become cold gaming. See [Field Literacy and Gnosis](field-literacy-and-gnosis.md), [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md).
+
 ---
 
 ## See also
