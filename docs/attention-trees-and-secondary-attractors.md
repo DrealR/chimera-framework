@@ -113,6 +113,8 @@ Film mirror: *Holy Man* — Eddie Murphy enters a live commercial, does not seiz
 
 This is **genuine participation**, not engagement bait. CHIMERA (O>I, Pause, ¬F, WE=1) raises odds of the Holy Man move; it does not guarantee fusion.
 
+**Deeper layer:** comments as **localized curvature** in a bendable attention medium — most mass≈0, rare mass redirects flow. Full model: [Attention as a Curvable Medium](attention-as-curvable-medium.md).
+
 **Operator sequence:**
 
 ```text

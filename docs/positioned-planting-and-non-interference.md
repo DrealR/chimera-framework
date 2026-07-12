@@ -120,6 +120,10 @@ Not a substitute for real X data — a cheap rehearsal of positioning vs chasing
 
 Within one thread, the main post is the **trunk** (most visibility). Comments are **branches** (usually residual drips). Rare **secondary attractors** are comments that pull their own field — sometimes rivaling the trunk. Early plants on growing trunks raise odds of a meaningful branch; most still plateau after a front-loaded drip. That is field structure, not personal failure — release ownership (¬F). Full map: [Attention Trees and Secondary Attractors](attention-trees-and-secondary-attractors.md).
 
+## Curvature (intervention layer)
+
+A plant is a **localized intervention** in a curvable medium. Goal is not only visibility but **meaningful local bend** — clean redirect vs noise attach vs forced turbulence. Soft medium (early, high-momentum) bends more easily. After you introduce curvature, non-interference lets the field follow its own dynamics. See [Attention as a Curvable Medium](attention-as-curvable-medium.md).
+
 ---
 
 ## See also
