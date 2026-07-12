@@ -10,7 +10,7 @@
 
 ## The claim
 
-Attention inside a single thread is **not flat**. It forms a tree:
+Attention inside a single thread is **not flat**. It forms a tree — a **mini solar system**: trunk as central body (mass/light), comments as smaller bodies (most moons/drips; rare secondary attractors with real local gravity).
 
 | Node | Role | Typical visibility |
 |------|------|--------------------|
