@@ -13,9 +13,11 @@
 **Search on X is a direct probe into the attention field.** It shows where attention is concentrating around a term *without* waiting for the opaque For You algorithm to curate for you.
 
 > Latest search ≈ a **live slice** of the high-velocity layer around a keyword.  
-> Top search ≈ **accumulated** high-concentration history around that keyword.
+> Top search ≈ **where attention has recently stacked** around that term (hybrid, not all-time archive).
 
 Use both. Prefer **Latest** for present-moment positioning and planting.
+
+This is the shift from **passive consumption** (For You / Following river) to **active probing** — same skill power users developed with Google: craft the query instead of accepting the recommendation.
 
 ---
 
@@ -25,23 +27,53 @@ Use both. Prefer **Latest** for present-moment positioning and planting.
 |------|---------------|----------|------------|
 | **For You** | Algorithm’s guess of what you’ll engage | Personalized, surprise | Opaque; loop risk |
 | **Following** | Only chosen accounts | Controlled, lower noise | Narrow; can go stale |
-| **Search · Latest** | Real-time flow around a term | Most transparent *now* slice | Noisy without good keywords; still needs recency eyes |
-| **Search · Top** | What has stacked attention over time | Historical concentration map | Weak for live plant timing |
-| **Field app** | Ranked deck inside a recency window | Hierarchy + CHIMERA posture | Needs ingest / pull; not a full platform replacement |
+| **Search · Latest** | Near-pure recency for the term | Most transparent *now* slice | Noisy without good keywords; still needs recency eyes |
+| **Search · Top** | Recent high-engagement hybrid (often ~days, not all-time) | Recent concentration stack | Not historical archive; still present-biased |
+| **Field app** | Ranked deck inside a recency window | Hierarchy + CHIMERA posture | Needs ingest / pull; stays *sensor*, not pathwalker |
 
 Search does **not** replace Tier 1 recency in Field — it is a **discovery sensor** that *feeds* the same hierarchy.
 
+### Top is not all-time
+
+Operator model: Top weights posts that performed well in a **recent window** (often days). Searching “Sam Altman” surfaces today’s posts plus strong posts from the last few days — not the highest-engagement posts of all time. X remains **structurally optimized for the present**, even in Top. That favors live-layer practice.
+
 ---
 
-## LLM parallel (structure, not identity)
+## Semantic territories (pre-loaded attractors)
 
-| LLM | X search practice |
-|-----|-------------------|
-| Prompt | Search term + mode (Latest/Top) + time filters |
-| Attention mechanism | Ranking / surfacing of posts |
-| Output tokens | Posts you actually see |
+Charged terms (“NPC,” tribal frames, celebrity flashpoints) are **pre-loaded attractors**. Posts using them often ride an existing semantic current rather than create curvature from zero. Engagement can be high inside a pocket even when absolute V is modest — **local current > raw global metric**.
 
-Both use **attention mechanisms** to surface what the system weights as relevant *now*. You are not the model — you are the **operator** choosing the probe and what to plant into the result. Same family of “weight on path” as [Words Put Weight on Paths](words-put-weight-on-paths.md) and social curvature in [Attention as a Curvable Medium](attention-as-curvable-medium.md).
+| Practice | Move |
+|----------|------|
+| Map | Search the term Latest + Top — who lives here? |
+| Discriminate | Riding current vs clean new bend |
+| CHIMERA | Pause in charged space; add only if real; keep center |
+
+Example shape: an “NPC” post may be less “unique insight” and more **resonance with an already-charged field**. Useful data for Magnet territories and for not confusing wave-riding with fusion.
+
+---
+
+## Dual instrument (do not collapse)
+
+Search/X and LLMs are both attention-shaped systems — **not the same thing**.
+
+| | X search | LLM |
+|-|----------|-----|
+| **Shows** | Live human attention *now* | Patterns from the past projected forward |
+| **Feel** | Alive, chaotic, unpredictable | Coherent, pathwalking, “reanimated” structure |
+| **Best for** | Sensing / planting soil | Interpreting / projecting / drafting |
+
+Full dual-mode practice: [Live Field and Pathwalker](live-field-and-pathwalker.md).
+
+Light structural parallel only:
+
+| LLM | X search |
+|-----|----------|
+| Prompt | Term + Latest/Top + filters |
+| Attention mechanism | Ranking / surfacing |
+| Output | Posts you see |
+
+You are the **operator** of both probes.
 
 ---
 
@@ -125,6 +157,7 @@ During live density or daily pass:
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
 - [Write Access to Your Own Attention](write-access-to-your-own-attention.md)  
+- [Live Field and Pathwalker](live-field-and-pathwalker.md)  
 
 ```text
 L = (O > I) + P + ¬F

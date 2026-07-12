@@ -50,9 +50,13 @@ A mature *system* (Claude Code, Cursor, Grok Build, etc.) often feels similar da
 | Layer | Role | Rule |
 |-------|------|------|
 | **Primary ecosystem** | Grok + X (or whatever you choose) | Live here most of the time |
+| **Live organ (X)** | Search Latest / live layer / Field app | Sense where human attention is *now* |
+| **Pathwalker organ (Grok)** | LLM projection + analysis | Map, draft, walk possible paths from patterns |
 | **Interaction / always-on** | e.g. Hermes | Cheap continuity on top of primary |
 | **Research / organize** | e.g. NotebookLM | Free excellence at one job |
 | **Specialized power** | e.g. OpenRouter | Pay only when primary cannot |
+
+Within the primary body, **don’t collapse the two organs**: X is the living city; the LLM is the map + pathwalker (compressed past projecting forward). Hybrid loop and Field-stays-sensor law: [Live Field and Pathwalker](live-field-and-pathwalker.md). Search craft: [Search as Field Probe](search-as-field-probe.md).
 
 The point is **primary + sparse supplements**, not a fixed brand list. Reassess when data access or integration actually degrades — not when a leaderboard moves.
 
