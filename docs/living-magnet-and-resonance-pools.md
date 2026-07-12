@@ -30,13 +30,21 @@ No automated replies. System surfaces; operator decides.
 
 ### v1 evolution: field sensor, not only people matcher
 
-Magnet v0 finds **people**. Magnet v1 also finds **regions of the field**:
+Magnet v0 finds **people**. Magnet v1 finds **live regions of the field** and people in them.
 
-- present-moment posts whose **metric signatures** (views as light; likes/reposts/comments as derived dimensions) match healthy or early-momentum patterns  
-- in topics that overlap `current_direction`  
-- then supports **positioned planting** of CHIMERA-grounded seeds and **non-interference** after plant  
+#### Filter hierarchy (locked)
 
-See [Attention Metric Signatures](attention-metric-signatures.md) and [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md). Design detail: core `drafts/living-magnet-v1-signature-aware.md`.
+| Tier | Filter | Status |
+|------|--------|--------|
+| **1** | **Extreme recency** (default last 30–60 min; adjustable) | **Primary / non-negotiable** |
+| **2** | **Natural engagement momentum** boost *within* that window (accounts/posts that already move attention; light tilt, not celebrity-only) | Secondary boost |
+| **3** | Metric **signatures/ratios**, framework **resonance**, light **verification/bot-noise** reduction | Optional refinement |
+
+Recency alone is the strongest cut into the true present-moment layer. Signatures refine odds; they are **not** the foundation. See [Attention Metric Signatures](attention-metric-signatures.md).
+
+Then: **positioned plant** CHIMERA-grounded seeds → **non-interference** → observe multi-scale. See [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md).
+
+Design detail: core `drafts/living-magnet-v1-signature-aware.md`.
 
 ---
 

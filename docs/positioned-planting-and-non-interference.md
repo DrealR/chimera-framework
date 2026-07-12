@@ -36,11 +36,13 @@ Whale-scale moves create strong pull and reduce freedom. Silence without any pre
 ## Four-step operator loop
 
 ```text
-1. CHIMERA layer     — unpack, ground, articulate the idea (seed integrity)
-2. Signature filter  — find present-moment soil with promising metric chords
-3. Positioned plant  — post / reply / contribute where soil + resonance fit
-4. Non-interference  — observe multi-scale; don’t smother the shoot
+1. Recency window    — enter true present-moment layer (30–60 min default)
+2. Live soil read    — optional momentum boost + signature/ratio + Magnet resonance
+3. CHIMERA plant     — ground the seed; post/reply where soil + direction fit
+4. Non-interference  — add value, move on; observe multi-scale; don’t manage old momentum
 ```
+
+Extreme recency is the foundation. Signatures refine. CHIMERA quality + non-interference keep it from becoming growth hacking.
 
 Then: refine ideas **and** field literacy from what actually propagated, twisted, or died.
 

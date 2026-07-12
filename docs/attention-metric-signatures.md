@@ -62,11 +62,18 @@ Heuristics for navigation — **not** universal laws. Re-validate on your domain
 
 ## Operator read method
 
-1. **Observe high-visibility posts** in domains you care about — log full configuration + age.  
-2. **Extract reference signatures** of posts that later proved high-signal for *you* (not only viral).  
-3. **Scan present-moment layer** for younger posts whose **rates** already resemble those references.  
-4. **Prefer early_momentum + discussion/healthy_balance** in resonant topics over pure hollow_reach.  
+**Primary cut is always extreme recency** (last 30–60 minutes). Signatures are a **secondary** layer on top of that window — never a replacement for it.
+
+Within the recency window:
+
+1. Optional **momentum boost** — light tilt toward accounts/posts that already move attention.  
+2. **Observe metric configurations** (V + L + R + C + age) — especially early rates.  
+3. **Extract reference signatures** from posts that later proved high-signal for *you*.  
+4. **Prefer early_momentum + discussion/healthy_balance** in resonant topics over hollow_reach.  
 5. **Pause** before narrative lock: “this signature always means X” is collapse (¬F).
+
+**Daily default:**  
+> Show live activity (last 30–60 min). Optionally boost natural momentum. Optionally rank by healthy early ratios + Magnet resonance.
 
 ---
 
