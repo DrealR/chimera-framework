@@ -36,7 +36,7 @@ Whale-scale moves create strong pull and reduce freedom. Silence without any pre
 ## Four-step operator loop
 
 ```text
-1. Recency window    — enter true present-moment layer (30–60 min default)
+1. Recency window    — enter true present-moment layer (default 30 min; 15–60 range)
 2. Live soil read    — optional momentum boost + signature/ratio + Magnet resonance
 3. CHIMERA plant     — ground the seed; post/reply where soil + direction fit
 4. Non-interference  — add value, move on; observe multi-scale; don’t manage old momentum

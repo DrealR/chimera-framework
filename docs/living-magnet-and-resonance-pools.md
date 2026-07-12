@@ -36,7 +36,7 @@ Magnet v0 finds **people**. Magnet v1 finds **live regions of the field** and pe
 
 | Tier | Filter | Status |
 |------|--------|--------|
-| **1** | **Extreme recency** (default last 30–60 min; adjustable) | **Primary / non-negotiable** |
+| **1** | **Extreme recency** (default **30 min**, range 15–60) | **Primary / non-negotiable** |
 | **2** | **Natural engagement momentum** boost *within* that window (accounts/posts that already move attention; light tilt, not celebrity-only) | Secondary boost |
 | **3** | Metric **signatures/ratios**, framework **resonance**, light **verification/bot-noise** reduction | Optional refinement |
 
