@@ -71,6 +71,12 @@ Sometimes the strongest move is **withdrawing attention** from the loudest broad
 
 ---
 
+## Microcosm: automatic cynicism
+
+Public-figure grief / cancellation threads often show the machine on a small scale: a harsh “always performing” filter gets amplified until it feels like consensus, while basic human probability is under-represented. See [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md).
+
+---
+
 ## See also
 
 - [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
@@ -78,6 +84,7 @@ Sometimes the strongest move is **withdrawing attention** from the loudest broad
 - [Solar Punk and Field Design](solar-punk-and-field-design.md)  
 - [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
 - [Attention Capture Types](attention-capture-types.md)  
+- [Attention as Payment and Story](attention-as-payment-and-story.md)  
 
 ```text
 L = (O > I) + P + ¬F

@@ -74,6 +74,12 @@ Words are high-leverage belief tools. Holy Man plant = observation + invite that
 
 ---
 
+## Payment / story
+
+Attention is also **payment of life force** into a personal or shared story. Intention sets how heavy the payment is; one-sided heavy payment is relational **push**, mutual attention is **pull**. Full practice: [Attention as Payment and Story](attention-as-payment-and-story.md).
+
+---
+
 ## See also
 
 - [Attention Metric Signatures](attention-metric-signatures.md)  
@@ -81,6 +87,7 @@ Words are high-leverage belief tools. Holy Man plant = observation + invite that
 - [Observation as Transduction](observation-as-transduction.md)  
 - [Words Put Weight on Paths](words-put-weight-on-paths.md)  
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
+- [Attention as Payment and Story](attention-as-payment-and-story.md)  
 
 ```text
 L = (O > I) + P + ¬F
