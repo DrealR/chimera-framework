@@ -103,6 +103,7 @@ Try = ego managing image inside the system. Do = integrated participation. Pause
 
 ## See also
 
+- [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md) — **primary** Genesis + serpent + probability stack  
 - [Gnostic Synthesis](gnostic-synthesis.md)  
 - [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md)  
 - [Solar Punk and Field Design](solar-punk-and-field-design.md)  

@@ -74,9 +74,12 @@ Words are high-leverage belief tools. Holy Man plant = observation + invite that
 
 ---
 
-## Payment / story
+## Payment / story / Genesis
 
-Attention is also **payment of life force** into a personal or shared story. Intention sets how heavy the payment is; one-sided heavy payment is relational **push**, mutual attention is **pull**. Full practice: [Attention as Payment and Story](attention-as-payment-and-story.md).
+Attention is also **payment of life force** into a personal or shared story. Intention sets how heavy the payment is; one-sided heavy payment is relational **push**, mutual attention is **pull**.
+
+Genesis structure (darkness → waters → light; serpent as branching/gnosis):  
+[Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md) · [Attention as Payment and Story](attention-as-payment-and-story.md).
 
 ---
 

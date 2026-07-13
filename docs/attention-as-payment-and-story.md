@@ -56,7 +56,18 @@ You live inside a **model** the mind keeps updating (story/simulation — Bach-t
 - Heavy one-sided investment = high-cost private branch  
 - Reciprocal attention = shared branch with higher coherence odds  
 
-Genesis rhyme (firewalled): light as attention structuring potential; “knowledge of good and evil” as capacity for **misalignment / one-sidedness / branching probability** — not a moral weapon against others. Full religious depth lives elsewhere; operator takeaway: **attention can align or misalign**.
+### Genesis (load-bearing — see full doc)
+
+**Primary treatment:** [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md).
+
+| Image | Payment / story read |
+|-------|----------------------|
+| Waters / darkness | Potential not yet paid into |
+| Light | Attention made observable / interactive |
+| Serpent / fruit | Capacity for branching + one-sided misalignment |
+| Align vs misalign | Reciprocal pull (co-created story) vs push (private extractive story) |
+
+Operator takeaway: **attention can align or misalign**. Not a weapon to condemn persons.
 
 ---
 
