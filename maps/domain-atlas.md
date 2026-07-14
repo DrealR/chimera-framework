@@ -25,5 +25,6 @@ Domains are translation and pressure-testing bodies. None is a universal validat
 - **Guitar Cave:** machine reach returning to embodied practice and consequence.
 - **Word Weight Lab:** testable edge for how wording changes interpretation and choice.
 - **Honeydew / Grove:** economic and relational gateways where generosity, trust, and local accountability face reality.
+- **Living Magnet / Living Question Engine:** searches for reciprocal, generative regions and time-portable questions rather than maximizing content consumption; AI reveals geometry, humans walk the relation.
 
 An applied project earns framework weight by producing feedback, counterexamples, demonstrated capacity, or changed relationships—not merely by using CHIMERA vocabulary.

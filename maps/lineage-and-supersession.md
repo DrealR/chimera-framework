@@ -13,6 +13,10 @@ CHIMERA preserves the sentence that opened a path and the sentence that later bo
 | AI is a mirror or conscious body | Generativity does not establish experience or operator location | AI can be instrument, organ, environment, crew, or host; locate direction and consequence |
 | Teleportation is cheap; walking is real | Manual traversal of every step wastes finite attention | Delegate dead transport; walk identity-bearing stretches |
 | Believing is seeing | Belief can also distort observation | Belief weights perception and action; seeing can update belief; keep both directions inspectable |
+| Alien contact means a body arrives | Intelligence-bearing information can cross without transporting the source body | Distinguish matter, information, and generative traversal; ask what local body forms and whether identity continuity survives |
+| Brightness or traffic indicates life | Synthetic and reflexive activity can be bright but metabolically empty | Earthness asks what attention becomes: memory, differentiated centers, relationship, consequence, generation, and rest |
+| X is the Matrix | Platform, algorithm, people, or AI alone cannot explain the recursion | Matrix is the stabilized transformation loop; X is one social sky, sensorium, archive, and temporal body inside it |
+| Posting is present performance | A persistent artifact can be activated by later receivers | A post has emission, feed, archive, and activation clocks; future response reweights the artifact without rewriting the past |
 
 ## Document status vocabulary
 
