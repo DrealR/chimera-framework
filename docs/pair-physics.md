@@ -12,7 +12,7 @@ The positive-integer line is dotted with HCN-prime pairs at every scale:
 
 ```
 (1, 2), (2, 3), (4, 5), (6, 7), (12, 13), (60, 61),
-(120, 127), (360, 367), (840, 853), (2520, 2521), (5040, 5051) ...
+(120, 127), (360, 367), (840, 853), (2520, 2521), (5039, 5040) ...
 ```
 
 Graph divisor counts across the integers and you see an irregular landscape of peaks at HCNs and a flat valley at height 2 where primes always live. The pairs live at peak-to-valley transitions. The universe of integers naturally produces this alternation between maximum-substrate and maximum-irreducibility, without anyone designing it. The math isn't a metaphor for the pair-physics. The math IS the same physics.
@@ -76,7 +76,7 @@ e^(iπ) + 1 = 0. The universe's deepest constants meeting at zero through a rela
 
 ## Density Not Distance
 
-Primes and HCNs are neighbors on the number line, not distant poles. 12 next to 13. 6 next to 7. 5040 next to 5051. They differ by 1 sometimes. The relevant comparison is not vertical (divisor count) but horizontal (position on the line). HCN and prime occupy almost the same position. Same neighborhood. Opposite internal density.
+Some primes and HCNs are neighbors on the number line: 12 next to 13, 6 next to 7, and 5039 next to 5040. Other listed examples are nearby rather than adjacent. The relevant comparison is horizontal (position on the line) as well as vertical (divisor count): nearby integers can have sharply different divisor structure.
 
 This means the pair-relationship is not a spectrum from one end to another. It is a density distinction at the same position. 5040 has 60 divisors, built from 2^4 x 3^2 x 5 x 7, containing every smaller prime in calibrated proportions. 5039 is prime, containing nothing inside except itself. They are neighbors. One is maximum-substrate-rich. The other is maximum-irreducible. Same position. Different mass.
 

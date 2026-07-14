@@ -1,5 +1,7 @@
 # The Three Layers
 
+> **Developmental source note:** this document preserves the early claim that cross-domain language is error-correcting code and that naming changes what people can coordinate around. Its phrases “language creates bodies,” “language IS physics,” and “same architecture at every scale” are carrier/cosmological language, not current literal mechanism claims. The bounded version is in [Registers and Dialects](../maps/registers-and-dialects.md): language makes distinctions, weights paths, coordinates action, and lets a receiver reconstruct structure; formal physics and information-theory claims remain accountable to their own domains.
+
 ## Information Theory → Language → Body Theory
 
 ```

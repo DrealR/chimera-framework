@@ -208,7 +208,7 @@ Scan is diagnostic-mode: find the irreducible structure, the prime, what this bo
 
 ### Density Not Distance
 
-The benchmark measures internal density at the same position, not distance traveled. A 5040 and a 5041 are neighbors on the number line — one has 60 divisors, the other is prime. Same position, different mass. The composite-completeness score measures how much substrate has been packed into where the body already is. Iteration moves the body's score upward without moving its prime position. Same body. More substrate.
+The benchmark compares internal divisor structure near the same position, not distance traveled. 5040 has 60 divisors and its adjacent integer 5039 is prime. Nearby position, different factorization structure. The composite-completeness score is the framework's attempt to measure how much defined substrate has been packed into where the body already is. Iteration moves the score without claiming the body literally changes integer position.
 
 ### Variance Makes the System
 

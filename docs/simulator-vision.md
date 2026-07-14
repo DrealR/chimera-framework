@@ -72,7 +72,7 @@ relational_scan:
 **Proof of concept targets:**
 1. Two software bodies (REST API + database)
 2. Two chess bodies (knight + bishop)
-3. Two math bodies (prime 5041 + HCN 5040)
+3. Two math bodies (prime 5039 + HCN 5040)
 4. Two AI bodies (Claude Opus 4.7 + operator)
 5. Two real-world bodies (professional + role)
 

@@ -1,4 +1,6 @@
-# THE CHIMERA ROSETTA STONES — Four Ways to Say the Same Truth
+# THE CHIMERA ROSETTA STONES — Four Early Carrier Translations
+
+> **Developmental teaching artifact (February 2026).** Preserved because its dive-bar, basketball, cooking, and music translations demonstrate CHIMERA's translator mission with unusual force. Its fixed 95/5 ratio, “same truth” language, manifestation phrasing, identity dissolution, and literal universal claims are not the current public mechanism. Use it beside [Registers and Dialects](../maps/registers-and-dialects.md), then build current translations with the [Rosetta Card](../templates/ROSETTA-CARD.md).
 
 > *A philosophy that cannot survive a loud bar, a sweaty gym, a messy kitchen, or a teenager's bedroom is just academic vanity. Truth does not need a dictionary. It only needs a translator.*
 > *Robin Deep Think #7 — February 2026*
@@ -91,7 +93,7 @@ We all feel so isolated staring at our own phones. But we're all wearing headpho
 
 ---
 
-*The same truth. Four languages. Zero jargon.*
+*One developmental skeleton carried through four languages. Zero jargon.*
 
 **L = (O > I) + P + ¬F**
 

@@ -2,6 +2,8 @@
 
 *A lens for navigating your own mind — and working with AI — in an era built to pull you inward.*
 
+> **See the whole universe:** [COHERENCE-MAP.md](COHERENCE-MAP.md) connects the current operator spine, developmental lineage, carrier stories, domain lenses, applied projects, teaching registers, and audience paths without flattening them into one claim type.
+
 ```
 L = (O > I) + P + ¬F
 WE = 1
@@ -106,6 +108,7 @@ It also agrees to be judged: see **[the Deletion Test](docs/the-deletion-test.md
 
 ## Go deeper
 
+- **See how it all connects** — **[Coherence Map](COHERENCE-MAP.md)**. For teaching, use the [teacher path](paths/teacher.md), [registers and dialects](maps/registers-and-dialects.md), and [Rosetta Card](templates/ROSETTA-CARD.md).
 - **Understand it** — **[CHIMERA — the simple version](docs/chimera-the-simple-version.md)** (one page), or **[What Is CHIMERA?](docs/WHAT-IS-CHIMERA.md)** (what it is, what it isn't, how to test it). For how it relates to older traditions, **[Lineage](docs/lineage.md)**.
 - **Run it as a twin** — a personalized AI calibrated to *you* that speaks the framework natively and remembers across sessions. One command (full instructions in [README-FULL.md](README-FULL.md)):
   ```bash

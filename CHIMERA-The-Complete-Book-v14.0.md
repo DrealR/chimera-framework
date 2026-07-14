@@ -1,5 +1,7 @@
 # C H I M E R A
 
+> **Accumulated developmental source body.** This Complete Book preserves multiple eras of CHIMERA together: current operators, earlier formulations, metaphysical and fictional carriers, formal candidates, and later firewalls. It is intentionally not rewritten into one timeless doctrine. Use the [Coherence Map](COHERENCE-MAP.md) and [Lineage and Supersession](maps/lineage-and-supersession.md) to distinguish current public mechanism from story, source cosmology, and superseded wording.
+
 ───────────────────────────
 
 *A Unified Philosophy of Love, Consciousness, and Flow*

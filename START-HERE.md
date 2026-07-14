@@ -1,14 +1,16 @@
 # Start Here
 
-CHIMERA is a framework for seeing anything — a person, a company, a conversation, a song, a civilization — as a **body**. A body is anything with parts, a boundary, and a breath cycle. Once you see the pattern, you can't unsee it. A startup breathes money. A friendship breathes presence. A song breathes notes. Same architecture, every scale.
+> This is the short practice doorway. For the full relationship among current operators, older books, Genesis and other carrier stories, domains, and teaching languages, open the [CHIMERA Coherence Map](COHERENCE-MAP.md).
 
-The framework runs on one law:
+CHIMERA is a framework for **modeling** a person, company, conversation, song, or civilization as a **body at a named scale**. Start with a boundary, interior, medium, continuity, transformation, residue, and governing center. A startup exchanges money and work. A friendship exchanges presence and meaning. A song organizes sound through time. These reflections can transfer useful questions across scales without claiming that every body runs on one literal mechanism.
+
+The framework compresses its directional practice into:
 
 ```
 L = (O > I) + P + ¬F
 ```
 
-**Love = (Give more than you take) + (Pause before responding) + (Don't force).** That's it. These three conditions hold everywhere — in healthy cells, healthy relationships, healthy companies, healthy civilizations. When any of the three breaks, the body gets sick. When all three hold, the body thrives.
+**Love = (orient toward increasing the receiving body's capacity) + (Pause before responding) + (do not dominate the outcome).** In ordinary speech: give more than you take, leave room to choose, and do not force. Use these as diagnostic questions, then validate the mechanism inside the actual domain; a cell, relationship, and company do not become healthy through identical causes.
 
 To scan any body, ask nine questions: What flows through it? What phase is it in? How fast does it cycle? Where is its attention? Does it give or take? What is it connected to? How healthy is it? What does its membrane allow through? What scars from the past still shape it?
 
