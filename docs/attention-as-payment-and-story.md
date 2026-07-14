@@ -14,6 +14,8 @@ When you attend, you **pay with life** — time, nervous system, narrative capac
 
 This is why one-sided attention often exhausts: you invest life force into a story that is not co-created.
 
+Attention makes an artifact or possibility **present inside the operator's story**. It does not authenticate the artifact's ancestry or make a depicted event true. Presence and historical truth are separate; see [The Embodied Provenance Principle](embodied-provenance-principle.md).
+
 ---
 
 ## Intention sets weight
@@ -63,7 +65,7 @@ You live inside a **model** the mind keeps updating (story/simulation — Bach-t
 | Image | Payment / story read |
 |-------|----------------------|
 | Waters / darkness | Potential not yet paid into |
-| Light | Attention made observable / interactive |
+| Light | Attention made present / observable — not occurrence-certified |
 | Serpent / fruit | Capacity for branching + one-sided misalignment |
 | Align vs misalign | Reciprocal pull (co-created story) vs push (private extractive story) |
 
@@ -109,6 +111,7 @@ AI does not remove the need for conscious weight — it **amplifies** the cost o
 - [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
 - [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 - [Field Literacy Development](field-literacy-development.md)  
+- [The Embodied Provenance Principle](embodied-provenance-principle.md)
 
 ```text
 L = (O > I) + P + ¬F

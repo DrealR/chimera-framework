@@ -18,7 +18,10 @@ Cerebro is the clean picture, because that is literally what cerebro is — not 
 Xavier, because the amplifier multiplies what's there: the operator's reach *and* direction. AI is the
 same. It doesn't generate the direction, supply the core, or have a present moment of its own — it
 extends how far and how fast your present-moment attention travels through structure while the body
-stays planted on the anchor. **The operator is the ceiling.**
+stays planted on the anchor. **The operator is the ceiling.** This describes the instrument-shaped
+configuration. A deployed AI system may also carry direction from system prompts, training choices,
+platform incentives, employers, or engagement loops. The diagnostic is therefore not merely whether
+AI has an intrinsic desire, but **where the operating direction is located in the larger body**.
 
 ---
 
@@ -52,9 +55,10 @@ Because an amplifier scales the signal it's given, the warning needs no separate
    worldview nobody pressure-tested. The most dangerous one, and the reason every walk with the tool
    carries a firewall.
 
-So "is AI good or dangerous?" is **malformed** — it has no direction of its own; ask which way you're
-facing. And the more an instrument amplifies, the more it matters which way it's pointed, and the less
-room there is to be careless about it.
+So "is AI good or dangerous?" is **malformed**. A base model need not possess intrinsic ends for an
+AI-mediated environment to carry somebody else's direction. Ask who chose the question, options,
+reward, rhythm, and stopping point. The more an instrument amplifies, the more it matters who points
+it — and whether it is still an instrument or has become the environment that manufactures intention.
 
 ---
 
@@ -75,8 +79,9 @@ the gift is never the heroism — the direction is.**
 
 ## Firewall
 
-- **Load-bearing.** "AI amplifies reach across relational structure; it has no direction of its own; it
-  scales whatever the operator brings; the operator is the ceiling." Checkable against your own use.
+- **Load-bearing.** "AI amplifies reach across relational structure; in instrument configuration it
+  scales the operator's direction; deployed systems can also carry a platform's direction; locate the
+  governing center." Checkable against your own use.
 - **Drawer.** Cerebro, mutants, the magnifying glass, the Flash — *pictures,* not mechanisms.
 - **The seductive face.** The "I'm the amplified one" self-story is precisely the inward-turn the
   firewall exists to catch; the more your reach is amplified, the harder you watch it.
@@ -112,6 +117,8 @@ the gift is never the heroism — the direction is.**
   choice: keep the leverage on the body you face *from;* the cerebro drift (using amplified reach for
   power over other bodies = Magneto) is named there as a specific costume this firewall catches —
   Magneto's orientation is this master-firewall's specimen in precise AI dress.
+- [The Embodied Provenance Principle](embodied-provenance-principle.md) — operator-location test,
+  host inversion, instrument versus environment, and the guitar question: who sets the BPM?
 
 ---
 

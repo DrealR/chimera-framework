@@ -75,6 +75,8 @@ Rule of thumb:
 
 > Use AI to reduce cost of execution *after* you spent budget on direction. Do not spend budget only to generate more options.
 
+Run the [operator-location test](embodied-provenance-principle.md#operator-location-test): who chose the question, who can refuse, who absorbs failure, who is transformed by completion, and who retains capacity if the AI disappears? If those answers leave the human, the tool may be spending the person as an actuator for another body's ends.
+
 If the tool increases capacity for real human work, it is developmental. If it only makes the day feel full while capacity falls, it is a leak dressed as productivity.
 
 ---
@@ -105,6 +107,7 @@ If the tool increases capacity for real human work, it is developmental. If it o
 - [Minimal Living as Firewall](minimal-living-as-firewall.md) — reducing leaky bodies.
 - [The Weight-Reach Dial](the-weight-reach-dial.md) — how far attention can extend without collapse.
 - [Self-Governance in Low Friction](self-governance-in-low-friction.md) — budget is what remains when rails fall away.
+- [The Embodied Provenance Principle](embodied-provenance-principle.md) — human body, AI organ; instrument versus environment.
 
 ```text
 L = (O > I) + P + ¬F

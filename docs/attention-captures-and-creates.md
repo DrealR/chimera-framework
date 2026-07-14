@@ -8,6 +8,8 @@
 
 **Attention is not neutral. It captures a body from its context and reconstructs it inside the observer's field; then it either stays as consumption or returns outward as creation.** The danger of high-access modern life is capture without return: endless seeing, saving, replaying, analyzing, and consuming without enough speech, craft, service, repair, or love to metabolize what was taken in.
 
+Capture creates a **representation and presence**, not automatic historical truth. Embodiment is where the captured information becomes consequential; provenance is what connects a representation to an event and a history. See [The Embodied Provenance Principle](embodied-provenance-principle.md).
+
 ---
 
 ## 1. Capture: the destructive side
@@ -108,6 +110,7 @@ The cure is not to collapse back into numbness. The cure is scale discipline:
 - [Performance as Inward Extraction](performance-as-inward-extraction.md) — when attention returns to self-image instead of the field.
 - [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md) — surrogate activity when input/comfort replaces role and consequence.
 - [Reality Spam and the Staged Offline](reality-spam-and-the-staged-offline.md) — public-space capture becoming feed-surface.
+- [The Embodied Provenance Principle](embodied-provenance-principle.md) — presence, consequence, history, and proof of passage.
 
 ```
 L = (O > I) + P + ¬F

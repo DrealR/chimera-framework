@@ -32,7 +32,22 @@ The volume **forces** filtering (an inbox is a sea of scam; clarity is now *work
 
 **Firewall:** turn the same question **inward** on your own impulse to chase ("is it oversaturated? do I want this? what is it doing to me?") — intent-reading on your own pull, the highest form of the move.
 
-## 4. SPARK
+## 4. Intent is not provenance
+
+The question-swap is a defense of **personal attention**, not a replacement for historical authentication.
+
+When deciding whether to admit, amplify, click, buy, or react, an operator can often decline based on function without resolving whether the artifact is real. But when an institution, journalist, court, archive, or witness claims that an event occurred, “what is this doing?” is not enough. The second question is: **what proof of passage connects this artifact to the claimed event?**
+
+Keep both layers:
+
+| Task | Primary question |
+|------|------------------|
+| Govern personal attention | What is this trying to do to or through me? |
+| Establish historical occurrence | What relational residue and provenance connect artifact to event? |
+
+See [The Embodied Provenance Principle](embodied-provenance-principle.md). Intent-reading protects the membrane. Provenance supports the record.
+
+## 5. SPARK
 
 Don't teach kids to **detect fakes** (the losing race that raises the floor and leaves them behind). Teach them to **read intent and function** — the AI-proof operator skill no better-fake defeats, because the fake still has a *why.*
 
@@ -42,6 +57,7 @@ Don't teach kids to **detect fakes** (the losing race that raises the floor and 
 - `boundary-override-capitalism`
 - `reality-spam-and-the-staged-offline`
 - `markets-commission-the-events-they-price`
+- [The Embodied Provenance Principle](embodied-provenance-principle.md)
 
 ---
 

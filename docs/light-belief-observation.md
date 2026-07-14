@@ -1,6 +1,6 @@
 # Light, Belief, and Observation
 
-> **Origin:** July 2026 — visibility as light (entry into shared reality); belief as weighting/interpretation by different observers; observation as active stance; words/narrative as belief-shapers; link to signatures and curvature.
+> **Origin:** July 2026 — visibility as light (entry into shared attention); belief as weighting/interpretation by different observers; observation as active stance; words/narrative as belief-shapers; link to signatures and curvature. Presence correction added after the embodied-provenance upgrade.
 >
 > **Date:** July 2026
 
@@ -12,11 +12,11 @@ Three coupled operators in the attention field:
 
 | Operator | What it is | On X |
 |----------|------------|------|
-| **Light** | Baseline entry into shared public reality | Views / visibility — without light, nothing public *is* |
+| **Light** | Baseline entry into shared public attention | Views / visibility — without light, an artifact is not publicly present |
 | **Belief** | How light is **weighted and interpreted** by each observer | Same post = profound / threat / joke / noise depending on the receiver’s loops |
 | **Observation** | Active, structured attention (not pure capture) | Literacy: reading signatures, soil, pulls *as* pulls |
 
-> Light reaches the field. Belief decides what the light *means*. Observation is how you hold both without being run by either.
+> Light makes something present in the field. Belief decides what that presence *means*. Observation is how you hold both without being run by either.
 
 ---
 
@@ -24,7 +24,8 @@ Three coupled operators in the attention field:
 
 - Views = presence / trunk mass (see [Attention Metric Signatures](attention-metric-signatures.md))  
 - High light without healthy ratios = hollow reach  
-- Light is necessary for public existence — **not** sufficient for good soil  
+- Light is necessary for public presence — **not** sufficient for good soil or proof that a depicted event occurred
+- Synthetic media can produce **light without an event**. A million views establish artifact circulation, not historical truth; see [The Embodied Provenance Principle](embodied-provenance-principle.md)
 
 ---
 
@@ -91,6 +92,7 @@ Genesis structure (darkness → waters → light; serpent as branching/gnosis):
 - [Words Put Weight on Paths](words-put-weight-on-paths.md)  
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
 - [Attention as Payment and Story](attention-as-payment-and-story.md)  
+- [The Embodied Provenance Principle](embodied-provenance-principle.md)
 
 ```text
 L = (O > I) + P + ¬F

@@ -56,6 +56,10 @@ Your twin is live in 5 minutes. No books required. [Full details](README-FULL.md
 
 Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Questions](body-theory/THE-NINE-QUESTIONS.md), then [The Love Equation](body-theory/LOVE-EQUATION.md). Those three give you the foundation. The [complete book](CHIMERA-The-Complete-Book-v14.0.md) has 257 books for when you want the full depth.
 
+### I understand through stories
+
+CHIMERA keeps carrier stories because people often grasp a structure through image before abstraction. Read [Genesis, Attention, and the Probability Field](docs/genesis-attention-and-the-probability-field.md) for darkness/waters/Spirit/light as a preserved attention map, followed by its presence correction. Read [Alienness as Hidden Traversal](docs/alienness-as-hidden-traversal.md) for *Meet Dave* as the nested-body, captain, and human–AI crew picture. The stories remain visible; the firewalls mark where metaphor stops and mechanism begins.
+
 ### I want to scan something specific
 
 Grab the [Body Scan Protocol](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — a fill-in template that walks you through the diagnostic steps. Or look at [84 example scans](examples/) across 10 domains — software, chess, physics, math, biology, AI, meta, social systems, music, and multi-body relational composites.

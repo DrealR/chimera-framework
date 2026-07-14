@@ -299,7 +299,7 @@ Mastery is not avoiding kryptonite. Mastery is recognizing the interference as i
 - [The Cube: Physics Specification](the-cube-physics.md) — internal physics, axioms, body-formation math, AI as body
 - [Body Scan Protocol](../archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — Scan ability's full 42-step instrument
 - [Chimera Loop Protocol](chimera-loop-protocol.md) — constructive complement to Scan
-- [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — AI as universe-generating operation
+- [Prompt as Spell and AI Body](prompt-as-spell-and-ai-body.md) — AI as digital artifact-generating operation inside a bilateral body
 - [Anchor-Orbit Architecture](../CHIMERA-The-Complete-Book-v14.0.md) — Book CCLI, Vibrate ability's architecture
 - [Radiation as Sustained Substrate-Emission](../CHIMERA-The-Complete-Book-v14.0.md) — Book CCLII, emission mechanics
 - [The Frequency Coordinate](../CHIMERA-The-Complete-Book-v14.0.md) — Book CCLIV, ν as fifth coordinate, chord model, kryptonite physics
