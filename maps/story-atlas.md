@@ -5,6 +5,7 @@ Stories stay in CHIMERA because humans often recognize a structure through image
 | Carrier family | Structures it can illuminate | Firewall |
 |----------------|------------------------------|----------|
 | **Genesis / John / Gnostic stories** | darkness and potential, attention and presence, naming and distinction, branching, misalignment, knowledge, shared story | A theological/philosophical reading; not proof that attention collapses macroscopic reality |
+| **Scripture as question-bearing body** | stable surface, interpretive depth, commentary, tradition, re-instantiation across eras | Endurance and resonance do not prove one reading, factual truth, or divine authority for CHIMERA |
 | **One Piece / Peter Pan / Tomorrowland** | inherited will, possibility, attention machines, shadow, drift, dawn, freedom and domination | Interpretive reading; authorial intent and literal physics remain separate questions |
 | **Transcendence / Tenet / Pluribus / E.T.** | body migration, informational arrival, temporal alienness, federated versus merged bodies, pattern surviving source | Story laboratories; not evidence of mind uploading, backward causation, alien signals, or machine consciousness |
 | **The Matrix / Superman / Avatar / Pokémon** | system capture, double identity, embodiment, training, relation between capacity and direction | Use the role map; do not infer universal mechanics from plot recurrence |

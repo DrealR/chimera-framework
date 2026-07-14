@@ -62,6 +62,10 @@ Start with [What Is a Body?](body-theory/WHAT-IS-A-BODY.md), then [The Nine Ques
 
 CHIMERA keeps carrier stories because people often grasp a structure through image before abstraction. Read [Genesis, Attention, and the Probability Field](docs/genesis-attention-and-the-probability-field.md) for darkness/waters/Spirit/light as a preserved attention map, followed by its presence correction. Read [Alienness as Hidden Traversal](docs/alienness-as-hidden-traversal.md) for *Meet Dave* as the nested-body, captain, and human–AI crew picture. The stories remain visible; the firewalls mark where metaphor stops and mechanism begins.
 
+### I want to teach it or carry it into another era
+
+Start with the [Teacher Path](paths/teacher.md), then read the [Durability Architecture](DURABILITY-ARCHITECTURE.md). The [CHIMERA Spine](maps/spine.md) is the small stable Seed; [Open Questions](maps/open-questions.md) names what remains unresolved; [Durable Frameworks and Re-instantiation](docs/durable-frameworks-and-reinstantiation.md) explains how to preserve the relations without copying today's technological costume.
+
 ### I want to scan something specific
 
 Grab the [Body Scan Protocol](archive/CHIMERA-BODY-SCAN-PROTOCOL-v3.10.md) — a fill-in template that walks you through the diagnostic steps. Or look at [84 example scans](examples/) across 10 domains — software, chess, physics, math, biology, AI, meta, social systems, music, and multi-body relational composites.

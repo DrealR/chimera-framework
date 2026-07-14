@@ -17,6 +17,10 @@ CHIMERA preserves the sentence that opened a path and the sentence that later bo
 | Brightness or traffic indicates life | Synthetic and reflexive activity can be bright but metabolically empty | Earthness asks what attention becomes: memory, differentiated centers, relationship, consequence, generation, and rest |
 | X is the Matrix | Platform, algorithm, people, or AI alone cannot explain the recursion | Matrix is the stabilized transformation loop; X is one social sky, sensorium, archive, and temporal body inside it |
 | Posting is present performance | A persistent artifact can be activated by later receivers | A post has emission, feed, archive, and activation clocks; future response reweights the artifact without rewriting the past |
+| Attention is value | Coupling can create platform data while reducing human capacity | Attention is metabolic opportunity; classify relational, epistemic, generative, operator, data, and extractive outcomes separately |
+| The body or the system is the true cause | Individual-only creates blame; system-only creates fatalism | Day reads local agency; Night reads relational conditioning; the operator updates the system that conditions later operators |
+| A complete archive preserves a transition | Outputs can survive while arrival order and living comparison disappear | Preserve witness bands, capability chronology, causal wake, versions, and contemporaneous context |
+| The Complete Book should become the final answer | A frozen canon cannot metabolize another era; limitless reinterpretation loses identity | Stable Spine + practices + carriers + open questions + commentary + domain correction + visible re-instantiation |
 
 ## Document status vocabulary
 

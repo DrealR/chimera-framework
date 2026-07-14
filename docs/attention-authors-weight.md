@@ -1,5 +1,7 @@
 # Attention Authors Weight (in a Weightless World)
 
+> **Current refinement (July 2026):** chosen attention can author personal weight, commitment, and meaning, but attention is not automatically value. It first establishes coupling and metabolic access; value depends on what the coupled bodies produce. Read this developmental June formulation beside [Attention as Metabolic Opportunity](attention-as-metabolic-opportunity.md).
+
 > **Origin:** Walked the Blockbuster→Netflix thread, the drive-home synthesis, and the
 > finals/band/pressure batch (June 2026). Names what happens to *meaning* when friction drops, and
 > the one tool that puts the weight back. Builds on [friction as a foundational
@@ -47,8 +49,10 @@ cost be the meaning.
 
 ## Attention is the tool that authors weight
 
-Here is the mechanism, close to a definition: **a thing matters exactly to the degree that attention
-is on it,** and weightlessness is just the absence of attention. So in a frictionless world,
+Here is the June carrier formulation: **a thing matters exactly to the degree that attention
+is on it,** and weightlessness is just the absence of attention. More precisely, attention can author
+subjective weight while relational, epistemic, generative, operator, and extractive value remain
+separate questions. So in a frictionless world,
 **attention becomes the friction you apply on purpose.** You can't make money matter anymore, but you
 can make a *person* matter by putting your attention fully on them; you make a craft matter by
 attending to it for years. The weight didn't disappear — it **relocated,** from external cost to

@@ -31,6 +31,8 @@ The constellation circulates work among these bodies. Core preserves how the tho
 | Understand the stories and metaphysics | [Story atlas](maps/story-atlas.md) |
 | Follow the light → body → Earthness convergence | [Generative traversal](docs/generative-traversal-and-body-migration.md) → [Earthness](docs/earthness.md) → [X as social sky](docs/x-as-social-sky-and-temporal-body.md) |
 | Turn the preserved worldline into living public questions | [Living Question Engine](docs/living-question-engine.md) |
+| Learn the question form that carries an earned answer without closing it | [Answer-Bearing Questions](docs/answer-bearing-questions-and-compression-expansion.md) |
+| Understand how CHIMERA can survive reinterpretation | [Durability Architecture](DURABILITY-ARCHITECTURE.md) → [Open Questions](maps/open-questions.md) → [Re-instantiation](docs/durable-frameworks-and-reinstantiation.md) |
 | Translate it into a field or craft | [Domain atlas](maps/domain-atlas.md) |
 | Find every repository, mirror, and applied body | [Ecosystem inventory](maps/ecosystem-inventory.md) |
 | See how the concepts changed | [Lineage and supersession](maps/lineage-and-supersession.md) |

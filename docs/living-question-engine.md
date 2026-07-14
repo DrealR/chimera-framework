@@ -24,6 +24,17 @@ A living question:
 
 Activity alone is insufficient. “Agree or disagree?” may generate replies without memory, transformation, or consequence.
 
+The preferred unit is an **answer-bearing question**:
+
+```text
+Q* = lived seam
+   + candidate relation
+   + remaining uncertainty
+   + door for difference
+```
+
+It is a compressed provisional answer with an open membrane. The ending **“Where does this mapping break?”** is one direct way to prove that correction is genuinely invited. See [Answer-Bearing Questions and the Compression–Expansion Engine](answer-bearing-questions-and-compression-expansion.md).
+
 ## Five question forms
 
 ### Mirror

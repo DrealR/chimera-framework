@@ -2,6 +2,8 @@
 
 This is the smallest current structure underneath the corpus. It is a navigation spine, not a claim that every earlier document used these exact boundaries.
 
+Under the [Durability Architecture](../DURABILITY-ARCHITECTURE.md), this Spine is the current stable **Seed**. New carriers, interpretations, and applications may grow around it without automatically amending it.
+
 ## 1. Bodies
 
 A body is a relatively bounded process seen at a named scale. The definition deepens in layers:
