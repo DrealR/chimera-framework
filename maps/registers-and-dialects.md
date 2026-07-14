@@ -13,6 +13,8 @@ CHIMERA reaches across domains by changing language. To do that responsibly, sep
 
 One paragraph can contain multiple registers, but the seam must be visible.
 
+“Visible” does not mean every public seed must interrupt its carrier with inline taxonomy. Classification may live in a linked lineage card, repository companion, reply, or teaching context. Immediate public qualification is required when omission creates concrete harm, deception, or unsafe action. See [Carrier Breathing and Firewall Placement](../docs/carrier-breathing-and-firewall-placement.md).
+
 ## Audience dialects
 
 - **Child / coach:** concrete action, one concept, immediate feedback.

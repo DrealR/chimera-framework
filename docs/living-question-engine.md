@@ -33,7 +33,7 @@ Q* = lived seam
    + door for difference
 ```
 
-It is a compressed provisional answer with an open membrane. The ending **“Where does this mapping break?”** is one direct way to prove that correction is genuinely invited. See [Answer-Bearing Questions and the Compression–Expansion Engine](answer-bearing-questions-and-compression-expansion.md).
+It is a compressed provisional answer with an open membrane. **“Where does this mapping break?”** must remain a genuine private and relational possibility; it can be spoken in the seed when useful without becoming mandatory ritual punctuation. See [Answer-Bearing Questions and the Compression–Expansion Engine](answer-bearing-questions-and-compression-expansion.md).
 
 ## Five question forms
 
@@ -97,6 +97,8 @@ Every candidate should privately carry:
 - **Firewall:** what the wording must not imply as established fact.
 - **Stop condition:** when not to publish or continue the thread.
 - **Return path:** how findings and corrections re-enter Core.
+
+These fields form a **private lineage card** by default. The public seed does not need to display every field. Follow [Carrier Breathing and Firewall Placement](carrier-breathing-and-firewall-placement.md): publish immediate caveats when omission creates concrete harm or material deception; otherwise let classification remain available behind the seed and emerge through relational unfolding.
 
 ## Operator scoring instrument
 
@@ -178,3 +180,5 @@ It generates a finite deck and returns selection to the embodied operator:
 > **Which question is alive for you today?**
 
 The goal is not to gather followers around one sun. It is to use the concentrated structure of one walked life to create conditions where other centers begin producing structure too.
+
+The post should not contain every branch. It should contain enough gravity to generate branches.

@@ -23,7 +23,7 @@ Compare:
 - **Closed:** “X is a social sky.”
 - **Seeded:** “What if X is a social sky where posts act as generative queries and ranking shapes what becomes visible—and where does that mapping break?”
 
-The candidate answer gives the receiver somewhere to enter. The explicit break question keeps the seed from becoming propaganda.
+The candidate answer gives the receiver somewhere to enter. A genuine correction door keeps the seed from becoming propaganda, but that door does not always need to be printed as a final disclaimer. It may live in the private lineage card or become visible through replies. See [Carrier Breathing and Firewall Placement](carrier-breathing-and-firewall-placement.md).
 
 ## Four requirements
 
@@ -150,14 +150,14 @@ One response after six months can change a framework more deeply than ten immedi
 
 ## Question examples
 
-- What if attention is not value but metabolic opportunity—and what outcomes would falsify that distinction?
+- What if attention is not value but metabolic opportunity—and what becomes visible when another body receives it?
 - What if the frontier unit of AI safety is the human–AI body formed around deployment—who is missing from that boundary?
-- What if social media spatializes time by giving future bodies writable relations to surviving past artifacts—where does the time-space carrier stop helping?
+- What if social media spatializes time by giving future bodies writable relations to surviving past artifacts?
 - What if Earthness is what attention becomes after exposure—how could that be assessed without surveilling or ranking people?
 
 ## Firewalls
 
-- A leading question that cannot accept correction is a claim wearing an open costume.
+- A leading question that cannot accept correction is a claim wearing an open costume, even if the correction invitation is kept behind the public seed.
 - The proposed answer must not hide unsupported assumptions in the wording.
 - Public response volume does not determine truth.
 - AI synthesis can erase minority branches and uncertainty; preserve sources.
