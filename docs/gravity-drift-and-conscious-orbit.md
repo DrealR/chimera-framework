@@ -42,6 +42,28 @@ inherited momentum
 = next trajectory
 ```
 
+## Drift can build or capture
+
+Drift is not automatically failure. Repetition is how useful movement becomes embodied, shared, and cheap enough for attention to move to a higher scale.
+
+### Generative drift
+
+```text
+attempt → feedback → correction → repetition
+        → embodied capacity → wider available attention
+```
+
+### Capturing drift
+
+```text
+stimulus → automatic response → reinforcement
+         → reduced observation → loop fused with identity
+```
+
+The difference is not conscious versus automatic motion. It is what the automaticity installs, whether feedback still returns, whether the body retains maneuver and exit, and whether later capacity grows or shrinks.
+
+See [The Relational Awakening Cycle](relational-awakening-cycle.md) for the full movement from inherited orbit through anomaly, Pause, creation, field-shaping, and return.
+
 ## Attention creates relational mass
 
 ```text

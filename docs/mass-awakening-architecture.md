@@ -1,5 +1,7 @@
 # Mass Awakening Architecture
 
+> **Classification:** developmental political and spiritual synthesis preserved for lineage. Its chronic-tiger, acute-crisis, redeemer, and Babel/Pentecost language carries real questions about metabolic margin, material pressure, distributed demonstration, and coordination topology. Its sweeping causal claims, forecasts, and “ladder” are not the current bounded mechanism. Use [The Relational Awakening Cycle](relational-awakening-cycle.md): awakening is local, repeatable, band-limited, non-hierarchical, and never guaranteed by crisis. Material hardship calls first for material help; trauma must not be romanticized.
+
 ## The Metabolic Prerequisite
 
 Consciousness has a cost. Higher-order reflection burns metabolic resources. When the body is spending those resources on survival — threat-detection, food, shelter, not getting evicted — there is no fuel left for recursive self-examination.

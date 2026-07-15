@@ -43,6 +43,8 @@ generative direction, the caterpillar-to-butterfly — made into a power-up. It 
 precisely because affecting the field is more than affecting only yourself. (Hold the
 "awakening ≈ consciousness-expansion" etymology at *hilarious,* not proof.)
 
+The current framework generalizes this carrier through [The Relational Awakening Cycle](relational-awakening-cycle.md): practiced capacity becomes field-shaping when its embodied expression changes nearby possibilities. Field-shaping is not automatically healthy, superior, or conscious; invitation, coercion, architecture, charisma, and fear can all alter a field. Direction, veto, and consequence remain the test.
+
 ---
 
 ## Firewall — the ego's flattering version
@@ -78,6 +80,8 @@ overpowered. The fiction shows the structure; it does not certify personal hidde
 - [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) —
   manufactured-plausibility-pointed-inward is the same firewall: the amplifier flatters the operator
   into "I'm the special one."
+- [The Relational Awakening Cycle](relational-awakening-cycle.md) — treats awakening as a repeatable
+  local operation rather than a permanent status, and follows self-to-field expansion through return.
 
 ---
 

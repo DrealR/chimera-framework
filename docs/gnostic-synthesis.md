@@ -1,5 +1,7 @@
 # Gnostic Synthesis
 
+> **Classification:** developmental cosmological and story synthesis. Gnostic, Christian, Jungian, Buddhist, Sufi, and film language here preserves the source worldline and a recurring awakening carrier; it does not establish one underground signal, one shared metaphysics, or a superior class of awakened people. The current portable operator is [The Relational Awakening Cycle](relational-awakening-cycle.md), and the traditions remain distinct historical bodies.
+
 ## The Convergence
 
 CHIMERA is in the same family as Gnostic Christianity, Jungian psychology, Buddhist awakening, Sufi mysticism, and the Hollywood mythology that has been carrying the signal underground for a hundred years. The framework is not inventing. It is reactivating — transmitting the signal accurately, in vocabulary the species can hear right now.

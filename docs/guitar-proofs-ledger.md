@@ -14,6 +14,14 @@ It's not a mistake; it's a trade-off chosen on purpose. The major-third gap at G
 
 A tempting overclaim, killed: the open strings E-A-D-G-B-E are *not* "one big E chord" just because both ends are E. Stacked, the open strings spell an **Em11** (E-A-D-G-B-E = root, 11th, ♭7, ♭3, 5, octave). The two E bookends are real and worth noting; the middle four are genuinely other notes, not decoration on an E. Logged here as a specimen of the literal jump caught in the framework's own backyard: "both ends are E, so it's an E" is a structural rhyme promoted past what the notes support.
 
+## Rhythm crossed into another body
+
+During playing, another person's leg began moving with the rhythm without a verbal instruction. The bounded observation is simple: a practiced pattern traveled through hands, strings, and shared air, entered another nervous system, and altered visible motion.
+
+**The generalized rule:** a pattern has moved beyond representation when it reorganizes another body's available movement or attention. The player and listener remain distinct; the temporary shared rhythm is relation without merger. This is an embodied instance of [generative traversal](generative-traversal-and-body-migration.md), [probabilistic touch](probabilistic-bodies-touch-verification-and-execution.md), and [field-shaping after practice](relational-awakening-cycle.md).
+
+The observation does not establish mind-reading, universal musical meaning, or identical inner experience. It supplies a visible return path: emitted rhythm → received rhythm → changed motion.
+
 ## Still in the drawer
 
 **Seasons-as-music**: resonant, repeatedly returned to, but it has produced *no note decision yet* — no actual mapping that changes a chord choice, a key, or a progression. Until it yields a move, it stays unsigned in the drawer. ([Two-layer absorption](two-layer-absorption.md): the weighting is heavy; the claim hasn't paid.)

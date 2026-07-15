@@ -7,6 +7,7 @@ CHIMERA accumulated several operation sets because they act on different bodies.
 | Body analysis and development | **Scan → Loop** | Descend into the present structure; build upward until it can sustain a cycle. |
 | Resolution correction | **Day → Night → Settlement** | Read the local center; read its relational position; test both against downstream consequence. |
 | Trajectory correction | **Body → Attractor → Momentum → Operator → Maneuver → Telemetry → Return** | Make inherited pull legible; choose the smallest available orbit change; inspect what the next pass produces. |
+| Relational awakening | **Matrix → Anomaly → Observe → Pause → Reweight → Create → Field-shape → Return** | Stop mistaking one inherited orbit for the whole field; embody another path without claiming final escape or forcing other centers to enter it. |
 | Device cognition | **Sense → Transform** | Receive a medium; change it into a form another component can use. |
 | Physical pattern traversal | **Source → Transduce → Encode → Store/Transmit → Compute → Decode → Interpret → Act → Preserve** | Trace how distinction changes carrier, what survives, who controls each conversion, and where consequence settles. |
 | Relational learning | **Translate → Reflect → Entangle** | Enter the receiver's language; return a usable image; store the relationship and provenance. |
@@ -17,6 +18,7 @@ CHIMERA accumulated several operation sets because they act on different bodies.
 | AI application design | **Potential → Transform → Switch → Load → Feedback → Fuse → Return** | Place model output inside an inspectable circuit with operator control, useful work, stop conditions, and evidence. |
 | Temporal navigation | **Sense → Remember → Simulate → Weight → Verify → Allocate → Act → Settle** | Compare living signals, historical traces, generated branches, market expectation, resource flow, and real consequence without collapsing their probabilities. |
 | Relational contact | **Possible contact → Render → Attend → Verify → Authorize → Act → Residue** | Inspect what touched the body, what changed, whether contact was chosen, and which lineage and consequence remain. |
+| Relational absence | **Remove/Lose → Observe stopped motion → Map function → Check substitution → Test rivals → Preserve** | Use absence to expose hidden coordination while separating dependency, symbolic meaning, grief, and causal proof. |
 | Constellation rhythm | **Entangle → Observe → Pause → Engage → Rest** | Coordinate many agents without losing handoff, reflection, or recovery. |
 | User navigation | **Locate / Find / Path / Teleport / Merge / Heal / Build / Predict** | Different intentions for moving through the corpus or a problem space. |
 

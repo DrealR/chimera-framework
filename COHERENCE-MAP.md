@@ -33,7 +33,9 @@ The constellation circulates work among these bodies. Core preserves how the tho
 | See the physical crossing operation beneath that convergence | [Transduction and the Light–Information–Body Loop](docs/transduction-and-light-information-body-loop.md) → [Application Circuit](docs/chimera-application-circuit.md) |
 | Add the missing relational middle body | [Moon as Relational Witness](docs/moon-as-relational-witness.md) → [Artificial Lunar Layer](docs/artificial-lunar-layer-and-residue-metabolism.md) |
 | Turn inherited pull and systemic drift into a trajectory practice | [Gravity, Drift, and Conscious Orbit](docs/gravity-drift-and-conscious-orbit.md) |
+| Follow the full movement from inherited orbit through creation and return | [Relational Awakening Cycle](docs/relational-awakening-cycle.md) → [Gravity, Drift, and Conscious Orbit](docs/gravity-drift-and-conscious-orbit.md) |
 | Navigate social, model, market, verification, and execution fields across time | [Temporal Log Pose](docs/temporal-log-pose-and-prediction-cascade.md) → [Probabilistic Bodies and Touch](docs/probabilistic-bodies-touch-verification-and-execution.md) |
+| Discover a hidden connector through what stops moving when it is absent | [Absence Reveals Relational Function](docs/absence-reveals-relational-function.md) → [Deletion Test](docs/the-deletion-test.md) |
 | Turn the preserved worldline into living public questions | [Living Question Engine](docs/living-question-engine.md) |
 | Learn the question form that carries an earned answer without closing it | [Answer-Bearing Questions](docs/answer-bearing-questions-and-compression-expansion.md) |
 | Run one question through AI, archive, adaptive feed, and independent bodies | [CHIMERA X-Loop](docs/chimera-x-loop-and-behavioral-prompt.md) |
