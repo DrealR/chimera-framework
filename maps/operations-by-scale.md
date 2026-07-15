@@ -9,6 +9,9 @@ CHIMERA accumulated several operation sets because they act on different bodies.
 | Device cognition | **Sense → Transform** | Receive a medium; change it into a form another component can use. |
 | Relational learning | **Translate → Reflect → Entangle** | Enter the receiver's language; return a usable image; store the relationship and provenance. |
 | Research circulation | **Compress → Seed → Expand → Settle → Return** | Use AI to form a provisional relation; open it to independent bodies; act on a judged branch; preserve consequence. |
+| Behavioral field research | **Name x → AI → Search → Attend → Post → Wait → Map → Settle → Preserve** | Triangulate compressed possibility, recorded traces, adaptive recommendation, and independent public response. |
+| Creator traversal | **Coordinate → Compress → Search → Contact → Transform → Rebuild → Release → Receive → Settle** | Let a subject change the creator, then reconstruct a destination body that can survive another environment. |
+| Intelligence development | **Choose hill → Feed → Route → Pause → Preserve path → Settle** | Make objective, nourishment, specialization, correction, memory, and material execution visible as one body. |
 | Constellation rhythm | **Entangle → Observe → Pause → Engage → Rest** | Coordinate many agents without losing handoff, reflection, or recovery. |
 | User navigation | **Locate / Find / Path / Teleport / Merge / Heal / Build / Predict** | Different intentions for moving through the corpus or a problem space. |
 
