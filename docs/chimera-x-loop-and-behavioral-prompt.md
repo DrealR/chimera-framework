@@ -38,6 +38,14 @@ human judgment
 embodied consequence
 ```
 
+### Optional commitment chamber
+
+When the question is honestly expressible as a bounded event contract, a prediction market can add a fifth read:
+
+> **Where is participating, capital-weighted expectation gathering under this contract's rules and settlement conditions?**
+
+This is optional and narrow. Market price does not replace evidence, independent bodies, moral judgment, or embodied consequence. See [The Temporal Log Pose](temporal-log-pose-and-prediction-cascade.md).
+
 ## Train the current on the question
 
 An algorithm deepens what receives weight. If attention follows only confirming material, research becomes a tunnel. The operator should teach the local field what is being **investigated**, not merely what is already believed.

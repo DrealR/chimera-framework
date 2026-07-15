@@ -59,14 +59,17 @@ Its minimal commitments are:
 
 1. name the body and scale;
 2. preserve distinct centers in relation;
-3. locate direction, operator, veto, and consequence;
-4. use Pause to interrupt inherited trajectory;
-5. increase receiving capacity without domination (`O > I`, `¬F`);
-6. preserve identity-bearing passage and provenance;
-7. translate through the receiver's language;
-8. classify mechanism, practice, carrier, formal claim, and speculation;
-9. let embodied consequence and counterexample update the map;
-10. keep `WE = 1` relational without using it to erase difference.
+3. trace physical carrier, transduction, encoding, transformation, loss, and settlement across gaps;
+4. locate direction, operator, veto, and consequence;
+5. use Pause to interrupt inherited trajectory;
+6. increase receiving capacity without domination (`O > I`, `¬F`);
+7. preserve identity-bearing passage and provenance;
+8. translate through the receiver's language;
+9. classify mechanism, practice, carrier, formal claim, and speculation;
+10. let embodied consequence and counterexample update the map;
+11. keep `WE = 1` relational without using it to erase difference.
+
+The July 15, 2026 transduction amendment made item 3 explicit after the light, generative-traversal, provenance, and body-settlement threads converged on one missing crossing operation. It adds category precision rather than a new metaphysical premise.
 
 Changing this layer requires an explicit proposal, rationale, counterexample or new pressure, compatibility analysis, and a visible lineage link. Most new insight should first enter Commentary or Open Questions.
 

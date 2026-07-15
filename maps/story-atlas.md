@@ -5,6 +5,7 @@ Stories stay in CHIMERA because humans often recognize a structure through image
 | Carrier family | Structures it can illuminate | Firewall |
 |----------------|------------------------------|----------|
 | **Genesis / John / Gnostic stories** | darkness and potential, attention and presence, naming and distinction, branching, misalignment, knowledge, shared story | A theological/philosophical reading; not proof that attention collapses macroscopic reality |
+| **Babel / post-Babel machine** | shared protocol, translation, fragmentation, coordination, concentrated direction, difference without mutual incomprehension | AI translation does not restore one original language, guarantee understanding, or deserve sacred authority |
 | **Scripture as question-bearing body** | stable surface, interpretive depth, commentary, tradition, re-instantiation across eras | Endurance and resonance do not prove one reading, factual truth, or divine authority for CHIMERA |
 | **One Piece / Peter Pan / Tomorrowland** | inherited will, possibility, attention machines, shadow, drift, dawn, freedom and domination | Interpretive reading; authorial intent and literal physics remain separate questions |
 | **Transcendence / Tenet / Pluribus / E.T.** | body migration, informational arrival, temporal alienness, federated versus merged bodies, pattern surviving source | Story laboratories; not evidence of mind uploading, backward causation, alien signals, or machine consciousness |
@@ -17,6 +18,7 @@ Stories stay in CHIMERA because humans often recognize a structure through image
 | **Garden / Tower / tree / lamp** | cultivation, extraction, branching, roots, attention, time and maintenance | Keep the causal mechanism local to the example |
 | **Star / black hole / quantum / primes** | boundary, information, contrast, possibility, compression, irreducibility | Formal claims require scientific or mathematical validation; analogy is not evidence |
 | **Gravity / orbit / Kessler field** | inherited pull, drift, sustainable relation, maneuver, orphaned trajectory, residue cascade | Relational gravity is not physical gravitation; systemic direction is not proof of mind or intention |
+| **Electron cloud / temporal navigation console** | distributions of possible encounter, local sampling, changing contact, multiple instruments reading different times | Social probabilities do not obey quantum mechanics; carrier value must survive deletion of the scientific costume |
 | **Membrane / immune system / cancer** | boundary, exchange, internal policing, local versus whole-body interest | Biological specificity matters; avoid diagnosing people or societies as diseases |
 
 ## Genesis as a preserved thought path
