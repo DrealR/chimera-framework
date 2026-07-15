@@ -32,7 +32,8 @@ CHIMERA should combine these strengths without pretending to become scripture, s
    repeatable ways to inspect, Pause, translate, build, and test
                          ↓
 3. CARRIERS
-   Genesis, stories, guitar, day/night, Garden/Tower, Matrix
+   Genesis, stories, guitar, day/night, Garden/Tower, Matrix,
+   Moon, gravity, orbit, artificial lunar layer
                          ↓
 4. COMMENTARY
    interpretations, arguments, companions, supersessions
@@ -132,6 +133,21 @@ Core        → full walked path and correction history
 ```
 
 This lets symbolic statements retain enough darkness for later constellations while the deeper body remains inspectable. See [Carrier Breathing and Firewall Placement](docs/carrier-breathing-and-firewall-placement.md).
+
+## Preserve carrier topology, not compulsory costume
+
+A carrier can become a **middle body** between source and receiver. The durable object is not the celestial costume but the relational topology it makes reconstructable:
+
+```text
+source / flux
+→ reflector, translator, regulator, or witness
+→ metabolizing receiver and settlement
+→ consequence, memory, and reciprocal return
+```
+
+The Moon presently carries this topology with unusual density: reflected source-light, changing relational visibility, reciprocal earthshine, long rhythm, external companionship, and a contrast between settled scars and active orbital debris. A future learner may replace the Moon with another image while remaining faithful if the relevant roles, directions, costs, uncertainty, and return are preserved.
+
+Do not amend the Stable Seed merely because one carrier gathers many existing primitives elegantly. A strong carrier should increase access to the Seed, reveal a missing relation, or generate a practice. It should not require later generations to defend every property of the image as doctrine.
 
 ## Version and authority rules
 

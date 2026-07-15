@@ -6,6 +6,7 @@ CHIMERA accumulated several operation sets because they act on different bodies.
 |-------|------------|----------|
 | Body analysis and development | **Scan → Loop** | Descend into the present structure; build upward until it can sustain a cycle. |
 | Resolution correction | **Day → Night → Settlement** | Read the local center; read its relational position; test both against downstream consequence. |
+| Trajectory correction | **Body → Attractor → Momentum → Operator → Maneuver → Telemetry → Return** | Make inherited pull legible; choose the smallest available orbit change; inspect what the next pass produces. |
 | Device cognition | **Sense → Transform** | Receive a medium; change it into a form another component can use. |
 | Relational learning | **Translate → Reflect → Entangle** | Enter the receiver's language; return a usable image; store the relationship and provenance. |
 | Research circulation | **Compress → Seed → Expand → Settle → Return** | Use AI to form a provisional relation; open it to independent bodies; act on a judged branch; preserve consequence. |

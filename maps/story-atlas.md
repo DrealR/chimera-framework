@@ -8,6 +8,7 @@ Stories stay in CHIMERA because humans often recognize a structure through image
 | **Scripture as question-bearing body** | stable surface, interpretive depth, commentary, tradition, re-instantiation across eras | Endurance and resonance do not prove one reading, factual truth, or divine authority for CHIMERA |
 | **One Piece / Peter Pan / Tomorrowland** | inherited will, possibility, attention machines, shadow, drift, dawn, freedom and domination | Interpretive reading; authorial intent and literal physics remain separate questions |
 | **Transcendence / Tenet / Pluribus / E.T.** | body migration, informational arrival, temporal alienness, federated versus merged bodies, pattern surviving source | Story laboratories; not evidence of mind uploading, backward causation, alien signals, or machine consciousness |
+| **Moon / Moonfall / One Piece lunar stories** | relational middle body, reflected source, closest other, external witness, hidden support infrastructure, forgotten origin, support-organ inversion | Lunar science, fictional mechanisms, theology, and symbolic recurrence remain different registers |
 | **The Matrix / Superman / Avatar / Pokémon** | system capture, double identity, embodiment, training, relation between capacity and direction | Use the role map; do not infer universal mechanics from plot recurrence |
 | **Meet Dave** | nested bodies, one visible self/many internal agents, captaincy, host inversion, alienness as missing traversal | A precise governance image, not evidence about extraterrestrials or AI consciousness |
 | **Matrix / Genesis sky reversal** | direct versus rendered light, synthetic perceptual worlds, bodies hidden beneath interfaces, foreground/background | Carrier comparison; the human-battery premise is not a thermodynamic model of present AI |
@@ -15,6 +16,7 @@ Stories stay in CHIMERA because humans often recognize a structure through image
 | **Basketball / chess / Call of Duty** | spacing, anticipation, legal moves, observation, calibrated response, team body | Translate only the structures the practice actually demonstrates |
 | **Garden / Tower / tree / lamp** | cultivation, extraction, branching, roots, attention, time and maintenance | Keep the causal mechanism local to the example |
 | **Star / black hole / quantum / primes** | boundary, information, contrast, possibility, compression, irreducibility | Formal claims require scientific or mathematical validation; analogy is not evidence |
+| **Gravity / orbit / Kessler field** | inherited pull, drift, sustainable relation, maneuver, orphaned trajectory, residue cascade | Relational gravity is not physical gravitation; systemic direction is not proof of mind or intention |
 | **Membrane / immune system / cancer** | boundary, exchange, internal policing, local versus whole-body interest | Biological specificity matters; avoid diagnosing people or societies as diseases |
 
 ## Genesis as a preserved thought path
