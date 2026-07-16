@@ -5,6 +5,8 @@
 **Date:** April 2026
 **Protocol:** v3.11 (pre-v3.12 retirement of "bridge body")
 
+> **Current terminology note:** these files also use **relational prime** for a composite that emerges among bodies. That developmental phrase is now replaced by **emergent composite body**. It is separate from a [member position vector, group position matrix, or the Band Prime carrier](../../docs/relational-position-map-and-band-prime.md).
+
 ---
 
 ## What This Directory Contains
