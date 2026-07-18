@@ -33,6 +33,7 @@ The constellation circulates work among these bodies. Core preserves how the tho
 | See the physical crossing operation beneath that convergence | [Transduction and the Light–Information–Body Loop](docs/transduction-and-light-information-body-loop.md) → [Application Circuit](docs/chimera-application-circuit.md) |
 | Add the missing relational middle body | [Moon as Relational Witness](docs/moon-as-relational-witness.md) → [Artificial Lunar Layer](docs/artificial-lunar-layer-and-residue-metabolism.md) |
 | Turn inherited pull and systemic drift into a trajectory practice | [Gravity, Drift, and Conscious Orbit](docs/gravity-drift-and-conscious-orbit.md) |
+| Understand what makes a maneuver possible under real force | [Elastic Navigation](docs/elasticity-generative-vs-shadow.md) → [Algorithmic Diet Scan](docs/algorithmic-diet-scan.md) |
 | Follow the full movement from inherited orbit through creation and return | [Relational Awakening Cycle](docs/relational-awakening-cycle.md) → [Gravity, Drift, and Conscious Orbit](docs/gravity-drift-and-conscious-orbit.md) |
 | Map a group without ranking its members | [Relational Position Map and Band Prime](docs/relational-position-map-and-band-prime.md) → [Shared Pulse Protocol](docs/shared-pulse-protocol.md) |
 | Navigate social, model, market, verification, and execution fields across time | [Temporal Log Pose](docs/temporal-log-pose-and-prediction-cascade.md) → [Probabilistic Bodies and Touch](docs/probabilistic-bodies-touch-verification-and-execution.md) |

@@ -28,6 +28,10 @@ Train a model on the **raw flooded internet** (including AI-slop) and it degrade
 
 SPARK is **human-training-data curation in the years that shape a kid most.** The journal, by-hand making, kept friction, limited screen are **quality training-inputs** (real making, real noticing, real struggle) instead of the raw flood (the meta, the consensus, the slop). You don't train a kid on the flood; you train them on the inputs that grow an **original operator**, not a consensus-echo. The model-collapse problem and the brain-rot problem are the same problem — and curated-training is the same answer.
 
+## 5. Applied instrument
+
+[The Algorithmic Diet Scan](algorithmic-diet-scan.md) turns this principle into a before/during/after practice. It separates social breadth from AI depth, broadband exposure from narrowband training, and input from embodiment. The compact sequence is: exposure creates traces; practice turns traces into capacity; rest makes the capacity retainable; expression tests whether it became yours.
+
 ---
 
 ```

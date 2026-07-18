@@ -30,6 +30,7 @@ Mechanically, the framework is a small set of equations + metaphors + protocols 
 
 - `L = (O > I) + P + ¬F` — the load condition for any healthy body
 - `WE = 1` — the relational primacy that makes bodies legible at every scale
+- [Elastic Navigation](elasticity-generative-vs-shadow.md) — the maneuver primitive: remain changeable without surrendering direction; coordinate distinct centers into larger bodies without merger
 - The Nine Questions — the diagnostic that surfaces a body's substrate
 - The Five Verbs — the grammar of multi-body coordination (when there's more than one body in the field)
 

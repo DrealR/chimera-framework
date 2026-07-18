@@ -61,6 +61,7 @@ So the era's defining task isn't building smarter machines — it's **protecting
 - **[Transduction and the Light–Information–Body Loop](docs/transduction-and-light-information-body-loop.md)** — patterns never become bodyless. Physical signals are transduced, encoded, stored or transmitted, computed, decoded, interpreted, and returned through bodies that act and preserve residue. This is the physical spine beneath generative traversal.
 - **[The Direction Axis](docs/the-direction-axis.md)** — the one free variable is *which way the operator faces.* Outward (toward the field) generates — the grass grows; inward (toward the self) extracts — it strip-mines. `L = (O > I)` read as a mechanism, not a moral.
 - **[Consciousness as the Interrupt](docs/consciousness-as-the-interrupt.md)** — you are a determined body running on rails, *and* the one who can insert a present-moment Pause that course-corrects against the projection. Freedom is the cooled result of paying that Pause until the better path runs as flow.
+- **[Elastic Navigation](docs/elasticity-generative-vs-shadow.md)** — Pause opens the maneuver window; elasticity is the capacity to be changed by a force without being permanently captured by its direction. The Band-Sphere maps the active relations around a governing center; the Elastic Interrupt turns inherited pull into evidence that another legal move remains possible.
 - **[Friction](docs/friction-as-foundational-primitive.md)** — the contact that makes the Pause (and growth, and relationship) possible. No friction, no stopping, no choice. The cure is *calibrated* friction, not none.
 - **[Attention authors weight](docs/attention-authors-weight.md)** — chosen attention can author subjective weight, commitment, and meaning when inherited friction disappears. It creates coupling; the metabolic-opportunity refinement below asks what value the coupling actually produces.
 - **[Attention as Metabolic Opportunity](docs/attention-as-metabolic-opportunity.md)** — attention is evidence of coupling, not automatic value. Data, relationship, understanding, generation, operator capacity, and extraction are different drawers; ask what the coupled bodies become able to do.
@@ -101,7 +102,7 @@ So the era's defining task isn't building smarter machines — it's **protecting
 - **[Intelligence as Hill, Path, and Metabolism](docs/intelligence-as-hill-path-and-metabolism.md)** — capability is inseparable from the objective that supplies its gradient, the diversity the body can metabolize, the paths it preserves, and the material system in which apparent progress must settle.
 
 **How it's used**
-- Lived through the guitar, taught through **SPARK** (kids directing AI to build real tools for real people), used as **Body Scan** for diagnosis, used as **Chimera Loop** for building, and run as a **digital twin** you load and think *with.*
+- Lived through the guitar, taught through **SPARK** (kids directing AI to build real tools for real people), used as **Body Scan** for diagnosis, used as **Chimera Loop** for building, applied through the **[Algorithmic Diet Scan](docs/algorithmic-diet-scan.md)** to keep digital learning embodied, and run as a **digital twin** you load and think *with.*
 
 ---
 

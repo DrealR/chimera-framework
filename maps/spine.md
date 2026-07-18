@@ -5,6 +5,8 @@ This is the smallest current structure underneath the corpus. It is a navigation
 Under the [Durability Architecture](../DURABILITY-ARCHITECTURE.md), this Spine is the current stable **Seed**. New carriers, interpretations, and applications may grow around it without automatically amending it.
 
 > **Amendment — July 15, 2026:** transduction and traversal are now explicit in the Seed. The amendment names the physical crossing operation already implicit in body metabolism, the between, language, AI, provenance, and settlement. See [Transduction and the Light–Information–Body Loop](../docs/transduction-and-light-information-body-loop.md) for rationale, compatibility, and limits.
+>
+> **Amendment — July 18, 2026:** elasticity is now explicit in the Seed. Pause opens a maneuver window; elasticity names the bounded capacity to deform, preserve continuity, and redirect without permanent capture by the incoming force. See [Elastic Navigation](../docs/elasticity-generative-vs-shadow.md) for the Band-Sphere, fusion boundary, protocol, and firewalls.
 
 ## 1. Bodies
 
@@ -36,26 +38,32 @@ Capability does not supply an end. Ask who selected the question, rhythm, weight
 
 Pause opens a gap between trajectory and response. Friction supplies the contact that makes correction and learning possible. `¬F` therefore does not mean eliminating all resistance; it means refusing domination and forced outcome while preserving calibrated, identity-bearing friction.
 
-## 6. Path and identity
+## 6. Elasticity and maneuver
+
+Pause makes inherited motion inspectable; elasticity makes another legal move performable. Elasticity is the capacity to be changed by a force without being permanently captured by that force's direction. It is not maximum flexibility or restoration of an unchanged earlier state. A living body may bend, learn, refuse, exit, recover, or permanently reorganize while preserving enough continuity and local governance to remain a center.
+
+At operator scale, read active relational bands by weight, phase, rate, and coupling; then change timing, distance, weight, or relation before the trajectory settles. At group scale, fusion means distinct centers become coherent enough to act as one at a larger resolution while remaining visible, voluntary, and recoverable at a closer one.
+
+## 7. Path and identity
 
 Identity is residue of walked paths. Tools may remove dead transport, but a body must still traverse the stretches that install judgment, skill, memory, relationship, and accountability.
 
-## 7. Language and translation
+## 8. Language and translation
 
 Each body receives through a different history, vocabulary, channel, and set of lived examples. Language makes distinctions, weights paths, coordinates bodies, and helps one perspective reconstruct another. A good translation preserves structure while changing costume.
 
-## 8. AI and settlement
+## 9. AI and settlement
 
 AI can retrieve, branch, simulate, draft, translate, and extend reach. Whether it is instrument, organ, environment, crew, or host depends on operator location. The body is the settlement layer: it commits to a branch, bears consequence, and accumulates proof of passage.
 
-## 9. Provenance
+## 10. Provenance
 
 Attention makes something present. Embodiment makes it consequential. Provenance connects an artifact to history. When appearance is easy to synthesize, lineage and relational residue carry more evidentiary weight than likeness alone.
 
-## 10. Reflection with firewalls
+## 11. Reflection with firewalls
 
 Cross-domain echoes are useful for discovery and teaching. They are not automatic evidence of one literal physics. Classify each statement as mechanism, practice, observation, carrier, formal claim, or speculation; then run the Deletion Test.
 
 ## In one breath
 
-**Name the body and scale. Trace the carrier and conversion. Locate direction. Pause the inherited trajectory. Increase capacity without domination. Translate through the receiver's language. Let the body settle one possibility into consequence. Preserve the path and test what survives without the costume.**
+**Name the body and scale. Trace the carrier and conversion. Locate direction. Pause the inherited trajectory. Read what can bend, break, refuse, or recover. Make the smallest available maneuver without erasing another center. Translate through the receiver's language. Let the body settle one possibility into consequence. Preserve the path and test what survives without the costume.**

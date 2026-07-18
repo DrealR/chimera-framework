@@ -8,6 +8,7 @@
 >
 > **Date:** June 2026
 - [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
+- [Elastic Navigation](elasticity-generative-vs-shadow.md) — distinguishes opening the maneuver window (Pause) from possessing enough recoverable capacity to bend and perform another move inside it (elasticity).
 
 ---
 

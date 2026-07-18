@@ -70,6 +70,28 @@ fixed because consciousness keeps adding moves the projection couldn't contain. 
 facing *outward* — fighting for others, not to save himself. The direction axis was riding
 underneath the whole time.
 
+## How the maneuver happens
+
+Pause opens the fork, but a fork is not yet a performed move. **Elasticity is the capacity to be
+changed by a force without being permanently captured by that force's direction.** A living body
+can feel the pull, deform, preserve continuity, redirect, and recover into another rhythm. This is
+different from rigidity (resist until fracture), fluidity (yield without necessarily preserving
+form), and plasticity (retain the deformation).
+
+The active relations around the operator can be read as bands: each has a current weight, a place
+in its cycle, a rate of change, and a degree of coupling to the others. Coherence does not require
+all bands to agree. It means they remain navigable from one living center. The operator does not
+escape the field; it changes weight, timing, distance, or coupling before inherited motion settles.
+
+```text
+force → friction → deformation → Pause → redirection → recovery → new rhythm
+```
+
+Elasticity is neutral. Without direction, membrane, consent, and calibrated friction, flexibility
+can become diffusion, manipulation, or tolerated violation. Refusal, exit, help, and permanent
+change can be the elastic move. The goal is continuity through adaptive change, not maximum stretch
+or returning to an earlier self unchanged. See [Elastic Navigation](elasticity-generative-vs-shadow.md).
+
 ---
 
 ## The equation as a picture (held as poetry, not proof)
