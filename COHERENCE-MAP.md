@@ -44,6 +44,10 @@ The constellation circulates work among these bodies. Core preserves how the tho
 | Run one question through AI, archive, adaptive feed, and independent bodies | [CHIMERA X-Loop](docs/chimera-x-loop-and-behavioral-prompt.md) |
 | Transform a researched relation into a new public body | [Creator Portal Loop](docs/creator-portal-loop.md) |
 | Connect Direction, diversity, Pause, path memory, and material execution | [Intelligence as Hill, Path, and Metabolism](docs/intelligence-as-hill-path-and-metabolism.md) |
+| Audit when one objective has begun governing the whole body | [Single-Fitness-Function Failure](docs/single-fitness-function-failure.md) → [Death Spirals of Local Optimization](docs/death-spirals-of-local-optimization.md) |
+| Pressure-test a cross-domain resonance or thought experiment | [CHIMERA Instrument Pass](docs/chimera-instrument-pass-and-causal-bookkeeping.md) → [Classification Discipline](docs/classification-discipline.md) → [Deletion Test](docs/the-deletion-test.md) |
+| Map recursively personalized informational paths and accumulated distance | [Algorithmic Worldlines](docs/algorithmic-worldlines-and-relational-distance.md) → [Algorithmic Diet Scan](docs/algorithmic-diet-scan.md) |
+| Separate what belief changes in knowledge, perception, and action | [Belief and the Three Probabilities](docs/belief-and-three-probabilities.md) → [Light, Belief, and Observation](docs/light-belief-observation.md) |
 | See the current question in its compressed public form | [CHIMERA Master Question](docs/chimera-master-question.md) |
 | Preserve symbolic force without abandoning rigor | [Carrier Breathing and Firewall Placement](docs/carrier-breathing-and-firewall-placement.md) |
 | Understand how CHIMERA can survive reinterpretation | [Durability Architecture](DURABILITY-ARCHITECTURE.md) → [Open Questions](maps/open-questions.md) → [Re-instantiation](docs/durable-frameworks-and-reinstantiation.md) |

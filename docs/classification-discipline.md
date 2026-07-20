@@ -112,6 +112,7 @@ Calibrated friction enables growth. Pointless harm should still be removed.
 - [Experience vs Ontology](experience-vs-ontology.md) — experience cannot certify its own ontology when the instrument is modified.
 - [Lens Not Mechanism](lens-not-mechanism.md) — keep optical metaphors from becoming false causal claims.
 - [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md) — Log Pose needs classification or it drifts.
+- [CHIMERA Instrument Pass and Causal Bookkeeping](chimera-instrument-pass-and-causal-bookkeeping.md) — the operational pressure pass for typed connections and reality-graded thought experiments.
 
 ```text
 L = (O > I) + P + ¬F

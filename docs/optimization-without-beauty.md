@@ -83,6 +83,7 @@ Healthy optimization asks:
 - [The Body Knew the Exit](the-body-knew-the-exit.md)
 - [Attention Authors Weight](attention-authors-weight.md)
 - [Synthetic Trust and Synthetic Intimacy](synthetic-trust-and-synthetic-intimacy.md)
+- [Single-Fitness-Function Failure](single-fitness-function-failure.md) — names the governance failure beneath proxy replacement: one partial value gains total write-access.
 
 ```
 L = (O > I) + P + ¬F

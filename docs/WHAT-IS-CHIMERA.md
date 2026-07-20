@@ -6,9 +6,28 @@ CHIMERA is a synthesis framework. It pattern-matches across domains — biology,
 
 A way of seeing. Everything is a body. Every body breathes something through a boundary. One diagnostic tool (the Nine Questions) works on a cell, a conversation, a company, a civilization. One law (the Love Equation) describes the health condition at every scale.
 
-The framework synthesizes structural insights from biology, thermodynamics, information theory, game theory, contemplative traditions, fiction, mathematics, and lived experience. Where multiple traditions independently identify the same pattern, the convergence is treated as evidence of shared structural reality. Where they diverge, the divergence is treated as packaging.
+The framework synthesizes structural insights from biology, thermodynamics, information theory, game theory, contemplative traditions, fiction, mathematics, and lived experience. When multiple domains appear to share a pattern, convergence is treated as a prompt for mechanism-testing, not proof. The [Instrument Pass](chimera-instrument-pass-and-causal-bookkeeping.md) classifies the connection, identifies where it stops, and returns the proposed mechanism to reality for grading.
 
 257 books. 84 body scans across 10 domains. Still growing. The growth is through replacement and refinement, not accumulation for its own sake.
+
+## What It Builds
+
+CHIMERA is not a formula for fusing parts into sameness. It is a **relational build grammar** for forming larger coherent bodies while preserving the local centers, membranes, variance, feedback, and freedom that keep the larger body alive.
+
+Its constructive grammar is:
+
+```text
+name the body and scale
+→ name its medium, clock, and governing center
+→ map present positions and relations
+→ locate the mission-relevant seam
+→ preserve Pause, veto, and differentiated roles
+→ change the smallest arrangement that can help
+→ perform in a real environment
+→ read the wake and remap
+```
+
+The shorthand `Body₁ + Body₂ + … + Bodyₙ = one larger body` is resolution-dependent. A band can act as one while its musicians remain distinct. Healthy fusion means coordinated action at the larger scale and retained agency at the local scale. The [Relational Position Map](relational-position-map-and-band-prime.md) and [Shared Pulse Protocol](shared-pulse-protocol.md) make this operational.
 
 ## What It Is Not
 
@@ -91,6 +110,9 @@ The framework gets sticky when the first scan surfaces something genuinely new t
 - [Framework as Band, Not Spectrum](framework-as-band-not-spectrum.md) — extends the Visor metaphor with the physics that backs it; names what CHIMERA reads and what it does not, and the discipline that follows.
 - [The Deletion Test](the-deletion-test.md) — the falsifiability procedure the framework agrees to be tested against.
 - [Observation as Transduction](observation-as-transduction.md) — observation is body-as-transducer; the same physics behind why the framework is a band, not the spectrum.
+- [The Relational Position Map and Band Prime](relational-position-map-and-band-prime.md) — the group-body mapping instrument behind the relational build grammar.
+- [The Shared Pulse Protocol](shared-pulse-protocol.md) — the group practice for common entry, differentiated expression, and recovery.
+- [Single-Fitness-Function Failure](single-fitness-function-failure.md) — the objective firewall that prevents a partial value from governing the whole build.
 
 ---
 

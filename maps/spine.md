@@ -34,6 +34,8 @@ Trace what structure survives each body change, what is lost, who controls the c
 
 Capability does not supply an end. Ask who selected the question, rhythm, weights, stop condition, and acceptable cost. `O > I` asks whether participation increases the receiving field's capacity more than it extracts from it. It is a directional check, not arithmetic or moral branding.
 
+A legitimate local function becomes dangerous when it acquires total write-access to the larger body. Every objective therefore needs a named scale, blind-capacity audit, revision path, and stopping membrane.
+
 ## 5. Pause and friction
 
 Pause opens a gap between trajectory and response. Friction supplies the contact that makes correction and learning possible. `¬F` therefore does not mean eliminating all resistance; it means refusing domination and forced outcome while preserving calibrated, identity-bearing friction.

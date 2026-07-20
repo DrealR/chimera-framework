@@ -169,6 +169,7 @@ An aligned system is not one that maximizes time inside itself. It improves the 
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — AI accelerates reweighting.
 - [The Rhythm of Awake and Asleep](the-rhythm-of-awake-and-asleep.md) — output and intake require alternation.
 - [The Anchor Must Be Yours](the-anchor-must-be-yours.md) — the domain and direction remain operator work.
+- [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md) — maps how repeated rendering accumulates into diverging informational paths and distinguishes exposure from embodied mileage.
 
 ---
 

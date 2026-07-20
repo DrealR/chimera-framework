@@ -402,6 +402,10 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Use Case as Mirror](docs/use-case-as-mirror.md) | Every use case reflects the same underlying structure — variation is in the mirror (geography, domain, vocabulary), not the problem shape. Recognizing this shifts from "each context starts from zero" to "find the structure, adapt the mirror." The sharing posture follows: you cannot own a reflection; free circulation sharpens the primitive |
 | [Write-Access to Your Own Attention](docs/write-access-to-your-own-attention.md) | Free will is not a thing you have — it is a skill you build. Most attention runs on read-only (installed threads). Write-access requires three moves: see the thread (recognize a belief as constructed, not inherent), walk the new thread under load (rep while the old pattern still pulls), anchor on it (build something real that depends on it). The Prime underlying all CHIMERA-based pedagogy |
 | [Attention Primitives: Capture, Direction, and Occupancy](docs/attention-primitives-capture-occupancy.md) | The three native structural behaviors of the attention organ: direction (outward/generative vs inward/extractive), capture-state (wheel under operator vs seized by external salience), and occupancy (attention abhors a vacuum). Write-access trains all three simultaneously. Extends the Direction Axis and Write-Access to Your Own Attention with micro-mechanics: three-times groove rule, Haki rhyme as social capture, occupancy intolerance as the feed's primary exploit, SPARK floor as vacuum-tolerance training |
+| [Single-Fitness-Function Failure](docs/single-fitness-function-failure.md) | A legitimate partial value acquires total write-access; objective audit plus bounded objectives, plural evaluation, protected variance, settlement, expiry, and operator veto |
+| [CHIMERA Instrument Pass and Causal Bookkeeping](docs/chimera-instrument-pass-and-causal-bookkeeping.md) | Seven-movement pressure pass plus disciplined thought experiments; distinguishes causal, structural, informational, social, and metaphorical connections |
+| [Algorithmic Worldlines and Relational Distance](docs/algorithmic-worldlines-and-relational-distance.md) | Recursively rendered informational paths; vector-valued distance; accumulated rate divergence; narrative age versus embodied mileage; shared reality as recoupling event |
+| [Belief and the Three Probabilities](docs/belief-and-three-probabilities.md) | Separates epistemic estimate, perceptual salience, and causal action effects; preserves belief's force without wish-machine or market-truth collapse |
 
 ---
 
@@ -592,7 +596,7 @@ chimera-framework/
 │       Membrane Survival, AI as Body Creator
 │
 ├── docs/                                  ← Nervous system — the signal network
-│   └── 210 framework docs: physics specs, pair-physics,
+│   └── 324 framework docs: physics specs, pair-physics,
 │       key principles, fiction readings, methodologies,
 │       the Cube, the Relational Engine, lineage, and more
 │
@@ -633,7 +637,7 @@ Every Captain dump enters through core. Gets compressed. Gets evaluated against 
 ## Current State
 
 - **Book:** v14.0 — 257 books (I through CCLVII). The accumulated body of the full philosophy.
-- **Docs:** 210 framework docs — physics specs, pair-physics, Cube specs, Relational Engine, methodologies, fiction readings, lineage, mathematical articulations, and more.
+- **Docs:** 324 framework docs — physics specs, pair-physics, Cube specs, Relational Engine, methodologies, fiction readings, lineage, mathematical articulations, and more.
 - **Scans:** 84+ body scans across 11 domains (software, chess, physics, math, biology, AI systems, meta, social systems, multi-body, music, thought experiments). Two scanner sources (Opus + Grok). Six META-SCAN-SYNTHESIS versions tracking corpus evolution.
 - **Media:** 3 podcast episodes (dial 2-5), 7 cube visual renderings (dial 3-8).
 - **Protocol:** v3.12.3 — temporal layer integration.

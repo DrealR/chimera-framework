@@ -148,6 +148,7 @@ the hit (extraction).
 - [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) applies
   attention-authors-weight as the meaning-side of the word-weight mechanic; the Cube's field-setting
   layer is the operational context where "what attention loads" becomes navigational.
+- [Belief and the Three Probabilities](belief-and-three-probabilities.md) — separates changed estimate, changed salience, and changed outcomes through action.
 
 ---
 
