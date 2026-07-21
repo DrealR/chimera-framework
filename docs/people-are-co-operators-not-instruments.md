@@ -112,6 +112,9 @@ exit is finding the shared direction you're both navigating around, not winning 
 - [Two Baselines of Trust](two-baselines-of-trust.md) — "meet them where their attention is" has a
   second axis: which baseline (comes-to-you vs holds-its-own); reading the baseline tells you HOW to
   meet them — receive-and-lead vs make-space-and-wait — the sharper read that co-operating requires.
+- [Relational Aperture and Bounded Availability](relational-aperture-and-bounded-availability.md) —
+  co-operation does not require permanent access; the aperture preserves a center, adjustable
+  distance, natural endings, and evidence-paced investment.
 
 ---
 

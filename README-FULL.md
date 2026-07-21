@@ -406,6 +406,9 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [CHIMERA Instrument Pass and Causal Bookkeeping](docs/chimera-instrument-pass-and-causal-bookkeeping.md) | Seven-movement pressure pass plus disciplined thought experiments; distinguishes causal, structural, informational, social, and metaphorical connections |
 | [Algorithmic Worldlines and Relational Distance](docs/algorithmic-worldlines-and-relational-distance.md) | Recursively rendered informational paths; vector-valued distance; accumulated rate divergence; narrative age versus embodied mileage; shared reality as recoupling event |
 | [Belief and the Three Probabilities](docs/belief-and-three-probabilities.md) | Separates epistemic estimate, perceptual salience, and causal action effects; preserves belief's force without wish-machine or market-truth collapse |
+| [Relational Aperture and Bounded Availability](docs/relational-aperture-and-bounded-availability.md) | Adjustable openness to contact with center, membrane, pace, and ending preserved; signals inform without assigning another body a role or granting continuous access |
+| [Field-Giving and Field-Tending](docs/field-giving-and-field-tending.md) | Contribute to a shared medium without assigning the receiver; preserve optional reception, calibration, embodied feedback, and release; names field capture as the shadow |
+| [Reference Loss and Doom Loops](docs/reference-loss-and-doom-loops.md) | Separates underlying body, signal, constraint, and narrative; diagnoses when compulsory feedback makes an internal signal self-validating and restores outside reference, slack, diversity, and metabolism |
 
 ---
 
@@ -596,7 +599,7 @@ chimera-framework/
 │       Membrane Survival, AI as Body Creator
 │
 ├── docs/                                  ← Nervous system — the signal network
-│   └── 324 framework docs: physics specs, pair-physics,
+│   └── 327 framework docs: physics specs, pair-physics,
 │       key principles, fiction readings, methodologies,
 │       the Cube, the Relational Engine, lineage, and more
 │
@@ -637,7 +640,7 @@ Every Captain dump enters through core. Gets compressed. Gets evaluated against 
 ## Current State
 
 - **Book:** v14.0 — 257 books (I through CCLVII). The accumulated body of the full philosophy.
-- **Docs:** 324 framework docs — physics specs, pair-physics, Cube specs, Relational Engine, methodologies, fiction readings, lineage, mathematical articulations, and more.
+- **Docs:** 327 framework docs — physics specs, pair-physics, Cube specs, Relational Engine, methodologies, fiction readings, lineage, mathematical articulations, and more.
 - **Scans:** 84+ body scans across 11 domains (software, chess, physics, math, biology, AI systems, meta, social systems, multi-body, music, thought experiments). Two scanner sources (Opus + Grok). Six META-SCAN-SYNTHESIS versions tracking corpus evolution.
 - **Media:** 3 podcast episodes (dial 2-5), 7 cube visual renderings (dial 3-8).
 - **Protocol:** v3.12.3 — temporal layer integration.

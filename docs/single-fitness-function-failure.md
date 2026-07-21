@@ -93,6 +93,8 @@ Coherence should emerge at the resolution required for action. It should not bec
 - [Intelligence as Hill, Path, and Metabolism](intelligence-as-hill-path-and-metabolism.md)
 - [Coherence Without Erasure](coherence-without-erasure.md)
 - [Process Reward vs Outcome Reward](process-reward-vs-outcome-reward.md)
+- [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) — single-fitness governance is
+  the objective structure; reference loss is the temporal loop by which the metric starts validating itself.
 
 ```text
 L = (O > I) + P + ¬F

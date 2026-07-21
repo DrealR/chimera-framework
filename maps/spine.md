@@ -24,6 +24,8 @@ A human, human-and-guitar, team, archive, and platform can all be bodies at diff
 
 Bodies are distinct and related. The between is where information, friction, translation, choice, and mutual change occur. `WE = 1` is held as a carrier and operator commitment to connection **without erasure**: the whole matters and the local centers remain real.
 
+Relational openness is adjustable. A body may widen or narrow its aperture while preserving center, membrane, pace, and the right to let contact end. Shared fields become generative when contributions remain available without making reception compulsory or assigning another body a role.
+
 ## 3. Transduction and traversal
 
 No pattern crosses a gap without a physical carrier and a receiving body. Keep the operations distinct: transduction changes a signal's physical form; encoding maps patterns into a representation; transmission or storage moves them across space or time; computation transforms them; interpretation gives them local meaning; embodiment turns one branch into consequence and residue.
@@ -35,6 +37,8 @@ Trace what structure survives each body change, what is lost, who controls the c
 Capability does not supply an end. Ask who selected the question, rhythm, weights, stop condition, and acceptable cost. `O > I` asks whether participation increases the receiving field's capacity more than it extracts from it. It is a directional check, not arithmetic or moral branding.
 
 A legitimate local function becomes dangerous when it acquires total write-access to the larger body. Every objective therefore needs a named scale, blind-capacity audit, revision path, and stopping membrane.
+
+The same danger appears over time as reference loss: an internal signal changes constraints, the constrained responses strengthen the signal, and the loop begins treating its own output as external proof. Preserve independent evidence, real behavioral diversity, slack, and a place for error and residue to settle.
 
 ## 5. Pause and friction
 

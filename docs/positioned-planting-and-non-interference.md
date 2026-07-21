@@ -143,6 +143,8 @@ Literacy without this check can become cold gaming. See [Field Literacy and Gnos
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)  
 - [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md)  
+- [Field-Giving and Field-Tending](field-giving-and-field-tending.md) — generalizes the plant into
+  an open contribution whose reception remains optional and whose local costs must be calibrated.
 
 ```text
 L = (O > I) + P + ¬F

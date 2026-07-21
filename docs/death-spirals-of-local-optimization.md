@@ -105,6 +105,8 @@ At civilizational scale: notice when infrastructure races ahead of judgment capa
 - [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — attention-economy specimen.
 - [Coherence Without Erasure](coherence-without-erasure.md) — what local optimization deletes when it flattens distinction.
 - [Self-Governance in Low Friction](self-governance-in-low-friction.md) — the counter-skill when external rails fall away.
+- [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) — names the feedback condition
+  in which internally produced signals become compulsory actions and then masquerade as external proof.
 
 ```text
 L = (O > I) + P + ¬F
