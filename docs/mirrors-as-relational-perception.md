@@ -105,6 +105,8 @@ Legal use:
 - [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md)
 - [Synthetic Trust and Synthetic Intimacy](synthetic-trust-and-synthetic-intimacy.md)
 - [The Firewall](the-firewall.md)
+- [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md)
+- [Mirror–Rhythm and Shared-Body Analysis](mirror-rhythm-and-shared-body-analysis.md)
 
 ```
 L = (O > I) + P + ¬F
