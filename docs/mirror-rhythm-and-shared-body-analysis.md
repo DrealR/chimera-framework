@@ -281,6 +281,7 @@ The goal is not control. It is higher-resolution participation.
 ## See also
 
 - [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md)
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
 - [Pair-Physics](pair-physics.md)
 - [Coherence Without Erasure](coherence-without-erasure.md)

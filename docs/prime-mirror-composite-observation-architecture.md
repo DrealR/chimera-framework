@@ -256,6 +256,7 @@ An AI assessment of a person, player, employee, student, neighborhood, or risk c
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
 - [Personal Primes as Invariants](personal-primes-as-invariants.md)
 - [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md)
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 - [Observation as Transduction](observation-as-transduction.md)
 - [The Relational Position Map and Band Prime](relational-position-map-and-band-prime.md)
 - [Single-Fitness-Function Failure](single-fitness-function-failure.md)

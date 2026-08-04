@@ -256,6 +256,8 @@ But unresolvedness can also conceal avoidance. The test is whether the body has 
 - [Single-Fitness-Function Failure](single-fitness-function-failure.md)
 - [The Resonance Band](the-resonance-band.md)
 - [The Working Loop as Use Case](the-working-loop-as-use-case.md)
+- [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md)
+- [Mirror–Rhythm and Shared-Body Analysis](mirror-rhythm-and-shared-body-analysis.md)
 
 ```text
 L = (O > I) + P + ¬F
