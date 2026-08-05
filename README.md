@@ -72,6 +72,7 @@ So the era's defining task isn't building smarter machines — it's **protecting
 - **[The Relational Position Map and Band Prime](docs/relational-position-map-and-band-prime.md)** — describe a group before measuring it; map temporary member coordinates and the relations among them; raise the shared floor without converting scores into identities or flattening the solo.
 - **[Prime–Mirror–Composite Observation Architecture](docs/prime-mirror-composite-observation-architecture.md)** — separate scale-relative prime events, living composites, lenses, mirrors, observers, and operators; trace when a useful representation re-enters the system and begins governing the body it describes.
 - **[Mirror–Rhythm and Shared-Body Analysis](docs/mirror-rhythm-and-shared-body-analysis.md)** — reflection is response rather than duplication; repeated return creates relational rhythm, reveals operative centers under stress, and shows whether a shared body expands movement or captures its operators.
+- **[Narrative Substrate and Story Mode](docs/narrative-substrate-and-story-mode.md)** — story is an embodied CHIMERA method: preserve stable primes, let bounded operators move through variable composites, inspect consequence, and route discoveries through Sandbox → Candidate → Canon without treating narrative resonance as empirical proof.
 - **[Single-Fitness-Function Failure](docs/single-fitness-function-failure.md)** — a useful local value becomes pathological when it gains total write-access to the larger body. Bound objectives by scale, preserve plural evaluation and viable difference, and give reality, revision, and operator veto a return path.
 - **[Reference Loss and Doom Loops](docs/reference-loss-and-doom-loops.md)** — a coordinated system becomes self-destructive when internal signals compel the responses that strengthen those signals while outside reality loses authority to correct the loop.
 
@@ -111,7 +112,7 @@ So the era's defining task isn't building smarter machines — it's **protecting
 - **[Intelligence as Hill, Path, and Metabolism](docs/intelligence-as-hill-path-and-metabolism.md)** — capability is inseparable from the objective that supplies its gradient, the diversity the body can metabolize, the paths it preserves, and the material system in which apparent progress must settle.
 
 **How it's used**
-- Lived through the guitar, taught through **SPARK** (kids directing AI to build real tools for real people), used as **Body Scan** for diagnosis, used as **Chimera Loop** for building, applied through the **[Algorithmic Diet Scan](docs/algorithmic-diet-scan.md)** to keep digital learning embodied, and run as a **digital twin** you load and think *with.*
+- Lived through the guitar, taught through **SPARK** (kids directing AI to build real tools for real people), used as **Body Scan** for diagnosis, used as **Chimera Loop** for building, applied through the **[Algorithmic Diet Scan](docs/algorithmic-diet-scan.md)** to keep digital learning embodied, run through **[Story Mode](docs/narrative-substrate-and-story-mode.md)** to test relations under bounded consequence, and run as a **digital twin** you load and think *with.*
 
 ---
 
