@@ -409,6 +409,9 @@ The framework operates as a mirror for any body it encounters. These scans demon
 | [Relational Aperture and Bounded Availability](docs/relational-aperture-and-bounded-availability.md) | Adjustable openness to contact with center, membrane, pace, and ending preserved; signals inform without assigning another body a role or granting continuous access |
 | [Field-Giving and Field-Tending](docs/field-giving-and-field-tending.md) | Contribute to a shared medium without assigning the receiver; preserve optional reception, calibration, embodied feedback, and release; names field capture as the shadow |
 | [Reference Loss and Doom Loops](docs/reference-loss-and-doom-loops.md) | Separates underlying body, signal, constraint, and narrative; diagnoses when compulsory feedback makes an internal signal self-validating and restores outside reference, slack, diversity, and metabolism |
+| [Prime–Mirror–Composite Observation Architecture](docs/prime-mirror-composite-observation-architecture.md) | Separates scale-relative primes, living composites, lenses, mirrors, observers, operators, and update rhythms; traces reflexive metrics, negative-space inference, coordinate limits, and answerability |
+| [Mirror–Rhythm and Shared-Body Analysis](docs/mirror-rhythm-and-shared-body-analysis.md) | Treats reflection as response, repeated return as rhythm, and stress as a test of operative centers; distinguishes generative shared movement from captured roles |
+| [Narrative Substrate and Story Mode](docs/narrative-substrate-and-story-mode.md) | Treats story as an embodied CHIMERA method: stable Prime canon, revisable Composite canon, bounded local knowledge, consequence-preserving roleplay, counterfactual reruns, Sandbox → Candidate → Canon gates, and an extraction loop that separates narrative discovery from empirical proof |
 
 ---
 

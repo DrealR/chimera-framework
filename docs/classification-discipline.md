@@ -113,6 +113,7 @@ Calibrated friction enables growth. Pointless harm should still be removed.
 - [Lens Not Mechanism](lens-not-mechanism.md) — keep optical metaphors from becoming false causal claims.
 - [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md) — Log Pose needs classification or it drifts.
 - [CHIMERA Instrument Pass and Causal Bookkeeping](chimera-instrument-pass-and-causal-bookkeeping.md) — the operational pressure pass for typed connections and reality-graded thought experiments.
+- [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — applies this classification discipline after story runs so resonance, carrier images, hypotheses, and mechanisms do not silently become evidence.
 
 ```text
 L = (O > I) + P + ¬F
