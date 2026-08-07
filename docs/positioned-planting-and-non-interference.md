@@ -48,6 +48,37 @@ Then: refine ideas **and** field literacy from what actually propagated, twisted
 
 ---
 
+## Question seeds and public probes
+
+Not every seed should be a thesis. When the deeper work has generated a real uncertainty, the highest-integrity plant may be a **question seed**.
+
+```text
+source / observation
+→ structured analysis
+→ possible future or hidden dependency
+→ compact question
+→ public field
+→ independent answers / objections / examples
+→ slower review
+```
+
+This is especially useful for a **Public Backcast Probe**: a question discovered by temporarily reasoning from a possible future and then returned to the present for live contact.
+
+The purpose is not to crowdsource truth by vote. It is to expose the current model to other centers that may carry:
+
+- missing evidence;
+- lived consequence;
+- a domain-specific mechanism;
+- a counterexample;
+- an alternative wording;
+- a different set of affected bodies.
+
+A useful question often travels farther than an over-closed answer because it leaves room for independent authorship.
+
+> **Plant enough structure that the field can answer, but not so much closure that the field is only allowed to agree or reject.**
+
+---
+
 ## Why CHIMERA-quality seeds change the game
 
 Most seeds are raw or low-coherence. A CHIMERA-grounded seed has more **structural integrity**:
@@ -69,6 +100,7 @@ This is idea-testing as science of the field, not only growth hacking.
 - Note multi-scale lag (X → Reddit/YouTube/newsletter)  
 - Collect observations into sessions  
 - One intentional follow-up if it is *contribution*, not anxiety  
+- Preserve strong disagreements and counterexamples instead of only favorable responses  
 
 **Don’t:**
 
@@ -76,8 +108,26 @@ This is idea-testing as science of the field, not only growth hacking.
 - Buy hollow_reach  
 - Over-explain every critique into a second post instantly  
 - Mistake silence for failure before the field’s tick has run  
+- Treat likes, reposts, reply volume, or agreement as proof of the proposition  
 
 Non-interference is not abandonment. It is **¬F** after a real plant: don’t force the outcome.
+
+---
+
+## Reading the return
+
+A planted question can return several different kinds of evidence:
+
+| Return | What it may indicate | What it does **not** establish |
+|---|---|---|
+| High engagement | strong salience / network fit / timing | truth |
+| Expert correction | possible mechanism or factual error to verify | automatic authority |
+| Lived counterexample | omitted body or condition | population prevalence |
+| Reframing | question may be badly posed or too narrow | replacement truth by itself |
+| Silence | weak reach, poor timing, low salience, or low legibility | falsity |
+| Rage / pile-on | identity or incentive pressure may dominate | importance or correctness |
+
+The field response belongs in the evidence trail, but it must pass slower verification before Framework promotion.
 
 ---
 
@@ -101,6 +151,7 @@ In the sandbox, multi-depth agents can explore:
 - which “chords” of interaction feel alive  
 - how over-forcing convergence kills optionality  
 - how weak coupling + good seeds propagates  
+- how the same question changes when different centers inherit different assumptions  
 
 Not a substitute for real X data — a cheap rehearsal of positioning vs chasing.
 
@@ -113,6 +164,8 @@ Not a substitute for real X data — a cheap rehearsal of positioning vs chasing
 - Not manipulative ratio-farming.  
 - Not ignoring harm or pile-on dynamics.  
 - Propagation is not truth; classification still applies.  
+- A public question is not an invitation to extract private context or permanently index a participant’s identity.  
+- A backcast probe must not be presented as a forecast merely because it came from a future simulation.
 
 ---
 
@@ -143,6 +196,7 @@ Literacy without this check can become cold gaming. See [Field Literacy and Gnos
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)  
 - [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md)  
+- [Temporal Log Pose and Prediction Cascade](temporal-log-pose-and-prediction-cascade.md)  
 - [Field-Giving and Field-Tending](field-giving-and-field-tending.md) — generalizes the plant into
   an open contribution whose reception remains optional and whose local costs must be calibrated.
 
