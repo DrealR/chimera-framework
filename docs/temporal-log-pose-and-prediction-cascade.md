@@ -25,6 +25,60 @@ Sense → Remember → Simulate → Weight → Verify
 
 > **Search remembers. Social fields sense. AI imagines. Event markets price expectation. Humans and institutions act. Earth records what happened.**
 
+## Temporal Observatory orientation
+
+The instrument can be used not only to predict or allocate, but to **change the observation point** and return with a better present-day question.
+
+> **Look backward for evidence. Look forward for possibility. Return to the present for correction.**
+
+```text
+AFTERLIGHT / ARCHIVE
+what actually survived from prior events
+        ↓
+PRESENT CONTACT
+what can be observed and checked now
+        ↓
+SIMULATED FUTURES
+what might follow under stated conditions
+        ↓
+BACKCAST PRODUCT
+what hidden question becomes visible
+        ↓
+PRESENT TEST
+what reality and other bodies answer
+```
+
+This is not backward causation and not information arriving from the future. The simulated future is a **representational observation position**. Any causal effect of the exercise still occurs through present decisions, artifacts, communication, and action.
+
+## Backcast product
+
+A scenario is more useful when it returns a present-facing output instead of ending at the imagined future.
+
+Recommended `backcast_product` classes:
+
+- **testable question** — something present evidence can bear on;
+- **hidden assumption** — a premise required for the future branch;
+- **source request** — evidence needed before the branch deserves more weight;
+- **early warning condition** — an observable precursor worth monitoring;
+- **design requirement** — a property a present system should preserve;
+- **public question seed** — a compact probe suitable for independent public response;
+- **unresolved contradiction** — a tension the simulation exposed but cannot settle.
+
+Example:
+
+```text
+possible 2097 condition:
+AI companions anticipate nearly every child's next need
+
+↓
+
+backcast product:
+What does persistent anticipatory assistance do to self-initiated behavior,
+and what evidence could we examine now?
+```
+
+The simulation does not establish the effect. It reveals the question.
+
 ## Different probability bodies
 
 | System | Distribution over | Conditions | Output |
@@ -70,6 +124,29 @@ Reality   → what settled, at what cost, and with what residue?
 
 The market is a sensor, not the director. Investigating only what already possesses volume lets capital select the research agenda.
 
+## Public probe chamber
+
+A simulation-generated question can also enter the social field as a **Public Backcast Probe**.
+
+```text
+future scenario
+→ backcast question
+→ public question seed
+→ replies / quotes / independent examples / counterarguments
+→ verification
+→ revised scenario or framework
+```
+
+This chamber is useful because other bodies may possess local evidence, technical knowledge, or lived consequences that the simulation omitted.
+
+The social return is **not** a vote on truth:
+
+- engagement measures salience under platform conditions;
+- virality measures propagation, not validity;
+- silence can mean low reach, poor timing, weak framing, or low salience;
+- public consensus can still be wrong;
+- minority counterexamples can reveal missing conditions without establishing prevalence.
+
 ## Prediction cascade and reflexivity
 
 ```text
@@ -94,6 +171,7 @@ Run the reflexivity scan:
 4. Can price movement alter reporting, funding, preparation, or conduct?
 5. Who defines and controls resolution?
 6. Which participants and affected bodies cannot enter the market?
+7. Did the forecast become a public intervention whose circulation changed the branch being measured?
 
 ## Verification and execution complete the body
 
@@ -117,6 +195,8 @@ Open source can expose anatomy without proving deployed physiology. X's public r
 Present attention:  What is receiving living visibility?
 Recorded memory:    What paths and evidence survive?
 AI possibility:     What branches are being generated?
+Backcast product:   What present question became visible from the branch?
+Public return:      What do independent bodies add, reject, or reframe?
 Market expectation: Which defined futures receive commitment?
 Resource flow:      Where are money, labor, and permission moving?
 Verification:       What lineage and settlement rules can be inspected?
@@ -125,7 +205,7 @@ Operator direction: Which pull am I choosing to follow?
 Earth consequence:  What will bear the result?
 ```
 
-The instrument does not locate eternal North. It reveals current coupling, future attractors, available maneuvers, and likely costs of remaining in the orbit.
+The instrument does not locate eternal North. It reveals current coupling, future attractors, available maneuvers, likely costs of remaining in the orbit, and questions that may deserve present investigation.
 
 ## Firewalls
 
@@ -135,7 +215,9 @@ The instrument does not locate eternal North. It reveals current coupling, futur
 - Social attention and capital weight can amplify harmful or false trajectories.
 - A planetary organ map does not establish global coordination, consciousness, or shared interest.
 - Reality settles occurrence, not justice, wisdom, or desirability.
+- Future simulation is not prophecy and does not become evidence merely because its consequences feel coherent.
+- Public probing must not be used to manufacture the very outcome later cited as validation without recording the intervention.
 
 The carry line is:
 
-> **Social media senses a rendered present. AI turns inherited memory into possible continuations. Markets show where bounded expectation and resources are gathering. Verification tests the map. Bodies act. Earth settles which projection becomes history.**
+> **Social media senses a rendered present. AI turns inherited memory into possible continuations. Markets show where bounded expectation and resources are gathering. Story can move the observation point and return a better question. Verification tests the map. Bodies act. Earth settles which projection becomes history.**
