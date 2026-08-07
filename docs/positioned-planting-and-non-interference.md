@@ -79,6 +79,71 @@ A useful question often travels farther than an over-closed answer because it le
 
 ---
 
+## Question constellations
+
+Do not confuse inquiry with cosmetic A/B testing.
+
+When one underlying relation can be viewed from several meaningful positions, construct a **Question Constellation**: a small set of genuinely different apertures around the same problem.
+
+Example underlying relation:
+
+> cultural production becomes abundant while human attention remains finite.
+
+Possible apertures:
+
+```text
+mechanism:
+What becomes the bottleneck when making content is nearly free?
+
+human consequence:
+What happens to taste when nobody can keep up with what can be generated?
+
+institutional:
+Who gains power when selection becomes scarcer than production?
+
+counterexample:
+Where does cheap generation actually increase attention rather than fragment it?
+
+historical:
+What earlier technology made production abundant before selection systems caught up?
+
+design:
+What should a healthy culture preserve if generation becomes effectively unlimited?
+
+failure-surface:
+What breaks first if institutions optimize only for what wins attention?
+```
+
+These variants should not be fired back-to-back simply to see which earns the highest metric. They are different research instruments.
+
+Use them selectively:
+
+- choose the aperture that fits the live context;
+- ask another aperture later if the first exposed a distinct unresolved branch;
+- use a targeted reply when a specific body has relevant experience or expertise;
+- hold unused variants privately;
+- retire questions that no longer add information.
+
+> **The point of multiple questions is parallax, not volume.**
+
+---
+
+## Probe portfolio
+
+A bounded inquiry may use one or a few of these probe forms:
+
+1. **Open probe** — invites broad interpretation before fixing a mechanism.
+2. **Mechanism probe** — asks what causal relation would have to be true.
+3. **Counterexample probe** — actively looks for where the current framing fails.
+4. **Affected-body probe** — asks who bears consequence that the current model omitted.
+5. **Historical probe** — searches for analogous prior transformations without assuming equivalence.
+6. **Design probe** — asks what property should be preserved if the trajectory continues.
+7. **Failure-surface probe** — asks what can break before demanding a solution.
+
+Do not turn this into a checklist that every topic must satisfy. The smallest useful probe set is usually stronger than exhausting every angle.
+
+---
+
 ## Why CHIMERA-quality seeds change the game
 
 Most seeds are raw or low-coherence. A CHIMERA-grounded seed has more **structural integrity**:
@@ -101,6 +166,7 @@ This is idea-testing as science of the field, not only growth hacking.
 - Collect observations into sessions  
 - One intentional follow-up if it is *contribution*, not anxiety  
 - Preserve strong disagreements and counterexamples instead of only favorable responses  
+- Let one good reply change the next question even if the original post underperformed  
 
 **Don’t:**
 
@@ -109,6 +175,7 @@ This is idea-testing as science of the field, not only growth hacking.
 - Over-explain every critique into a second post instantly  
 - Mistake silence for failure before the field’s tick has run  
 - Treat likes, reposts, reply volume, or agreement as proof of the proposition  
+- Post a whole constellation in quick succession merely to optimize a scoreboard  
 
 Non-interference is not abandonment. It is **¬F** after a real plant: don’t force the outcome.
 
@@ -128,6 +195,24 @@ A planted question can return several different kinds of evidence:
 | Rage / pile-on | identity or incentive pressure may dominate | importance or correctness |
 
 The field response belongs in the evidence trail, but it must pass slower verification before Framework promotion.
+
+For research use, track richer return dimensions than raw engagement:
+
+```text
+novel evidence returned?
+credible correction?
+strong counterexample?
+new affected body identified?
+question meaningfully reframed?
+new source / domain expert found?
+independent convergence from unrelated bodies?
+more useful successor question produced?
+response persisted into slower layers?
+```
+
+A working diagnostic is **question fertility**: whether a question generates useful distinctions, evidence requests, counterexamples, missing bodies, or stronger successor questions. Keep this subordinate to the broader Question Ecology; do not turn it into a single numeric score.
+
+> **Do not optimize for the question that travels farthest. Look for the question that returns with the most useful difference.**
 
 ---
 
@@ -152,6 +237,7 @@ In the sandbox, multi-depth agents can explore:
 - how over-forcing convergence kills optionality  
 - how weak coupling + good seeds propagates  
 - how the same question changes when different centers inherit different assumptions  
+- how distinct apertures around one relation recruit different answer bodies  
 
 Not a substitute for real X data — a cheap rehearsal of positioning vs chasing.
 
@@ -165,7 +251,9 @@ Not a substitute for real X data — a cheap rehearsal of positioning vs chasing
 - Not ignoring harm or pile-on dynamics.  
 - Propagation is not truth; classification still applies.  
 - A public question is not an invitation to extract private context or permanently index a participant’s identity.  
-- A backcast probe must not be presented as a forecast merely because it came from a future simulation.
+- A backcast probe must not be presented as a forecast merely because it came from a future simulation.  
+- Question variants that differ only in wording are not independent evidence.  
+- Public participation should not become an unpaid obligation to solve the operator’s problem.
 
 ---
 
