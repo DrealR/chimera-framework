@@ -54,6 +54,38 @@ AI + CHIMERA sit mostly in the **middle**: expand reach, hold structure, move si
 
 ---
 
+## Content velocity and integration bandwidth
+
+A body can receive signals faster than it can metabolize their implications.
+
+```text
+signal production rate
++ propagation velocity
+>
+integration + verification + correction bandwidth
+```
+
+This creates a practical accumulation problem:
+
+> **Context Debt — accumulated information that has entered a body or culture faster than its implications have been integrated.**
+
+Context Debt is a **working diagnostic**, not a validated quantitative law. It overlaps attention occupancy, correction bandwidth, throughput mirage, archive metabolism, and operator comprehension. Prefer patching those owners over proliferating duplicate debt concepts.
+
+Possible symptoms:
+
+- constant novelty with little durable revision;
+- repeated rediscovery because prior conclusions were never installed;
+- strong opinions built on partial source ingestion;
+- downstream institutions reacting after the fast layer has already moved on;
+- AI-assisted production outrunning human review;
+- archives growing faster than their correction metadata.
+
+The answer is not simply “consume less” or “slow everything.” Different layers need different speeds.
+
+> **Slow selected signals down enough that relationships, assumptions, contradictions, and possible consequences become visible.**
+
+---
+
 ## Devices as scale practice
 
 | Device | Scale role |
@@ -62,6 +94,7 @@ AI + CHIMERA sit mostly in the **middle**: expand reach, hold structure, move si
 | **Shared Wave** | **Sandbox** multi-scale field: agents at different depths simulate propagation |
 | **Classic PromptForge** | **Training loop** at mid scale — refine one artifact over ticks |
 | **Primary ecosystem** | The body you use to stay continuous across scales |
+| **Temporal Observatory** | Move selected signals through evidence → simulation → public probe → correction without confusing any layer for final truth |
 
 Wave experiment idea: set deliberate depth spreads (e.g. Risk=3, Word=1) and watch what moves or fails between centers — intuition for real-world delay patterns.
 
@@ -90,6 +123,20 @@ CHIMERA is partly **scale navigation of the self**: don’t let the fast layer o
 
 Track feedback both ways: deep insight should be allowed to re-enter the fast layer as a clean seed, not only as content milking.
 
+A useful additional loop is:
+
+```text
+fast signal
+→ mid-layer structure
+→ future/scenario pressure
+→ public question probe
+→ field return
+→ slow verification / archive
+→ revised seed
+```
+
+This is not a closed epistemic circuit. Independent evidence and affected bodies must be able to interrupt it.
+
 ---
 
 ## Design laws
@@ -99,6 +146,8 @@ Track feedback both ways: deep insight should be allowed to re-enter the fast la
 3. **Default Wave to multi-depth,** not uniform agents.  
 4. **Prefer ecosystem continuity** over per-task model shopping ([Primary Relational Body](primary-relational-body-and-ecosystem-stack.md)).  
 5. **Classify velocity ≠ truth.** Fast signals still need firewalls.  
+6. **Do not let production outrun integration indefinitely.** High throughput without a return path creates Context Debt.  
+7. **Preserve correction metadata.** Later bodies should be able to see what changed and why, not only the newest polished state.
 
 ---
 
@@ -108,6 +157,8 @@ Track feedback both ways: deep insight should be allowed to re-enter the fast la
 - Not “slow is always wiser” or “fast is always truer.”  
 - Not settled cosmology — multi-scale field is an **operator map**.  
 - Propagation delay tables are sketches; re-measure in your domains.  
+- Context Debt is not a moral diagnosis of people who consume quickly; it names a rate mismatch between incoming signal and integration capacity.  
+- AI can help metabolize context and also create more of it; do not assume automation automatically resolves the debt it accelerates.
 
 ---
 
@@ -120,6 +171,7 @@ Track feedback both ways: deep insight should be allowed to re-enter the fast la
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)  
 - [Time as Relational Movement](time-as-relational-movement.md)  
 - [Two Absolutes Spectrum](two-absolutes-spectrum.md)  
+- [Temporal Log Pose and Prediction Cascade](temporal-log-pose-and-prediction-cascade.md)  
 
 ```text
 L = (O > I) + P + ¬F
