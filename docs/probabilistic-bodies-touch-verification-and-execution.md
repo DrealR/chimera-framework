@@ -28,6 +28,52 @@ A feed refresh samples a locally rendered social possibility field. Attention an
 
 > **Your feed is a distribution over what may participate in writing your next state—not a complete description of who you are.**
 
+## Pre-embodiment branch field
+
+Generative systems can make **candidate structure** abundant before those candidates acquire a material or institutional body.
+
+A model can generate:
+
+- a plan;
+- code;
+- an image;
+- a policy;
+- a business model;
+- a scientific hypothesis;
+- a fictional world;
+- a candidate molecular or genomic design;
+- a possible institutional arrangement.
+
+But:
+
+```text
+candidate representation
+!=
+embodied world state
+```
+
+A generated structure becomes materially consequential only when enough other bodies begin carrying it.
+
+```text
+candidate structure
+→ attention
+→ interpretation / legitimacy
+→ commitment
+→ capital / labor / permission
+→ executable artifact / institution
+→ action
+→ consequence
+→ memory
+```
+
+This gives a useful working description of a **pre-embodiment branch field**: multiple candidate continuations can compete for carriers before any one becomes costly history.
+
+The phrase is an operator map, not a new physics or ontology. AI generation, social attention, market commitment, institutional authorization, software execution, and physical settlement are different mechanisms.
+
+> **Possibilities do not become history because they were generated. They become history when bodies acquire enough attention, resources, permission, and execution capacity to carry them.**
+
+This also explains why a digital artifact can matter before it is physically implemented. A proposal, story, model output, forecast, design, or meme can alter which bodies allocate attention and resources next. Its causal effect is real even while the represented future remains unrealized.
+
 ## Touch changes possible next states
 
 > **Bodies touch when their fields overlap enough to alter one another's possible next states.**
@@ -146,6 +192,16 @@ candidate → verification and judgment → authorization
           → action → consequence → memory
 ```
 
+The pre-embodiment chain makes one additional distinction visible:
+
+```text
+generation creates candidates
+attention gives some candidates weight
+commitment gives some candidates carriers
+execution makes a branch costly
+reality returns consequence
+```
+
 Verification without execution cannot repair the world. Execution without verification can accelerate a false projection. Both require operator location and a feedback path.
 
 ## Contact scan
@@ -159,6 +215,7 @@ When a signal touches a body, ask:
 5. Did the receiving body retain veto and the ability to leave?
 6. What action or residue followed?
 7. Did the contact create more capacity or only greater predictability?
+8. Did a represented possibility acquire attention, money, permission, or infrastructure before its assumptions were verified?
 
 ## Firewalls
 
@@ -168,6 +225,8 @@ When a signal touches a body, ask:
 - Synthetic origin does not erase artistic, relational, or practical value.
 - “Touch” must not be used to exaggerate harmless exposure into injury or to minimize coercive access.
 - Systemic responsiveness does not establish consciousness or moral agency.
+- A generated design is not an embodied reality merely because it is coherent or executable.
+- Attention, market commitment, and institutional adoption can all select bad branches; embodiment is not validation.
 
 The carry line is:
 
