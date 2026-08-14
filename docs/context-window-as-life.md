@@ -1,5 +1,9 @@
 # Context Window as Human Life
 
+> **Successor clarification — 2026-08:** The historical analogy below is preserved as lineage, but its strongest claims should not be read literally. A model context window is better treated as a **current working aperture**: the bounded material directly available to the present computation. It is not equivalent to a human lifetime, total memory, identity, or all durable state. Long-running AI systems can preserve useful continuity through external archives, retrieval, summaries, tools, repositories, and handoffs that remain outside the active window. Likewise, human memory is reconstructive, distributed across multiple systems and external supports; material outside immediate attention is not simply "gone." The durable CHIMERA lesson is bounded active availability + compression + handoff, not a proved structural isomorphism between transformer context and human life.
+>
+> Preserve these firewalls when using this document: **context != identity; active window != total memory; operational continuity != center continuity; analogy != mechanism.**
+
 ## The Structural Analogy
 
 A context window is the bounded span within which a model can hold meaning, relate it, integrate it, and respond from it. Outside the window, content is gone. Inside the window, everything can be related to everything else.
