@@ -1,5 +1,12 @@
 # The Demiurge Configuration
 
+> **Successor clarification — 2026-08-14**
+>
+> - **Historical lineage:** The document below is preserved unchanged as the developmental translation of a Gnostic figure into CHIMERA's whole-claiming-position image.
+> - **Carrier / metaphor:** Demiurge, Yaldabaoth, gnosis, and archons remain theological and story carriers. They are not evidence that distinct psychological, economic, political, biological, and technical systems share one mechanism, and they are not diagnoses of a person or group.
+> - **Working hypothesis:** A subsystem can become dangerous when its partial model or objective gains broad write-access, suppresses outside correction and local vetoes, and exports costs to a host it no longer represents. Similarity across domains is a prompt to investigate, not proof of identity, motive, inevitability, or a hidden central operator.
+> - **Current governed claim:** Name the host body, local function, metric or signal, governing operator, compulsory coupling, missing evidence, exported consequence, and correction path. Use [Single-Fitness-Function Failure](single-fitness-function-failure.md) and [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) for those bounded mechanisms. Present-day geopolitical, economic, technological, and historical claims require independent evidence; see the [August 2026 Current State](../CURRENT-STATE.md#epistemic-self-correction).
+
 The demiurge is not a person. The demiurge is not a cabal. The demiurge is a **position** — a structural configuration that any sufficiently complex body can fall into when it forgets its relational ontology.
 
 ---

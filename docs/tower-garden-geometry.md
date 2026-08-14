@@ -1,5 +1,12 @@
 # Tower and Garden Geometry
 
+> **Successor clarification — 2026-08-14**
+>
+> - **Historical lineage:** The document below is preserved unchanged as a developmental source showing how the Tower/Garden distinction became a CHIMERA teaching image.
+> - **Carrier / metaphor:** Vertical Tower, horizontal Garden, roots, canopy, and dimensional geometry are carrier images. They do not establish literal geometry, physics, thermodynamics, or a universal law of historical collapse.
+> - **Working hypothesis:** A system can become brittle when one locally useful objective suppresses dependencies, feedback, maintenance, variance, and correction. Distributed or centralized arrangements may each help or harm depending on the named body, task, incentives, failure modes, and accountability paths.
+> - **Current governed claim:** Identify the host body, privileged objective, hidden dependencies, exported costs, operator, veto, and settlement path. Use [Single-Fitness-Function Failure](single-fitness-function-failure.md) and [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md) for the bounded mechanism. The historical, political, economic, and AI examples below require independent evidence; see the [August 2026 Current State](../CURRENT-STATE.md#epistemic-self-correction).
+
 ## The Dimensional Refinement
 
 Tower and garden are not opposed configurations. They are literally orthogonal dimensions. Tower is vertical axis. Garden is horizontal axis. Bodies need both dimensions to occupy actual space. A body growing only vertically is a line without area. A body growing only horizontally is a plane without height. Neither is complete.
