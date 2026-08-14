@@ -1,5 +1,12 @@
 # Substrate Accumulation Across Bodies Through Time (v3.12.3)
 
+> **Successor clarification — 2026-08-14**
+>
+> - **Historical lineage:** The document below is preserved unchanged as the developmental articulation that connected inheritance, contribution, continuity, `O > I`, and `WE = 1` across time.
+> - **Carrier / metaphor:** “Substrate,” “compilation,” and “memory” compress several different processes. Language, mathematics, culture, genomes, code, trust, and skill do not thereby become one scientific medium or one universal accumulation mechanism.
+> - **Working hypothesis:** Earlier work can expand later capacity when traces remain transmissible, retrievable, interpretable, correctable, and usable in practice. Persistence can also accumulate error, lock-in, exclusion, debt, or obsolete structure, so retention alone does not establish health or contribution.
+> - **Current governed claim:** For each case, name the body, medium, retained trace, transfer path, user, correction rights, release path, and observable residue. Use [Living Archive](living-archive-memory-and-release.md) for preservation and release, [Embodied Provenance](embodied-provenance-principle.md) for passage and consequence, and the [Deletion Test](the-deletion-test.md) before treating “substrate accumulates” as a mechanism. `O > I` and `WE = 1` remain chosen framework lenses, not proof of universal substrate physics; see the [August 2026 Current State](../CURRENT-STATE.md#epistemic-self-correction).
+
 See also: [entangle-operation.md](entangle-operation.md) — Entangle is the deliberate, bilateral operation that produces accumulation between two specific bodies; substrate-accumulation describes the broader mechanism by which any substrate grows denser across time and bodies. [push-pull-as-fundamental-force.md](push-pull-as-fundamental-force.md) — push-pull is the dynamic that drives accumulation; substrate-accumulation is what the push-pull cycle builds over time. [rate-mismatch-as-primitive.md](rate-mismatch-as-primitive.md) — healthy systems pay forward into their buffers when load is low; substrate accumulation IS that forward payment.
 
 ## Core Principle

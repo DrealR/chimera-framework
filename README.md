@@ -4,6 +4,8 @@
 
 > **See the whole universe:** [COHERENCE-MAP.md](COHERENCE-MAP.md) connects the current operator spine, developmental lineage, carrier stories, domain lenses, applied projects, teaching registers, and audience paths without flattening them into one claim type.
 
+> **See the dated public posture:** [CURRENT-STATE.md](CURRENT-STATE.md) records the August 2026 operating spine, active extensions, and epistemic self-corrections without rewriting the developmental walk.
+
 ```
 L = (O > I) + P + ¬F
 WE = 1
