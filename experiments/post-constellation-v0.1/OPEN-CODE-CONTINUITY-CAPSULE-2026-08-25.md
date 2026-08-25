@@ -114,3 +114,16 @@ Then identify the exact current task from the local Signal/checkpoint rather tha
 ## Current stop
 
 Do not hydrate or begin Post Constellation project work until the Phase 0.5 routing evidence required by `DrealR/chimera-core#557` is complete. A selected model label or self-reported configuration is not enough; the executed route must be proven.
+
+
+## Amendment — durable active Signal and gate correction
+
+The authoritative public-safe current-work pointer is:
+
+- `experiments/post-constellation-v0.1/CURRENT-SIGNAL.md`
+
+Retrieve it after the registry and before choosing work. If it names an active node and admissible operation, continue that work. Do not ask the operator the generic question “What Signal do you want to work with?” unless the pointer explicitly says no active Signal exists.
+
+Phase 0.5 requires a successful inference on the exact declared provider/model route. A bound request that terminates with `401`, `429`, transport failure, or provider error proves part of routing but does not pass the execution gate. Carrier retrieval performed while this gate is blocked is evidence of retrieval only, not evidence that the target model performed the hydration or subsequent work.
+
+The operator may later authorize private project-repository access on a private control surface. Such authorization must identify exact repositories or worktrees and data classes. It does not authorize reading credentials, `.env` values, regulated/government data, or unrelated personal, family, employment, financial, or health material. Provider/model drift or fallback suspends the private grant.
