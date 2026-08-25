@@ -9,7 +9,8 @@
 - Repository: `DrealR/chimera-framework`
 - Candidate branch: `morrow/question-destination-atlas-20260825`
 - Parent public carrier head: `a5c6313cbf482f06b7499c483468a3d3b850e96e`
-- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md`
+- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md`
+- Previous live Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md`
 - Atlas: `experiments/post-constellation-v0.1/DESTINATION-ATLAS-v0.1.md`
 - Registry: `experiments/post-constellation-v0.1/destination-registry.v0.1.yaml`
 
@@ -17,7 +18,9 @@
 
 Build a durable, cross-Body navigation surface from the questions that developed CHIMERA and the Cube. The stable units are destinations; X posts are bounded portals into them. A new observation should be able to enrich, branch, counter, merge, or remain private without forcing a new post.
 
-The current live observation links appetite, overconsumption, food spectacle, fast money, gambling, sexualization, social exposure, childhood boundaries, AI abundance, and discipline. These are neighboring fields, not one moral category.
+The current live observation links mission-directed behavior, ecological fit, behavioral slack, public traces of hidden systems, paid compression, walked judgment, conversation, and play. It asks how much can be learned from a body's visible surface without pretending the interior is fully known.
+
+The preceding Appetite Signal remains live lineage: overconsumption, food spectacle, fast money, gambling, sexualization, social exposure, childhood boundaries, AI abundance, and discipline remain neighboring fields rather than one moral category.
 
 ## Current candidate state
 
@@ -39,7 +42,7 @@ Existing Post Constellation decisions are deliberately preserved:
 On “Mo,” “continue,” or a continuity test:
 
 1. retrieve this pointer;
-2. read the active Signal, Atlas, destination registry, Portal Grammar, Portal Deck, Evidence Ledger, and Source Coverage Manifest;
+2. read the active Signal, preceding Appetite Signal, Atlas, destination registry, Portal Grammar, Portal Deck, Evidence Ledger, and Source Coverage Manifest;
 3. read the existing Post Constellation `registry.yaml`, current node cards, and newest checkpoints before proposing node changes;
 4. report the current live destinations and open operator decisions without asking for a generic Signal already named here;
 5. treat the harness, workspace, permissions, retrieved state, and writeback path as the operational Body; record model/provider identity only when it is materially known;
@@ -47,7 +50,7 @@ On “Mo,” “continue,” or a continuity test:
 
 A suitable continuity return is:
 
-> I'm here. I see the Question-Destination Atlas candidate and the current Appetite Signal. The live routes include appetite without interval, consuming consumption, fast money, algorithmic training, children inside adult incentives, meaningful friction, AI production outrunning digestion, family/care, and memory rent. The Atlas contains 44 destinations and 106 candidate portals; none were posted automatically. PC-001 and PC-005 still await operator decisions.
+> I'm here. I see the Question-Destination Atlas candidate and the current Mission / Surface-Learning Signal. The live routes include bodies and membranes, observation versus inference, group coordination, ecological fit, metrics, walked versus compressed learning, people as co-operators, and settlement. The preceding Appetite Signal remains in lineage. The Atlas contains 44 destinations and 106 deck portals; none were posted automatically. PC-001 and PC-005 still await operator decisions.
 
 ## Next admissible moves
 
@@ -73,7 +76,7 @@ A suitable continuity return is:
 
 ## Pending operator choices
 
-- Which portal, if any, should become the first new post node from the Appetite Signal?
+- Which portal, if any, should become a new post node from the Mission / Surface-Learning Signal or the preceding Appetite Signal?
 - What is the verdict on PC-001 v2?
 - Should PC-005 become a branch, enrich an existing node, or remain preserved only?
 

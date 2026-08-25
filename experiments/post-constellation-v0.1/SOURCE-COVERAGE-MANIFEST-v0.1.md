@@ -37,7 +37,16 @@ No private repository names, heads, paths, tree counts, archive sizes, source ex
 
 ## Current Signal pass
 
-The live operator material added:
+The current Mission / Surface-Learning Signal added:
+
+- mission-directed behavior without assuming a central commander;
+- ecological fit and the house as a human-imposed sensory/architectural field;
+- behavioral slack as a candidate relation between maintenance burden and visible exploration;
+- public outputs as informative but underdetermined traces of hidden systems;
+- paid compression versus judgment-bearing passage;
+- conversation and play as routes that can redirect attention without reducing people to information sources.
+
+The preceding Appetite Signal remains in active lineage and added:
 
 - appetite without interval;
 - watching consumption as a consumable object;
@@ -57,6 +66,9 @@ A bounded current-source check used:
 - primary peer-reviewed observational studies for mukbang/cookbang;
 - an open-access meta-analysis for cashless spending;
 - an official securities filing for the NVIDIA employee-equity structure.
+- peer-reviewed honeybee cognition reviews for bounded claims about learning and flexible decisions;
+- a primary field study of artificial-light disruption in flying insects;
+- controlled dog/wolf studies for task-specific domestication and experience comparisons.
 
 See EVIDENCE-LEDGER-v0.1.md.
 

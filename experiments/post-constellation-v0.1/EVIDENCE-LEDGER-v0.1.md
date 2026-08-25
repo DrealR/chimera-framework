@@ -8,6 +8,7 @@
 
 - **PRIMARY_OFFICIAL:** regulator, filing, law, or official statistics.
 - **PRIMARY_RESEARCH:** original peer-reviewed study or meta-analysis.
+- **RESEARCH_REVIEW:** peer-reviewed synthesis of multiple studies; useful for field boundaries but not an independent experiment.
 - **SOURCE_ONLY:** supplied post, poll, video, or comment not independently verified.
 - **CANDIDATE_MECHANISM:** interpretation to be tested.
 - **UNKNOWN:** evidence not yet retrieved or insufficient.
@@ -81,6 +82,40 @@
 - **Blocked wording:** “80% of NVIDIA employees are millionaires” as an established fact.
 - **Routes:** DA-017, DA-018.
 
+### Honeybee learning and flexible decision-making
+
+- **State:** RESEARCH_REVIEW.
+- **Design/qualifier:** reviews of controlled behavioral research, primarily with foraging honeybees; not a general insect-intelligence score.
+- **Sources:**
+  - Zhang, Si, and Pahl, “Visually Guided Decision Making in Foraging Honeybees,” 2012. [Open-access review](https://pmc.ncbi.nlm.nih.gov/articles/PMC3376410/)
+  - Giurfa, “Learning of sameness/difference relationships by honey bees,” 2021. [Open-access review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8772047/)
+- **Observed synthesis:** honeybees can learn cues and rules, generalize to novel tasks, switch decisions across contexts, and learn selected relational concepts such as sameness and difference under experimental conditions.
+- **Supports:** rejecting the claim that social insects are merely rigid command-following automata; asking how individual flexibility coexists with colony-level role coordination.
+- **Does not support:** human-like free will, consciousness, one ranking of insect versus mammal intelligence, or equivalence across all insect species.
+- **Routes:** DA-024, DA-030, DA-033, DA-040.
+
+### Artificial light and insect field mismatch
+
+- **State:** PRIMARY_RESEARCH.
+- **Design/qualifier:** field stereo-videography around artificial point lights, covering multiple flying-insect orders; one mechanism for one class of human-built disturbance.
+- **Source:** Fabian et al., “Why flying insects gather at artificial light,” *Nature Communications*, 2024. [Study](https://www.nature.com/articles/s41467-024-44785-3)
+- **Observed finding:** artificial point light induced recurring abnormal flight motifs, and the authors' evidence supports disruption of a normally useful dorsal-light orientation response rather than simple long-range attraction.
+- **Supports:** the field-relative competence question: a rule adaptive in one environment can produce apparently irrational behavior in an altered sensory field.
+- **Does not support:** a general explanation for insects inside houses, a claim that built environments make insects unintelligent, or a consciousness comparison.
+- **Routes:** DA-024, DA-030, DA-040.
+
+### Domestication, experience, and domain-specific cognition
+
+- **State:** PRIMARY_RESEARCH.
+- **Design/qualifier:** controlled comparative dog/wolf studies with small or bounded samples and task-specific measures.
+- **Sources:**
+  - Lampe et al., “The effects of domestication and ontogeny on cognition in dogs and wolves,” *Scientific Reports*, 2017. [Study](https://www.nature.com/articles/s41598-017-12055-6)
+  - Range et al., “Wolves lead and dogs follow, but they both cooperate with humans,” *Scientific Reports*, 2019. [Study](https://www.nature.com/articles/s41598-019-40468-y)
+- **Observed finding:** results differed by task and interaction style. In one study wolves outperformed dogs on causal cues while groups performed similarly on tested communicative/behavioral cues; another found both could cooperate with familiar humans while wolves more often initiated and dogs more often followed.
+- **Supports:** domain-specific, environment-sensitive comparison and the possibility that domestication changes the distribution and legibility of capacities.
+- **Does not support:** “pets are smarter,” “wild animals are simpler,” or one general domestication effect across species and cognitive domains.
+- **Routes:** DA-020, DA-024, DA-030, DA-040.
+
 ## Evidence gaps deliberately left open
 
 - Whether appetite-focused video formats causally increase overconsumption across populations.
@@ -90,6 +125,8 @@
 - Direct child and teen accounts across geography, class, disability, and culture.
 - Whether “slop” can be operationalized as a production/digestion rate mismatch rather than a taste label.
 - Population-level distributional effects behind exceptional employee-equity outcomes.
+- Whether reduced survival/maintenance pressure generally creates more behavioral exploration or merely changes which behavior observers can see.
+- Cross-species comparisons of colony coordination, individual flexibility, play, and intelligence using commensurable measures.
 
 ## Use rule
 

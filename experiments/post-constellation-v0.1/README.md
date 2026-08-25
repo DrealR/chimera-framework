@@ -278,7 +278,8 @@ The original protocol registers versioned post nodes. The destination layer adds
 - [machine-readable destination registry](destination-registry.v0.1.yaml) — destination IDs, mechanisms, carriers, neighbors, and relation vocabulary;
 - [Question Portal Grammar](QUESTION-PORTAL-GRAMMAR-v0.2.md) — answer-bearing question shapes, firewalls, and Plant–Release–Return;
 - [Question Portal Deck](QUESTION-PORTAL-DECK-v0.1.md) — 106 candidate entrances, not a publication queue;
-- [current Appetite Signal](signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md) — the operator's present observation, compressed with counterpaths;
+- [current Mission / Surface-Learning Signal](signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md) — field-relative intelligence, behavioral slack, paid compression, and reciprocal learning;
+- [Appetite Signal](signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md) — overconsumption, interval collapse, and consumption spectacle, preserved with counterpaths;
 - [Evidence Ledger](EVIDENCE-LEDGER-v0.1.md) — source-specific claim ceilings;
 - [Source Coverage Manifest](SOURCE-COVERAGE-MANIFEST-v0.1.md) — what was scanned, what was read directly, and what remains thin;
 - [Current Atlas Pointer](CURRENT-ATLAS-POINTER.md) — cross-Body wake and continuation state.
