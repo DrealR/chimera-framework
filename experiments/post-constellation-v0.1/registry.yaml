@@ -1,0 +1,70 @@
+schema_version: "post_constellation/0.1"
+classification: "PUBLIC_SAFE_EXPERIMENTAL_CANDIDATE"
+publication_authority: "operator_only"
+updated_utc: "2026-08-25"
+source_branch: "morrow/post-constellation-opencode-20260825"
+
+rules:
+  - "candidate is not published"
+  - "attention is not truth"
+  - "new information updates the constellation before increasing post count"
+  - "private Core, private Morrow, private conversations, credentials, and personal memory are excluded"
+  - "all cross-node relations must be typed"
+  - "a Body may propose; only the operator may post"
+
+nodes:
+  - id: "PC-20260825-001-role-as-coordinate"
+    state: "CANDIDATE"
+    title: "Characters as coordinate systems"
+    path: "cards/PC-20260825-001-role-as-coordinate.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "role-conditioned decision compression"
+      - "identity as navigation"
+      - "costume as capability and boundary"
+    domains:
+      - "identity"
+      - "performance"
+      - "AI continuity"
+      - "decision-making"
+    desired_return:
+      - "lived examples"
+      - "counterexamples"
+      - "roles that clarify decisions"
+      - "roles that conceal alternatives"
+    relations:
+      - type: "derived_from"
+        target: "public-safe Peter Pan performer observation"
+      - type: "extends"
+        target: "docs/living-question-engine.md"
+      - type: "extends"
+        target: "docs/question-bodies-weighting-fields-and-priced-horizons.md"
+    firewall:
+      - "do not infer the private thoughts of a specific performer"
+      - "do not claim roles erase personal identity or bias"
+      - "do not equate fictional, religious, professional, and AI carriers"
+      - "preserve correction and exit"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
+candidate_backlog:
+  - id: "PC-20260825-002-memory-rent"
+    state: "SEED"
+    seam: "When a brand binds to autobiographical memory, what is it selling later?"
+    blocked_until:
+      - "public-safe evidence pass"
+      - "non-hostile wording"
+      - "counterpath for meaningful ritual"
+  - id: "PC-20260825-003-metered-movement"
+    state: "SEED"
+    seam: "Why can a commercial destination feel exhausting even when a visitor can afford it?"
+    blocked_until:
+      - "distinguish transaction density from affordability"
+      - "counterpath for commercial coordination value"
+  - id: "PC-20260825-004-persona-labor"
+    state: "SEED"
+    seam: "What happens when a customer meets a character but the worker cannot freely leave the character?"
+    blocked_until:
+      - "labor-policy verification"
+      - "avoid claims about specific workers"
