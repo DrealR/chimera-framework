@@ -86,3 +86,22 @@ The operator has expressed an intent to let OpenCode contribute to private proje
 2. Record success or continued `429` on Core issue #557 without secrets.
 3. If success is proven, proceed with the currently authorized repository/data tier.
 4. Continue `PC-20260825-001` from this Signal rather than asking the operator to re-supply it.
+
+
+## Cross-Body writeback invariant
+
+The current continuity test has established that inbound hydration works but local-only outbound staging does not complete the loop.
+
+For substantial work:
+
+```
+retrieve shared pointer
+-> work in the active Body
+-> write remote artifact or bounded remote receipt
+-> update shared current-state pointer
+-> answer the operator
+```
+
+A local v2 draft or checkpoint must be labeled `LOCAL_ONLY` until another authorized Body can retrieve it. The next Body must never imply it independently saw local-only work merely because the operator pasted a summary into another chat.
+
+Current known seam: an OpenCode Body reports a local `PC-20260825-001-role-as-coordinate.v2-DRAFT.md`, `CHECKPOINT-0003`, and `CURRENT-STATE-POINTER.md`. Until a remote receipt or artifact is written, those claims remain local/self-reported and the shared branch's retrievable node remains v1.
