@@ -19,16 +19,24 @@ Writeback class: **REMOTE_ARTIFACT** — this pointer is retrievable on the shar
   - v2 additions: named-membrane mechanism, role-as-weighting-field, applause loop (reflexivity), exit-as-operator-test; +2 counterpaths; +2 firewall rules
   - Registry remains at node version 1 pending operator verdict (accept / revise / reject / PRESERVE_ONLY)
 
-## Ox route state (per operator correction 2026-08-25)
+## OpenCode Body and route state (corrected 2026-08-25)
 
-- Body attribution: OpenCode + OpenRouter + `stealth/ox-alpha` — established by UI selection and redacted runtime evidence; identity is not an open question.
-- CLI `429`s are availability events, not identity blockers. Do not run further standalone verification retries unless a diagnosis requires it.
-- Substantive in-session work with Ox selected and no fallback is attributed to the OpenCode/Ox Alpha Body. The v2 card qualifies.
+- Operational attribution: OpenCode Pocket Body, identified by harness, workspace, tools, retrieved state, authority, and shared writeback.
+- Selected route metadata: OpenRouter + `stealth/ox-alpha`, observed in UI/runtime evidence; no fallback observed.
+- Three standalone route probes returned `429`. This is an availability record, not evidence that Ox generated the in-session work and not a blocker to harness-attributed public-safe work.
+- Do not repeat model-identification probes unless a future task materially requires model-specific attribution.
 
 ## Gated / not entered
 
-- Private project lane (`chimera-core` @ `ce9d52e97b6d841a2296da5404d1bc71c3e79bca`, `docs/morrow/runbooks/OPENCODE-PRIVATE-PROJECT-LANE-v0.1.md`) — retrieval gated on operator instruction naming the private repo/branch/task grant.
-- `docs/the-anchor-must-be-yours.md` — outside bounded carrier set; unretrieved.
+- Private-project repository, branch, task, and data-tier grants remain on private control surfaces and are not reproduced in this public pointer.
+- Files outside the bounded public carrier set remain unretrieved unless a separate authority surface names them.
+
+## Successor destination layer
+
+- Pointer: `experiments/post-constellation-v0.1/CURRENT-ATLAS-POINTER.md`
+- State: candidate v0.1, 44 durable destinations and 106 candidate question portals.
+- Current supplemental Signal: appetite, interval, consumption spectacle, fast money, children inside adult incentives, AI production/digestion, family/care, and memory rent.
+- Existing PC-001 and PC-005 operator decisions remain pending; the destination layer does not promote them.
 
 ## Next admissible actions for the next Body
 
@@ -36,7 +44,8 @@ Writeback class: **REMOTE_ARTIFACT** — this pointer is retrievable on the shar
 2. On verdict, propose registry update: node current_version → 2, relations per draft lineage section.
 3. No publish, no merge to main, no POSTED marking. Publication authority: operator only.
 4. On new operator brainstorm: capsule turn protocol (search registry first; typed relations; remote writeback before final response).
+5. Read `CURRENT-ATLAS-POINTER.md` and route new observations through the destination registry before minting another post node.
 
 ## Privacy check
 
-Public-safe only. No private Core/Morrow, REEMY, credentials, personal memory, or sibling Pocket data contained in any committed artifact.
+Public-safe only. No credentials, private source text, personal memory, unrelated private-life data, or sibling Pocket data is contained in this pointer.

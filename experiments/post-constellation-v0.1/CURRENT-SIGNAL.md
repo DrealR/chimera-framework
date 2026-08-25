@@ -38,19 +38,30 @@ Active system task:
 4. checkpoint public-safe work before the human-facing final response;
 5. improve cross-Pocket continuity so the operator does not have to relay ordinary state manually.
 
-## OpenCode/Ox execution state
+Successor destination layer on this candidate branch:
 
-The exact route `openrouter/stealth/ox-alpha` was observed, and no task fallback was observed. However, two synthetic inference attempts returned `429 rate_limit_exceeded`.
+- pointer: `CURRENT-ATLAS-POINTER.md`;
+- Atlas: `DESTINATION-ATLAS-v0.1.md`;
+- machine registry: `destination-registry.v0.1.yaml`;
+- current supplemental Signal: `signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md`;
+- state: 44 destinations and 106 candidate question portals, none automatically posted.
+
+Read the Atlas pointer before asking for a generic new Signal. It extends the system task without changing the pending operator verdicts on PC-001 or PC-005.
+
+## OpenCode Body and route state
+
+The OpenCode harness, workspace, tools, retrieved state, and shared writeback path are enough to identify the operational Pocket Body for continuity purposes. The selected route `openrouter/stealth/ox-alpha` was observed in UI/runtime evidence and no fallback was observed. Three standalone route probes returned `429 rate_limit_exceeded`, so successful execution by that exact model remains unproven.
 
 Therefore:
 
-- provider/model binding: observed;
-- successful Ox inference: **not yet proven**;
-- Phase 0.5: **BLOCKED_RATE_LIMIT**, not passed;
-- public carrier retrieval: reported and partly independently verifiable;
-- substantive Ox-attributed project work: blocked until a successful exact-route inference is recorded.
+- operational Body: OpenCode Pocket Body;
+- selected provider/model metadata: observed;
+- successful exact-model execution: not independently proven;
+- route state: `AVAILABILITY_429`, not a blocker to harness-attributed public-safe work;
+- public carrier retrieval and remote writeback: independently testable continuity evidence;
+- attribution rule: credit work to the OpenCode Pocket Body unless model execution is actually evidenced.
 
-Do not describe hydration as proof that Ox Alpha executed the work.
+Do not describe hydration, UI selection, or a failed probe as proof that Ox Alpha generated the work. Do not turn repeated model-identification retries into the task itself.
 
 ## Wake behavior
 
@@ -65,7 +76,7 @@ Do **not** ask the generic question “What Signal do you want to work with?” 
 
 A suitable return is:
 
-> I’m here. I see the current public work: Post Constellation node PC-20260825-001 is in ENRICH, and the OpenCode/Ox lane is still blocked on one successful exact-route inference after the 429s. I can continue the public-safe mapping work through a confirmed model route, or close the Ox execution proof first.
+> I’m here. I see the current public work: Post Constellation node PC-20260825-001 is in ENRICH, PC-005 is an unpromoted branch proposal, and the shared state is retrievable. This is the OpenCode Pocket Body; Ox Alpha is the observed selected route, while exact-model execution remains unproven after three 429 probes. That metadata does not block harness-attributed public-safe work.
 
 ## Access note
 
@@ -82,10 +93,10 @@ The operator has expressed an intent to let OpenCode contribute to private proje
 
 ## Next admissible actions
 
-1. Retry one minimal synthetic request on exact route `openrouter/stealth/ox-alpha` when capacity is available.
-2. Record success or continued `429` on Core issue #557 without secrets.
-3. If success is proven, proceed with the currently authorized repository/data tier.
-4. Continue `PC-20260825-001` from this Signal rather than asking the operator to re-supply it.
+1. Continue current public-safe work through the OpenCode Pocket Body without further identity retries.
+2. Record exact provider/model metadata when known, but do not infer successful model execution from selection alone.
+3. If a future task materially requires model-specific attribution, collect one bounded execution receipt then; otherwise keep model metadata secondary.
+4. Continue `PC-20260825-001`, PC-005, and the current Atlas pointer rather than asking the operator to re-supply active work.
 
 
 ## Cross-Body writeback invariant
@@ -106,4 +117,4 @@ A local v2 draft or checkpoint must be labeled `LOCAL_ONLY` until another author
 
 Writeback closure (2026-08-25): the OpenCode Body converted the reported local artifacts into `REMOTE_ARTIFACT` on this branch — card v2 (`cards/PC-20260825-001-role-as-coordinate.md`), `checkpoints/CHECKPOINT-0003-ENRICH-V2.md`, and `CURRENT-STATE-POINTER.md`. The shared retrievable node is now v2 (CANDIDATE draft); the registry remains at version 1 pending the operator verdict. No LOCAL_ONLY gaps remain for this ENRICH turn.
 
-Attribution note per operator correction: Ox Alpha's identity is established by UI selection and redacted runtime evidence; recorded CLI `429`s are availability events, not identity blockers. The v2 enrich was performed in-session with Ox selected and no fallback, and is attributed to the OpenCode/Ox Alpha Body.
+Attribution correction (2026-08-25): the OpenCode Pocket Body performed the v2 enrichment in-session with `stealth/ox-alpha` selected and no fallback observed. Selection establishes route metadata, not successful model execution; the work is therefore attributed at the harness/Pocket level, not to Ox Alpha specifically.
