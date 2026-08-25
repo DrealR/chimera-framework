@@ -3,6 +3,9 @@ classification: "PUBLIC_SAFE_EXPERIMENTAL_CANDIDATE"
 publication_authority: "operator_only"
 updated_utc: "2026-08-25"
 source_branch: "morrow/post-constellation-opencode-20260825"
+current_signal: "CURRENT-SIGNAL.md"
+active_node: "PC-20260825-001-role-as-coordinate"
+active_operation: "ENRICH"
 
 rules:
   - "candidate is not published"
