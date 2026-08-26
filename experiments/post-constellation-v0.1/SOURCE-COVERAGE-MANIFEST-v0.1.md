@@ -37,7 +37,19 @@ No private repository names, heads, paths, tree counts, archive sizes, source ex
 
 ## Current Signal pass
 
-The current Mission / Surface-Learning Signal added:
+The current Nested Exchange / Public Emission Signal added:
+
+- Receive → Transform → Express/Emit → Consequence → Return/Residue as a bounded successor to bare input/output;
+- nested body exchange without equating human, animal, AI, platform, and ecological interiors;
+- a public post as an addressable perturbation rather than deterministic programming;
+- a profile as accumulated public residue rather than a complete person;
+- Path Before Package as a smallest-reversible-capability build discipline;
+- discrete continuity vitals rather than simulated coherence percentages;
+- explicit firewalls separating solar energy, signals, information, attention, action, and metaphor.
+
+The operator-posted field-relative-intelligence question was independently observed at `https://x.com/DejiBasho/status/2092409619628876156`. The public logged-out profile exposed only the newest five posts before a sign-in gate, so it was not treated as a complete profile archive.
+
+The preceding Mission / Surface-Learning Signal added:
 
 - mission-directed behavior without assuming a central commander;
 - ecological fit and the house as a human-imposed sensory/architectural field;

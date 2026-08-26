@@ -1,51 +1,26 @@
-# Current-State Pointer — Post Constellation / OpenCode continuity
+# Current-State Pointer — Compatibility Surface
 
-Updated: 2026-08-25
-Writeback class: **REMOTE_ARTIFACT** — this pointer is retrievable on the shared carrier branch.
+> **Updated:** 2026-08-26
+> **Writeback class:** REMOTE_ARTIFACT after branch push
+> **Canonical state:** `SYSTEM-VITALS.v0.1.yaml`
 
-## Carrier
+This file remains for older OpenCode and cross-Pocket wake paths. It may not redefine current state independently of the canonical vitals.
 
-- Repository: `DrealR/chimera-framework`
-- Branch: `morrow/post-constellation-opencode-20260825`
-- Parent head synced: `1018781609c720a83e911217bcd69b29c9b65384`
-- Canonical signal: `experiments/post-constellation-v0.1/CURRENT-SIGNAL.md`
+## Current work
 
-## Active work
+- Active Signal: `signals/SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE.md`
+- Active node: `PC-20260825-006-field-relative-intelligence`
+- State: `RETURN_OPEN`
+- Operation: `OBSERVE_WITHOUT_FORCING`
+- Latest checkpoint: `checkpoints/CHECKPOINT-0007-NESTED-EXCHANGE-VITALS-POST-RETURN.md`
+- X profile capture pattern: `tools/X-PROFILE-CAPTURE-RUNBOOK.md`
 
-- Node: `PC-20260825-001-role-as-coordinate` — CANDIDATE, operation **ENRICH**
-- Status: **ENRICH v2 COMPLETE — REMOTE_ARTIFACT**, awaiting operator verdict
-  - Card v2: `experiments/post-constellation-v0.1/cards/PC-20260825-001-role-as-coordinate.md` (this branch)
-  - Checkpoint: `experiments/post-constellation-v0.1/checkpoints/CHECKPOINT-0003-ENRICH-V2.md`
-  - v2 additions: named-membrane mechanism, role-as-weighting-field, applause loop (reflexivity), exit-as-operator-test; +2 counterpaths; +2 firewall rules
-  - Registry remains at node version 1 pending operator verdict (accept / revise / reject / PRESERVE_ONLY)
+## Preserved gates
 
-## OpenCode Body and route state (corrected 2026-08-25)
+- PC-001 v2 verdict: accept / revise / reject / `PRESERVE_ONLY`.
+- PC-005 classification: branch / enrich / `PRESERVE_ONLY`.
+- No audience Return is recorded for PC-006 until it is independently retrieved and attributed.
 
-- Operational attribution: OpenCode Pocket Body, identified by harness, workspace, tools, retrieved state, authority, and shared writeback.
-- Selected route metadata: OpenRouter + `stealth/ox-alpha`, observed in UI/runtime evidence; no fallback observed.
-- Three standalone route probes returned `429`. This is an availability record, not evidence that Ox generated the in-session work and not a blocker to harness-attributed public-safe work.
-- Do not repeat model-identification probes unless a future task materially requires model-specific attribution.
+## Operational Body policy
 
-## Gated / not entered
-
-- Private-project repository, branch, task, and data-tier grants remain on private control surfaces and are not reproduced in this public pointer.
-- Files outside the bounded public carrier set remain unretrieved unless a separate authority surface names them.
-
-## Successor destination layer
-
-- Pointer: `experiments/post-constellation-v0.1/CURRENT-ATLAS-POINTER.md`
-- State: candidate v0.1, 44 durable destinations and 106 candidate question portals.
-- Current supplemental Signal: appetite, interval, consumption spectacle, fast money, children inside adult incentives, AI production/digestion, family/care, and memory rent.
-- Existing PC-001 and PC-005 operator decisions remain pending; the destination layer does not promote them.
-
-## Next admissible actions for the next Body
-
-1. Present v2 diff to operator; await verdict. PRESERVE_ONLY remains valid.
-2. On verdict, propose registry update: node current_version → 2, relations per draft lineage section.
-3. No publish, no merge to main, no POSTED marking. Publication authority: operator only.
-4. On new operator brainstorm: capsule turn protocol (search registry first; typed relations; remote writeback before final response).
-5. Read `CURRENT-ATLAS-POINTER.md` and route new observations through the destination registry before minting another post node.
-
-## Privacy check
-
-Public-safe only. No credentials, private source text, personal memory, unrelated private-life data, or sibling Pocket data is contained in this pointer.
+Continuity is role + harness + workspace + authority + verified shared state + writeback. Provider/model may be recorded when materially known, but it is not the continuity gate. No merge, publication, private access, or model attribution is inferred from successful hydration.

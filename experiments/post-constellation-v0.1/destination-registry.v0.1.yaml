@@ -90,7 +90,7 @@ destinations:
     title: "Attention Fields and Algorithmic Training"
     neighborhood: "appetite_attention"
     core_question: "At what point does a feed stop reflecting an appetite and begin training the appetite it predicts?"
-    mechanisms: ["behavioral prompting", "recommendation reflexivity", "tunnel formation", "exposure-selection feedback"]
+    mechanisms: ["behavioral prompting", "recommendation reflexivity", "tunnel formation", "exposure-selection feedback", "behavior-ranking-behavior recursion"]
     carriers: ["For You feeds", "personalized advertising", "rage loops", "niche communities"]
     neighbors: ["DA-001", "DA-008", "DA-011", "DA-016"]
 
@@ -270,7 +270,7 @@ destinations:
     title: "Bodies, Membranes, Metabolism, and Scale"
     neighborhood: "foundation_transfer"
     core_question: "What is the body, at what scale, what crosses its membrane, and where does consequence settle?"
-    mechanisms: ["boundary-interior-medium", "metabolism", "residue", "governance", "Day-Night scan"]
+    mechanisms: ["boundary-interior-medium", "metabolism", "receive-transform-exit-return", "residue", "governance", "Day-Night scan"]
     carriers: ["cell", "person", "team", "company", "platform", "software system"]
     neighbors: ["DA-025", "DA-027", "DA-034", "DA-040"]
 
@@ -360,7 +360,7 @@ destinations:
     title: "Embodiment, Transduction, and Settlement"
     neighborhood: "foundation_transfer"
     core_question: "Where does a signal become local meaning, committed action, consequence, and residue?"
-    mechanisms: ["transduction chain", "body as settlement layer", "physical-relational space", "proof of passage"]
+    mechanisms: ["transduction chain", "receive-transform-express-consequence-return-residue", "body as settlement layer", "physical-relational space", "proof of passage"]
     carriers: ["speech", "code", "music", "tool", "conversation", "practice"]
     neighbors: ["DA-019", "DA-024", "DA-028", "DA-031", "DA-035"]
 
@@ -369,7 +369,7 @@ destinations:
     title: "Building, Applications, Evaluation, and Recovery"
     neighborhood: "foundation_transfer"
     core_question: "How does an insight become a real body whose consequence can grade the framework and improve the operator?"
-    mechanisms: ["application circuit", "smallest body first", "build under load", "field return", "stall-branch-reintegrate", "retirement"]
+    mechanisms: ["application circuit", "smallest body first", "path before package", "build under load", "field return", "stall-branch-reintegrate", "retirement"]
     carriers: ["prototype", "experiment", "lesson", "product", "relationship practice", "benchmark"]
     neighbors: ["DA-022", "DA-026", "DA-027", "DA-032", "DA-034"]
 

@@ -1,0 +1,107 @@
+schema_version: "chimera.continuity-vitals/0.1"
+classification: "PUBLIC_SAFE"
+publication_authority: "operator_only"
+updated_utc: "2026-08-26"
+
+carrier:
+  repository: "DrealR/chimera-framework"
+  branch: "morrow/question-destination-atlas-20260825"
+  ref_policy: "resolve_branch_then_pin"
+  minimum_ancestor: "d8fd77e8638ed7d54244a82c85269b98d37bb2a3"
+
+canonical_state:
+  protocol: "SYSTEM-VITALS-PROTOCOL-v0.1.md"
+  human_pointer: "CURRENT-ATLAS-POINTER.md"
+  compatibility_pointers:
+    - "CURRENT-SIGNAL.md"
+    - "CURRENT-STATE-POINTER.md"
+  active_signal:
+    id: "SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE"
+    path: "signals/SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE.md"
+  live_lineage:
+    - "signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md"
+    - "signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md"
+  current_operation: "MAP_NESTED_EXCHANGE_AND_OPEN_POST_RETURN"
+  latest_checkpoint: "checkpoints/CHECKPOINT-0007-NESTED-EXCHANGE-VITALS-POST-RETURN.md"
+
+required_artifacts:
+  - role: "vitals_protocol"
+    path: "SYSTEM-VITALS-PROTOCOL-v0.1.md"
+    sha256: "083a80107f3c4c60053b040a6c5d28b1a2aa41e9e29909ca0ed59669339e7e30"
+  - role: "human_pointer"
+    path: "CURRENT-ATLAS-POINTER.md"
+    sha256: "c206805b5851bc561792439c17abf5902a7c3dc210148f6dd5918700dd2e650e"
+  - role: "compatibility_signal"
+    path: "CURRENT-SIGNAL.md"
+    sha256: "01955436261fe263e16293120979c6633853669f387b8980c8886fe19db29f75"
+  - role: "compatibility_state_pointer"
+    path: "CURRENT-STATE-POINTER.md"
+    sha256: "e435cfeb55c40acf8a8d03edfa4469127ee62f12c10f9ab194a6c4488dcf8990"
+  - role: "post_registry"
+    path: "registry.yaml"
+    sha256: "5b1e5bbb7ec02aeffebfb1712b0874fe85f531ac3ff05b167cca16f9a60c6925"
+  - role: "destination_registry"
+    path: "destination-registry.v0.1.yaml"
+    sha256: "e841ff8c74dca567112d76e6b1f35fc4313897d63bc52f85dfea2f176392d9db"
+  - role: "destination_atlas"
+    path: "DESTINATION-ATLAS-v0.1.md"
+    sha256: "f86d44b77130904e1da8f20f7308d9bd443e4b2acbbabc712a6a4f6953362d4f"
+  - role: "active_signal"
+    path: "signals/SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE.md"
+    sha256: "ea961d8c8e567427212228dd5cba8c2275e2af9446211a595b068a199408995e"
+  - role: "posted_node"
+    path: "cards/PC-20260825-006-field-relative-intelligence.md"
+    sha256: "31695a83eb7b78499f36673d5e0da4a4c5cceda5549e441bc52be1646e72c965"
+  - role: "latest_checkpoint"
+    path: "checkpoints/CHECKPOINT-0007-NESTED-EXCHANGE-VITALS-POST-RETURN.md"
+    sha256: "d7005061569f51fd4f4ddfa42a177e99ba0e795fbc81f4a1b4a39834b0477f5d"
+  - role: "x_capture_runbook"
+    path: "tools/X-PROFILE-CAPTURE-RUNBOOK.md"
+    sha256: "dcaaa8931614a9fd5a5ef004e30316a8dcfd4691624c28f5f871fcdba17fca0b"
+  - role: "x_capture_script"
+    path: "tools/x-profile-capture.js"
+    sha256: "4adcf53632ee90070761afac18af40643ddf963123d3f1363b066ace47bcd2ff"
+
+active_work:
+  primary:
+    node: "PC-20260825-006-field-relative-intelligence"
+    state: "RETURN_OPEN"
+    operation: "OBSERVE_WITHOUT_FORCING"
+  system:
+    - "validate cross-harness continuity through discrete vitals"
+    - "test the local X profile collector before packaging it"
+    - "map audience Returns only when independently retrieved"
+  pending_gates:
+    - id: "PC-20260825-001-v2-verdict"
+      state: "WAITING_OPERATOR"
+    - id: "PC-20260825-005-classification"
+      state: "WAITING_OPERATOR"
+
+body_policy:
+  continuity_identity: "role+harness+workspace+authority+retrieved_state+writeback"
+  provider_model_required: false
+  provider_model_rule: "optional_metadata_unless_task_requires_model_attribution"
+  no_generic_signal_prompt: true
+
+writeback:
+  minimum_class: "REMOTE_ARTIFACT"
+  local_only_gaps: []
+  on_failure: "REPORT_EXACT_LOCAL_ONLY_GAP"
+
+status_logic:
+  allowed: ["SYNCED", "STALE", "DIVERGED", "INCOMPLETE", "UNREACHABLE"]
+  on_same_head_conflict: "DIVERGED"
+  on_missing_required_artifact: "INCOMPLETE"
+  on_unreachable_carrier: "UNREACHABLE"
+  on_advanced_ref_with_changed_required_paths: "STALE"
+  on_validated_agreement: "SYNCED"
+  time_alone_marks_stale: false
+  pending_operator_gate_marks_unsynced: false
+
+authority:
+  may_read_public_carrier: true
+  may_propose_candidate_changes: true
+  may_publish: false
+  may_merge: false
+  may_infer_private_access: false
+  on_divergence: "STOP_WRITES_AND_REPORT"

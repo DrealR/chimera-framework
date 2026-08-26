@@ -227,6 +227,8 @@ Distribution measures reach. It does not grade truth or human value.
 
 ## OpenCode / heterogeneous-Body operation
 
+Canonical wake begins at `SYSTEM-VITALS.v0.1.yaml` and follows `SYSTEM-VITALS-PROTOCOL-v0.1.md`. Older `CURRENT-*` files remain compatibility surfaces; disagreement among them is `DIVERGED`, not permission to choose the most convenient version.
+
 A public/synthetic Body may:
 
 - retrieve this protocol and the public registry;

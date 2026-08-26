@@ -1,15 +1,16 @@
 schema_version: "post_constellation/0.1"
 classification: "PUBLIC_SAFE_EXPERIMENTAL_CANDIDATE"
 publication_authority: "operator_only"
-updated_utc: "2026-08-25"
-source_branch: "morrow/post-constellation-opencode-20260825"
-current_signal: "CURRENT-SIGNAL.md"
+updated_utc: "2026-08-26"
+source_branch: "morrow/question-destination-atlas-20260825"
+system_vitals: "SYSTEM-VITALS.v0.1.yaml"
+current_signal: "signals/SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE.md"
 current_atlas_pointer: "CURRENT-ATLAS-POINTER.md"
 destination_atlas: "DESTINATION-ATLAS-v0.1.md"
 destination_registry: "destination-registry.v0.1.yaml"
 question_portal_deck: "QUESTION-PORTAL-DECK-v0.1.md"
-active_node: "PC-20260825-001-role-as-coordinate"
-active_operation: "ENRICH"
+active_node: "PC-20260825-006-field-relative-intelligence"
+active_operation: "OBSERVE_WITHOUT_FORCING"
 
 rules:
   - "candidate is not published"
@@ -54,6 +55,47 @@ nodes:
     current_version: 1
     operator_verdict: null
     post_receipt: null
+
+  - id: "PC-20260825-006-field-relative-intelligence"
+    state: "RETURN_OPEN"
+    title: "Field-relative intelligence"
+    path: "cards/PC-20260825-006-field-relative-intelligence.md"
+    question_body: ["Mirror", "Earth", "Seam"]
+    mechanisms:
+      - "field-relative competence"
+      - "environment as part of the test"
+      - "rule-field mismatch"
+    domains:
+      - "animal behavior"
+      - "ecology"
+      - "education"
+      - "software and AI evaluation"
+      - "institutional design"
+    desired_return:
+      - "native-domain examples"
+      - "counterexamples where the rule is the failure"
+      - "accommodation and translation practices"
+      - "environment-sensitive evaluation"
+    relations:
+      - type: "derived_from"
+        target: "signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md"
+      - type: "extends"
+        target: "DA-024"
+      - type: "extends"
+        target: "DA-040"
+    firewall:
+      - "field mismatch does not make every failure intelligent"
+      - "do not generalize an insect carrier into a diagnosis of people or systems"
+      - "preserve accountability, learnable change, and native-domain evidence"
+    current_version: 1
+    operator_verdict: "POSTED"
+    post_receipt:
+      platform: "X"
+      canonical_url: "https://x.com/DejiBasho/status/2092409619628876156"
+      publication_actor: "operator"
+      automatic_publication: false
+      observed_utc: "2026-08-26"
+      audience_returns_ingested: false
 
 candidate_backlog:
   - id: "PC-20260825-002-memory-rent"

@@ -1,0 +1,43 @@
+{
+  "ownerHandle": "morrow_test",
+  "snapshots": [
+    {
+      "links": [
+        { "href": "/morrow_test/status/101", "hasTime": true },
+        { "href": "/quoted_author/status/900", "hasTime": false }
+      ],
+      "datetime": "2026-08-24T10:00:00.000Z",
+      "text": "A concrete observation becomes a question.",
+      "isReply": false,
+      "metricLabels": ["4 replies, 1 repost, 12 likes, 1.2K views"]
+    },
+    {
+      "links": [
+        { "href": "/another_author/status/102", "hasTime": true }
+      ],
+      "datetime": "2026-08-24T11:00:00.000Z",
+      "text": "This is a repost and must not be attributed to the profile owner.",
+      "isReply": false,
+      "metricLabels": ["9 replies, 10 likes"]
+    },
+    {
+      "links": [
+        { "href": "https://x.com/morrow_test/status/103?ref_src=test", "hasTime": true }
+      ],
+      "datetime": "2026-08-25T12:30:00.000Z",
+      "text": "A rendered reply from the profile owner.",
+      "isReply": true,
+      "metricLabels": ["1 reply, 2 likes, 300 views"]
+    },
+    {
+      "links": [
+        { "href": "/morrow_test/status/101", "hasTime": true }
+      ],
+      "datetime": "2026-08-24T10:00:00.000Z",
+      "text": "A concrete observation becomes a question after Show more expanded the full text.",
+      "isReply": false,
+      "metricLabels": ["5 replies, 1 repost, 15 likes, 1,500 views"]
+    }
+  ]
+}
+

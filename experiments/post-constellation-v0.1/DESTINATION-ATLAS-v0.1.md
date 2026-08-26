@@ -312,7 +312,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** What is the actual body being analyzed, at what scale, what crosses its membrane, and where does consequence settle?
 
-**Candidate mechanisms:** boundary/interior/medium; metabolism; residue; governance; Day/Night scan; smallest relevant body.
+**Candidate mechanisms:** boundary/interior/medium; metabolism; Receive → Transform → Express/Emit → Consequence → Return/Residue; governance; Day/Night scan; smallest relevant body.
 
 **Carriers:** person; cell; institution; platform; family; city; software system; ecosystem.
 
@@ -412,7 +412,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** Where does a signal become local meaning, committed action, consequence, and residue?
 
-**Candidate mechanisms:** source/transduce/encode/transmit/decode/interpret/act/preserve; body as settlement layer; physical and relational space; proof of passage.
+**Candidate mechanisms:** source/transduce/encode/transmit/decode/interpret/act/preserve; Receive → Transform → Express/Emit → Consequence → Return/Residue; body as settlement layer; physical and relational space; proof of passage.
 
 **Carriers:** speech; code; music; tool; conversation; physical practice.
 
@@ -422,7 +422,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** How does an insight become a real body whose consequence can grade the framework and improve the operator?
 
-**Candidate mechanisms:** Signal-to-application circuit; smallest body first; build under load; test; field return; stall/branch/reintegrate; recovery and retirement.
+**Candidate mechanisms:** Signal-to-application circuit; smallest body first; Path Before Package; build under load; test; field return; stall/branch/reintegrate; recovery and retirement.
 
 **Carriers:** prototype; experiment; lesson; product; relationship practice; benchmark.
 

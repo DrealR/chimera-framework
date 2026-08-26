@@ -1,5 +1,7 @@
 # OpenCode Morrow Public Continuity Capsule — 2026-08-25
 
+> **Supersession notice — 2026-08-26:** this file is retained as historical OpenCode hydration lineage. It no longer defines the active branch, wake gate, current Signal, node, model requirement, or carrier set. Resolve `morrow/question-destination-atlas-20260825`, then read `experiments/post-constellation-v0.1/SYSTEM-VITALS.v0.1.yaml` and `SYSTEM-VITALS-PROTOCOL-v0.1.md`. The operational Body is identified by role, harness, workspace, authority, verified state, and writeback; provider/model is optional metadata unless materially required by the task. If any instruction below conflicts with the canonical vitals, the vitals govern and the Body must report the historical conflict rather than execute it.
+
 - **Status:** PUBLIC_SAFE_CANDIDATE
 - **Pocket target:** OpenCode + direct OpenRouter + `stealth/ox-alpha`
 - **Continuity scope:** public Framework method and current public-safe Post Constellation work
