@@ -1,5 +1,13 @@
 # Gender as Body Theory
 
+> **Status:** HISTORICAL SPECULATIVE CARRIER — UNDER CLASSIFICATION REVIEW (2026-08-26)
+>
+> This document preserves an earlier framework traversal. It is **not current authority** for biological, medical, legal, athletic, demographic, social, family, or policy classification. It combines archetypal, theological, historical, psychological, and empirical registers without consistently separating their evidence burdens.
+>
+> Until a revision completes that separation, read “masculine,” “feminine,” “male,” “female,” family roles, reproduction, nervous-system inheritance, AI modes, and civilizational claims here as **candidate or STORY-level carriers**, not established universal mechanisms or prescriptions. Sex characteristics, gender identity, gender expression, sexual orientation, social role, legal classification, medical context, and cultural vocabulary must remain distinct unless a named domain supplies evidence for a specific relation.
+>
+> Current pressure and correction lineage: [`SIGNAL-2026-08-26-CATEGORY-INTERFACES-RECOGNITION-AND-CONTEXT-BEARING-TRANSFER.md`](../experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-26-CATEGORY-INTERFACES-RECOGNITION-AND-CONTEXT-BEARING-TRANSFER.md) and [`classification-discipline.md`](classification-discipline.md). The original text remains visible so the framework carries its walked path and correction rather than silently rewriting history.
+
 > Male and female are equal bodies with different physics. Difference is what makes relationship possible. Equality is what makes it not be extraction.
 
 ---

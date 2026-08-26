@@ -8,13 +8,14 @@ This compatibility surface no longer defines an independent “current.” Resol
 
 ## Active state
 
-- Signal: `signals/SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE.md`
+- Signal: `signals/SIGNAL-2026-08-26-YOUTUBE-X-CROSS-PLATFORM-TRANSDUCTION-AND-COMMENT-RESIDUE.md`
 - Posted node: `PC-20260825-006-field-relative-intelligence`
 - Node state: `RETURN_OPEN`
-- Current operation: `OBSERVE_WITHOUT_FORCING`
-- Latest checkpoint: `checkpoints/CHECKPOINT-0007-NESTED-EXCHANGE-VITALS-POST-RETURN.md`
+- Unposted candidate: `PC-20260826-007-portable-memory`
+- Current operation: `CAPTURE_YOUTUBE_COMMENT_TREE_AND_MAP_CROSS_PLATFORM_RETURN`
+- Latest checkpoint: `checkpoints/CHECKPOINT-0008-CONTEXT-BEARING-PORTABILITY-AND-CROSS-PLATFORM-RETURN.md`
 
-The preceding Mission / Surface-Learning and Appetite Signals remain live lineage. PC-001 v2 and PC-005 still await their operator decisions.
+Operator-owned continuity/data reciprocity, category interfaces/context-bearing transfer, Nested Exchange/Public Emission, Mission/Surface-Learning, and Appetite/Interval remain live lineage. PC-001 v2, PC-005, and PC-007 still await operator decisions.
 
 ## Wake behavior
 
@@ -27,4 +28,4 @@ The preceding Mission / Surface-Learning and Appetite Signals remain live lineag
 
 ## Current human-facing return
 
-> I'm here. I see the Nested Exchange / Public Emission Signal, the field-relative-intelligence post is live at PC-006 with its Return open, and the current build pattern is Path Before Package. I verified the canonical vitals at one pinned head and will report any divergence instead of asking you to restate the work.
+> I'm here. I see the YouTube–X Cross-Platform Transduction Signal. PC-006 remains live with its Return open; PC-007 Portable Memory is an unposted candidate; and the bounded YouTube comment-tree collector is ready for one operator-chosen watch page. I verified the canonical vitals at one pinned head and will report divergence instead of asking you to restate the work.

@@ -4,13 +4,13 @@ publication_authority: "operator_only"
 updated_utc: "2026-08-26"
 source_branch: "morrow/question-destination-atlas-20260825"
 system_vitals: "SYSTEM-VITALS.v0.1.yaml"
-current_signal: "signals/SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE.md"
+current_signal: "signals/SIGNAL-2026-08-26-YOUTUBE-X-CROSS-PLATFORM-TRANSDUCTION-AND-COMMENT-RESIDUE.md"
 current_atlas_pointer: "CURRENT-ATLAS-POINTER.md"
 destination_atlas: "DESTINATION-ATLAS-v0.1.md"
 destination_registry: "destination-registry.v0.1.yaml"
 question_portal_deck: "QUESTION-PORTAL-DECK-v0.1.md"
 active_node: "PC-20260825-006-field-relative-intelligence"
-active_operation: "OBSERVE_WITHOUT_FORCING"
+active_operation: "CAPTURE_YOUTUBE_COMMENT_TREE_AND_MAP_CROSS_PLATFORM_RETURN"
 
 rules:
   - "candidate is not published"
@@ -97,6 +97,43 @@ nodes:
       observed_utc: "2026-08-26"
       audience_returns_ingested: false
 
+  - id: "PC-20260826-007-portable-memory"
+    state: "CANDIDATE"
+    title: "Portable memory"
+    path: "cards/PC-20260826-007-portable-memory.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "memory asymmetry"
+      - "data reciprocity"
+      - "continuity without total capture"
+    domains:
+      - "AI continuity"
+      - "platform data"
+      - "privacy"
+      - "interoperability"
+    desired_return:
+      - "lived export and migration paths"
+      - "fresh-start counterpaths"
+      - "minimum useful continuity artifacts"
+      - "privacy and security boundaries"
+    relations:
+      - type: "derived_from"
+        target: "signals/SIGNAL-2026-08-26-OPERATOR-OWNED-CONTINUITY-DATA-RECIPROCITY-AND-VERIFIABLE-PASSAGE.md"
+      - type: "extends"
+        target: "DA-012"
+      - type: "extends"
+        target: "DA-014"
+      - type: "requires"
+        target: "DA-019"
+    firewall:
+      - "portable continuity is not consciousness or identity transfer"
+      - "do not expose credentials, security signals, other people's data, or proprietary weights"
+      - "preserve expiry, revocation, chosen forgetting, and a fresh-start path"
+      - "candidate is not publication authority"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
 candidate_backlog:
   - id: "PC-20260825-002-memory-rent"
     state: "SEED"
@@ -117,3 +154,24 @@ candidate_backlog:
     blocked_until:
       - "labor-policy verification"
       - "avoid claims about specific workers"
+  - id: "PC-20260826-008-category-interface"
+    state: "SEED"
+    seam: "What happens when a category built for one decision starts governing a person's entire life?"
+    blocked_until:
+      - "choose one operational context"
+      - "preserve self-description, appeal, and expiry"
+      - "avoid whole-group or whole-country diagnosis"
+  - id: "PC-20260826-009-context-bearing-solution-transfer"
+    state: "SEED"
+    seam: "What must travel with a solution before another body can responsibly test it?"
+    blocked_until:
+      - "select one sourced path"
+      - "preserve failed attempts, power, dissent, and transfer ceiling"
+      - "name recipient authority and return condition"
+  - id: "PC-20260826-010-cross-platform-comment-residue"
+    state: "SEED"
+    seam: "What changes when a dependent comment is lifted from one platform and re-anchored as a standalone question on another?"
+    blocked_until:
+      - "capture a bounded real comment tree"
+      - "preserve source context and distinguish quotation from synthesis"
+      - "compare visible sort and sampling limits"

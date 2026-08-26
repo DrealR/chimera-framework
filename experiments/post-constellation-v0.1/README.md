@@ -276,10 +276,12 @@ A successful protocol should improve:
 
 The original protocol registers versioned post nodes. The destination layer adds a slower-changing map underneath them so one relational field can support many non-equivalent public entrances without becoming a content quota.
 
-- [CHIMERA Question-Destination Atlas](DESTINATION-ATLAS-v0.1.md) — 44 durable relational fields and typed trails;
+- [CHIMERA Question-Destination Atlas](DESTINATION-ATLAS-v0.1.md) — 46 durable relational fields and typed trails;
 - [machine-readable destination registry](destination-registry.v0.1.yaml) — destination IDs, mechanisms, carriers, neighbors, and relation vocabulary;
 - [Question Portal Grammar](QUESTION-PORTAL-GRAMMAR-v0.2.md) — answer-bearing question shapes, firewalls, and Plant–Release–Return;
-- [Question Portal Deck](QUESTION-PORTAL-DECK-v0.1.md) — 106 candidate entrances, not a publication queue;
+- [Question Portal Deck](QUESTION-PORTAL-DECK-v0.1.md) — 118 candidate entrances, not a publication queue;
+- [Cross-Platform Transduction Protocol](CROSS-PLATFORM-TRANSDUCTION-PROTOCOL-v0.1.md) — source-preserving movement from context anchor to branch field to portable portal and Return;
+- [YouTube Comment Capture Runbook](tools/YOUTUBE-COMMENT-CAPTURE-RUNBOOK.md) — bounded rendered-DOM tree capture with pseudonymized authors by default;
 - [current Mission / Surface-Learning Signal](signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md) — field-relative intelligence, behavioral slack, paid compression, and reciprocal learning;
 - [Appetite Signal](signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md) — overconsumption, interval collapse, and consumption spectacle, preserved with counterpaths;
 - [Evidence Ledger](EVIDENCE-LEDGER-v0.1.md) — source-specific claim ceilings;

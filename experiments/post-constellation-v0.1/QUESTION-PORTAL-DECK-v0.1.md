@@ -1,6 +1,6 @@
 # Question Portal Deck v0.1
 
-> **State:** 106 PUBLIC_SAFE CANDIDATES / NOT POSTED. These are entrances into the Destination Atlas, not factual verdicts or a posting queue. The operator chooses what is alive. Every selected portal still receives a final wording, evidence, and harm pass before becoming a Post Constellation node.
+> **State:** 118 PUBLIC_SAFE CANDIDATES / NOT POSTED. These are entrances into the Destination Atlas, not factual verdicts or a posting queue. The operator chooses what is alive. Every selected portal still receives a final wording, evidence, and harm pass before becoming a Post Constellation node.
 
 Bold labels are editorial navigation, not canonical schema values. `archetype`, `aperture`, and protocol `question_body` are assigned only when a candidate is promoted into a full post card. Cross-destination candidates 51–60 carry `PROMOTION_REQUIRES_SPLIT`; number 60 is an internal routing index, not a standalone post.
 
@@ -540,6 +540,44 @@ Bold labels are editorial navigation, not canonical schema values. `archetype`, 
 
      When did posting your life start feeling riskier than disappearing from it?
 
+## Current continuity, category, transfer, and platform portals
+
+### Operator-owned continuity — `DA-012`, `DA-014`, `DA-019`, `DA-037`
+
+107. **Strong shape candidate — Custody**
+
+     Every platform gets to build a memory of you.
+
+     Why do you have to start over every time you leave one?
+
+108. If an AI assistant “knows” your work but you cannot inspect, correct, or move that knowledge, whose memory is it?
+
+109. When two AI sessions say they are continuous, what should count as proof besides sounding alike?
+
+### Category as interface — `DA-007`, `DA-013`, `DA-025`, `DA-030`
+
+110. How many arguments about gender are really different arguments hiding inside one word?
+
+111. What happens when a category built for one decision starts governing a person's entire life?
+
+112. Does visibility mean acceptance—or can a society consume a group it has not made room for?
+
+### Context-bearing solution transfer — `DA-045`
+
+113. When we call another country a model, are we importing its solution—or deleting the conditions that made the solution possible?
+
+114. What must travel with an idea before it can responsibly cross a culture, institution, or historical wound?
+
+115. Is a solution still the same solution after you remove the people who tried it, what failed, who paid, and who was allowed to refuse?
+
+### Cross-platform transduction — `DA-046`
+
+116. Why can a YouTube comment feel more coherent precisely because it cannot travel far without the video above it?
+
+117. Which platform stores the context—and which one rewards the fragment that can survive without it?
+
+118. What does a new post owe the parent context that helped produce it?
+
 ## Selection note
 
 The strongest immediate field from the present Signal is not “people have become gluttonous.” It is:
@@ -552,3 +590,16 @@ more appetites became continuously accessible
 ```
 
 That relation can be tested through food, gambling, shopping, sexuality, feeds, or AI production. Use one carrier at a time. Let the constellation carry the rest.
+
+The newest portals add a second operating field:
+
+```text
+operator-owned state
+→ context-bearing transfer
+→ source-preserving platform translation
+→ answer-bearing public question
+→ attributed Return
+→ visible correction
+```
+
+Do not publish the sequence as a campaign. Choose the question that is alive, preserve its source path, plant it, and walk away until a real Return arrives.

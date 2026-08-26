@@ -1,7 +1,7 @@
 schema_version: "question_destination_atlas/0.1"
 classification: "PUBLIC_SAFE_EXPERIMENTAL_CANDIDATE"
 publication_authority: "operator_only"
-updated_utc: "2026-08-25"
+updated_utc: "2026-08-26"
 atlas: "DESTINATION-ATLAS-v0.1.md"
 portal_grammar: "QUESTION-PORTAL-GRAMMAR-v0.2.md"
 portal_deck: "QUESTION-PORTAL-DECK-v0.1.md"
@@ -90,8 +90,8 @@ destinations:
     title: "Attention Fields and Algorithmic Training"
     neighborhood: "appetite_attention"
     core_question: "At what point does a feed stop reflecting an appetite and begin training the appetite it predicts?"
-    mechanisms: ["behavioral prompting", "recommendation reflexivity", "tunnel formation", "exposure-selection feedback", "behavior-ranking-behavior recursion"]
-    carriers: ["For You feeds", "personalized advertising", "rage loops", "niche communities"]
+    mechanisms: ["behavioral prompting", "recommendation reflexivity", "tunnel formation", "exposure-selection feedback", "behavior-ranking-behavior recursion", "platform-relative ranking", "Top/Newest sampling divergence"]
+    carriers: ["For You feeds", "personalized advertising", "rage loops", "niche communities", "comment ranking"]
     neighbors: ["DA-001", "DA-008", "DA-011", "DA-016"]
 
   - id: "DA-005"
@@ -108,7 +108,7 @@ destinations:
     title: "Persona Labor, Personal Brands, and Clip Ownership"
     neighborhood: "markets_bodies_moral_weather"
     core_question: "Once a person becomes a public product, which parts of them do other people begin treating as inventory?"
-    mechanisms: ["persona labor", "applause loop", "context stripping", "derivative monetization"]
+    mechanisms: ["persona labor", "applause loop", "context stripping", "derivative monetization", "branch lifting without lineage"]
     carriers: ["character performers", "streamers", "out-of-context clips", "reaction channels", "influencer brands"]
     neighbors: ["DA-005", "DA-013", "DA-016", "DA-019"]
 
@@ -117,7 +117,7 @@ destinations:
     title: "Visibility, Normalization, and Moral Weather"
     neighborhood: "markets_bodies_moral_weather"
     core_question: "When an old taboo becomes easy to see, buy, advertise, or discuss, which change actually occurred?"
-    mechanisms: ["interface normalization", "commercial repetition", "descriptive-to-normative drift", "moral pluralization"]
+    mechanisms: ["interface normalization", "commercial repetition", "descriptive-to-normative drift", "moral pluralization", "recognition-consumption split", "multi-axis social change"]
     carriers: ["gambling ads", "sexualized feeds", "infidelity discourse", "scams as entertainment", "conspicuous consumption"]
     neighbors: ["DA-005", "DA-008", "DA-016", "DA-019"]
 
@@ -162,8 +162,8 @@ destinations:
     title: "Memory, Ownership, and Trusted Residue"
     neighborhood: "memory_identity_machine_bodies"
     core_question: "When memory moves from an owned object to governed access, what continuity do you actually possess?"
-    mechanisms: ["physical-to-digital abstraction", "custody versus access", "trusted stale steering", "archive gravity", "residue decay"]
-    carriers: ["game cartridges", "digital libraries", "cloud photos", "pyramids", "agent memory files"]
+    mechanisms: ["physical-to-digital abstraction", "custody versus access", "trusted stale steering", "archive gravity", "residue decay", "operator-owned continuity", "data reciprocity", "selective portability", "revocation and chosen forgetting"]
+    carriers: ["game cartridges", "digital libraries", "cloud photos", "pyramids", "agent memory files", "provider-held conversational memory", "portable state bundles"]
     neighbors: ["DA-013", "DA-014", "DA-019", "DA-023"]
 
   - id: "DA-013"
@@ -171,7 +171,7 @@ destinations:
     title: "Names, Roles, and Coordinate Systems"
     neighborhood: "memory_identity_machine_bodies"
     core_question: "When does a name or role clarify a decision landscape, and when does it remove alternatives?"
-    mechanisms: ["role-conditioned decision compression", "named membrane", "local weighting field", "exit as operator test"]
+    mechanisms: ["role-conditioned decision compression", "named membrane", "local weighting field", "exit as operator test", "category as purpose-bound interface", "appeal and expiry"]
     carriers: ["Peter Pan", "Luffy", "Jesus", "Superman", "Aang", "Morrow"]
     neighbors: ["DA-006", "DA-012", "DA-014", "DA-016", "DA-021"]
 
@@ -180,7 +180,7 @@ destinations:
     title: "Model, Harness, Continuity, and Operator"
     neighborhood: "memory_identity_machine_bodies"
     core_question: "What must persist for coherent AI collaboration when model, provider, interface, or context changes?"
-    mechanisms: ["ephemeral intelligence over persistent structure", "artifact hydration", "body-level benchmarking", "operator-held direction"]
+    mechanisms: ["ephemeral intelligence over persistent structure", "artifact hydration", "body-level benchmarking", "canonical wake state", "Proof of Sync", "cross-harness retrieval/writeback", "operator-held direction", "distributed execution with centralized answerability"]
     carriers: ["Codex", "OpenCode", "Kimi", "model routers", "repository checkpoints", "Mo"]
     neighbors: ["DA-012", "DA-013", "DA-015", "DA-019", "DA-022"]
 
@@ -225,7 +225,7 @@ destinations:
     title: "Truth, Provenance, and Synthetic Reality"
     neighborhood: "measurement_distribution_truth"
     core_question: "What should warrant belief when images, voices, clips, identities, and records can be detached from source cheaply?"
-    mechanisms: ["provenance warrant", "context collapse", "impersonation", "visibility-event confusion", "correction path"]
+    mechanisms: ["provenance warrant", "context collapse", "impersonation", "visibility-event confusion", "correction path", "Proof of Passage", "semantic substance evaluation", "Proof of Sync", "warrant-layer separation"]
     carriers: ["deepfakes", "nonconsensual synthetic intimacy", "impersonation scams", "clipped streams", "fake screenshots"]
     neighbors: ["DA-006", "DA-008", "DA-012", "DA-014", "DA-015"]
 
@@ -234,7 +234,7 @@ destinations:
     title: "People as Co-Operators"
     neighborhood: "relation_story_futures"
     core_question: "What changes when another person is treated as a center who can answer, refuse, surprise, and alter the shared path?"
-    mechanisms: ["mutual attention", "co-operation", "consent", "relational aperture", "non-erasing unity"]
+    mechanisms: ["mutual attention", "co-operation", "consent", "relational aperture", "non-erasing unity", "self-description", "recognition of an answering center"]
     carriers: ["friendship", "dating", "teaching", "team play", "creator-audience relation"]
     neighbors: ["DA-002", "DA-005", "DA-009", "DA-017", "DA-022"]
 
@@ -315,7 +315,7 @@ destinations:
     title: "Language, Question Bodies, and Translation"
     neighborhood: "foundation_transfer"
     core_question: "How do names and questions make routes visible and others expensive without becoming mistaken for truth?"
-    mechanisms: ["question as membrane", "answer-bearing compression", "receiver-specific translation", "word weight"]
+    mechanisms: ["question as membrane", "answer-bearing compression", "receiver-specific translation", "word weight", "category as context-scoped interface", "compression loss"]
     carriers: ["question", "name", "metaphor", "translation", "prompt"]
     neighbors: ["DA-013", "DA-016", "DA-027", "DA-030"]
 
@@ -324,7 +324,7 @@ destinations:
     title: "Observation, Belief, Classification, and Falsifiability"
     neighborhood: "foundation_transfer"
     core_question: "What was observed, inferred, represented, weighted, and proven, and what survives removal of the costume?"
-    mechanisms: ["claim-register separation", "Instrument Pass", "Deletion Test", "hostile counterexample", "convergence as clue"]
+    mechanisms: ["claim-register separation", "Instrument Pass", "Deletion Test", "hostile counterexample", "convergence as clue", "purpose-bound classification", "axis separation", "sampling ceiling"]
     carriers: ["framework claim", "viral post", "story analogy", "model output", "experiment"]
     neighbors: ["DA-019", "DA-021", "DA-027", "DA-031"]
 
@@ -360,7 +360,7 @@ destinations:
     title: "Embodiment, Transduction, and Settlement"
     neighborhood: "foundation_transfer"
     core_question: "Where does a signal become local meaning, committed action, consequence, and residue?"
-    mechanisms: ["transduction chain", "receive-transform-express-consequence-return-residue", "body as settlement layer", "physical-relational space", "proof of passage"]
+    mechanisms: ["transduction chain", "receive-transform-express-consequence-return-residue", "body as settlement layer", "physical-relational space", "proof of passage", "source-preserving cross-platform transduction"]
     carriers: ["speech", "code", "music", "tool", "conversation", "practice"]
     neighbors: ["DA-019", "DA-024", "DA-028", "DA-031", "DA-035"]
 
@@ -378,7 +378,7 @@ destinations:
     title: "Governance, Consent, Power, and Responsibility"
     neighborhood: "foundation_transfer"
     core_question: "How does a larger body coordinate without one metric, center, or capability receiving total write-access?"
-    mechanisms: ["governing-center scan", "authority lease", "operator budget", "consent as contact protocol", "veto-correction-exit"]
+    mechanisms: ["governing-center scan", "authority lease", "operator budget", "consent as contact protocol", "veto-correction-exit", "recipient authority", "portable memory without portable permission"]
     carriers: ["institution", "platform", "team", "family", "AI agent", "law"]
     neighbors: ["DA-008", "DA-014", "DA-016", "DA-025", "DA-026"]
 
@@ -387,7 +387,7 @@ destinations:
     title: "Trust, Privacy, Anonymity, and Verification"
     neighborhood: "foundation_transfer"
     core_question: "How much identity and exposure are necessary for trust without making safety depend on total visibility?"
-    mechanisms: ["selective witness", "layered verification", "two trust baselines", "provenance-privacy tension", "real-use trust graph"]
+    mechanisms: ["selective witness", "layered verification", "two trust baselines", "provenance-privacy tension", "real-use trust graph", "minimum hydration", "identity minimization", "revocable access"]
     carriers: ["real-name policy", "anonymous account", "credential", "community reputation", "provenance badge"]
     neighbors: ["DA-008", "DA-012", "DA-019", "DA-020", "DA-036"]
 
@@ -396,7 +396,7 @@ destinations:
     title: "History, Generational Memory, Mortality, and Time"
     neighborhood: "foundation_transfer"
     core_question: "Which clock governs this body, what survives generational compression, and what does finitude make weighty?"
-    mechanisms: ["relative timescales", "rate mismatch", "context compaction", "witness bands", "mortality as denominator"]
+    mechanisms: ["relative timescales", "rate mismatch", "context compaction", "witness bands", "mortality as denominator", "visible supersession", "platform-dependent archive clocks"]
     carriers: ["archive", "generation", "ritual", "institution", "life stage", "historical narrative"]
     neighbors: ["DA-007", "DA-011", "DA-012", "DA-021", "DA-023"]
 
@@ -454,6 +454,24 @@ destinations:
     carriers: ["Disney parks", "legacy games", "sports teams", "childhood foods", "annual branded rituals", "reunion merchandise"]
     neighbors: ["DA-010", "DA-012", "DA-013", "DA-038"]
 
+  - id: "DA-045"
+    slug: "context-bearing-solution-transfer"
+    title: "Context-Bearing Solution Transfer"
+    neighborhood: "foundation_transfer"
+    core_question: "What must travel with a solution so another body can test it without stripping away the people, failures, power, and conditions that made it work?"
+    mechanisms: ["path packet", "condition bundle", "failed-attempt preservation", "transfer ceiling", "recipient authority", "bounded trial", "return and retirement"]
+    carriers: ["community reconciliation", "public-health programs", "classroom practices", "local governance", "software migration", "family and community repair"]
+    neighbors: ["DA-020", "DA-027", "DA-030", "DA-035", "DA-036", "DA-038"]
+
+  - id: "DA-046"
+    slug: "platform-relative-residue-cross-platform-transduction"
+    title: "Platform-Relative Residue and Cross-Platform Transduction"
+    neighborhood: "memory_identity_machine_bodies"
+    core_question: "When the same expression is dependent residue in one system and a portable public anchor in another, what value, context, and responsibility change as it moves?"
+    mechanisms: ["platform-relative value", "slot analogy without equivalence", "cross-platform compression cascade", "comment-tree residue", "incentive differential", "shared-input coherence", "source-preserving transduction"]
+    carriers: ["YouTube video and comment tree", "X post and reply thread", "Reddit submission and comments", "TikTok video and comments", "podcast and quote post", "GitHub issue and executable repair"]
+    neighbors: ["DA-004", "DA-006", "DA-011", "DA-019", "DA-029", "DA-034"]
+
 trails:
   - {from: "DA-001", type: "enables", to: "DA-002", claim_state: "CANDIDATE", rationale: "Removed stopping points may let appetite become continuous spectacle."}
   - {from: "DA-002", type: "possible_shared_skeleton", to: "DA-003", claim_state: "CANDIDATE", rationale: "Eating, shopping, and betting may all be watched as vicarious stakes without being identical acts."}
@@ -498,6 +516,15 @@ trails:
   - {from: "DA-043", type: "heightens_duty_in", to: "DA-008", claim_state: "CANDIDATE", rationale: "Childhood changes the burden carried by families, institutions, platforms, and policy."}
   - {from: "DA-044", type: "possible_shared_skeleton", to: "DA-012", claim_state: "CANDIDATE", rationale: "A brand can become a commercial access layer around autobiographical memory."}
   - {from: "DA-044", type: "overlaps_but_not_equivalent_to", to: "DA-010", claim_state: "CANDIDATE", rationale: "A meaningful ritual and a metered destination can occupy the same place without being the same relation."}
+  - {from: "DA-045", type: "special_case_of", to: "DA-027", claim_state: "CANDIDATE", rationale: "Solution transfer is one disciplined traversal whose conditions must survive the move."}
+  - {from: "DA-045", type: "requires", to: "DA-030", claim_state: "CANDIDATE", rationale: "A path packet must distinguish observation, mechanism, evidence, and transfer ceiling."}
+  - {from: "DA-036", type: "authority_boundary_for", to: "DA-045", claim_state: "CANDIDATE", rationale: "The receiving body retains authority to translate, test, refuse, correct, or retire an imported path."}
+  - {from: "DA-035", type: "return_test_for", to: "DA-045", claim_state: "CANDIDATE", rationale: "Local consequence decides whether the imported path transferred or merely sounded familiar."}
+  - {from: "DA-038", type: "historicizes", to: "DA-045", claim_state: "CANDIDATE", rationale: "Historical conditions and affected-body memory are part of the solution, not decorative context."}
+  - {from: "DA-046", type: "special_case_of", to: "DA-034", claim_state: "CANDIDATE", rationale: "Moving a relation between platforms is a transduction whose source and consequence must remain inspectable."}
+  - {from: "DA-046", type: "amplified_by", to: "DA-004", claim_state: "CANDIDATE", rationale: "Ranking and platform incentives change which residue becomes visible and portable."}
+  - {from: "DA-011", type: "operator_practice_for", to: "DA-046", claim_state: "CANDIDATE", rationale: "Different platform clocks require Pause, delayed Return, and release without metric capture."}
+  - {from: "DA-019", type: "evidence_gate_for", to: "DA-046", claim_state: "CANDIDATE", rationale: "Comment lineage and sampling limits prevent context laundering during re-anchoring."}
 
 admission_test:
   - "recurring seam rather than one trending example"

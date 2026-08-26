@@ -96,7 +96,7 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** At what point does a feed stop reflecting an appetite and begin training the appetite it predicts?
 
-**Candidate mechanisms:** behavioral prompting; recommendation reflexivity; tunnel formation; exposure/selection feedback; attention as metabolic opportunity.
+**Candidate mechanisms:** behavioral prompting; recommendation reflexivity; tunnel formation; exposure/selection feedback; attention as metabolic opportunity; platform-relative ranking; Top/Newest sampling divergence.
 
 **Carriers:** For You feeds; personalized ads; rage loops; niche communities; repeated sexual, food, gambling, or political content.
 
@@ -118,7 +118,7 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** Once a person turns themselves into a public product, which parts of them do audiences and secondary creators begin treating as available inventory?
 
-**Candidate mechanisms:** persona labor; applause loop; context stripping; derivative monetization; involuntary persistence; audience governance.
+**Candidate mechanisms:** persona labor; applause loop; context stripping; derivative monetization; involuntary persistence; audience governance; branch lifting without lineage.
 
 **Carriers:** character performers; streamers; out-of-context clips; reaction channels; influencer brands; public pile-ons.
 
@@ -128,13 +128,13 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** When something once treated as taboo becomes easy to see, buy, advertise, or discuss, which change actually occurred?
 
-**Four-axis check:** accessibility; commercialization; visibility; moral acceptance.
+**Multi-axis check:** visibility; accessibility; commercialization; legal recognition; administrative legibility; interpersonal tolerance; institutional inclusion; safety; self-authorship. These axes can move separately.
 
 **Candidate mechanisms:** interface normalization; commercial repetition; descriptive-to-normative drift; taboo displacement; moral pluralization.
 
 **Carriers:** gambling ads; public sexualization; infidelity discourse; scams as entertainment; bragging and conspicuous consumption.
 
-**Counterpath:** the past was not morally coherent or safe for everyone. More speech can expose preexisting harm. Do not collapse “I see it more,” “it occurs more,” “it is legal,” and “people approve of it.”
+**Counterpath:** the past was not morally coherent or safe for everyone. More speech can expose preexisting harm. Do not collapse “I see it more,” “it occurs more,” “it is legal,” “institutions include it,” “people approve of it,” and “the affected person controls the description.” Visibility can coexist with consumption or exclusion.
 
 #### `DA-008` — Children Inside Adult Incentive Systems
 
@@ -172,7 +172,7 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** How does a person notice and interrupt a path that the environment, habit, prediction, or applause has begun choosing before conscious review?
 
-**Candidate mechanisms:** Pause; operator veto; reweighting; inside/above rhythm; posting sediment; delayed return; metric fasting; temporal portability.
+**Candidate mechanisms:** Pause; operator veto; reweighting; inside/above rhythm; posting sediment; delayed return; metric fasting; temporal portability; platform clock translation; Anchor → Branch → Lift → Re-anchor → Return.
 
 **Carriers:** posting and walking away; checking views; autoplay; recommendation defaults; recurring habits; old posts resurfacing; deep replies after the peak; play versus planning.
 
@@ -184,9 +184,9 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** When memory moves from an object you possess to access governed by devices, platforms, and records, what continuity do you actually own?
 
-**Candidate mechanisms:** physical-to-digital abstraction; custody versus access; storage compression; trusted stale steering; archive gravity; residue decay.
+**Candidate mechanisms:** physical-to-digital abstraction; custody versus access; storage compression; trusted stale steering; archive gravity; residue decay; operator-owned continuity; data reciprocity; selective portability; revocation and chosen forgetting.
 
-**Carriers:** physical game cartridges and digital libraries; cloud photos; pyramids as memory carrier; agent memory files; discontinued services.
+**Carriers:** physical game cartridges and digital libraries; cloud photos; pyramids as memory carrier; agent memory files; provider-held conversational memory; portable state bundles; discontinued services.
 
 **Counterpath:** physical media also decays, excludes, and gets lost; digital systems can multiply access and preservation. Durability depends on custody, format, redundancy, provenance, correction, and exit—not nostalgia alone.
 
@@ -194,17 +194,17 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** When does a name or role clarify a decision landscape, and when does it quietly remove alternatives?
 
-**Candidate mechanisms:** role-conditioned decision compression; named membrane; local weighting field; applause loop; exit as operator test.
+**Candidate mechanisms:** role-conditioned decision compression; named membrane; local weighting field; applause loop; exit as operator test; category as purpose-bound interface; appeal and expiry.
 
 **Carriers:** Peter Pan; Luffy; Superman; Aang; professions; family roles; Morrow. Theological and historical exemplars remain in the distinct evidentiary lane at `DA-042`.
 
-**Counterpath:** a carrier is not a whole person or a universal moral system. It earns use only when values, refusals, correction, uncertainty, and exit survive the costume.
+**Counterpath:** a carrier, role, or category is not a whole person or a universal moral system. It earns use only when purpose, relevant axes, values, refusals, correction, uncertainty, appeal, expiry, and exit survive the costume.
 
 #### `DA-014` — Model, Harness, Continuity, and Operator
 
 **Core question:** What must persist for an AI collaboration to remain coherent when the model, provider, device, context window, or interface changes?
 
-**Candidate mechanisms:** ephemeral intelligence over persistent relational structure; artifact hydration; body-level benchmarking; shared current pointer; operator-held direction.
+**Candidate mechanisms:** ephemeral intelligence over persistent relational structure; artifact hydration; body-level benchmarking; canonical wake state; Proof of Sync; cross-harness retrieval/writeback; operator-held direction; distributed execution with centralized answerability.
 
 **Carriers:** Codex; OpenCode; Kimi; model routers; repository checkpoints; Mo as named operating role.
 
@@ -256,7 +256,7 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** What should make a claim feel real when images, voices, clips, identities, and records can be generated or detached from their source cheaply?
 
-**Candidate mechanisms:** provenance warrant; context collapse; impersonation; visibility/event confusion; selective witness; correction path.
+**Candidate mechanisms:** provenance warrant; context collapse; impersonation; visibility/event confusion; selective witness; correction path; Proof of Passage; semantic substance evaluation; Proof of Sync; warrant-layer separation.
 
 **Carriers:** deepfakes; AI sexual images; impersonation scams; clipped streams; fake screenshots; synthetic reviews.
 
@@ -268,7 +268,7 @@ No private source paths, counts, excerpts, identities, or local coordinates are 
 
 **Core question:** What changes when another center can answer, surprise, refuse, leave, and alter the shared path—not merely satisfy a need or mirror the operator?
 
-**Candidate mechanisms:** mutual attention; one-loop versus two-loop relation; co-operation; consent; relational aperture; non-erasing unity; warm-up and return.
+**Candidate mechanisms:** mutual attention; one-loop versus two-loop relation; co-operation; consent; relational aperture; non-erasing unity; warm-up and return; self-description; recognition of another body as an answering center.
 
 **Carriers:** friendship; dating; teaching; team play; creator/audience relations; caregiving; human/AI companionship comparison.
 
@@ -362,7 +362,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** How do names and questions make routes visible and other routes expensive without becoming mistaken for magic or truth?
 
-**Candidate mechanisms:** question as membrane; answer-bearing compression; receiver-specific translation; word weight; priced horizon; open/closed answer space.
+**Candidate mechanisms:** question as membrane; answer-bearing compression; receiver-specific translation; word weight; priced horizon; open/closed answer space; category as context-scoped interface; compression loss.
 
 **Carriers:** names; prompts; public questions; translation; metaphor; classification; teaching language.
 
@@ -372,7 +372,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** What was observed, inferred, represented, weighted, and actually proven—and what survives when the favorite costume is removed?
 
-**Candidate mechanisms:** claim-register separation; three probabilities; Instrument Pass; Deletion Test; convergence as clue; hostile counterexample.
+**Candidate mechanisms:** claim-register separation; three probabilities; Instrument Pass; Deletion Test; convergence as clue; hostile counterexample; purpose-bound classification; axis separation; sampling ceiling.
 
 **Carriers:** framework claim; viral post; story analogy; model output; experiment; source ledger.
 
@@ -412,7 +412,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** Where does a signal become local meaning, committed action, consequence, and residue?
 
-**Candidate mechanisms:** source/transduce/encode/transmit/decode/interpret/act/preserve; Receive → Transform → Express/Emit → Consequence → Return/Residue; body as settlement layer; physical and relational space; proof of passage.
+**Candidate mechanisms:** source/transduce/encode/transmit/decode/interpret/act/preserve; Receive → Transform → Express/Emit → Consequence → Return/Residue; body as settlement layer; physical and relational space; proof of passage; source-preserving cross-platform transduction.
 
 **Carriers:** speech; code; music; tool; conversation; physical practice.
 
@@ -432,7 +432,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** How does a larger body coordinate action without one metric, center, or capability receiving total write-access?
 
-**Candidate mechanisms:** governing-center scan; authority lease; operator budget; consent as contact protocol; veto/correction/exit; rule-body breach metabolism.
+**Candidate mechanisms:** governing-center scan; authority lease; operator budget; consent as contact protocol; veto/correction/exit; rule-body breach metabolism; recipient authority; portable memory without portable permission.
 
 **Carriers:** institution; platform; team; family; AI agent; law; contract.
 
@@ -442,7 +442,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** How much identity and exposure are necessary for trust and accountability without making safety depend on total visibility?
 
-**Candidate mechanisms:** selective witness; layered verification; two trust baselines; provenance/privacy tension; real-use trust graph.
+**Candidate mechanisms:** selective witness; layered verification; two trust baselines; provenance/privacy tension; real-use trust graph; minimum hydration; identity minimization; revocable access.
 
 **Carriers:** real-name policy; anonymous account; credential; community reputation; provenance badge.
 
@@ -452,7 +452,7 @@ The live-observatory destinations above are where many present Signals land. The
 
 **Core question:** Which clock governs this body, what survives generational compression, and what does finitude make weighty?
 
-**Candidate mechanisms:** relative timescales; rate mismatch; context compaction; witness bands; mortality as denominator; present as landing surface.
+**Candidate mechanisms:** relative timescales; rate mismatch; context compaction; witness bands; mortality as denominator; present as landing surface; visible supersession; platform-dependent archive clocks.
 
 **Carriers:** archive; generation; ritual; institution; life stage; historical narrative.
 
@@ -522,6 +522,26 @@ These fields recur strongly in the developmental archive and supply missing brid
 
 **Counterpath:** repeated branded rituals can sustain authentic joy, family continuity, craft, friendship, and community. Emotional meaning is not false because commerce participates; the question is whether pricing, obligation, or identity makes the ritual difficult to evaluate or leave.
 
+### `DA-045` — Context-Bearing Solution Transfer
+
+**Core question:** What must travel with a solution so another body can test it without stripping away the people, failures, power, and conditions that made it work?
+
+**Candidate mechanisms:** path packet; condition bundle; failed-attempt preservation; transfer ceiling; recipient authority; bounded trial; return and retirement.
+
+**Carriers:** community reconciliation; public-health programs; classroom practices; local governance; software migration; family and community repair.
+
+**Counterpath:** refusing all transfer traps useful knowledge inside one setting. The discipline is to move a revisable path—with costs, dissent, non-transfer conditions, and affected bodies—rather than export a slogan or treat one country as a single success story.
+
+### `DA-046` — Platform-Relative Residue and Cross-Platform Transduction
+
+**Core question:** When the same expression is dependent residue in one system and a portable public anchor in another, what value, context, and responsibility change as it moves?
+
+**Candidate mechanisms:** platform-relative value; slot analogy without equivalence; cross-platform compression cascade; comment-tree residue; incentive differential; shared-input coherence; source-preserving transduction.
+
+**Carriers:** YouTube video and comment tree; X post and reply thread; Reddit submission and comments; TikTok video and comments; podcast and quote post; GitHub issue and executable repair.
+
+**Counterpath:** weakly monetized or low-portability speech is not inherently authentic, intelligent, altruistic, or representative. Ranking, moderation, audience composition, identity, deletion, and status incentives still shape the visible branch field.
+
 ## High-value trails
 
 | From | Relation | To | Why the trail matters |
@@ -569,6 +589,15 @@ These fields recur strongly in the developmental archive and supply missing brid
 | `DA-043` | `heightens_duty_in` | `DA-008` | Childhood changes the burden carried by families, institutions, platforms, and policy. |
 | `DA-044` | `possible_shared_skeleton` | `DA-012` | A brand can become a commercial access layer around autobiographical memory. |
 | `DA-044` | `overlaps_but_not_equivalent_to` | `DA-010` | A meaningful ritual and a metered destination may occupy the same place without being the same relation. |
+| `DA-045` | `special_case_of` | `DA-027` | Solution transfer is one disciplined traversal whose conditions must survive the move. |
+| `DA-045` | `requires` | `DA-030` | A path packet must distinguish observation, mechanism, evidence, and transfer ceiling. |
+| `DA-036` | `authority_boundary_for` | `DA-045` | The receiving body retains authority to translate, test, refuse, correct, or retire an imported path. |
+| `DA-035` | `return_test_for` | `DA-045` | Local consequence decides whether the imported path transferred or merely sounded familiar. |
+| `DA-038` | `historicizes` | `DA-045` | Historical conditions and affected-body memory are part of the solution, not decorative context. |
+| `DA-046` | `special_case_of` | `DA-034` | Moving a relation between platforms is a transduction whose source and consequence must remain inspectable. |
+| `DA-046` | `amplified_by` | `DA-004` | Ranking and platform incentives change which residue becomes visible and portable. |
+| `DA-011` | `operator_practice_for` | `DA-046` | Different platform clocks require Pause, delayed Return, and release without metric capture. |
+| `DA-019` | `evidence_gate_for` | `DA-046` | Comment lineage and sampling limits prevent context laundering during re-anchoring. |
 
 ## Destination admission test
 

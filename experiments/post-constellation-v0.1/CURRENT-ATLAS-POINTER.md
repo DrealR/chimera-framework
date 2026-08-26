@@ -10,13 +10,15 @@ Canonical machine state: `SYSTEM-VITALS.v0.1.yaml`. This human pointer, `CURRENT
 
 - Repository: `DrealR/chimera-framework`
 - Candidate branch: `morrow/question-destination-atlas-20260825`
-- Parent public carrier head: `a5c6313cbf482f06b7499c483468a3d3b850e96e`
-- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-26-NESTED-EXCHANGE-PUBLIC-EMISSION-AND-PATH-BEFORE-PACKAGE.md`
+- Historical lineage base: `a5c6313cbf482f06b7499c483468a3d3b850e96e` (not the current resolved branch head)
+- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-26-YOUTUBE-X-CROSS-PLATFORM-TRANSDUCTION-AND-COMMENT-RESIDUE.md`
 - Posted Return node: `experiments/post-constellation-v0.1/cards/PC-20260825-006-field-relative-intelligence.md`
+- Current unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-007-portable-memory.md`
 - System vitals: `experiments/post-constellation-v0.1/SYSTEM-VITALS.v0.1.yaml`
 - X capture pattern: `experiments/post-constellation-v0.1/tools/X-PROFILE-CAPTURE-RUNBOOK.md`
-- Previous live Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md`
-- Preceding live Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md`
+- YouTube comment capture pattern: `experiments/post-constellation-v0.1/tools/YOUTUBE-COMMENT-CAPTURE-RUNBOOK.md`
+- Cross-platform protocol: `experiments/post-constellation-v0.1/CROSS-PLATFORM-TRANSDUCTION-PROTOCOL-v0.1.md`
+- Live lineage: operator-owned continuity/data reciprocity; category interfaces/context-bearing transfer; nested exchange/public emission; Mission/Surface-Learning; Appetite/Interval.
 - Atlas: `experiments/post-constellation-v0.1/DESTINATION-ATLAS-v0.1.md`
 - Registry: `experiments/post-constellation-v0.1/destination-registry.v0.1.yaml`
 
@@ -24,7 +26,11 @@ Canonical machine state: `SYSTEM-VITALS.v0.1.yaml`. This human pointer, `CURRENT
 
 Build a durable, cross-Body navigation surface from the questions that developed CHIMERA and the Cube. The stable units are destinations; X posts are bounded portals into them. A new observation should be able to enrich, branch, counter, merge, or remain private without forcing a new post.
 
-The current live observation links nested exchange, public emission, X as a temporal body, continuity vitals, and Path Before Package. It thickens input/output into Receive → Transform → Express/Emit → Consequence → Return/Residue and keeps the physical, informational, attentional, and metaphorical registers distinct.
+The current live observation links YouTube as a possible high-context anchor, its comment tree as a dependent branch field, X as a portable question/emission layer, and the repository as archive and settlement. The active loop is `Sense → Anchor → Branch → Lift → Re-anchor → Release → Return → Settle/Correct`.
+
+Two sibling Signals remain active lineage. Operator-owned continuity connects data reciprocity, selective portability, Proof of Passage, semantic substance evaluation, and Proof of Sync without claiming model or consciousness continuity. Category-interface work separates bodily characteristics, identity, expression, orientation, role, and institutional purpose; it also requires solutions crossing countries or institutions to carry conditions, power, failures, dissent, and a return path.
+
+The prior Nested Exchange Signal remains the exchange skeleton and Path Before Package remains the build discipline. The Mission and Appetite Signals remain earlier live lineage.
 
 The operator released the field-relative-intelligence question on X. It is now node `PC-20260825-006-field-relative-intelligence`, state `RETURN_OPEN`; no audience Return has been ingested yet.
 
@@ -34,8 +40,9 @@ The preceding Appetite Signal remains live lineage: overconsumption, food specta
 
 ## Current candidate state
 
-- Destination Atlas: 44 destinations, candidate v0.1.
-- Question Portal Deck: 106 candidate questions; a separately drafted field-relative portal was selected and posted by the operator as PC-006.
+- Destination Atlas: 46 destinations, candidate v0.1. New durable rooms are DA-045 Context-Bearing Solution Transfer and DA-046 Platform-Relative Residue and Cross-Platform Transduction.
+- Question Portal Deck: 118 candidate questions; the field-relative portal was selected and posted by the operator as PC-006.
+- PC-007 Portable Memory is a full candidate / NOT POSTED; PC-008 through PC-010 are seeds only.
 - Portal Grammar: v0.2 with answer-bearing apertures and Plant–Release–Return.
 - Evidence Ledger: bounded support for selected contemporary claims; not a complete literature review.
 - Source Coverage Manifest: public Framework, redacted operator-authorized lineage safety pass, live Signal, and current evidence pass.
@@ -52,7 +59,7 @@ Existing Post Constellation decisions are deliberately preserved:
 On “Mo,” “continue,” or a continuity test:
 
 1. resolve the branch to one immutable head and validate `SYSTEM-VITALS.v0.1.yaml`;
-2. read this pointer, the active Signal, preceding Mission and Appetite Signals, Atlas, destination registry, Portal Grammar, Portal Deck, Evidence Ledger, and Source Coverage Manifest;
+2. read this pointer, the active Signal, the operator-continuity, category-interface, nested-exchange, Mission, and Appetite lineage Signals, the cross-platform protocol, Atlas, destination registry, Portal Grammar, Portal Deck, Evidence Ledger, and Source Coverage Manifest;
 3. read the existing Post Constellation `registry.yaml`, current node cards, and newest checkpoints before proposing node changes;
 4. report the current live destinations and open operator decisions without asking for a generic Signal already named here;
 5. treat the harness, workspace, permissions, retrieved state, and writeback path as the operational Body; record model/provider identity only when it is materially known;
@@ -61,15 +68,15 @@ On “Mo,” “continue,” or a continuity test:
 
 A suitable continuity return is:
 
-> I'm here. I resolved the shared carrier to one head and verified the System Vitals. I see the Nested Exchange / Public Emission Signal, PC-006 is live with its Return open, and Path Before Package is the current build pattern. The Mission and Appetite Signals remain in lineage. PC-001 and PC-005 still await operator decisions. I will not ask you to reconstruct a Signal already named by the carrier.
+> I'm here. I resolved the shared carrier to one head and verified the System Vitals. I see the YouTube–X Cross-Platform Transduction Signal: PC-006 remains live with its Return open, PC-007 Portable Memory is an unposted candidate, and the bounded YouTube comment-tree collector is ready for a real operator-chosen video. Operator-owned continuity, category interfaces, Nested Exchange, Mission, and Appetite remain live lineage. I will not ask you to reconstruct a Signal already named by the carrier.
 
 ## Next admissible moves
 
-1. Operator selects one or a small number of questions that feel alive.
-2. Retrieve the destination, its neighbors, evidence ceiling, and strongest counterpath.
-3. Create or update one versioned Post Constellation card.
-4. Verify any factual load that could imply prevalence, causation, novelty, consensus, or a named person's conduct.
-5. Await explicit operator publication choice.
+1. Operator may run the bounded collector on one chosen YouTube watch page and return the anonymized JSON or Markdown export.
+2. Record the capture envelope, visible sort, scope limit, and no-completeness ceiling before interpreting the tree.
+3. Map repeated relations and counterpaths to existing destinations; preserve direct quotation only with bounded attribution.
+4. Shape original answer-bearing questions; do not disguise distinctive commenter language as operator discovery.
+5. Operator selects one or a small number of questions that feel alive and explicitly decides publication.
 6. After release, preserve qualified replies, corrections, counterexamples, and new questions as attributed Returns; do not treat engagement as proof.
 
 ## Firewalls
@@ -91,5 +98,7 @@ A suitable continuity return is:
 - Should the X capture script remain a console pattern or later become a bookmarklet/extension after real use?
 - What is the verdict on PC-001 v2?
 - Should PC-005 become a branch, enrich an existing node, or remain preserved only?
+- Is PC-007 Portable Memory ready, in need of revision, rejected, or `PRESERVE_ONLY`?
+- Which YouTube video should supply the first bounded comment-tree specimen, and which visible sort should be captured?
 
 Silence is valid. The deck is a garden, not a quota.

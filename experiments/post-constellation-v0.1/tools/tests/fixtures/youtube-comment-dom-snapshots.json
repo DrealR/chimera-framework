@@ -1,0 +1,77 @@
+{
+  "videoId": "abcDEF_1234",
+  "snapshots": [
+    {
+      "permalink": "/watch?v=abcDEF_1234&lc=UgxRoot001",
+      "text": "The first rendered version is truncated...",
+      "author": {
+        "label": "author-001",
+        "publicName": "Visible Creator",
+        "publicUrl": "https://www.youtube.com/@visiblecreator"
+      },
+      "visibleTimestamp": "2 days ago",
+      "timestampTitle": "August 24, 2026",
+      "likesText": "1.2K",
+      "creatorHeart": false,
+      "pinned": true,
+      "edited": false,
+      "isReply": false,
+      "parentId": null,
+      "threadId": "UgxRoot001"
+    },
+    {
+      "permalink": "https://www.youtube.com/watch?v=abcDEF_1234&lc=UgxReply002",
+      "text": "A reply rendered after its tree was expanded.",
+      "author": {
+        "label": "author-002",
+        "publicName": "Public Replier",
+        "publicUrl": "https://www.youtube.com/channel/UC-replier"
+      },
+      "visibleTimestamp": "1 day ago (edited)",
+      "timestampTitle": "August 25, 2026",
+      "likesText": "18",
+      "creatorHeart": true,
+      "pinned": false,
+      "edited": true,
+      "isReply": true,
+      "parentId": "UgxRoot001",
+      "threadId": "UgxRoot001"
+    },
+    {
+      "permalink": "/watch?v=abcDEF_1234&lc=UgxRoot001",
+      "text": "The first rendered version is now complete after Read more expanded it.",
+      "author": {
+        "label": "author-001",
+        "publicName": "Visible Creator",
+        "publicUrl": "https://www.youtube.com/@visiblecreator"
+      },
+      "visibleTimestamp": "2 days ago",
+      "timestampTitle": "August 24, 2026",
+      "likesText": "1.3K",
+      "creatorHeart": true,
+      "pinned": true,
+      "edited": false,
+      "isReply": false,
+      "parentId": null,
+      "threadId": "UgxRoot001"
+    },
+    {
+      "permalink": "/watch?v=abcDEF_1234&lc=UgxRoot003",
+      "text": "A second observed top-level comment.",
+      "author": {
+        "label": "author-003",
+        "publicName": "Another Public Person",
+        "publicUrl": "https://www.youtube.com/@anotherperson"
+      },
+      "visibleTimestamp": "3 hours ago",
+      "timestampTitle": "August 26, 2026",
+      "likesText": "No likes",
+      "creatorHeart": false,
+      "pinned": false,
+      "edited": false,
+      "isReply": false,
+      "parentId": null,
+      "threadId": "UgxRoot003"
+    }
+  ]
+}

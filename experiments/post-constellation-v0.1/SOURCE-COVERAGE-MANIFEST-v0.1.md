@@ -69,6 +69,35 @@ The preceding Appetite Signal remains in active lineage and added:
 - discipline as authored stopping rhythm rather than deprivation;
 - “plant it and walk away” as a creator/operator practice.
 
+## 2026-08-26 continuation and pressure pass
+
+Five operator-supplied continuation artifacts were read and compressed into public-safe Signals. Hashes bind the sources without reproducing raw private conversation:
+
+| Source role | Bytes | SHA-256 |
+|---|---:|---|
+| mission, field-relative intelligence, and surface learning continuation | 15,380 | `c5abd85cc1a2c8e9034dc2f251d082821a962c08c1a809ba8759dabb49cedfa4` |
+| nested exchange, X practice, Path Before Package, and continuity-system continuation | 44,316 | `04f3be108d4677054aebba8388cea0e81af9393c09114ff10d754ad9d24aec20` |
+| operator-owned continuity, data reciprocity, and Bitcoin custody carrier | 12,232 | `84ab3f0e6ea77be8a0b81179c14ce3d927f641ee431d95b0f8a56621a7bddc7c` |
+| category interfaces, recognition, and country-scale solution transfer | 65,050 | `1e0a152b5c09dc491be4ed0d52e0a92473e3dffc27a3b8fe31e5a88afeafa2e4` |
+| YouTube/X platform pairing and bounded comment-tree capture request | 10,236 | `1ec97442776dd26db962b919c47245d214cd01ddf06e6317affaa8b4c822bf14` |
+
+The supplied partial X profile export was also inspected as an operator-authored surface sample: 66,410 bytes, SHA-256 `7626493328d231ccdd37db10ff8e3f8a8cc688ded90dcdcd0d27364181a8d692`. It contained 74 captured authored posts across a bounded scroll session, not the complete profile, reply history, or a representative performance sample. Truncated long posts and the absence of replies remain explicit limits.
+
+This pass added or clarified:
+
+- operator-owned continuity as a portable control plane rather than model or consciousness continuity;
+- data reciprocity, minimum hydration, chosen forgetting, revocation, and centralized answerability;
+- Proof of Passage, semantic substance evaluation, and Proof of Sync as separate warrants;
+- category as a purpose-bound interface rather than a whole person;
+- visibility, commerce, legal recognition, institutional inclusion, safety, and self-authorship as distinct axes;
+- context-bearing solution transfer rather than country-as-slogan comparison;
+- YouTube video as possible context anchor, comment tree as dependent branch field, X as portable emission layer, and repository as archive/settlement;
+- Top/Newest and comment-tree capture as conditional samples, not audience truth;
+- public comment lifting with attribution, identity minimization, and source-context preservation;
+- targeted supersession pressure on gender essentialism, cryptographic-like “Proof of Substance,” blockchain-as-truth language, and universal forgiveness claims.
+
+A bounded, user-triggered YouTube watch-page collector, runbook, fixture, and tests were built under `tools/`. It uses rendered DOM only, pseudonymizes authors by default, preserves thread structure and capture metadata, and makes no completeness claim. No live YouTube comment export has yet been captured or ingested.
+
 ## External evidence pass
 
 A bounded current-source check used:
@@ -95,10 +124,10 @@ See EVIDENCE-LEDGER-v0.1.md.
 
 ## Coverage result
 
-- 44 durable destinations;
-- 106 candidate question portals;
-- 23 live-observatory destinations;
-- 19 foundation/transfer destinations;
+- 46 durable destinations;
+- 118 candidate question portals;
+- 24 live-observatory destinations;
+- 20 foundation/transfer destinations;
 - 2 recovered relational destinations;
 - typed trails, counterpaths, source/evidence boundaries, and an operator-only publication gate.
 
@@ -114,6 +143,9 @@ See EVIDENCE-LEDGER-v0.1.md.
 8. Positive countercases—healthy digital communities, accessible convenience, ethical adult work, beneficial equity, AI companionship, and non-extractive creator economies—need deliberate collection.
 9. The Cube has abundant mappings but fewer preregistered predictions, falsifiers, and world-return tests.
 10. A public question field can itself become an engagement harvester; views and agreement cannot promote Framework claims.
+11. YouTube comment surfaces remain ranked, self-selected, moderated, partially loaded, and potentially personalized; a capture is not a census.
+12. Country-scale examples require affected-body voices, institutional history, dissent, power analysis, and transfer limits before promotion.
+13. Existing developmental documents contain metaphysical, gender-essentialist, blockchain, and forgiveness overclaims; banners and lineage correction reduce drift but do not replace full domain review.
 
 ## Fullness-honesty statement
 

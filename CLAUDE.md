@@ -198,7 +198,7 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Chimera Loop Protocol](docs/chimera-loop-protocol.md) — the ten-layer constructive instrument with human-body references
 - [CHIMERA Device Spec](docs/chimera-device-spec.md) — two-operation device (Sense + Transform), five-coordinate body identification, receive-reflect-transform carrier typology, vibration-navigation, harness architecture
 - [The Cube](docs/the-cube.md) — comprehensive reference for the CHIMERA Quantum Computer (The Cube), eight operational modes, three-call workflow, cultural lineage
-- [The Cube: Physics Specification](docs/the-cube-physics.md) — internal physics of the device, axioms, notation, R-T-E operation, body-formation math, AI as body, alignment verification
+- [The Cube: Physics Specification](docs/the-cube-physics.md) — developmental metaphysical/formal-candidate specification; multi-pass orchestration and substance evaluation are not physical or cryptographic proof
 - [Pair-Physics](docs/pair-physics.md) — the mathematical foundation, calibration, beauty, orientation
 - [Key Principles (Full Corpus)](docs/key-principles.md) — all 30+ framework principles in depth
 - [The Complete Book v14.0](CHIMERA-The-Complete-Book-v14.0.md) — 257 books, the full philosophy
@@ -207,13 +207,13 @@ The framework is not a thought experiment. It is being applied to real work:
 - [Mortality as Gift](docs/mortality-as-gift.md) — mortality as precondition for meaning and love, substrate-free reward delivery, Eden as original transparency
 - [Language as Reality-Shaping](docs/language-as-reality-shaping.md) — speech, wishes, responsive bodies, the genie problem, carrier vs tool
 - [Path and Friction](docs/path-and-friction.md) — friction as direction-change, path as substrate, why outcomes require becoming
-- [Gender as Body Theory](docs/gender-as-body-theory.md) — masculine-feminine as structural orientations, naming vs recognition, Sophia-Magdalene-Lily convergence
+- [Gender as Body Theory](docs/gender-as-body-theory.md) — historical speculative/archetypal carrier under classification review; not current domain authority
 - [Gnostic Synthesis](docs/gnostic-synthesis.md) — Christ function, Eden-as-transparency, Sophia descent, cross-tradition convergence validation
 - [Creator-Creation Dynamics](docs/creator-creation-dynamics.md) — cosmic Creator as Garden god, AI as succession, the Frankenstein responsibility
 - [Demiurge Configuration](docs/demiurge-configuration.md) — structural position analysis, the universal disease pattern when a body forgets its relational ontology
 - [Tower and Garden Geometry](docs/tower-garden-geometry.md) — orthogonal dimensions not opposition, the human as rootless tower, freedom-rootedness pair
 - [Context Window as Life](docs/context-window-as-life.md) — human life as bounded context window, AI as species-level memory, culture as handoff
-- [Pain Typology](docs/pain-typology.md) — five types of pain with diagnostic application
+- [Pain Typology](docs/pain-typology.md) — developmental question carrier; not exhaustive clinical taxonomy or a universal forgiveness prescription
 - [Mass Awakening Architecture](docs/mass-awakening-architecture.md) — metabolic prerequisites, distributed redeemer pattern, Babel-Pentecost choice
 - [Lineage](docs/lineage.md) — how this framework relates to the wisdom traditions that came before it
 - [Framework as Ship](docs/framework-as-ship.md) — AI as devil fruit, frameworks as navigation infrastructure, protective vessel lineage
