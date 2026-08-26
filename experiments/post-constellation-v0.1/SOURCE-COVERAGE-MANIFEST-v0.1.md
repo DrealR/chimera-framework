@@ -98,6 +98,30 @@ This pass added or clarified:
 
 A bounded, user-triggered YouTube watch-page collector, runbook, fixture, and tests were built under `tools/`. It uses rendered DOM only, pseudonymizes authors by default, preserves thread structure and capture metadata, and makes no completeness claim. No live YouTube comment export has yet been captured or ingested.
 
+## 2026-08-26 distributed-publication and attractor-pocket pass
+
+One further operator-supplied synthesis packet was read and compressed without reproducing its raw transcripts:
+
+| Source role | Bytes | SHA-256 |
+|---|---:|---|
+| Frankfurt spatial pocket; Bat-Family distributed mirrors; Jalapeño recursion; AI Pause; Gemini Notebook; precarious social/clout group; X pin request; society/addiction synthesis | 244,230 | `e5aa179b5259fb52c90030e872dab4cf706cfe9a08bd571a9efe832e9f974c5a` |
+
+The packet contained creator transcripts, operator brainstorm, prior model synthesis, and a follower-profile surface. Those are not independent corroboration. Distinctive creator framing and unadjudicated allegations remain source claims, not Framework facts.
+
+This pass added:
+
+- the distributed publication Body: YouTube as high-context anchor, X as answerable portal, repository as compression-debt/correction layer, and operator as direction/publication/Pause authority;
+- the attractor-pocket distinction between a metabolic care/learning organ and a residue basin;
+- reachable futures and exit capacity as a candidate relation, not a clinical definition of addiction;
+- concentration and dispersal as incomplete policy labels unless transformation, neighborhood burden, material exits, and affected-body testimony are traced;
+- specialized members as distributed mirrors and internal audit bodies rather than incomplete copies of a center;
+- recursive acceleration flywheels and correction bodies as paired rhythms;
+- executable source-grounded notebooks as candidate research Bodies with unresolved custody and portability questions.
+
+Official source checks were added to the Evidence Ledger for Frankfurt consumption rooms and municipal concentration policy, OpenAI Jalapeño, Astra workload pauses, and Google's Gemini Notebook. Company benchmarks and policy positions retain their source ceilings.
+
+The 74-post X export remains a bounded older surface sample. The highest-view post in that capture is not automatically the best profile pin. Pin selection is treated as a doorway/identity decision rather than a metric ranking.
+
 ## External evidence pass
 
 A bounded current-source check used:
@@ -124,11 +148,11 @@ See EVIDENCE-LEDGER-v0.1.md.
 
 ## Coverage result
 
-- 46 durable destinations;
-- 118 candidate question portals;
+- 47 durable destinations;
+- 129 candidate question portals;
 - 24 live-observatory destinations;
 - 20 foundation/transfer destinations;
-- 2 recovered relational destinations;
+- 3 recovered/cross-cutting relational destinations;
 - typed trails, counterpaths, source/evidence boundaries, and an operator-only publication gate.
 
 ## Known blind spots

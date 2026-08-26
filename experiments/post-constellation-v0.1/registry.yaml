@@ -4,13 +4,13 @@ publication_authority: "operator_only"
 updated_utc: "2026-08-26"
 source_branch: "morrow/question-destination-atlas-20260825"
 system_vitals: "SYSTEM-VITALS.v0.1.yaml"
-current_signal: "signals/SIGNAL-2026-08-26-YOUTUBE-X-CROSS-PLATFORM-TRANSDUCTION-AND-COMMENT-RESIDUE.md"
+current_signal: "signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md"
 current_atlas_pointer: "CURRENT-ATLAS-POINTER.md"
 destination_atlas: "DESTINATION-ATLAS-v0.1.md"
 destination_registry: "destination-registry.v0.1.yaml"
 question_portal_deck: "QUESTION-PORTAL-DECK-v0.1.md"
-active_node: "PC-20260825-006-field-relative-intelligence"
-active_operation: "CAPTURE_YOUTUBE_COMMENT_TREE_AND_MAP_CROSS_PLATFORM_RETURN"
+active_node: "PC-20260826-011-reachable-futures"
+active_operation: "ENRICH_ATTRACTOR_POCKET_AND_DISTRIBUTED_PUBLICATION_BODY"
 
 rules:
   - "candidate is not published"
@@ -130,6 +130,79 @@ nodes:
       - "do not expose credentials, security signals, other people's data, or proprietary weights"
       - "preserve expiry, revocation, chosen forgetting, and a fresh-start path"
       - "candidate is not publication authority"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
+  - id: "PC-20260826-011-reachable-futures"
+    state: "CANDIDATE"
+    title: "Reachable futures"
+    path: "cards/PC-20260826-011-reachable-futures.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "accessibility-weighted horizon"
+      - "high-weight attractor"
+      - "competing-future occlusion"
+      - "exit capacity"
+    domains:
+      - "addiction and recovery"
+      - "gambling"
+      - "attention systems"
+      - "community and belonging"
+      - "public-space design"
+    desired_return:
+      - "lived distinctions between desire, habit, compulsion, and addiction"
+      - "conditions that made another future reachable"
+      - "clinical and affected-body corrections"
+      - "counterexamples to the candidate mechanism"
+    relations:
+      - type: "derived_from"
+        target: "signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md"
+      - type: "creates_address_for"
+        target: "DA-047"
+      - type: "extends"
+        target: "DA-001"
+      - type: "bounded_by"
+        target: "DA-030"
+    firewall:
+      - "candidate relation is not a medical definition or diagnosis"
+      - "do not equate substance use, gambling, food, sexuality, work, shopping, collecting, and feeds"
+      - "do not moralize addiction as failed discipline or willpower"
+      - "preserve care, material conditions, affected-body testimony, correction, and real exit capacity"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
+  - id: "PC-20260826-012-pattern-doorway"
+    state: "CANDIDATE"
+    title: "Pattern doorway"
+    path: "cards/PC-20260826-012-pattern-doorway.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "autobiographical entry"
+      - "cross-domain pattern navigation"
+      - "question-shaped profile membrane"
+    domains:
+      - "profile identity"
+      - "CHIMERA"
+      - "Cube navigation"
+      - "public inquiry"
+    desired_return:
+      - "recurring patterns noticed by other people"
+      - "false-convergence corrections"
+      - "new carriers and missed destinations"
+    relations:
+      - type: "extends"
+        target: "DA-021"
+      - type: "extends"
+        target: "DA-027"
+      - type: "bounded_by"
+        target: "DA-030"
+    firewall:
+      - "pattern resemblance is not mechanism proof"
+      - "do not imply diagnosis, revelation, special status, or authority"
+      - "views and follows are not truth"
+      - "candidate is not publication or pin authority"
     current_version: 1
     operator_verdict: null
     post_receipt: null

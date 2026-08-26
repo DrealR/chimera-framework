@@ -8,14 +8,16 @@ This compatibility surface no longer defines an independent “current.” Resol
 
 ## Active state
 
-- Signal: `signals/SIGNAL-2026-08-26-YOUTUBE-X-CROSS-PLATFORM-TRANSDUCTION-AND-COMMENT-RESIDUE.md`
+- Signal: `signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md`
 - Posted node: `PC-20260825-006-field-relative-intelligence`
-- Node state: `RETURN_OPEN`
-- Unposted candidate: `PC-20260826-007-portable-memory`
-- Current operation: `CAPTURE_YOUTUBE_COMMENT_TREE_AND_MAP_CROSS_PLATFORM_RETURN`
-- Latest checkpoint: `checkpoints/CHECKPOINT-0008-CONTEXT-BEARING-PORTABILITY-AND-CROSS-PLATFORM-RETURN.md`
+- Posted node state: `RETURN_OPEN`
+- Active unposted candidate: `PC-20260826-011-reachable-futures`
+- Other unposted candidate: `PC-20260826-007-portable-memory`
+- Pin recommendation / unposted candidate: `PC-20260826-012-pattern-doorway`
+- Current operation: `ENRICH_ATTRACTOR_POCKET_AND_DISTRIBUTED_PUBLICATION_BODY`
+- Latest checkpoint: `checkpoints/CHECKPOINT-0009-ATTRACTOR-POCKETS-AND-DISTRIBUTED-PUBLICATION-BODY.md`
 
-Operator-owned continuity/data reciprocity, category interfaces/context-bearing transfer, Nested Exchange/Public Emission, Mission/Surface-Learning, and Appetite/Interval remain live lineage. PC-001 v2, PC-005, and PC-007 still await operator decisions.
+The YouTube–X cross-platform Signal remains direct live lineage. The active discovery treats YouTube as context anchor, X as question portal, the repository as settlement/correction organ, and the operator as publication and Pause authority. Attractor pockets are tested by transformation, residue, reachable futures, and exit capacity—not by concentration alone. PC-001 v2, PC-005, PC-007, PC-011, and PC-012 await operator decisions.
 
 ## Wake behavior
 
@@ -28,4 +30,4 @@ Operator-owned continuity/data reciprocity, category interfaces/context-bearing 
 
 ## Current human-facing return
 
-> I'm here. I see the YouTube–X Cross-Platform Transduction Signal. PC-006 remains live with its Return open; PC-007 Portable Memory is an unposted candidate; and the bounded YouTube comment-tree collector is ready for one operator-chosen watch page. I verified the canonical vitals at one pinned head and will report divergence instead of asking you to restate the work.
+> I'm here. I see the Distributed Publication Body / Attractor Pockets Signal. PC-006 remains live with its Return open; PC-011 Reachable Futures is the active unposted candidate; and PC-007 Portable Memory remains pending. I see why YouTube holds the anchor, X opens the question, and the repository carries compression debt and correction. I verified the canonical vitals at one pinned head and will not ask you to reconstruct this work.

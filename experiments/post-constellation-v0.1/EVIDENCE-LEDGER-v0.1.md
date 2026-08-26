@@ -116,6 +116,53 @@
 - **Does not support:** “pets are smarter,” “wild animals are simpler,” or one general domestication effect across species and cognitive domains.
 - **Routes:** DA-020, DA-024, DA-030, DA-040.
 
+### Frankfurt consumption rooms and concentration policy
+
+- **State:** PRIMARY_OFFICIAL / POLICY_POSITION.
+- **Design/qualifier:** municipal service descriptions and an elected city official's policy argument; not an independent causal evaluation of the whole Bahnhofsviertel.
+- **Sources:**
+  - City of Frankfurt, consumption rooms. [Official service page](https://frankfurt.de/themen/gesundheit/drogen-und-sucht-/hilfeangebote/konsumraeume)
+  - City of Frankfurt, crisis-center services. [Official service page](https://frankfurt.de/themen/gesundheit/drogen-und-sucht-/hilfeangebote/konsumraeume/drogennotdienst)
+  - City of Frankfurt, response to the state seven-point plan, 2025. [Official policy statement](https://frankfurt.de/de-de/aktuelle-meldung/dezernat-viii/sieben-punkte-plan/)
+- **Observed official claims:** Frankfurt reports four consumption rooms and roughly 600 consumption events per day. It says staff are trained for emergencies, no drug-consumption-related death has occurred inside the rooms since their establishment, roughly one in 500 consumption events is an emergency, and about half of those emergencies are handled without an emergency physician. The city states that the facilities seek contact with hard-to-reach people, reduce infectious-disease and emergency risk, connect people to further help, and reduce public consumption. A city official separately argues that keeping the open scene concentrated in two streets preserves monitoring and aid and that dispersal could spread dealing and discarded equipment.
+- **Supports:** holding two paths simultaneously: concentration may improve legibility, emergency response, and access to care while also localizing cues, markets, stigma, service pressure, and neighborhood burden.
+- **Does not support:** that consumption rooms caused the whole district's distress; that no deaths occur outside the rooms; that concentration is the uniquely correct policy; or that dispersal, criminalization, or forced sobriety would improve outcomes.
+- **Routes:** DA-024, DA-033, DA-036, DA-040, DA-047.
+
+### OpenAI Jalapeño full-stack acceleration loop
+
+- **State:** PRIMARY_COMPANY / BENCHMARK_CLAIM.
+- **Design/qualifier:** company announcement and company-reported benchmark results; current engineering samples and selected workloads, not independent proof of universal superiority or ecosystem displacement.
+- **Sources:**
+  - OpenAI and Broadcom, Jalapeño announcement, 2026. [Official announcement](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
+  - OpenAI, first measured Jalapeño results, 2026. [Official results](https://openai.com/index/jalapeno-first-results/)
+- **Observed company claims:** OpenAI describes a custom inference chip co-developed with Broadcom and Celestica, accelerated in part by OpenAI models, with a planned initial deployment by the end of 2026. Its first-results post reports higher throughput per watt and lower latency than named comparison systems on InferenceX across GPT-OSS 120B, DeepSeek R1, and Kimi K2.5 workloads, and says selected AI-generated kernels outperformed selected human-expert implementations. The post explicitly limits the kernel figures to selected blocks and says OpenAI will continue deploying NVIDIA and other accelerators.
+- **Supports:** a real recursive loop in which models help optimize the infrastructure that serves future models, and a question about how machine-written low-level software changes ecosystem moats.
+- **Does not support:** “NVIDIA is finished,” universal workload dominance, independent validation of every figure, or the disappearance of manufacturing, reliability, tooling, integration, and deployment constraints.
+- **Routes:** DA-015, DA-016, DA-018, DA-035, DA-039, DA-047.
+
+### Astra security pause and correction rhythm
+
+- **State:** PRIMARY_COMPANY / GOVERNANCE_CLAIM.
+- **Design/qualifier:** company disclosure about internal evaluation and control changes; not independent capability verification or evidence that all model development stopped.
+- **Sources:**
+  - OpenAI, response to possible critical cyber capabilities, 2026. [Official disclosure](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+  - OpenAI, pacing model development, 2026. [Official update](https://openai.com/index/pacing-model-development-cyber-capabilities/)
+- **Observed company claims:** OpenAI said it could not rule out critical cyber capabilities for Astra and paused internal activities involving Astra that did not meet strengthened controls. A later update says some training and evaluation met the requirements while a significant number of workloads remained paused during migration, with safety and alignment workloads prioritized.
+- **Supports:** treating Pause as a selective correction rhythm with thresholds, migration, monitoring, and protected work—not merely a slogan or a total stop.
+- **Does not support:** that Astra definitively has the claimed capability, that all development paused, or that the controls are sufficient.
+- **Routes:** DA-011, DA-016, DA-030, DA-035, DA-036, DA-039, DA-047.
+
+### Gemini Notebook as a bounded executable research environment
+
+- **State:** PRIMARY_COMPANY / PRODUCT_DESCRIPTION.
+- **Design/qualifier:** official current product description; rollout and account availability vary, and “secure” is a provider claim rather than an independent audit in this ledger.
+- **Source:** Google, “NotebookLM is now Gemini Notebook,” 2026. [Official announcement](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
+- **Observed company claims:** Google renamed NotebookLM to Gemini Notebook while keeping it a standalone research product, added a secure cloud computer to write and execute code inside notebooks, and is expanding sync across the Gemini app and Search.
+- **Supports:** using the product as a carrier for an archive becoming an active source-grounded Body that can receive, transform, execute, and produce artifacts.
+- **Does not support:** operator ownership of all useful state, full portability, equivalent behavior across plans, or independent security/privacy guarantees.
+- **Routes:** DA-012, DA-014, DA-019, DA-024, DA-034, DA-035, DA-047.
+
 ## Evidence gaps deliberately left open
 
 - Whether appetite-focused video formats causally increase overconsumption across populations.
@@ -127,6 +174,11 @@
 - Population-level distributional effects behind exceptional employee-equity outcomes.
 - Whether reduced survival/maintenance pressure generally creates more behavioral exploration or merely changes which behavior observers can see.
 - Cross-species comparisons of colony coordination, individual flexibility, play, and intelligence using commensurable measures.
+- Independent outcome comparisons among concentration, dispersal, treatment, housing, policing, and harm-reduction policies in Frankfurt and other cities.
+- Direct testimony from residents, service users, workers, businesses, clinicians, and neighborhood organizations around the Bahnhofsviertel.
+- Clinical validation or falsification of “reachable futures” as a useful mechanism in substance and behavioral addictions.
+- Independent Jalapeño performance, deployment reliability, total-system cost, supply constraints, and ecosystem comparisons.
+- Whether any public/private AI pause mechanism can change competitive field tempo rather than only re-route activity behind a new control boundary.
 
 ## Use rule
 

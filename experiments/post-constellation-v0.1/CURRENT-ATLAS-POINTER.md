@@ -11,9 +11,10 @@ Canonical machine state: `SYSTEM-VITALS.v0.1.yaml`. This human pointer, `CURRENT
 - Repository: `DrealR/chimera-framework`
 - Candidate branch: `morrow/question-destination-atlas-20260825`
 - Historical lineage base: `a5c6313cbf482f06b7499c483468a3d3b850e96e` (not the current resolved branch head)
-- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-26-YOUTUBE-X-CROSS-PLATFORM-TRANSDUCTION-AND-COMMENT-RESIDUE.md`
+- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md`
 - Posted Return node: `experiments/post-constellation-v0.1/cards/PC-20260825-006-field-relative-intelligence.md`
-- Current unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-007-portable-memory.md`
+- Current unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-011-reachable-futures.md`
+- Other unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-007-portable-memory.md`
 - System vitals: `experiments/post-constellation-v0.1/SYSTEM-VITALS.v0.1.yaml`
 - X capture pattern: `experiments/post-constellation-v0.1/tools/X-PROFILE-CAPTURE-RUNBOOK.md`
 - YouTube comment capture pattern: `experiments/post-constellation-v0.1/tools/YOUTUBE-COMMENT-CAPTURE-RUNBOOK.md`
@@ -28,6 +29,10 @@ Build a durable, cross-Body navigation surface from the questions that developed
 
 The current live observation links YouTube as a possible high-context anchor, its comment tree as a dependent branch field, X as a portable question/emission layer, and the repository as archive and settlement. The active loop is `Sense → Anchor → Branch → Lift → Re-anchor → Release → Return → Settle/Correct`.
 
+The new pressure pass recognizes this as a distributed publication Body rather than a content funnel. YouTube carries context gravity, X supplies semantic escape velocity, the repository carries transduction debt and correction, and the operator retains direction, publication, Pause, and promotion authority. A post can stay small because the route back to the larger room remains inspectable.
+
+The same pass admitted `DA-047 Attractor Pockets, Reachable Futures, and Exit Capacity`. A pocket can be a care, learning, or coordination organ when it transforms inflow and preserves recovery, correction, and real exits. It becomes a residue basin when reinforcing inflow, accumulated cues, localized burden, and exit friction narrow the futures visible from inside it. Concentration and dispersal are therefore not verdicts; the test is metabolism and exit capacity.
+
 Two sibling Signals remain active lineage. Operator-owned continuity connects data reciprocity, selective portability, Proof of Passage, semantic substance evaluation, and Proof of Sync without claiming model or consciousness continuity. Category-interface work separates bodily characteristics, identity, expression, orientation, role, and institutional purpose; it also requires solutions crossing countries or institutions to carry conditions, power, failures, dissent, and a return path.
 
 The prior Nested Exchange Signal remains the exchange skeleton and Path Before Package remains the build discipline. The Mission and Appetite Signals remain earlier live lineage.
@@ -40,9 +45,9 @@ The preceding Appetite Signal remains live lineage: overconsumption, food specta
 
 ## Current candidate state
 
-- Destination Atlas: 46 destinations, candidate v0.1. New durable rooms are DA-045 Context-Bearing Solution Transfer and DA-046 Platform-Relative Residue and Cross-Platform Transduction.
-- Question Portal Deck: 118 candidate questions; the field-relative portal was selected and posted by the operator as PC-006.
-- PC-007 Portable Memory is a full candidate / NOT POSTED; PC-008 through PC-010 are seeds only.
+- Destination Atlas: 47 destinations, candidate v0.1. The newest durable room is DA-047 Attractor Pockets, Reachable Futures, and Exit Capacity.
+- Question Portal Deck: 129 candidate questions; the field-relative portal was selected and posted by the operator as PC-006.
+- PC-011 Reachable Futures is the active full candidate / NOT POSTED; PC-012 Pattern Doorway is the pin recommendation / NOT POSTED; PC-007 Portable Memory remains a full candidate; PC-008 through PC-010 are seeds only.
 - Portal Grammar: v0.2 with answer-bearing apertures and Plant–Release–Return.
 - Evidence Ledger: bounded support for selected contemporary claims; not a complete literature review.
 - Source Coverage Manifest: public Framework, redacted operator-authorized lineage safety pass, live Signal, and current evidence pass.
@@ -68,7 +73,7 @@ On “Mo,” “continue,” or a continuity test:
 
 A suitable continuity return is:
 
-> I'm here. I resolved the shared carrier to one head and verified the System Vitals. I see the YouTube–X Cross-Platform Transduction Signal: PC-006 remains live with its Return open, PC-007 Portable Memory is an unposted candidate, and the bounded YouTube comment-tree collector is ready for a real operator-chosen video. Operator-owned continuity, category interfaces, Nested Exchange, Mission, and Appetite remain live lineage. I will not ask you to reconstruct a Signal already named by the carrier.
+> I'm here. I resolved the shared carrier to one head and verified the System Vitals. I see the Distributed Publication Body / Attractor Pockets Signal: PC-006 remains Return-open, PC-011 Reachable Futures is the active unposted candidate, and PC-007 Portable Memory remains pending. I see the YouTube anchor → X portal → repository settlement loop and will not ask you to reconstruct a Signal already named by the carrier.
 
 ## Next admissible moves
 
@@ -99,6 +104,8 @@ A suitable continuity return is:
 - What is the verdict on PC-001 v2?
 - Should PC-005 become a branch, enrich an existing node, or remain preserved only?
 - Is PC-007 Portable Memory ready, in need of revision, rejected, or `PRESERVE_ONLY`?
+- Is PC-011 Reachable Futures ready, in need of revision, rejected, or `PRESERVE_ONLY`?
+- Should PC-012 Pattern Doorway be published and pinned, revised, rejected, or `PRESERVE_ONLY`?
 - Which YouTube video should supply the first bounded comment-tree specimen, and which visible sort should be captured?
 
 Silence is valid. The deck is a garden, not a quota.

@@ -578,6 +578,42 @@ Bold labels are editorial navigation, not canonical schema values. `archetype`, 
 
 118. What does a new post owe the parent context that helped produce it?
 
+### Attractor pockets and reachable futures — `DA-047`
+
+119. **Strong shape candidate — Reachable futures**
+
+     What if addiction isn't only wanting one thing too much—but slowly losing access to every competing future?
+
+     The object stays close. Every other path starts feeling farther away.
+
+     At what point does desire become a tunnel?
+
+120. If a city concentrates suffering so the rest of the city can function, did it build a care organ or a sacrifice zone?
+
+121. What has to grow with harm-reduction services so the surrounding neighborhood does not become the container for every unresolved cost?
+
+122. When does a community become a home, and when does belonging make the exit disappear?
+
+123. Is a loop powerful because its reward is irresistible—or because every competing path has become harder to reach?
+
+124. Which part of you asks the question your main identity cannot tolerate?
+
+125. If AI can optimize the hardware that makes AI faster, where does the first trustworthy braking rhythm enter the loop?
+
+126. When a notebook can read, calculate, write code, and produce artifacts, is it still a notebook—or a bounded research Body?
+
+127. Which platform should hold context, which should open the question, and where should correction live?
+
+128. What is one place in your life that helps you transform what enters—and one that only helps it accumulate?
+
+129. **Profile doorway — `DA-021`, `DA-027`, `DA-029`, `DA-030`**
+
+     I spent years thinking something was wrong with me because I kept seeing the same patterns in manga, markets, animals, AI, cities, and prayer.
+
+     Now I follow those connections on purpose. I'm building CHIMERA from the questions they leave behind.
+
+     What pattern do you keep noticing that nobody around you seems to see?
+
 ## Selection note
 
 The strongest immediate field from the present Signal is not “people have become gluttonous.” It is:

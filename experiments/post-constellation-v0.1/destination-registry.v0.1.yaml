@@ -472,6 +472,15 @@ destinations:
     carriers: ["YouTube video and comment tree", "X post and reply thread", "Reddit submission and comments", "TikTok video and comments", "podcast and quote post", "GitHub issue and executable repair"]
     neighbors: ["DA-004", "DA-006", "DA-011", "DA-019", "DA-029", "DA-034"]
 
+  - id: "DA-047"
+    slug: "attractor-pockets-reachable-futures-exit-capacity"
+    title: "Attractor Pockets, Reachable Futures, and Exit Capacity"
+    neighborhood: "appetite_attention"
+    core_question: "When a system concentrates people, attention, services, appetite, tools, or risk into one bounded field, what determines whether the pocket becomes a care or learning organ or a trap that accumulates unresolved residue?"
+    mechanisms: ["attractor basin", "accessibility-weighted horizon", "concentration-transformation-exit balance", "path dependence", "cue and residue reinforcement", "cost localization", "reachable alternatives", "exit capacity"]
+    carriers: ["supervised-consumption districts", "casinos and sportsbook apps", "algorithmic feed niches", "clout-governed groups", "clinics and mutual-aid networks", "research notebooks", "fandoms", "city service hubs"]
+    neighbors: ["DA-001", "DA-004", "DA-011", "DA-024", "DA-036", "DA-040", "DA-046"]
+
 trails:
   - {from: "DA-001", type: "enables", to: "DA-002", claim_state: "CANDIDATE", rationale: "Removed stopping points may let appetite become continuous spectacle."}
   - {from: "DA-002", type: "possible_shared_skeleton", to: "DA-003", claim_state: "CANDIDATE", rationale: "Eating, shopping, and betting may all be watched as vicarious stakes without being identical acts."}
@@ -525,6 +534,12 @@ trails:
   - {from: "DA-046", type: "amplified_by", to: "DA-004", claim_state: "CANDIDATE", rationale: "Ranking and platform incentives change which residue becomes visible and portable."}
   - {from: "DA-011", type: "operator_practice_for", to: "DA-046", claim_state: "CANDIDATE", rationale: "Different platform clocks require Pause, delayed Return, and release without metric capture."}
   - {from: "DA-019", type: "evidence_gate_for", to: "DA-046", claim_state: "CANDIDATE", rationale: "Comment lineage and sampling limits prevent context laundering during re-anchoring."}
+  - {from: "DA-047", type: "possible_shared_skeleton", to: "DA-001", claim_state: "CANDIDATE", rationale: "A high-weight appetite may narrow the set of futures that feel reachable without defining addiction."}
+  - {from: "DA-047", type: "special_case_of", to: "DA-024", claim_state: "CANDIDATE", rationale: "A pocket is one bounded Body and field configuration whose membrane, metabolism, residue, and scale must be located."}
+  - {from: "DA-040", type: "outside_view_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "A surrounding city, platform, supply chain, or institution may export unresolved cost into one visible basin."}
+  - {from: "DA-011", type: "counterpath_to", to: "DA-047", claim_state: "CANDIDATE", rationale: "Pause, recovery, and authored return may reopen contrast and competing paths when those paths are materially reachable."}
+  - {from: "DA-036", type: "authority_boundary_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "Care and coordination do not justify total write-access over the people inside a concentrated field."}
+  - {from: "DA-046", type: "creates_address_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "Long anchors, portable questions, and repository settlement let Returns test a pocket without deleting source context."}
 
 admission_test:
   - "recurring seam rather than one trending example"

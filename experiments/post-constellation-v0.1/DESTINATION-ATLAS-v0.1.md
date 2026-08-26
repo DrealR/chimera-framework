@@ -542,6 +542,16 @@ These fields recur strongly in the developmental archive and supply missing brid
 
 **Counterpath:** weakly monetized or low-portability speech is not inherently authentic, intelligent, altruistic, or representative. Ranking, moderation, audience composition, identity, deletion, and status incentives still shape the visible branch field.
 
+### `DA-047` — Attractor Pockets, Reachable Futures, and Exit Capacity
+
+**Core question:** When a system concentrates people, attention, services, appetite, tools, or risk into one bounded field, what determines whether the pocket becomes a care/learning organ or a trap that accumulates the larger body's unresolved residue?
+
+**Candidate mechanisms:** attractor basin; accessibility-weighted horizon; concentration–transformation–exit balance; path dependence; cue and residue reinforcement; cost localization; reachable alternatives; exit capacity.
+
+**Carriers:** supervised-consumption districts; casinos and sportsbook apps; algorithmic feed niches; cult-like or clout-governed groups; clinics and mutual-aid networks; research notebooks; fandoms; city service hubs.
+
+**Counterpath:** concentration is not inherently pathological. Care, evidence, peer support, learning, and recovery may depend on shared location and visibility; dispersal can hide harm without transforming it. The test is what enters, what changes, what accumulates, who bears the residue, and which futures remain reachable from inside the pocket.
+
 ## High-value trails
 
 | From | Relation | To | Why the trail matters |
@@ -598,6 +608,12 @@ These fields recur strongly in the developmental archive and supply missing brid
 | `DA-046` | `amplified_by` | `DA-004` | Ranking and platform incentives change which residue becomes visible and portable. |
 | `DA-011` | `operator_practice_for` | `DA-046` | Different platform clocks require Pause, delayed Return, and release without metric capture. |
 | `DA-019` | `evidence_gate_for` | `DA-046` | Comment lineage and sampling limits prevent context laundering during re-anchoring. |
+| `DA-047` | `possible_shared_skeleton` | `DA-001` | A high-weight appetite can narrow the set of futures that feel reachable without defining addiction. |
+| `DA-047` | `special_case_of` | `DA-024` | A pocket is one bounded Body/field configuration whose membrane, metabolism, residue, and scale must be located. |
+| `DA-040` | `outside_view_for` | `DA-047` | The surrounding city, platform, supply chain, or institution may export unresolved cost into one visible basin. |
+| `DA-011` | `counterpath_to` | `DA-047` | Pause, recovery, and authored return can reopen contrast and competing paths when they are materially reachable. |
+| `DA-036` | `authority_boundary_for` | `DA-047` | Care or coordination must not turn concentration into total write-access over the people inside it. |
+| `DA-046` | `creates_address_for` | `DA-047` | Long anchors, portable questions, and repository settlement let public Returns test the pocket without deleting source context. |
 
 ## Destination admission test
 
