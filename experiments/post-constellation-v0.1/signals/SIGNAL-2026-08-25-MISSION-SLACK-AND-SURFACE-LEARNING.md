@@ -2,7 +2,7 @@
 
 > **Classification:** PUBLIC_SAFE OPERATOR SIGNAL / CANDIDATE MECHANISMS / NOT POSTED
 > **Date:** 2026-08-25
-> **Primary routes:** DA-013, DA-016, DA-020, DA-024, DA-027, DA-028, DA-029, DA-030, DA-033, DA-034, DA-035, DA-040
+> **Primary routes:** DA-012, DA-013, DA-014, DA-016, DA-020, DA-024, DA-027, DA-028, DA-029, DA-030, DA-033, DA-034, DA-035, DA-040
 > **Source handling:** operator observations are compressed rather than reproduced verbatim. Animal comparisons remain questions unless bounded evidence supports them.
 
 ## Epistemic legend
@@ -25,6 +25,8 @@ OBS: Public creators expose useful surfaces even when their internal process, co
 OBS: Paying for a course can still be rational even when the underlying information is available elsewhere. The payment may buy compression, sequence, curation, examples, credibility, accountability, community, or fewer wrong turns—not exclusive possession of facts.
 
 OBS: Conversation changes the learner's attention. A family member, stranger, creator, or collaborator may not “deliver the answer”; they can make a path visible that the learner's current weighting field was not visiting.
+
+OBS: An automation can appear confused while faithfully executing instructions written for an older field. An alert proves that a scheduled rule ran; it does not prove that the rule still points to the current branch, checkpoint, authority boundary, or live question.
 
 ## Candidate synthesis
 
@@ -53,6 +55,8 @@ same body + foreign cues + imposed field
 ```
 
 The house is not a neutral test chamber. It is a human membrane with human geometry, materials, light, smells, hazards, and permissions.
+
+The same pattern can appear in technical systems: a prompt or automation may remain internally consistent while the repository, task pointer, permissions, or meaning of “current” has changed around it.
 
 ### 3. Behavioral slack
 
@@ -134,6 +138,7 @@ EVIDENCE: Comparative dog/wolf work does not support a simple “domestication m
 10. What changes when you stop treating conversation as information extraction and start treating it as play between two centers?
 11. Can you learn from someone while believing you are above them?
 12. What does a black box reveal simply by responding—and what must remain unknown?
+13. When an automation looks confused, is the rule broken—or is it faithfully following a world that no longer exists?
 
 ## Current routing verdict
 
@@ -142,6 +147,7 @@ EVIDENCE: Comparative dog/wolf work does not support a simple “domestication m
 - ENRICH -> DA-033 with local-rule coordination that can look centrally commanded.
 - ENRICH -> DA-040 with ecological fit and environment-specific intelligence.
 - ENRICH -> DA-016 with metrics as partial traces rather than causal explanations.
+- ENRICH -> DA-012 and DA-014 with stale instructions, current pointers, and continuity as field reorientation rather than repeated execution.
 - ENRICH -> DA-027 with reverse engineering as a typed traversal that requires return tests.
 - ENRICH -> DA-028 with paid compression versus judgment-bearing passage.
 - ENRICH -> DA-020 and DA-034 with conversation as mutual transduction and settlement.
