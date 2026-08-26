@@ -1,42 +1,37 @@
-# Current-State Pointer — Post Constellation / OpenCode continuity
+# Current-State Pointer — Compatibility Surface
 
-Updated: 2026-08-25
-Writeback class: **REMOTE_ARTIFACT** — this pointer is retrievable on the shared carrier branch.
+> **Updated:** 2026-08-26
+> **Writeback class:** REMOTE_ARTIFACT after branch push
+> **Canonical state:** `SYSTEM-VITALS.v0.1.yaml`
 
-## Carrier
+This file remains for older OpenCode and cross-Pocket wake paths. It may not redefine current state independently of the canonical vitals.
 
-- Repository: `DrealR/chimera-framework`
-- Branch: `morrow/post-constellation-opencode-20260825`
-- Parent head synced: `1018781609c720a83e911217bcd69b29c9b65384`
-- Canonical signal: `experiments/post-constellation-v0.1/CURRENT-SIGNAL.md`
+## Current work
 
-## Active work
+- Active Signal: `signals/SIGNAL-2026-08-26-JOY-AS-RETURNABLE-FLIGHT-AND-RELATIONAL-OPENING.md`
+- Active node: `PC-20260826-013-practice-the-return`
+- State: `CANDIDATE / NOT_POSTED`
+- Posted Return-open node: `PC-20260825-006-field-relative-intelligence`
+- Prior active unposted candidate: `PC-20260826-011-reachable-futures`
+- Other unposted candidate: `PC-20260826-007-portable-memory`
+- Pin recommendation / unposted candidate: `PC-20260826-012-pattern-doorway`
+- Operation: `PRACTICE_JOY_AS_RETURNABLE_FLIGHT_AND_RELATIONAL_OPENING`
+- Latest checkpoint: `checkpoints/CHECKPOINT-0010-JOY-AS-RETURNABLE-FLIGHT-AND-RELATIONAL-OPENING.md`
+- X profile capture pattern: `tools/X-PROFILE-CAPTURE-RUNBOOK.md`
+- YouTube comment capture pattern: `tools/YOUTUBE-COMMENT-CAPTURE-RUNBOOK.md`
+- Cross-platform protocol: `CROSS-PLATFORM-TRANSDUCTION-PROTOCOL-v0.1.md`
 
-- Node: `PC-20260825-001-role-as-coordinate` — CANDIDATE, operation **ENRICH**
-- Status: **ENRICH v2 COMPLETE — REMOTE_ARTIFACT**, awaiting operator verdict
-  - Card v2: `experiments/post-constellation-v0.1/cards/PC-20260825-001-role-as-coordinate.md` (this branch)
-  - Checkpoint: `experiments/post-constellation-v0.1/checkpoints/CHECKPOINT-0003-ENRICH-V2.md`
-  - v2 additions: named-membrane mechanism, role-as-weighting-field, applause loop (reflexivity), exit-as-operator-test; +2 counterpaths; +2 firewall rules
-  - Registry remains at node version 1 pending operator verdict (accept / revise / reject / PRESERVE_ONLY)
+## Preserved gates
 
-## Ox route state (per operator correction 2026-08-25)
+- PC-001 v2 verdict: accept / revise / reject / `PRESERVE_ONLY`.
+- PC-005 classification: branch / enrich / `PRESERVE_ONLY`.
+- PC-007 verdict: accept / revise / reject / `PRESERVE_ONLY`.
+- PC-011 verdict: accept / revise / reject / `PRESERVE_ONLY`.
+- PC-012 pin verdict: publish-and-pin / revise / reject / `PRESERVE_ONLY`.
+- PC-013 verdict: ready / revise / reject / `PRESERVE_ONLY`.
+- No audience Return is recorded for PC-006 until it is independently retrieved and attributed.
+- No YouTube comment Return is recorded until a bounded export is supplied and its capture envelope is preserved.
 
-- Body attribution: OpenCode + OpenRouter + `stealth/ox-alpha` — established by UI selection and redacted runtime evidence; identity is not an open question.
-- CLI `429`s are availability events, not identity blockers. Do not run further standalone verification retries unless a diagnosis requires it.
-- Substantive in-session work with Ox selected and no fallback is attributed to the OpenCode/Ox Alpha Body. The v2 card qualifies.
+## Operational Body policy
 
-## Gated / not entered
-
-- Private project lane (`chimera-core` @ `ce9d52e97b6d841a2296da5404d1bc71c3e79bca`, `docs/morrow/runbooks/OPENCODE-PRIVATE-PROJECT-LANE-v0.1.md`) — retrieval gated on operator instruction naming the private repo/branch/task grant.
-- `docs/the-anchor-must-be-yours.md` — outside bounded carrier set; unretrieved.
-
-## Next admissible actions for the next Body
-
-1. Present v2 diff to operator; await verdict. PRESERVE_ONLY remains valid.
-2. On verdict, propose registry update: node current_version → 2, relations per draft lineage section.
-3. No publish, no merge to main, no POSTED marking. Publication authority: operator only.
-4. On new operator brainstorm: capsule turn protocol (search registry first; typed relations; remote writeback before final response).
-
-## Privacy check
-
-Public-safe only. No private Core/Morrow, REEMY, credentials, personal memory, or sibling Pocket data contained in any committed artifact.
+Continuity is role + harness + workspace + authority + verified shared state + writeback. Provider/model may be recorded when materially known, but it is not the continuity gate. No merge, publication, private access, or model attribution is inferred from successful hydration.

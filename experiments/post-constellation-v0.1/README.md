@@ -161,12 +161,12 @@ Ask:
 
 ## Constellation relations
 
-Allowed edges include:
+Post-node edges describe lineage and return among versioned Post Constellation cards. Allowed post-node edges include:
 
 - `derived_from`
 - `extends`
 - `counterpath_to`
-- `same_mechanism_new_costume`
+- `possible_shared_skeleton` — candidate only until evidence supports a shared mechanism;
 - `same_costume_different_mechanism`
 - `evidence_for`
 - `evidence_against`
@@ -175,6 +175,8 @@ Allowed edges include:
 - `returns_to`
 
 Edges must be typed. “Connected” alone supplies a thread but no weight.
+
+Destination trails are a separate namespace owned by `destination-registry.v0.1.yaml`. They relate durable fields rather than post versions, and every claimed trail carries `claim_state: CANDIDATE`. Bare `neighbors` are directional retrieval hints only; they are not mechanism claims.
 
 ## Publication rhythm
 
@@ -225,6 +227,8 @@ Distribution measures reach. It does not grade truth or human value.
 
 ## OpenCode / heterogeneous-Body operation
 
+Canonical wake begins at `SYSTEM-VITALS.v0.1.yaml` and follows `SYSTEM-VITALS-PROTOCOL-v0.1.md`. Older `CURRENT-*` files remain compatibility surfaces; disagreement among them is `DIVERGED`, not permission to choose the most convenient version.
+
 A public/synthetic Body may:
 
 - retrieve this protocol and the public registry;
@@ -267,3 +271,33 @@ A successful protocol should improve:
 > **New information should update the constellation before it increases the posting count.**
 
 > **Build a garden capable of receiving attention; do not confuse attention with the reason for the garden.**
+
+## Destination layer v0.1
+
+The original protocol registers versioned post nodes. The destination layer adds a slower-changing map underneath them so one relational field can support many non-equivalent public entrances without becoming a content quota.
+
+- [CHIMERA Question-Destination Atlas](DESTINATION-ATLAS-v0.1.md) — 47 durable relational fields and typed trails;
+- [machine-readable destination registry](destination-registry.v0.1.yaml) — destination IDs, mechanisms, carriers, neighbors, and relation vocabulary;
+- [Question Portal Grammar](QUESTION-PORTAL-GRAMMAR-v0.2.md) — answer-bearing question shapes, firewalls, and Plant–Release–Return;
+- [Question Portal Deck](QUESTION-PORTAL-DECK-v0.1.md) — 129 candidate entrances, not a publication queue;
+- [Cross-Platform Transduction Protocol](CROSS-PLATFORM-TRANSDUCTION-PROTOCOL-v0.1.md) — source-preserving movement from context anchor to branch field to portable portal and Return;
+- [YouTube Comment Capture Runbook](tools/YOUTUBE-COMMENT-CAPTURE-RUNBOOK.md) — bounded rendered-DOM tree capture with pseudonymized authors by default;
+- [current Mission / Surface-Learning Signal](signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md) — field-relative intelligence, behavioral slack, paid compression, and reciprocal learning;
+- [Appetite Signal](signals/SIGNAL-2026-08-25-APPETITE-INTERVAL-AND-CONSUMPTION-SPECTACLE.md) — overconsumption, interval collapse, and consumption spectacle, preserved with counterpaths;
+- [Evidence Ledger](EVIDENCE-LEDGER-v0.1.md) — source-specific claim ceilings;
+- [Source Coverage Manifest](SOURCE-COVERAGE-MANIFEST-v0.1.md) — what was scanned, what was read directly, and what remains thin;
+- [Current Atlas Pointer](CURRENT-ATLAS-POINTER.md) — cross-Body wake and continuation state.
+
+The intended route is:
+
+```text
+new Signal
+-> search destinations
+-> traverse typed trails
+-> select one question aperture
+-> create or update one Post Constellation card
+-> operator decides whether to publish
+-> plant, release, and later map the return
+```
+
+The destination registry does not supersede `registry.yaml`; it supplies the terrain from which future post nodes can be selected. Existing operator-pending node verdicts remain unchanged.

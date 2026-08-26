@@ -5,7 +5,7 @@
 - **Version:** 2 (draft)
 - **Question body:** Mirror + Seam + Operator
 - **Operator verdict:** pending
-- **Attribution:** enriched by OpenCode/Ox Alpha Body, 2026-08-25, in-session
+- **Attribution:** enriched by the OpenCode Pocket Body, 2026-08-25, in-session; `stealth/ox-alpha` was the selected route, but successful model execution was not independently proven
 
 ## One-line seam
 
@@ -130,8 +130,8 @@ Private source lineage deliberately excluded. This card is sufficient for public
 ## Relations
 
 - `derived_from -> public-safe Peter Pan performer observation`
-- `same_mechanism_new_costume -> professional role navigation`
-- `same_mechanism_new_costume -> AI carrier/role prompting`
+- `possible_shared_skeleton -> professional role navigation` (CANDIDATE)
+- `possible_shared_skeleton -> AI carrier/role prompting` (CANDIDATE)
 - `counterpath_to -> identity tunnel and coercive persona labor`
 - `extends -> docs/question-bodies-weighting-fields-and-priced-horizons.md` (strengthened in v2: explicit mechanism mapping)
 

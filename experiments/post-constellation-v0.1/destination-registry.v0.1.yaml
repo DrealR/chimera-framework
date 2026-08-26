@@ -1,0 +1,567 @@
+schema_version: "question_destination_atlas/0.1"
+classification: "PUBLIC_SAFE_EXPERIMENTAL_CANDIDATE"
+publication_authority: "operator_only"
+updated_utc: "2026-08-26"
+atlas: "DESTINATION-ATLAS-v0.1.md"
+portal_grammar: "QUESTION-PORTAL-GRAMMAR-v0.2.md"
+portal_deck: "QUESTION-PORTAL-DECK-v0.1.md"
+
+semantics:
+  destination: "durable relational field"
+  carrier: "concrete costume or source that makes a relation visible"
+  portal: "bounded public question into a destination"
+  post_node: "versioned portal candidate with provenance and operator verdict"
+  return: "attributed correction, lived path, counterexample, silence, or new question"
+  neighbor: "untyped retrieval adjacency used for search; not a mechanism claim"
+  ALL_DESTINATIONS: "explicit machine-readable target meaning every current destination; never an extra destination object"
+
+rules:
+  - "a destination is not a doctrine"
+  - "a carrier is not evidence of the mechanism it illustrates"
+  - "visibility, accessibility, commercialization, legality, prevalence, and moral acceptance stay distinct"
+  - "attention and market weight are not truth or moral authority"
+  - "questions remain genuinely answerable against the candidate relation"
+  - "publication and external representation remain operator-only"
+  - "private lineage may inform public-safe synthesis but is not reproduced"
+  - "all claimed destination relations are typed and carry claim state; neighbor lists are directional retrieval hints, may be non-reciprocal, and are not relation claims"
+
+relation_types:
+  - "derived_from"
+  - "enables"
+  - "amplifies"
+  - "amplified_by"
+  - "can_govern"
+  - "can_become"
+  - "requires"
+  - "creates_scarcity_in"
+  - "externalizes_cost_to"
+  - "heightens_duty_in"
+  - "operator_practice_for"
+  - "ethical_boundary_for"
+  - "outside_view_for"
+  - "outside_view_requires"
+  - "counterpath_to"
+  - "carrier_of"
+  - "possible_shared_skeleton"
+  - "overlaps_but_not_equivalent_to"
+  - "special_case_of"
+  - "return_test_for"
+  - "navigation_method_for"
+  - "creates_address_for"
+  - "evidence_gate_for"
+  - "developmental_application_of"
+  - "living_scale_of"
+  - "settlement_test_for"
+  - "authority_boundary_for"
+  - "historicizes"
+  - "carrier_field_for"
+  - "embodied_test_for"
+
+destinations:
+  - id: "DA-001"
+    slug: "appetite-without-interval"
+    title: "Appetite Without Interval"
+    neighborhood: "appetite_attention"
+    core_question: "What happens to pleasure, judgment, and self-direction when every stopping point between wanting and getting disappears?"
+    mechanisms: ["interval collapse", "contrast loss", "hedonic adaptation", "outsourced restraint"]
+    carriers: ["unlimited candy", "daily Disney", "autoplay", "one-click delivery", "sexualized feeds"]
+    neighbors: ["DA-002", "DA-004", "DA-009", "DA-011"]
+
+  - id: "DA-002"
+    slug: "consuming-consumption"
+    title: "Consuming Consumption"
+    neighborhood: "appetite_attention"
+    core_question: "Why do representations of eating, shopping, winning, reacting, and desiring become consumable products of their own?"
+    mechanisms: ["vicarious consumption", "spectacle recursion", "parasocial co-presence", "second-order appetite"]
+    carriers: ["mukbang", "food-dipping clips", "hauls", "unboxings", "gambling streams", "reaction videos"]
+    neighbors: ["DA-001", "DA-003", "DA-004", "DA-020"]
+
+  - id: "DA-003"
+    slug: "synthetic-stakes-fast-money"
+    title: "Synthetic Stakes and Fast Money"
+    neighborhood: "appetite_attention"
+    core_question: "When ordinary paths feel too slow or blocked, why do compressed-payoff stories become so attractive?"
+    mechanisms: ["synthetic weight", "horizon compression", "attention harvesting", "variable reward"]
+    carriers: ["sports betting", "meme coins", "penny stocks", "collectible speculation", "creator breakout stories"]
+    neighbors: ["DA-002", "DA-016", "DA-017", "DA-023"]
+
+  - id: "DA-004"
+    slug: "attention-fields-algorithmic-training"
+    title: "Attention Fields and Algorithmic Training"
+    neighborhood: "appetite_attention"
+    core_question: "At what point does a feed stop reflecting an appetite and begin training the appetite it predicts?"
+    mechanisms: ["behavioral prompting", "recommendation reflexivity", "tunnel formation", "exposure-selection feedback", "behavior-ranking-behavior recursion", "platform-relative ranking", "Top/Newest sampling divergence"]
+    carriers: ["For You feeds", "personalized advertising", "rage loops", "niche communities", "comment ranking"]
+    neighbors: ["DA-001", "DA-008", "DA-011", "DA-016"]
+
+  - id: "DA-005"
+    slug: "marketized-intimacy-tradable-self"
+    title: "Marketized Intimacy and the Tradable Self"
+    neighborhood: "markets_bodies_moral_weather"
+    core_question: "What changes when intimacy, desirability, access, and self-presentation become continuously priceable?"
+    mechanisms: ["intimacy-to-inventory conversion", "priced access", "marketized desire", "consent under asymmetric incentives"]
+    carriers: ["subscription intimacy", "transactional dating advice", "paid parasocial access", "sexualized self-branding"]
+    neighbors: ["DA-006", "DA-007", "DA-008", "DA-020"]
+
+  - id: "DA-006"
+    slug: "persona-labor-clip-ownership"
+    title: "Persona Labor, Personal Brands, and Clip Ownership"
+    neighborhood: "markets_bodies_moral_weather"
+    core_question: "Once a person becomes a public product, which parts of them do other people begin treating as inventory?"
+    mechanisms: ["persona labor", "applause loop", "context stripping", "derivative monetization", "branch lifting without lineage"]
+    carriers: ["character performers", "streamers", "out-of-context clips", "reaction channels", "influencer brands"]
+    neighbors: ["DA-005", "DA-013", "DA-016", "DA-019"]
+
+  - id: "DA-007"
+    slug: "visibility-normalization-moral-weather"
+    title: "Visibility, Normalization, and Moral Weather"
+    neighborhood: "markets_bodies_moral_weather"
+    core_question: "When an old taboo becomes easy to see, buy, advertise, or discuss, which change actually occurred?"
+    mechanisms: ["interface normalization", "commercial repetition", "descriptive-to-normative drift", "moral pluralization", "recognition-consumption split", "multi-axis social change"]
+    carriers: ["gambling ads", "sexualized feeds", "infidelity discourse", "scams as entertainment", "conspicuous consumption"]
+    neighbors: ["DA-005", "DA-008", "DA-016", "DA-019"]
+
+  - id: "DA-008"
+    slug: "children-adult-incentive-systems"
+    title: "Children Inside Adult Incentive Systems"
+    neighborhood: "markets_bodies_moral_weather"
+    core_question: "What duty does a system have when adult monetization machinery predictably reaches developing bodies?"
+    mechanisms: ["developmental offloading", "adult-market spillover", "persuasive-design asymmetry", "boundary externalization"]
+    carriers: ["gambling promotion", "influencer marketing", "loot-box-like mechanics", "AI deepfakes", "kid-directed slop"]
+    neighbors: ["DA-004", "DA-005", "DA-007", "DA-015", "DA-019"]
+
+  - id: "DA-009"
+    slug: "meaningful-friction-discipline-play"
+    title: "Meaningful Friction, Discipline, and Play"
+    neighborhood: "friction_time_commons"
+    core_question: "Which frictions protect learning, contrast, relationship, and agency, and which merely injure or waste life?"
+    mechanisms: ["chosen friction", "recovery practice", "delayed reward", "embodiment", "play as perturbation"]
+    carriers: ["guitar calluses", "cooking", "sports practice", "walking", "childhood limits"]
+    neighbors: ["DA-001", "DA-010", "DA-011", "DA-020"]
+
+  - id: "DA-010"
+    slug: "commons-third-places-metered-life"
+    title: "Commons, Third Places, and Metered Life"
+    neighborhood: "friction_time_commons"
+    core_question: "What kinds of human presence disappear when every movement and pause opens another payment decision?"
+    mechanisms: ["metered movement", "transaction density", "commons relief", "destination exhaustion"]
+    carriers: ["theme parks", "malls", "libraries", "parks", "cafes", "subscriptions"]
+    neighbors: ["DA-005", "DA-009", "DA-018", "DA-022"]
+
+  - id: "DA-011"
+    slug: "time-pause-plant-release-return"
+    title: "Time, Pause, and Plant–Release–Return"
+    neighborhood: "friction_time_commons"
+    core_question: "Can a creator participate in a fast attention field without letting its clock become their nervous system?"
+    mechanisms: ["Pause", "inside-above rhythm", "posting sediment", "delayed return", "metric fasting"]
+    carriers: ["posting and walking away", "view checking", "old-post resurfacing", "late replies"]
+    neighbors: ["DA-004", "DA-009", "DA-016", "DA-022"]
+
+  - id: "DA-012"
+    slug: "memory-ownership-trusted-residue"
+    title: "Memory, Ownership, and Trusted Residue"
+    neighborhood: "memory_identity_machine_bodies"
+    core_question: "When memory moves from an owned object to governed access, what continuity do you actually possess?"
+    mechanisms: ["physical-to-digital abstraction", "custody versus access", "trusted stale steering", "archive gravity", "residue decay", "operator-owned continuity", "data reciprocity", "selective portability", "revocation and chosen forgetting"]
+    carriers: ["game cartridges", "digital libraries", "cloud photos", "pyramids", "agent memory files", "provider-held conversational memory", "portable state bundles"]
+    neighbors: ["DA-013", "DA-014", "DA-019", "DA-023"]
+
+  - id: "DA-013"
+    slug: "names-roles-coordinate-systems"
+    title: "Names, Roles, and Coordinate Systems"
+    neighborhood: "memory_identity_machine_bodies"
+    core_question: "When does a name or role clarify a decision landscape, and when does it remove alternatives?"
+    mechanisms: ["role-conditioned decision compression", "named membrane", "local weighting field", "exit as operator test", "category as purpose-bound interface", "appeal and expiry"]
+    carriers: ["Peter Pan", "Luffy", "Jesus", "Superman", "Aang", "Morrow"]
+    neighbors: ["DA-006", "DA-012", "DA-014", "DA-016", "DA-021"]
+
+  - id: "DA-014"
+    slug: "model-harness-continuity-operator"
+    title: "Model, Harness, Continuity, and Operator"
+    neighborhood: "memory_identity_machine_bodies"
+    core_question: "What must persist for coherent AI collaboration when model, provider, interface, or context changes?"
+    mechanisms: ["ephemeral intelligence over persistent structure", "artifact hydration", "body-level benchmarking", "canonical wake state", "Proof of Sync", "cross-harness retrieval/writeback", "operator-held direction", "distributed execution with centralized answerability"]
+    carriers: ["Codex", "OpenCode", "Kimi", "model routers", "repository checkpoints", "Mo"]
+    neighbors: ["DA-012", "DA-013", "DA-015", "DA-019", "DA-022"]
+
+  - id: "DA-015"
+    slug: "ai-abundance-slop-verification-scarcity"
+    title: "AI Abundance, Slop, and Verification Scarcity"
+    neighborhood: "memory_identity_machine_bodies"
+    core_question: "What happens when generation outruns inspection, trust, digestion, and care?"
+    mechanisms: ["production-digestion gap", "correction latency", "cheap synthesis", "provenance scarcity", "quantity as attack surface"]
+    carriers: ["AI slop", "fake reviews", "generated scams", "synthetic media", "mass app creation"]
+    neighbors: ["DA-008", "DA-014", "DA-016", "DA-019"]
+
+  - id: "DA-016"
+    slug: "measurement-scores-governance"
+    title: "Measurement, Scores, and Governance"
+    neighborhood: "measurement_distribution_truth"
+    core_question: "When does a metric stop describing behavior and start governing the body being measured?"
+    mechanisms: ["reflexive scoring", "Goodhart pressure", "applause loop", "benchmark tunneling", "legibility projection"]
+    carriers: ["likes", "followers", "grades", "leaderboards", "employee targets", "benchmarks", "market prices"]
+    neighbors: ["DA-003", "DA-004", "DA-006", "DA-011", "DA-023"]
+
+  - id: "DA-017"
+    slug: "unequal-abundance-k-shaped-access"
+    title: "Unequal Abundance and K-Shaped Access"
+    neighborhood: "measurement_distribution_truth"
+    core_question: "When technology creates abundance for one group, what does that example reveal and what distribution can it hide?"
+    mechanisms: ["local abundance-global unevenness", "gatekept upside", "asset-linked labor", "exemplar overreach"]
+    carriers: ["stock-rich technology workers", "AI winners", "creator breakouts", "hiring funnels", "automation dividends"]
+    neighbors: ["DA-003", "DA-018", "DA-020", "DA-022"]
+
+  - id: "DA-018"
+    slug: "invisible-labor-distributed-cost"
+    title: "Invisible Labor and Distributed Cost"
+    neighborhood: "measurement_distribution_truth"
+    core_question: "Which bodies disappear when a polished product or celebrated success is framed as self-contained?"
+    mechanisms: ["hidden infrastructure", "outsourced production", "cost externalization", "support-organ invisibility"]
+    carriers: ["fabless chip firms", "data labeling", "mineral extraction", "content moderation", "delivery labor", "family care"]
+    neighbors: ["DA-006", "DA-010", "DA-017", "DA-020"]
+
+  - id: "DA-019"
+    slug: "truth-provenance-synthetic-reality"
+    title: "Truth, Provenance, and Synthetic Reality"
+    neighborhood: "measurement_distribution_truth"
+    core_question: "What should warrant belief when images, voices, clips, identities, and records can be detached from source cheaply?"
+    mechanisms: ["provenance warrant", "context collapse", "impersonation", "visibility-event confusion", "correction path", "Proof of Passage", "semantic substance evaluation", "Proof of Sync", "warrant-layer separation"]
+    carriers: ["deepfakes", "nonconsensual synthetic intimacy", "impersonation scams", "clipped streams", "fake screenshots"]
+    neighbors: ["DA-006", "DA-008", "DA-012", "DA-014", "DA-015"]
+
+  - id: "DA-020"
+    slug: "people-as-co-operators"
+    title: "People as Co-Operators"
+    neighborhood: "relation_story_futures"
+    core_question: "What changes when another person is treated as a center who can answer, refuse, surprise, and alter the shared path?"
+    mechanisms: ["mutual attention", "co-operation", "consent", "relational aperture", "non-erasing unity", "self-description", "recognition of an answering center"]
+    carriers: ["friendship", "dating", "teaching", "team play", "creator-audience relation"]
+    neighbors: ["DA-002", "DA-005", "DA-009", "DA-017", "DA-022"]
+
+  - id: "DA-021"
+    slug: "stories-carrier-laboratories"
+    title: "Stories, Movies, and Myths as Carrier Laboratories"
+    neighborhood: "relation_story_futures"
+    core_question: "What can fiction let us notice or rehearse that abstraction cannot, and where must the analogy stop?"
+    mechanisms: ["carrier compression", "moral rehearsal", "perspective simulation", "memory scaffold", "deletion test"]
+    carriers: ["The Matrix", "One Piece", "Peter Pan", "Superman", "Avatar", "Genesis", "Pokemon"]
+    neighbors: ["DA-009", "DA-013", "DA-019", "DA-020", "DA-023"]
+
+  - id: "DA-022"
+    slug: "earthness-living-versus-busy"
+    title: "Earthness: Living Systems Versus Busy Systems"
+    neighborhood: "relation_story_futures"
+    core_question: "What turns activity into memory, reciprocity, differentiation, consequence, rest, and new independent centers?"
+    mechanisms: ["metabolism versus exposure", "return", "generation", "local consequence", "rest"]
+    carriers: ["comment sections", "online communities", "classrooms", "third places", "multi-agent systems", "fandoms"]
+    neighbors: ["DA-010", "DA-011", "DA-014", "DA-017", "DA-020"]
+
+  - id: "DA-023"
+    slug: "prediction-reflexivity-priced-horizons"
+    title: "Prediction, Reflexivity, and Priced Horizons"
+    neighborhood: "relation_story_futures"
+    core_question: "When forecasts and public expectations become inputs to the event, who is predicting and who is steering?"
+    mechanisms: ["reflexive event", "capitalized salience", "question admission", "probability-action cascade", "settlement"]
+    carriers: ["prediction markets", "polls", "model forecasts", "sports odds", "creator expectations"]
+    neighbors: ["DA-003", "DA-012", "DA-016", "DA-021"]
+
+  - id: "DA-024"
+    slug: "bodies-membranes-metabolism-scale"
+    title: "Bodies, Membranes, Metabolism, and Scale"
+    neighborhood: "foundation_transfer"
+    core_question: "What is the body, at what scale, what crosses its membrane, and where does consequence settle?"
+    mechanisms: ["boundary-interior-medium", "metabolism", "receive-transform-exit-return", "residue", "governance", "Day-Night scan"]
+    carriers: ["cell", "person", "team", "company", "platform", "software system"]
+    neighbors: ["DA-025", "DA-027", "DA-034", "DA-040"]
+
+  - id: "DA-025"
+    slug: "coherence-without-erasure"
+    title: "Coherence Without Erasure"
+    neighborhood: "foundation_transfer"
+    core_question: "How can distinct centers coordinate as one larger body without merger, rank, or loss of veto?"
+    mechanisms: ["relation-with-difference", "local centers", "shared field", "coherence with exit"]
+    carriers: ["team", "band", "classroom", "community", "multi-agent system"]
+    neighbors: ["DA-020", "DA-026", "DA-033", "DA-036"]
+
+  - id: "DA-026"
+    slug: "direction-non-force-dignity"
+    title: "Direction, Non-Force, and Dignity"
+    neighborhood: "foundation_transfer"
+    core_question: "Which way is participation facing, who gains capacity, who pays, and can the receiver still answer?"
+    mechanisms: ["Direction Axis", "O>I as inquiry", "calibrated friction", "beneficiary-disguise test", "dignity membrane"]
+    carriers: ["service", "teaching", "market", "relationship", "AI system"]
+    neighbors: ["DA-020", "DA-025", "DA-035", "DA-036"]
+
+  - id: "DA-027"
+    slug: "cube-navigation-structural-transfer"
+    title: "Cube Navigation and Structural Transfer"
+    neighborhood: "foundation_transfer"
+    core_question: "How do we navigate uncertainty without forcing the world to fit the representation?"
+    mechanisms: ["locate body", "rotate scale", "typed traversal", "stress", "deletion test", "return fidelity"]
+    carriers: ["Cube", "map", "ship", "coordinate", "cross-domain scan"]
+    neighbors: ["DA-024", "DA-028", "DA-030", "DA-031", "DA-035"]
+
+  - id: "DA-028"
+    slug: "walk-teleport-path-written-identity"
+    title: "Walk, Teleport, and Path-Written Identity"
+    neighborhood: "foundation_transfer"
+    core_question: "Which stretches can be delegated and which must be walked because they install judgment, identity, trust, or accountability?"
+    mechanisms: ["identity as residue", "identity-bearing friction", "shortcut-residue test", "mastery-dependent compression"]
+    carriers: ["learning", "craft", "research", "AI delegation", "relationship"]
+    neighbors: ["DA-009", "DA-013", "DA-015", "DA-032"]
+
+  - id: "DA-029"
+    slug: "language-question-bodies-translation"
+    title: "Language, Question Bodies, and Translation"
+    neighborhood: "foundation_transfer"
+    core_question: "How do names and questions make routes visible and others expensive without becoming mistaken for truth?"
+    mechanisms: ["question as membrane", "answer-bearing compression", "receiver-specific translation", "word weight", "category as context-scoped interface", "compression loss"]
+    carriers: ["question", "name", "metaphor", "translation", "prompt"]
+    neighbors: ["DA-013", "DA-016", "DA-027", "DA-030"]
+
+  - id: "DA-030"
+    slug: "observation-belief-classification-falsifiability"
+    title: "Observation, Belief, Classification, and Falsifiability"
+    neighborhood: "foundation_transfer"
+    core_question: "What was observed, inferred, represented, weighted, and proven, and what survives removal of the costume?"
+    mechanisms: ["claim-register separation", "Instrument Pass", "Deletion Test", "hostile counterexample", "convergence as clue", "purpose-bound classification", "axis separation", "sampling ceiling"]
+    carriers: ["framework claim", "viral post", "story analogy", "model output", "experiment"]
+    neighbors: ["DA-019", "DA-021", "DA-027", "DA-031"]
+
+  - id: "DA-031"
+    slug: "science-math-disciplined-transfer"
+    title: "Science, Mathematics, and Disciplined Cross-Domain Transfer"
+    neighborhood: "foundation_transfer"
+    core_question: "Which invariants survive translation and where must analogy stop before becoming a literal scientific claim?"
+    mechanisms: ["formal definition", "counterexample", "local force-law requirement", "cross-scan", "native-domain validation"]
+    carriers: ["mathematics", "physics", "biology", "gravity", "quantum", "field"]
+    neighbors: ["DA-021", "DA-024", "DA-027", "DA-030", "DA-034"]
+
+  - id: "DA-032"
+    slug: "education-spark-adult-floor"
+    title: "Education, SPARK, and the Adult Floor"
+    neighborhood: "foundation_transfer"
+    core_question: "How do we install judgment, authorship, and agency rather than reward answer acquisition or visible outcomes?"
+    mechanisms: ["observe-research-build-ship", "predict-first-then-check", "process reward", "scaffolding", "learner-owned home base"]
+    carriers: ["SPARK", "classroom", "coach", "AI tutor", "project-based learning"]
+    neighbors: ["DA-008", "DA-028", "DA-033", "DA-035"]
+
+  - id: "DA-033"
+    slug: "group-bodies-shared-pulse-community-rhythm"
+    title: "Group Bodies, Shared Pulse, and Community Rhythm"
+    neighborhood: "foundation_transfer"
+    core_question: "How can a group raise its common floor while preserving the solo, dissent, rotation, and recovery?"
+    mechanisms: ["temporary position maps", "shared pulse", "local anchors", "arrangement-first intervention", "recurring presence"]
+    carriers: ["band", "team", "classroom", "online community", "neighborhood"]
+    neighbors: ["DA-010", "DA-020", "DA-022", "DA-025", "DA-032"]
+
+  - id: "DA-034"
+    slug: "embodiment-transduction-settlement"
+    title: "Embodiment, Transduction, and Settlement"
+    neighborhood: "foundation_transfer"
+    core_question: "Where does a signal become local meaning, committed action, consequence, and residue?"
+    mechanisms: ["transduction chain", "receive-transform-express-consequence-return-residue", "body as settlement layer", "physical-relational space", "proof of passage", "source-preserving cross-platform transduction"]
+    carriers: ["speech", "code", "music", "tool", "conversation", "practice"]
+    neighbors: ["DA-019", "DA-024", "DA-028", "DA-031", "DA-035"]
+
+  - id: "DA-035"
+    slug: "building-applications-evaluation-recovery"
+    title: "Building, Applications, Evaluation, and Recovery"
+    neighborhood: "foundation_transfer"
+    core_question: "How does an insight become a real body whose consequence can grade the framework and improve the operator?"
+    mechanisms: ["application circuit", "smallest body first", "path before package", "build under load", "field return", "stall-branch-reintegrate", "retirement"]
+    carriers: ["prototype", "experiment", "lesson", "product", "relationship practice", "benchmark"]
+    neighbors: ["DA-022", "DA-026", "DA-027", "DA-032", "DA-034"]
+
+  - id: "DA-036"
+    slug: "governance-consent-power-responsibility"
+    title: "Governance, Consent, Power, and Responsibility"
+    neighborhood: "foundation_transfer"
+    core_question: "How does a larger body coordinate without one metric, center, or capability receiving total write-access?"
+    mechanisms: ["governing-center scan", "authority lease", "operator budget", "consent as contact protocol", "veto-correction-exit", "recipient authority", "portable memory without portable permission"]
+    carriers: ["institution", "platform", "team", "family", "AI agent", "law"]
+    neighbors: ["DA-008", "DA-014", "DA-016", "DA-025", "DA-026"]
+
+  - id: "DA-037"
+    slug: "trust-privacy-anonymity-verification"
+    title: "Trust, Privacy, Anonymity, and Verification"
+    neighborhood: "foundation_transfer"
+    core_question: "How much identity and exposure are necessary for trust without making safety depend on total visibility?"
+    mechanisms: ["selective witness", "layered verification", "two trust baselines", "provenance-privacy tension", "real-use trust graph", "minimum hydration", "identity minimization", "revocable access"]
+    carriers: ["real-name policy", "anonymous account", "credential", "community reputation", "provenance badge"]
+    neighbors: ["DA-008", "DA-012", "DA-019", "DA-020", "DA-036"]
+
+  - id: "DA-038"
+    slug: "history-generational-memory-mortality-time"
+    title: "History, Generational Memory, Mortality, and Time"
+    neighborhood: "foundation_transfer"
+    core_question: "Which clock governs this body, what survives generational compression, and what does finitude make weighty?"
+    mechanisms: ["relative timescales", "rate mismatch", "context compaction", "witness bands", "mortality as denominator", "visible supersession", "platform-dependent archive clocks"]
+    carriers: ["archive", "generation", "ritual", "institution", "life stage", "historical narrative"]
+    neighbors: ["DA-007", "DA-011", "DA-012", "DA-021", "DA-023"]
+
+  - id: "DA-039"
+    slug: "technology-automation-dystopian-carriers"
+    title: "Technology, Automation, and Dystopian Carriers"
+    neighborhood: "foundation_transfer"
+    core_question: "When does convenience or reach become an environment that narrows operatorhood, closes futures, or exports residue?"
+    mechanisms: ["host inversion", "execution flood", "AI-native bureaucracy", "reality spam", "generative closure", "prediction installation"]
+    carriers: ["The Matrix", "Black Mirror", "Westworld", "Tomorrowland", "The Twilight Zone", "Click"]
+    neighbors: ["DA-004", "DA-014", "DA-015", "DA-021", "DA-036"]
+
+  - id: "DA-040"
+    slug: "ecology-civilization-residue-metabolism"
+    title: "Ecology, Civilization, and Residue Metabolism"
+    neighborhood: "foundation_transfer"
+    core_question: "When does optimizing one body begin consuming the larger body that contains it, and what does repair require afterward?"
+    mechanisms: ["multi-scale ecology", "local optimization", "supply-chain distance", "retirement", "residue cascade", "Garden-Tower geometry"]
+    carriers: ["ecosystem", "city", "supply chain", "satellite debris", "industrial system", "garden"]
+    neighbors: ["DA-018", "DA-022", "DA-024", "DA-034", "DA-039"]
+
+  - id: "DA-041"
+    slug: "music-games-embodied-mastery"
+    title: "Music, Games, and Embodied Mastery"
+    neighborhood: "foundation_transfer"
+    core_question: "What does practiced play reveal about timing, position, rules, improvisation, error, and coordinated freedom?"
+    mechanisms: ["friction-to-fusion", "instrument becoming limb", "off-turn computation", "legal-move search", "shared key", "error correction"]
+    carriers: ["guitar", "band", "basketball", "chess", "Call of Duty", "Pokemon", "hula hoop"]
+    neighbors: ["DA-009", "DA-021", "DA-028", "DA-033", "DA-034"]
+
+  - id: "DA-042"
+    slug: "religion-gnosis-scripture-orientation"
+    title: "Religion, Gnosis, Scripture, and Structural Orientation"
+    neighborhood: "foundation_transfer"
+    core_question: "What can theological carriers reveal about direction, sacrifice, naming, relation, and rebirth without claiming doctrinal authority?"
+    mechanisms: ["scripture as question-bearing body", "naming and distinction", "sacrifice and refusal", "death-rebirth carrier"]
+    carriers: ["Genesis", "Babel", "Flood", "Jesus and parable", "Cross", "Gnosticism", "Buddhism", "Dante"]
+    neighbors: ["DA-021", "DA-026", "DA-029", "DA-030", "DA-038"]
+
+  - id: "DA-043"
+    slug: "family-care-parenting-future-formation"
+    title: "Family, Care, Parenting, and Future Formation"
+    neighborhood: "recovered_relational"
+    core_question: "How can care protect, prepare, and carry a future person without writing that person's whole path for them?"
+    mechanisms: ["vertical care relation", "protection-control threshold", "inherited conditions", "capability transfer", "future-formation confidence", "care infrastructure"]
+    carriers: ["parenting", "chosen family", "elder care", "teaching", "inheritance", "family formation", "community care"]
+    neighbors: ["DA-008", "DA-020", "DA-032", "DA-038"]
+
+  - id: "DA-044"
+    slug: "autobiographical-brand-binding-memory-rent"
+    title: "Autobiographical Brand Binding and Memory Rent"
+    neighborhood: "recovered_relational"
+    core_question: "When a company becomes attached to childhood or family ritual, what is being sold during the return: entertainment, belonging, memory access, or all three?"
+    mechanisms: ["autobiographical brand binding", "memory rent", "ritual as membership proof", "nostalgia pricing", "identity-backed demand", "commons substitution"]
+    carriers: ["Disney parks", "legacy games", "sports teams", "childhood foods", "annual branded rituals", "reunion merchandise"]
+    neighbors: ["DA-010", "DA-012", "DA-013", "DA-038"]
+
+  - id: "DA-045"
+    slug: "context-bearing-solution-transfer"
+    title: "Context-Bearing Solution Transfer"
+    neighborhood: "foundation_transfer"
+    core_question: "What must travel with a solution so another body can test it without stripping away the people, failures, power, and conditions that made it work?"
+    mechanisms: ["path packet", "condition bundle", "failed-attempt preservation", "transfer ceiling", "recipient authority", "bounded trial", "return and retirement"]
+    carriers: ["community reconciliation", "public-health programs", "classroom practices", "local governance", "software migration", "family and community repair"]
+    neighbors: ["DA-020", "DA-027", "DA-030", "DA-035", "DA-036", "DA-038"]
+
+  - id: "DA-046"
+    slug: "platform-relative-residue-cross-platform-transduction"
+    title: "Platform-Relative Residue and Cross-Platform Transduction"
+    neighborhood: "memory_identity_machine_bodies"
+    core_question: "When the same expression is dependent residue in one system and a portable public anchor in another, what value, context, and responsibility change as it moves?"
+    mechanisms: ["platform-relative value", "slot analogy without equivalence", "cross-platform compression cascade", "comment-tree residue", "incentive differential", "shared-input coherence", "source-preserving transduction"]
+    carriers: ["YouTube video and comment tree", "X post and reply thread", "Reddit submission and comments", "TikTok video and comments", "podcast and quote post", "GitHub issue and executable repair"]
+    neighbors: ["DA-004", "DA-006", "DA-011", "DA-019", "DA-029", "DA-034"]
+
+  - id: "DA-047"
+    slug: "attractor-pockets-reachable-futures-exit-capacity"
+    title: "Attractor Pockets, Reachable Futures, and Exit Capacity"
+    neighborhood: "appetite_attention"
+    core_question: "When a system concentrates people, attention, services, appetite, tools, or risk into one bounded field, what determines whether the pocket becomes a care or learning organ or a trap that accumulates unresolved residue?"
+    mechanisms: ["attractor basin", "accessibility-weighted horizon", "concentration-transformation-exit balance", "path dependence", "cue and residue reinforcement", "cost localization", "reachable alternatives", "exit capacity"]
+    carriers: ["supervised-consumption districts", "casinos and sportsbook apps", "algorithmic feed niches", "clout-governed groups", "clinics and mutual-aid networks", "research notebooks", "fandoms", "city service hubs"]
+    neighbors: ["DA-001", "DA-004", "DA-011", "DA-024", "DA-036", "DA-040", "DA-046"]
+
+  - id: "DA-048"
+    slug: "practiced-joy-relational-opening-returnable-flight"
+    title: "Practiced Joy, Relational Opening, and Returnable Flight"
+    neighborhood: "foundation_transfer"
+    core_question: "Can a person train reliable access to genuine play and warmth without turning happiness into a performance or another person's response into the score?"
+    mechanisms: ["truthful state contact", "joy as trained retrieval", "flight-to-contact", "embodied cue and pulse", "tempo attunement", "minimum shared scene", "reciprocal recognition", "lightness-weight dial", "clean release", "landing and correction"]
+    carriers: ["park guitar", "passing smile or greeting", "Peter Pan happy-thought flight", "Joy Boy and Gear Five", "Super Saiyan held as trained baseline", "perspective-taking", "dance and walking tempo"]
+    neighbors: ["DA-009", "DA-013", "DA-020", "DA-025", "DA-026", "DA-033", "DA-034", "DA-041"]
+
+trails:
+  - {from: "DA-001", type: "enables", to: "DA-002", claim_state: "CANDIDATE", rationale: "Removed stopping points may let appetite become continuous spectacle."}
+  - {from: "DA-002", type: "possible_shared_skeleton", to: "DA-003", claim_state: "CANDIDATE", rationale: "Eating, shopping, and betting may all be watched as vicarious stakes without being identical acts."}
+  - {from: "DA-003", type: "amplified_by", to: "DA-016", claim_state: "CANDIDATE", rationale: "Visible wins and scores may train compressed horizons."}
+  - {from: "DA-004", type: "can_govern", to: "DA-001", claim_state: "CANDIDATE", rationale: "Recommendation can adapt to an appetite and intensify it."}
+  - {from: "DA-005", type: "overlaps_but_not_equivalent_to", to: "DA-020", claim_state: "CANDIDATE", rationale: "Transactional and mutual relations can coexist; neither should be assumed."}
+  - {from: "DA-006", type: "possible_shared_skeleton", to: "DA-013", claim_state: "CANDIDATE", rationale: "Public persona and character role may both compress behavior while differing in exit conditions."}
+  - {from: "DA-007", type: "outside_view_for", to: "DA-005", claim_state: "CANDIDATE", rationale: "Visibility, commerce, access, and approval must remain separate."}
+  - {from: "DA-008", type: "heightens_duty_in", to: "DA-004", claim_state: "CANDIDATE", rationale: "Developmental asymmetry changes the acceptable burden of recommender systems."}
+  - {from: "DA-009", type: "counterpath_to", to: "DA-001", claim_state: "CANDIDATE", rationale: "Chosen rhythm may restore contrast without praising deprivation."}
+  - {from: "DA-010", type: "externalizes_cost_to", to: "DA-018", claim_state: "CANDIDATE", rationale: "Seamless destinations can depend on labor hidden behind the interface."}
+  - {from: "DA-011", type: "operator_practice_for", to: "DA-004", claim_state: "CANDIDATE", rationale: "Pause and Plant-Release-Return may protect creators from metric loops while preserving learning."}
+  - {from: "DA-012", type: "possible_shared_skeleton", to: "DA-014", claim_state: "CANDIDATE", rationale: "Digital libraries and AI continuity may both depend on custody, pointers, formats, and rehydration."}
+  - {from: "DA-013", type: "can_become", to: "DA-016", claim_state: "CANDIDATE", rationale: "Applause can turn a chosen role into externally governed performance."}
+  - {from: "DA-014", type: "requires", to: "DA-019", claim_state: "CANDIDATE", rationale: "Cross-Body continuity depends on provenance and correction, not tone alone."}
+  - {from: "DA-015", type: "creates_scarcity_in", to: "DA-019", claim_state: "CANDIDATE", rationale: "Cheap generation can make verification and trustworthy lineage relatively scarce."}
+  - {from: "DA-017", type: "outside_view_requires", to: "DA-018", claim_state: "CANDIDATE", rationale: "Local winners do not reveal the full labor and cost distribution."}
+  - {from: "DA-020", type: "ethical_boundary_for", to: "DA-002", claim_state: "CANDIDATE", rationale: "Audiences, creators, and subjects remain centers, not appetite components."}
+  - {from: "DA-021", type: "carrier_of", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "Stories open routes; deletion tests decide what survives without the costume."}
+  - {from: "DA-022", type: "return_test_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "A destination gains weight when it creates capacity, relation, correction, or action."}
+  - {from: "DA-023", type: "special_case_of", to: "DA-016", claim_state: "CANDIDATE", rationale: "Forecasts can become governance when visible weights alter behavior."}
+  - {from: "DA-024", type: "outside_view_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "Body and scale scans prevent local observations from becoming universal claims."}
+  - {from: "DA-025", type: "ethical_boundary_for", to: "DA-033", claim_state: "CANDIDATE", rationale: "Coordination should preserve distinct centers, veto, and difference."}
+  - {from: "DA-026", type: "operator_practice_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "Direction asks who gains capacity and who bears cost."}
+  - {from: "DA-027", type: "navigation_method_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "The Cube traverses destinations without declaring them one mechanism."}
+  - {from: "DA-028", type: "counterpath_to", to: "DA-015", claim_state: "CANDIDATE", rationale: "Cheap generation can skip the path that installs evaluation capacity."}
+  - {from: "DA-029", type: "creates_address_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "Questions make destinations coordinateable while narrowing the field."}
+  - {from: "DA-030", type: "evidence_gate_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "Claim registers and deletion tests prevent carrier drift."}
+  - {from: "DA-031", type: "evidence_gate_for", to: "DA-021", claim_state: "CANDIDATE", rationale: "Native-domain validation limits scientific costume transfer."}
+  - {from: "DA-032", type: "developmental_application_of", to: "DA-028", claim_state: "CANDIDATE", rationale: "Education tests which paths must be walked by a learner."}
+  - {from: "DA-033", type: "living_scale_of", to: "DA-022", claim_state: "CANDIDATE", rationale: "Shared pulse gains weight through reciprocity, difference, recovery, and return."}
+  - {from: "DA-034", type: "settlement_test_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "A path lands only when it changes embodied action or consequence."}
+  - {from: "DA-035", type: "return_test_for", to: "ALL_DESTINATIONS", claim_state: "CANDIDATE", rationale: "Building and evaluation distinguish insight from architecture theater."}
+  - {from: "DA-036", type: "authority_boundary_for", to: "DA-014", claim_state: "CANDIDATE", rationale: "Continuity and capability do not mint permission."}
+  - {from: "DA-037", type: "counterpath_to", to: "DA-019", claim_state: "CANDIDATE", rationale: "Provenance must coexist with privacy and vulnerable witness."}
+  - {from: "DA-038", type: "historicizes", to: "DA-007", claim_state: "CANDIDATE", rationale: "New can mean new prevalence, visibility, commercialization, law, or memory."}
+  - {from: "DA-039", type: "carrier_field_for", to: "DA-015", claim_state: "CANDIDATE", rationale: "Dystopian stories expose possible mechanisms but do not predict installation."}
+  - {from: "DA-040", type: "outside_view_for", to: "DA-018", claim_state: "CANDIDATE", rationale: "Distributed cost must be traced into larger ecological systems."}
+  - {from: "DA-041", type: "embodied_test_for", to: "DA-009", claim_state: "CANDIDATE", rationale: "Practice reveals which friction installs capacity and recovery."}
+  - {from: "DA-042", type: "carrier_of", to: "DA-026", claim_state: "CANDIDATE", rationale: "Theological stories carry direction questions without serving as proof."}
+  - {from: "DA-043", type: "developmental_application_of", to: "DA-020", claim_state: "CANDIDATE", rationale: "Care is relational when the receiving center can increasingly answer and differentiate."}
+  - {from: "DA-043", type: "heightens_duty_in", to: "DA-008", claim_state: "CANDIDATE", rationale: "Childhood changes the burden carried by families, institutions, platforms, and policy."}
+  - {from: "DA-044", type: "possible_shared_skeleton", to: "DA-012", claim_state: "CANDIDATE", rationale: "A brand can become a commercial access layer around autobiographical memory."}
+  - {from: "DA-044", type: "overlaps_but_not_equivalent_to", to: "DA-010", claim_state: "CANDIDATE", rationale: "A meaningful ritual and a metered destination can occupy the same place without being the same relation."}
+  - {from: "DA-045", type: "special_case_of", to: "DA-027", claim_state: "CANDIDATE", rationale: "Solution transfer is one disciplined traversal whose conditions must survive the move."}
+  - {from: "DA-045", type: "requires", to: "DA-030", claim_state: "CANDIDATE", rationale: "A path packet must distinguish observation, mechanism, evidence, and transfer ceiling."}
+  - {from: "DA-036", type: "authority_boundary_for", to: "DA-045", claim_state: "CANDIDATE", rationale: "The receiving body retains authority to translate, test, refuse, correct, or retire an imported path."}
+  - {from: "DA-035", type: "return_test_for", to: "DA-045", claim_state: "CANDIDATE", rationale: "Local consequence decides whether the imported path transferred or merely sounded familiar."}
+  - {from: "DA-038", type: "historicizes", to: "DA-045", claim_state: "CANDIDATE", rationale: "Historical conditions and affected-body memory are part of the solution, not decorative context."}
+  - {from: "DA-046", type: "special_case_of", to: "DA-034", claim_state: "CANDIDATE", rationale: "Moving a relation between platforms is a transduction whose source and consequence must remain inspectable."}
+  - {from: "DA-046", type: "amplified_by", to: "DA-004", claim_state: "CANDIDATE", rationale: "Ranking and platform incentives change which residue becomes visible and portable."}
+  - {from: "DA-011", type: "operator_practice_for", to: "DA-046", claim_state: "CANDIDATE", rationale: "Different platform clocks require Pause, delayed Return, and release without metric capture."}
+  - {from: "DA-019", type: "evidence_gate_for", to: "DA-046", claim_state: "CANDIDATE", rationale: "Comment lineage and sampling limits prevent context laundering during re-anchoring."}
+  - {from: "DA-047", type: "possible_shared_skeleton", to: "DA-001", claim_state: "CANDIDATE", rationale: "A high-weight appetite may narrow the set of futures that feel reachable without defining addiction."}
+  - {from: "DA-047", type: "special_case_of", to: "DA-024", claim_state: "CANDIDATE", rationale: "A pocket is one bounded Body and field configuration whose membrane, metabolism, residue, and scale must be located."}
+  - {from: "DA-040", type: "outside_view_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "A surrounding city, platform, supply chain, or institution may export unresolved cost into one visible basin."}
+  - {from: "DA-011", type: "counterpath_to", to: "DA-047", claim_state: "CANDIDATE", rationale: "Pause, recovery, and authored return may reopen contrast and competing paths when those paths are materially reachable."}
+  - {from: "DA-036", type: "authority_boundary_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "Care and coordination do not justify total write-access over the people inside a concentrated field."}
+  - {from: "DA-046", type: "creates_address_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "Long anchors, portable questions, and repository settlement let Returns test a pocket without deleting source context."}
+  - {from: "DA-048", type: "embodied_test_for", to: "DA-009", claim_state: "CANDIDATE", rationale: "Repeated truthful return may distinguish nourishing play from forced positivity or avoidance."}
+  - {from: "DA-048", type: "possible_shared_skeleton", to: "DA-013", claim_state: "CANDIDATE", rationale: "A voluntary story carrier may make a playful state easier to retrieve without becoming the whole person."}
+  - {from: "DA-025", type: "ethical_boundary_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "A micro-scene becomes shared only through reciprocal recognition between distinct centers."}
+  - {from: "DA-026", type: "ethical_boundary_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "Warmth may invite participation but may not demand attention, compliance, or emotional certification."}
+  - {from: "DA-033", type: "possible_shared_skeleton", to: "DA-048", claim_state: "CANDIDATE", rationale: "Shared pulse and micro-attunement may create an entrance while preserving opt-out and variation."}
+  - {from: "DA-034", type: "settlement_test_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "The practice earns weight through embodied return, clean exits, and observed consequence rather than story resonance."}
+  - {from: "DA-041", type: "embodied_test_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "Guitar and movement make rhythm, recovery, and state retrieval available to direct practice."}
+
+admission_test:
+  - "recurring seam rather than one trending example"
+  - "at least two carriers or domains"
+  - "candidate mechanism with explicit claim state"
+  - "counterpath capable of changing the reading"
+  - "at least one typed trail"
+  - "public portal answerable from another life"
+  - "possible settlement beyond engagement"

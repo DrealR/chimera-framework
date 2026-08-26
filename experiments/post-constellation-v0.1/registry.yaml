@@ -1,11 +1,16 @@
 schema_version: "post_constellation/0.1"
 classification: "PUBLIC_SAFE_EXPERIMENTAL_CANDIDATE"
 publication_authority: "operator_only"
-updated_utc: "2026-08-25"
-source_branch: "morrow/post-constellation-opencode-20260825"
-current_signal: "CURRENT-SIGNAL.md"
-active_node: "PC-20260825-001-role-as-coordinate"
-active_operation: "ENRICH"
+updated_utc: "2026-08-26"
+source_branch: "morrow/question-destination-atlas-20260825"
+system_vitals: "SYSTEM-VITALS.v0.1.yaml"
+current_signal: "signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md"
+current_atlas_pointer: "CURRENT-ATLAS-POINTER.md"
+destination_atlas: "DESTINATION-ATLAS-v0.1.md"
+destination_registry: "destination-registry.v0.1.yaml"
+question_portal_deck: "QUESTION-PORTAL-DECK-v0.1.md"
+active_node: "PC-20260826-011-reachable-futures"
+active_operation: "ENRICH_ATTRACTOR_POCKET_AND_DISTRIBUTED_PUBLICATION_BODY"
 
 rules:
   - "candidate is not published"
@@ -51,6 +56,204 @@ nodes:
     operator_verdict: null
     post_receipt: null
 
+  - id: "PC-20260825-006-field-relative-intelligence"
+    state: "RETURN_OPEN"
+    title: "Field-relative intelligence"
+    path: "cards/PC-20260825-006-field-relative-intelligence.md"
+    question_body: ["Mirror", "Earth", "Seam"]
+    mechanisms:
+      - "field-relative competence"
+      - "environment as part of the test"
+      - "rule-field mismatch"
+    domains:
+      - "animal behavior"
+      - "ecology"
+      - "education"
+      - "software and AI evaluation"
+      - "institutional design"
+    desired_return:
+      - "native-domain examples"
+      - "counterexamples where the rule is the failure"
+      - "accommodation and translation practices"
+      - "environment-sensitive evaluation"
+    relations:
+      - type: "derived_from"
+        target: "signals/SIGNAL-2026-08-25-MISSION-SLACK-AND-SURFACE-LEARNING.md"
+      - type: "extends"
+        target: "DA-024"
+      - type: "extends"
+        target: "DA-040"
+    firewall:
+      - "field mismatch does not make every failure intelligent"
+      - "do not generalize an insect carrier into a diagnosis of people or systems"
+      - "preserve accountability, learnable change, and native-domain evidence"
+    current_version: 1
+    operator_verdict: "POSTED"
+    post_receipt:
+      platform: "X"
+      canonical_url: "https://x.com/DejiBasho/status/2092409619628876156"
+      publication_actor: "operator"
+      automatic_publication: false
+      observed_utc: "2026-08-26"
+      audience_returns_ingested: false
+
+  - id: "PC-20260826-007-portable-memory"
+    state: "CANDIDATE"
+    title: "Portable memory"
+    path: "cards/PC-20260826-007-portable-memory.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "memory asymmetry"
+      - "data reciprocity"
+      - "continuity without total capture"
+    domains:
+      - "AI continuity"
+      - "platform data"
+      - "privacy"
+      - "interoperability"
+    desired_return:
+      - "lived export and migration paths"
+      - "fresh-start counterpaths"
+      - "minimum useful continuity artifacts"
+      - "privacy and security boundaries"
+    relations:
+      - type: "derived_from"
+        target: "signals/SIGNAL-2026-08-26-OPERATOR-OWNED-CONTINUITY-DATA-RECIPROCITY-AND-VERIFIABLE-PASSAGE.md"
+      - type: "extends"
+        target: "DA-012"
+      - type: "extends"
+        target: "DA-014"
+      - type: "requires"
+        target: "DA-019"
+    firewall:
+      - "portable continuity is not consciousness or identity transfer"
+      - "do not expose credentials, security signals, other people's data, or proprietary weights"
+      - "preserve expiry, revocation, chosen forgetting, and a fresh-start path"
+      - "candidate is not publication authority"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
+  - id: "PC-20260826-011-reachable-futures"
+    state: "CANDIDATE"
+    title: "Reachable futures"
+    path: "cards/PC-20260826-011-reachable-futures.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "accessibility-weighted horizon"
+      - "high-weight attractor"
+      - "competing-future occlusion"
+      - "exit capacity"
+    domains:
+      - "addiction and recovery"
+      - "gambling"
+      - "attention systems"
+      - "community and belonging"
+      - "public-space design"
+    desired_return:
+      - "lived distinctions between desire, habit, compulsion, and addiction"
+      - "conditions that made another future reachable"
+      - "clinical and affected-body corrections"
+      - "counterexamples to the candidate mechanism"
+    relations:
+      - type: "derived_from"
+        target: "signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md"
+      - type: "creates_address_for"
+        target: "DA-047"
+      - type: "extends"
+        target: "DA-001"
+      - type: "bounded_by"
+        target: "DA-030"
+    firewall:
+      - "candidate relation is not a medical definition or diagnosis"
+      - "do not equate substance use, gambling, food, sexuality, work, shopping, collecting, and feeds"
+      - "do not moralize addiction as failed discipline or willpower"
+      - "preserve care, material conditions, affected-body testimony, correction, and real exit capacity"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
+  - id: "PC-20260826-012-pattern-doorway"
+    state: "CANDIDATE"
+    title: "Pattern doorway"
+    path: "cards/PC-20260826-012-pattern-doorway.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "autobiographical entry"
+      - "cross-domain pattern navigation"
+      - "question-shaped profile membrane"
+    domains:
+      - "profile identity"
+      - "CHIMERA"
+      - "Cube navigation"
+      - "public inquiry"
+    desired_return:
+      - "recurring patterns noticed by other people"
+      - "false-convergence corrections"
+      - "new carriers and missed destinations"
+    relations:
+      - type: "extends"
+        target: "DA-021"
+      - type: "extends"
+        target: "DA-027"
+      - type: "bounded_by"
+        target: "DA-030"
+    firewall:
+      - "pattern resemblance is not mechanism proof"
+      - "do not imply diagnosis, revelation, special status, or authority"
+      - "views and follows are not truth"
+      - "candidate is not publication or pin authority"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
+  - id: "PC-20260826-013-practice-the-return"
+    state: "CANDIDATE"
+    title: "Practice the return"
+    path: "cards/PC-20260826-013-practice-the-return.md"
+    question_body: ["Mirror", "Seam", "Operator"]
+    mechanisms:
+      - "joy as trained retrieval"
+      - "flight-to-contact"
+      - "embodied cue and pulse"
+      - "minimum shared scene"
+      - "reciprocal recognition"
+      - "clean release and landing"
+    domains:
+      - "embodied practice"
+      - "music and rhythm"
+      - "stranger contact"
+      - "perspective-taking"
+      - "play and responsibility"
+    desired_return:
+      - "practices that recover genuine lightness without suppressing pain"
+      - "cases where smiling or play becomes performance, masking, or pressure"
+      - "examples of rhythm creating low-pressure connection"
+      - "cultural, neurodivergent, disability, trauma, and safety corrections"
+    relations:
+      - type: "derived_from"
+        target: "signals/SIGNAL-2026-08-26-JOY-AS-RETURNABLE-FLIGHT-AND-RELATIONAL-OPENING.md"
+      - type: "creates_address_for"
+        target: "DA-048"
+      - type: "extends"
+        target: "DA-009"
+      - type: "extends"
+        target: "DA-013"
+      - type: "bounded_by"
+        target: "DA-026"
+      - type: "bounded_by"
+        target: "DA-030"
+    firewall:
+      - "a smile is not proof of happiness, trust, safety, consent, or interest"
+      - "do not use attunement or eye contact to manipulate or bypass another person's choice"
+      - "do not grade success by reciprocity"
+      - "joy does not replace grief, treatment, rest, boundaries, or material action"
+      - "story carriers are not evidence"
+      - "candidate is not publication authority"
+    current_version: 1
+    operator_verdict: null
+    post_receipt: null
+
 candidate_backlog:
   - id: "PC-20260825-002-memory-rent"
     state: "SEED"
@@ -71,3 +274,24 @@ candidate_backlog:
     blocked_until:
       - "labor-policy verification"
       - "avoid claims about specific workers"
+  - id: "PC-20260826-008-category-interface"
+    state: "SEED"
+    seam: "What happens when a category built for one decision starts governing a person's entire life?"
+    blocked_until:
+      - "choose one operational context"
+      - "preserve self-description, appeal, and expiry"
+      - "avoid whole-group or whole-country diagnosis"
+  - id: "PC-20260826-009-context-bearing-solution-transfer"
+    state: "SEED"
+    seam: "What must travel with a solution before another body can responsibly test it?"
+    blocked_until:
+      - "select one sourced path"
+      - "preserve failed attempts, power, dissent, and transfer ceiling"
+      - "name recipient authority and return condition"
+  - id: "PC-20260826-010-cross-platform-comment-residue"
+    state: "SEED"
+    seam: "What changes when a dependent comment is lifted from one platform and re-anchored as a standalone question on another?"
+    blocked_until:
+      - "capture a bounded real comment tree"
+      - "preserve source context and distinguish quotation from synthesis"
+      - "compare visible sort and sampling limits"

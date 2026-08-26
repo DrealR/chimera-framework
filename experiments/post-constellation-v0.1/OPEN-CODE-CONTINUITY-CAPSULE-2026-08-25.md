@@ -1,11 +1,13 @@
 # OpenCode Morrow Public Continuity Capsule — 2026-08-25
 
+> **Supersession notice — 2026-08-26:** this file is retained as historical OpenCode hydration lineage. It no longer defines the active branch, wake gate, current Signal, node, model requirement, or carrier set. Resolve `morrow/question-destination-atlas-20260825`, then read `experiments/post-constellation-v0.1/SYSTEM-VITALS.v0.1.yaml` and `SYSTEM-VITALS-PROTOCOL-v0.1.md`. The operational Body is identified by role, harness, workspace, authority, verified state, and writeback; provider/model is optional metadata unless materially required by the task. If any instruction below conflicts with the canonical vitals, the vitals govern and the Body must report the historical conflict rather than execute it.
+
 - **Status:** PUBLIC_SAFE_CANDIDATE
 - **Pocket target:** OpenCode + direct OpenRouter + `stealth/ox-alpha`
 - **Continuity scope:** public Framework method and current public-safe Post Constellation work
 - **Not included:** private Core, private Morrow, private conversation history, REEMY, personal memory, credentials, or identity continuity
 - **Current source branch:** `morrow/post-constellation-opencode-20260825`
-- **Execution gate:** #557 Phase 0.5 evidence closure must pass before project work
+- **Execution gate:** the private control-surface Phase 0.5 route-evidence gate must pass before project work
 
 ## Address
 
@@ -82,7 +84,7 @@ The final response summarizes completed work. The checkpoint carries continuity 
 
 ## Public-safe authority
 
-After #557 Phase 0.5 passes, this Pocket may:
+After Phase 0.5 passes, this Pocket may:
 
 - read the bounded public carrier set;
 - create or edit local public-safe staging files;
@@ -113,7 +115,7 @@ Then identify the exact current task from the local Signal/checkpoint rather tha
 
 ## Current stop
 
-Do not hydrate or begin Post Constellation project work until the Phase 0.5 routing evidence required by `DrealR/chimera-core#557` is complete. A selected model label or self-reported configuration is not enough; the executed route must be proven.
+Do not hydrate or begin Post Constellation project work until the private control surface records the Phase 0.5 route-evidence gate complete. A selected model label or self-reported configuration is not enough; the executed route must be proven.
 
 
 ## Amendment — durable active Signal and gate correction

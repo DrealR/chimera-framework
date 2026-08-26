@@ -40,4 +40,4 @@ Stale instructions outperform fresh ones at steering precisely because they arri
 | PC-20260825-002-memory-rent (SEED) | neighbor: both concern records binding future behavior; 002 is brand/commerce-flavored |
 | PC-20260825-003 / -004 | no material relation |
 
-Proposed transition: **BRANCH** — new SEED node `PC-20260825-005-trust-weighted-stale-steering`, plus one typed back-relation enriching PC-001 (`same_mechanism_new_costume -> instruction-file drift`). Registry edit deferred to operator verdict per rules.
+Proposed transition: **BRANCH** — new SEED node `PC-20260825-005-trust-weighted-stale-steering`, plus one candidate typed back-relation enriching PC-001 (`possible_shared_skeleton -> instruction-file drift`). Registry edit deferred to operator verdict per rules.
