@@ -137,6 +137,21 @@ A bounded current-source check used:
 
 See EVIDENCE-LEDGER-v0.1.md.
 
+## 2026-08-26 joy, rhythm, and relational-opening pass
+
+The operator's new park-guitar observation and the two supplied long-form conversation archives were read for prior lineage. Private family details and verbatim conversation were not reproduced. The pass reconnected:
+
+- park guitar as an embodied witness-gradient;
+- the greeting as the minimum shared scene;
+- behavior repetition as a write into later automaticity;
+- Peter Pan flight as useful only with a landing vector;
+- Gear Five elasticity as a carrier for maneuver rather than permanent activation;
+- rhythm and music as bounded, non-forced field-shaping;
+- relational distance as vector-valued rather than merely spatial;
+- perspective-taking as adding a coordinate rather than erasing pain or consequence.
+
+This pass added DA-048, the Flight-to-Contact practice, and PC-013 Practice the Return. It did not treat smiling, eye contact, gait, laughter, or story resonance as universal psychological evidence. No family member, stranger, or social group was diagnosed.
+
 ## Epistemic classes
 
 - OBS — operator observation or lived hypothesis.
@@ -148,10 +163,10 @@ See EVIDENCE-LEDGER-v0.1.md.
 
 ## Coverage result
 
-- 47 durable destinations;
-- 129 candidate question portals;
+- 48 durable destinations;
+- 138 candidate question portals;
 - 24 live-observatory destinations;
-- 20 foundation/transfer destinations;
+- 21 foundation/transfer destinations;
 - 3 recovered/cross-cutting relational destinations;
 - typed trails, counterpaths, source/evidence boundaries, and an operator-only publication gate.
 

@@ -614,6 +614,36 @@ Bold labels are editorial navigation, not canonical schema values. `archetype`, 
 
      What pattern do you keep noticing that nobody around you seems to see?
 
+### Practiced joy and relational opening — `DA-048`
+
+130. **Strong shape candidate — Practice the return**
+
+     Can joy be practiced without becoming fake?
+
+     A guitarist repeats a chord until the hand can find it without searching.
+
+     What if playfulness works similarly—not forcing yourself to feel good, but practicing small entrances back into it?
+
+     Maybe the goal isn't to stay happy. Maybe it's to make joy easier to return to without using it to hide pain.
+
+     What helps you return without pretending?
+
+131. How much of friendliness is a feeling—and how much is a rhythm you can practice until warmth arrives before self-protection does?
+
+132. What is the smallest action that can turn two strangers passing into one shared moment?
+
+133. When two people smile at each other, what distance actually changed?
+
+134. Is a happy thought healthy because it lets you escape the moment—or because it helps you return with more options?
+
+135. Can you see another person's side without making your own pain disappear?
+
+136. What is the difference between becoming more joyful and becoming better at looking joyful?
+
+137. If play makes you lighter and responsibility gives you weight, what does it mean to be able to move between both?
+
+138. What do you practice often enough that your body now offers it before fear, embarrassment, or self-monitoring can interrupt?
+
 ## Selection note
 
 The strongest immediate field from the present Signal is not “people have become gluttonous.” It is:

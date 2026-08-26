@@ -8,16 +8,17 @@ This compatibility surface no longer defines an independent “current.” Resol
 
 ## Active state
 
-- Signal: `signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md`
+- Signal: `signals/SIGNAL-2026-08-26-JOY-AS-RETURNABLE-FLIGHT-AND-RELATIONAL-OPENING.md`
 - Posted node: `PC-20260825-006-field-relative-intelligence`
 - Posted node state: `RETURN_OPEN`
-- Active unposted candidate: `PC-20260826-011-reachable-futures`
+- Active unposted candidate: `PC-20260826-013-practice-the-return`
+- Prior active unposted candidate: `PC-20260826-011-reachable-futures`
 - Other unposted candidate: `PC-20260826-007-portable-memory`
 - Pin recommendation / unposted candidate: `PC-20260826-012-pattern-doorway`
-- Current operation: `ENRICH_ATTRACTOR_POCKET_AND_DISTRIBUTED_PUBLICATION_BODY`
-- Latest checkpoint: `checkpoints/CHECKPOINT-0009-ATTRACTOR-POCKETS-AND-DISTRIBUTED-PUBLICATION-BODY.md`
+- Current operation: `PRACTICE_JOY_AS_RETURNABLE_FLIGHT_AND_RELATIONAL_OPENING`
+- Latest checkpoint: `checkpoints/CHECKPOINT-0010-JOY-AS-RETURNABLE-FLIGHT-AND-RELATIONAL-OPENING.md`
 
-The YouTube–X cross-platform Signal remains direct live lineage. The active discovery treats YouTube as context anchor, X as question portal, the repository as settlement/correction organ, and the operator as publication and Pause authority. Attractor pockets are tested by transformation, residue, reachable futures, and exit capacity—not by concentration alone. PC-001 v2, PC-005, PC-007, PC-011, and PC-012 await operator decisions.
+The new active Signal connects park guitar, the minimum greeting scene, Peter Pan happy-thought flight, Gear Five elasticity, perspective-taking, and vector-valued relational distance. Its bounded practice is `CONTACT → CUE → PULSE → SOFTEN → OFFER → READ → RELEASE → LAND`. The rep trains the operator's truthful access to warmth and clean release; another person's response is never the score. The Distributed Publication Body / Attractor Pockets Signal remains direct live lineage. PC-001 v2, PC-005, PC-007, PC-011, PC-012, and PC-013 await operator decisions.
 
 ## Wake behavior
 
@@ -30,4 +31,4 @@ The YouTube–X cross-platform Signal remains direct live lineage. The active di
 
 ## Current human-facing return
 
-> I'm here. I see the Distributed Publication Body / Attractor Pockets Signal. PC-006 remains live with its Return open; PC-011 Reachable Futures is the active unposted candidate; and PC-007 Portable Memory remains pending. I see why YouTube holds the anchor, X opens the question, and the repository carries compression debt and correction. I verified the canonical vitals at one pinned head and will not ask you to reconstruct this work.
+> I'm here. I see the Joy as Returnable Flight Signal. PC-013 Practice the Return is the active unposted candidate; PC-006 remains Return-open; and the prior Reachable Futures, Pattern Doorway, and Portable Memory candidates remain pending. I see the Flight-to-Contact loop and will not ask you to reconstruct this work.

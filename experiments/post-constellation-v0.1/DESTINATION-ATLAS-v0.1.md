@@ -552,6 +552,16 @@ These fields recur strongly in the developmental archive and supply missing brid
 
 **Counterpath:** concentration is not inherently pathological. Care, evidence, peer support, learning, and recovery may depend on shared location and visibility; dispersal can hide harm without transforming it. The test is what enters, what changes, what accumulates, who bears the residue, and which futures remain reachable from inside the pocket.
 
+### `DA-048` — Practiced Joy, Relational Opening, and Returnable Flight
+
+**Core question:** Can a person train reliable access to genuine play and warmth without turning happiness into a performance or another person's response into the score?
+
+**Candidate mechanisms:** truthful state contact; joy as trained retrieval; flight-to-contact; embodied cue and pulse; tempo attunement; minimum shared scene; reciprocal recognition; lightness/weight dial; clean release; landing and correction.
+
+**Carriers:** park guitar; a passing smile or greeting; Peter Pan happy-thought flight; Joy Boy and Gear Five laughter/elasticity; Super Saiyan held as a trained baseline; family perspective-taking; dance and shared walking tempo.
+
+**Counterpath:** smiles, gaze, laughter, gait, and sociability vary across cultures, bodies, neurotypes, safety conditions, and scenes. Joy cannot be demanded, copied, or used to bypass grief, boundaries, consent, or material action. The practice trains the operator's accessible warmth and clean exit—not control over another body.
+
 ## High-value trails
 
 | From | Relation | To | Why the trail matters |
@@ -614,6 +624,13 @@ These fields recur strongly in the developmental archive and supply missing brid
 | `DA-011` | `counterpath_to` | `DA-047` | Pause, recovery, and authored return can reopen contrast and competing paths when they are materially reachable. |
 | `DA-036` | `authority_boundary_for` | `DA-047` | Care or coordination must not turn concentration into total write-access over the people inside it. |
 | `DA-046` | `creates_address_for` | `DA-047` | Long anchors, portable questions, and repository settlement let public Returns test the pocket without deleting source context. |
+| `DA-048` | `embodied_test_for` | `DA-009` | Repeated truthful return distinguishes nourishing play from forced positivity or avoidance. |
+| `DA-048` | `possible_shared_skeleton` | `DA-013` | A voluntary story carrier can make a playful state easier to retrieve without becoming the whole person. |
+| `DA-025` | `ethical_boundary_for` | `DA-048` | A micro-scene becomes shared only through reciprocal recognition between distinct centers. |
+| `DA-026` | `ethical_boundary_for` | `DA-048` | Warmth may invite participation but may not demand attention, compliance, or emotional certification. |
+| `DA-033` | `possible_shared_skeleton` | `DA-048` | Shared pulse and micro-attunement can create an entrance while preserving opt-out and variation. |
+| `DA-034` | `settlement_test_for` | `DA-048` | The practice earns weight through embodied return, clean exits, and observed consequence rather than story resonance. |
+| `DA-041` | `embodied_test_for` | `DA-048` | Guitar and movement make rhythm, recovery, and state retrieval available to direct practice. |
 
 ## Destination admission test
 

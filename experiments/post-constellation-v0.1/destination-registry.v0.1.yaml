@@ -481,6 +481,15 @@ destinations:
     carriers: ["supervised-consumption districts", "casinos and sportsbook apps", "algorithmic feed niches", "clout-governed groups", "clinics and mutual-aid networks", "research notebooks", "fandoms", "city service hubs"]
     neighbors: ["DA-001", "DA-004", "DA-011", "DA-024", "DA-036", "DA-040", "DA-046"]
 
+  - id: "DA-048"
+    slug: "practiced-joy-relational-opening-returnable-flight"
+    title: "Practiced Joy, Relational Opening, and Returnable Flight"
+    neighborhood: "foundation_transfer"
+    core_question: "Can a person train reliable access to genuine play and warmth without turning happiness into a performance or another person's response into the score?"
+    mechanisms: ["truthful state contact", "joy as trained retrieval", "flight-to-contact", "embodied cue and pulse", "tempo attunement", "minimum shared scene", "reciprocal recognition", "lightness-weight dial", "clean release", "landing and correction"]
+    carriers: ["park guitar", "passing smile or greeting", "Peter Pan happy-thought flight", "Joy Boy and Gear Five", "Super Saiyan held as trained baseline", "perspective-taking", "dance and walking tempo"]
+    neighbors: ["DA-009", "DA-013", "DA-020", "DA-025", "DA-026", "DA-033", "DA-034", "DA-041"]
+
 trails:
   - {from: "DA-001", type: "enables", to: "DA-002", claim_state: "CANDIDATE", rationale: "Removed stopping points may let appetite become continuous spectacle."}
   - {from: "DA-002", type: "possible_shared_skeleton", to: "DA-003", claim_state: "CANDIDATE", rationale: "Eating, shopping, and betting may all be watched as vicarious stakes without being identical acts."}
@@ -540,6 +549,13 @@ trails:
   - {from: "DA-011", type: "counterpath_to", to: "DA-047", claim_state: "CANDIDATE", rationale: "Pause, recovery, and authored return may reopen contrast and competing paths when those paths are materially reachable."}
   - {from: "DA-036", type: "authority_boundary_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "Care and coordination do not justify total write-access over the people inside a concentrated field."}
   - {from: "DA-046", type: "creates_address_for", to: "DA-047", claim_state: "CANDIDATE", rationale: "Long anchors, portable questions, and repository settlement let Returns test a pocket without deleting source context."}
+  - {from: "DA-048", type: "embodied_test_for", to: "DA-009", claim_state: "CANDIDATE", rationale: "Repeated truthful return may distinguish nourishing play from forced positivity or avoidance."}
+  - {from: "DA-048", type: "possible_shared_skeleton", to: "DA-013", claim_state: "CANDIDATE", rationale: "A voluntary story carrier may make a playful state easier to retrieve without becoming the whole person."}
+  - {from: "DA-025", type: "ethical_boundary_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "A micro-scene becomes shared only through reciprocal recognition between distinct centers."}
+  - {from: "DA-026", type: "ethical_boundary_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "Warmth may invite participation but may not demand attention, compliance, or emotional certification."}
+  - {from: "DA-033", type: "possible_shared_skeleton", to: "DA-048", claim_state: "CANDIDATE", rationale: "Shared pulse and micro-attunement may create an entrance while preserving opt-out and variation."}
+  - {from: "DA-034", type: "settlement_test_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "The practice earns weight through embodied return, clean exits, and observed consequence rather than story resonance."}
+  - {from: "DA-041", type: "embodied_test_for", to: "DA-048", claim_state: "CANDIDATE", rationale: "Guitar and movement make rhythm, recovery, and state retrieval available to direct practice."}
 
 admission_test:
   - "recurring seam rather than one trending example"

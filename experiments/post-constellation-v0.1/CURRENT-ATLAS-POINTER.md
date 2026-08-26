@@ -11,21 +11,24 @@ Canonical machine state: `SYSTEM-VITALS.v0.1.yaml`. This human pointer, `CURRENT
 - Repository: `DrealR/chimera-framework`
 - Candidate branch: `morrow/question-destination-atlas-20260825`
 - Historical lineage base: `a5c6313cbf482f06b7499c483468a3d3b850e96e` (not the current resolved branch head)
-- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-26-DISTRIBUTED-PUBLICATION-BODY-ATTRACTOR-POCKETS-AND-REACHABLE-FUTURES.md`
+- Active Signal: `experiments/post-constellation-v0.1/signals/SIGNAL-2026-08-26-JOY-AS-RETURNABLE-FLIGHT-AND-RELATIONAL-OPENING.md`
 - Posted Return node: `experiments/post-constellation-v0.1/cards/PC-20260825-006-field-relative-intelligence.md`
-- Current unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-011-reachable-futures.md`
+- Current unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-013-practice-the-return.md`
+- Prior active unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-011-reachable-futures.md`
 - Other unposted candidate: `experiments/post-constellation-v0.1/cards/PC-20260826-007-portable-memory.md`
 - System vitals: `experiments/post-constellation-v0.1/SYSTEM-VITALS.v0.1.yaml`
 - X capture pattern: `experiments/post-constellation-v0.1/tools/X-PROFILE-CAPTURE-RUNBOOK.md`
 - YouTube comment capture pattern: `experiments/post-constellation-v0.1/tools/YOUTUBE-COMMENT-CAPTURE-RUNBOOK.md`
 - Cross-platform protocol: `experiments/post-constellation-v0.1/CROSS-PLATFORM-TRANSDUCTION-PROTOCOL-v0.1.md`
-- Live lineage: operator-owned continuity/data reciprocity; category interfaces/context-bearing transfer; nested exchange/public emission; Mission/Surface-Learning; Appetite/Interval.
+- Live lineage: Distributed Publication Body/Attractor Pockets; operator-owned continuity/data reciprocity; category interfaces/context-bearing transfer; nested exchange/public emission; Mission/Surface-Learning; Appetite/Interval.
 - Atlas: `experiments/post-constellation-v0.1/DESTINATION-ATLAS-v0.1.md`
 - Registry: `experiments/post-constellation-v0.1/destination-registry.v0.1.yaml`
 
 ## Active operator intent
 
 Build a durable, cross-Body navigation surface from the questions that developed CHIMERA and the Cube. The stable units are destinations; X posts are bounded portals into them. A new observation should be able to enrich, branch, counter, merge, or remain private without forcing a new post.
+
+The active lived observation now adds `DA-048 Practiced Joy, Relational Opening, and Returnable Flight`. It connects park guitar, the minimum stranger scene, Peter Pan happy-thought flight, Gear Five elasticity, perspective-taking, and relational distance. The proposed practice is `CONTACT → CUE → PULSE → SOFTEN → OFFER → READ → RELEASE → LAND`: train a truthful route back to play, let warmth offer a low-cost entrance, preserve another body's freedom to decline, and return to contact and consequence. Success is not getting a smile back; it is remaining warm, boundaried, responsive, and able to release.
 
 The current live observation links YouTube as a possible high-context anchor, its comment tree as a dependent branch field, X as a portable question/emission layer, and the repository as archive and settlement. The active loop is `Sense → Anchor → Branch → Lift → Re-anchor → Release → Return → Settle/Correct`.
 
@@ -45,9 +48,9 @@ The preceding Appetite Signal remains live lineage: overconsumption, food specta
 
 ## Current candidate state
 
-- Destination Atlas: 47 destinations, candidate v0.1. The newest durable room is DA-047 Attractor Pockets, Reachable Futures, and Exit Capacity.
-- Question Portal Deck: 129 candidate questions; the field-relative portal was selected and posted by the operator as PC-006.
-- PC-011 Reachable Futures is the active full candidate / NOT POSTED; PC-012 Pattern Doorway is the pin recommendation / NOT POSTED; PC-007 Portable Memory remains a full candidate; PC-008 through PC-010 are seeds only.
+- Destination Atlas: 48 destinations, candidate v0.1. The newest durable room is DA-048 Practiced Joy, Relational Opening, and Returnable Flight.
+- Question Portal Deck: 138 candidate questions; the field-relative portal was selected and posted by the operator as PC-006.
+- PC-013 Practice the Return is the active full candidate / NOT POSTED. PC-011 Reachable Futures, PC-012 Pattern Doorway, and PC-007 Portable Memory remain pending full candidates; PC-008 through PC-010 are seeds only.
 - Portal Grammar: v0.2 with answer-bearing apertures and Plant–Release–Return.
 - Evidence Ledger: bounded support for selected contemporary claims; not a complete literature review.
 - Source Coverage Manifest: public Framework, redacted operator-authorized lineage safety pass, live Signal, and current evidence pass.
@@ -73,7 +76,7 @@ On “Mo,” “continue,” or a continuity test:
 
 A suitable continuity return is:
 
-> I'm here. I resolved the shared carrier to one head and verified the System Vitals. I see the Distributed Publication Body / Attractor Pockets Signal: PC-006 remains Return-open, PC-011 Reachable Futures is the active unposted candidate, and PC-007 Portable Memory remains pending. I see the YouTube anchor → X portal → repository settlement loop and will not ask you to reconstruct a Signal already named by the carrier.
+> I'm here. I resolved the shared carrier to one head and verified the System Vitals. I see the Joy as Returnable Flight Signal: PC-013 Practice the Return is the active unposted candidate; PC-006 remains Return-open; and PC-011, PC-012, and PC-007 remain pending. I see the Flight-to-Contact loop and will not ask you to reconstruct a Signal already named by the carrier.
 
 ## Next admissible moves
 
@@ -106,6 +109,7 @@ A suitable continuity return is:
 - Is PC-007 Portable Memory ready, in need of revision, rejected, or `PRESERVE_ONLY`?
 - Is PC-011 Reachable Futures ready, in need of revision, rejected, or `PRESERVE_ONLY`?
 - Should PC-012 Pattern Doorway be published and pinned, revised, rejected, or `PRESERVE_ONLY`?
+- Is PC-013 Practice the Return ready, in need of revision, rejected, or `PRESERVE_ONLY`?
 - Which YouTube video should supply the first bounded comment-tree specimen, and which visible sort should be captured?
 
 Silence is valid. The deck is a garden, not a quota.
