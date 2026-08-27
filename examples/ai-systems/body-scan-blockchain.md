@@ -1,6 +1,8 @@
 > **External agent scan.** Produced via independent application of CHIMERA Body Scan Protocol v3.10 by a cross-AI agent. Captain has reviewed and accepted into the example library. Captain's Notes section preserved for future annotation.
 >
 > **Date:** April 2026
+>
+> **Status clarification (2026-08-26):** DEVELOPMENTAL / FORMAL-CANDIDATE SCAN. This artifact preserves an earlier traversal and must not be cited as evidence that a blockchain records “truth,” eliminates trusted parties, has no governance center, cannot favor participants, is immutable in every relevant sense, or constitutes a living federation. Consensus establishes protocol-relative agreement about ledger state under assumptions; it does not establish truth about external events, moral legitimacy, decentralization, equal access, or absence of power. Current use is limited to structural questions about replicated state, verification, forks, finality, custody, incentives, and governance. See [`classification-discipline.md`](../../docs/classification-discipline.md) and [`lineage-and-supersession.md`](../../maps/lineage-and-supersession.md).
 
 # Body Scan: Blockchain Systems
 

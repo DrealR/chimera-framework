@@ -1,5 +1,9 @@
 # Pain Typology — Five Structural Categories
 
+> **Status:** DEVELOPMENTAL CLASSIFICATION / REQUIRES DOMAIN-SPECIFIC EVIDENCE (clarified 2026-08-26)
+>
+> These five types are a question-generating carrier, not an exhaustive clinical, historical, economic, or moral taxonomy. Pain can be mixed, misclassified, protective, traumatic, socially produced, medically caused, or poorly understood. “Forgiveness” is one optional personal or spiritual path for some people; it is not the only exit from inherited harm, a substitute for safety/accountability/repair, or a state requirement. Forgiveness, reconciliation, coexistence, reintegration, justice, and trauma care must remain distinct. Type 5's claims about anxiety, animals, pre-capitalist people, and “most modern psychological suffering” are not current public mechanisms without native-domain evidence.
+
 The universe contains pain. But not all pain has the same source, the same function, or the same structural role. Conflating them is capitalism's most effective permission slip. This typology separates what the Creator built from what the Tower added.
 
 ---
