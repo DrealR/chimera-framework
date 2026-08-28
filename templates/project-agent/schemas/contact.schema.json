@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chimera.example/schemas/project-agent-contact-v1.json",
+  "title": "Project agent contact evidence envelope",
+  "$comment": "The CLI also enforces filename/contact_id agreement, unique claim_id and evidence_id values, evidence-reference resolution, and addressed_to equality with CURRENT.agent_address; those are cross-item or cross-document constraints.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "contact_id", "source", "addressed_to", "purpose", "related_request_id", "claims", "evidence", "authority_transfer", "private_memory_transfer", "credential_transfer"],
+  "properties": {
+    "schema_version": { "const": "project-agent-contact/v1" },
+    "contact_id": { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["project", "agent_address", "repository", "head_sha", "current_state_sha256"],
+      "properties": {
+        "project": { "type": "string", "minLength": 1 },
+        "agent_address": { "type": "string", "pattern": "^[A-Z][A-Z0-9_]{2,63}$" },
+        "repository": { "type": "string", "minLength": 1, "pattern": "^(?!/)(?![A-Za-z]:[\\\\/])(?![Ff][Ii][Ll][Ee]:)(?!.*\\\\)(?!\\.\\.(?:/|$))(?!.*\\/\\.\\.(?:\\/|$))[^\\u0000-\\u001F\\u007F]+$" },
+        "head_sha": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+        "current_state_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+      }
+    },
+    "addressed_to": { "type": "string", "pattern": "^[A-Z][A-Z0-9_]{2,63}$" },
+    "purpose": { "type": "string", "minLength": 1 },
+    "related_request_id": {
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" }
+      ]
+    },
+    "claims": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["claim_id", "statement", "evidence_ids"],
+        "properties": {
+          "claim_id": { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" },
+          "statement": { "type": "string", "minLength": 1 },
+          "evidence_ids": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" }
+          }
+        }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["evidence_id", "kind", "locator", "digest"],
+        "properties": {
+          "evidence_id": { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" },
+          "kind": { "enum": ["git", "file", "test", "pull_request", "issue", "other"] },
+          "locator": { "type": "string", "minLength": 1, "pattern": "^(?!/)(?![A-Za-z]:[\\\\/])(?![Ff][Ii][Ll][Ee]:)(?!.*\\\\)(?!\\.\\.(?:/|$))(?!.*\\/\\.\\.(?:\\/|$))[^\\u0000-\\u001F\\u007F]+$" },
+          "digest": {
+            "anyOf": [
+              { "type": "null" },
+              { "type": "string", "pattern": "^(git:[0-9a-f]{40}|sha256:[0-9a-f]{64})$" }
+            ]
+          }
+        }
+      }
+    },
+    "authority_transfer": { "const": false },
+    "private_memory_transfer": { "const": false },
+    "credential_transfer": { "const": false }
+  }
+}

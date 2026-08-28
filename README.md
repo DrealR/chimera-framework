@@ -10,7 +10,9 @@
 > [Project Agent Starter](templates/project-agent/README.md) installs a
 > provider-neutral, reviewable request/receipt/handoff loop for repository-aware
 > AI harnesses. It stores project state, not a person's identity or private
-> memory, and defaults to a no-write preview.
+> memory, and defaults to a no-write preview. Its explicit `POLLINATE` mode
+> creates a new project-native role; read-only `REBIND` only verifies an
+> already-existing one. Neither mode transfers identity or authority.
 
 ```
 L = (O > I) + P + ¬F

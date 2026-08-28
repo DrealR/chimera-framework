@@ -1,0 +1,34 @@
+{
+  "schema_version": "project-agent-contact/v1",
+  "contact_id": "CONTACT_EXAMPLE",
+  "source": {
+    "project": "SOURCE_PROJECT",
+    "agent_address": "SOURCE_PROJECT_AGENT",
+    "repository": "owner/source-project",
+    "head_sha": "0000000000000000000000000000000000000000",
+    "current_state_sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "addressed_to": "EXAMPLE_PROJECT_AGENT",
+  "purpose": "Offer evidence for independent verification by the receiving project agent.",
+  "related_request_id": null,
+  "claims": [
+    {
+      "claim_id": "CLAIM_EXAMPLE",
+      "statement": "A source-project change may be relevant to this project.",
+      "evidence_ids": [
+        "EVIDENCE_EXAMPLE"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "EVIDENCE_EXAMPLE",
+      "kind": "git",
+      "locator": "commit:0000000000000000000000000000000000000000",
+      "digest": "git:0000000000000000000000000000000000000000"
+    }
+  ],
+  "authority_transfer": false,
+  "private_memory_transfer": false,
+  "credential_transfer": false
+}

@@ -27,8 +27,12 @@
       }
     },
     "head_sha": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
-    "pull_request_url": { "type": ["string", "null"], "format": "uri" },
+    "pull_request_url": {
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "format": "uri", "pattern": "^https://[A-Za-z0-9._~:/?#@!$&'()*+,;=%\\x5B\\x5D\\x2D]+$" }
+      ]
+    },
     "next_request": { "type": ["string", "null"] }
   }
 }
-
