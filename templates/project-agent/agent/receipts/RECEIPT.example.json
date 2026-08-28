@@ -1,0 +1,22 @@
+{
+  "schema_version": "project-agent-receipt/v1",
+  "receipt_id": "RECEIPT-0001",
+  "request_id": "REQUEST-0001",
+  "actor": "example-harness",
+  "result": "COMPLETE",
+  "summary": "Describe the verified result without overstating unmerged work.",
+  "classification": "NEW_MATERIAL_DELTA",
+  "changes": [
+    "path/to/file: what changed"
+  ],
+  "tests": [
+    {
+      "command": "node --test",
+      "result": "PASS"
+    }
+  ],
+  "head_sha": "0000000000000000000000000000000000000000",
+  "pull_request_url": null,
+  "next_request": null
+}
+

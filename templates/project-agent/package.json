@@ -1,0 +1,12 @@
+{
+  "name": "chimera-project-agent-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "agent:check": "node scripts/project-agent.mjs check",
+    "agent:status": "node scripts/project-agent.mjs status",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
+

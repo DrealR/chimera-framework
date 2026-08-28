@@ -1,0 +1,17 @@
+{
+  "schema_version": "project-agent-current/v1",
+  "project": "EXAMPLE_PROJECT",
+  "agent_address": "EXAMPLE_PROJECT_AGENT",
+  "default_branch": "main",
+  "base_sha": "0000000000000000000000000000000000000000",
+  "status": "BOOTSTRAP",
+  "active_request_ids": [],
+  "last_receipt_id": null,
+  "verified_facts": [
+    "Replace the example values before using this state as project truth."
+  ],
+  "next_actions": [
+    "Create the first bounded request from REQUEST.example.json."
+  ]
+}
+

@@ -6,6 +6,12 @@
 
 > **See the dated public posture:** [CURRENT-STATE.md](CURRENT-STATE.md) records the August 2026 operating spine, active extensions, and epistemic self-corrections without rewriting the developmental walk.
 
+> **Give a software project a shared AI rhythm:** the
+> [Project Agent Starter](templates/project-agent/README.md) installs a
+> provider-neutral, reviewable request/receipt/handoff loop for repository-aware
+> AI harnesses. It stores project state, not a person's identity or private
+> memory, and defaults to a no-write preview.
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

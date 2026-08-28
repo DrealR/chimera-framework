@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chimera.example/schemas/project-agent-receipt-v1.json",
+  "title": "Project agent receipt",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "receipt_id", "request_id", "actor", "result", "summary", "classification", "changes", "tests", "head_sha", "pull_request_url", "next_request"],
+  "properties": {
+    "schema_version": { "const": "project-agent-receipt/v1" },
+    "receipt_id": { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" },
+    "request_id": { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" },
+    "actor": { "type": "string", "minLength": 1 },
+    "result": { "enum": ["COMPLETE", "PARTIAL", "BLOCKED", "NO_MATERIAL_DELTA"] },
+    "summary": { "type": "string", "minLength": 1 },
+    "classification": { "enum": ["ALREADY_SETTLED", "NEW_MATERIAL_DELTA", "STALE_LINEAGE", "CONTRADICTION", "LOCAL_ONLY_OBSERVATION", "UNVERIFIED_CLAIM"] },
+    "changes": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "tests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["command", "result"],
+        "properties": {
+          "command": { "type": "string", "minLength": 1 },
+          "result": { "enum": ["PASS", "FAIL", "NOT_RUN"] }
+        }
+      }
+    },
+    "head_sha": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+    "pull_request_url": { "type": ["string", "null"], "format": "uri" },
+    "next_request": { "type": ["string", "null"] }
+  }
+}
+

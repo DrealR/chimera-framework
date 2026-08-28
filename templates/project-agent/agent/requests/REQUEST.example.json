@@ -1,0 +1,43 @@
+{
+  "schema_version": "project-agent-request/v1",
+  "request_id": "REQUEST-0001",
+  "addressed_to": "EXAMPLE_PROJECT_AGENT",
+  "created_by": "operator",
+  "source": {
+    "kind": "human",
+    "locator": "current conversation",
+    "revision": null
+  },
+  "intent": "Describe one reviewable improvement.",
+  "scope": {
+    "allowed": [
+      "named repository files"
+    ],
+    "forbidden": [
+      "merge",
+      "deployment",
+      "secret access"
+    ]
+  },
+  "acceptance": [
+    "The requested behavior is implemented.",
+    "Exact tests pass."
+  ],
+  "authority": {
+    "actions": [
+      "read repository",
+      "edit on a branch",
+      "run local tests",
+      "open a pull request"
+    ],
+    "expires_at": null
+  },
+  "dependencies": [],
+  "evidence_required": [
+    "changed files",
+    "test commands and results",
+    "exact Git head"
+  ],
+  "status": "OPEN"
+}
+
