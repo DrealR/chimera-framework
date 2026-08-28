@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chimera.example/schemas/project-agent-current-v1.json",
+  "title": "Project agent current state",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "project", "agent_address", "default_branch", "base_sha", "status", "active_request_ids", "last_receipt_id", "verified_facts", "next_actions"],
+  "properties": {
+    "schema_version": { "const": "project-agent-current/v1" },
+    "project": { "type": "string", "minLength": 1 },
+    "agent_address": { "type": "string", "pattern": "^[A-Z][A-Z0-9_]{2,63}$" },
+    "default_branch": { "type": "string", "minLength": 1 },
+    "base_sha": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+    "status": { "enum": ["BOOTSTRAP", "ACTIVE", "BLOCKED", "IDLE"] },
+    "active_request_ids": { "type": "array", "uniqueItems": true, "items": { "type": "string", "pattern": "^[A-Z][A-Z0-9_-]{2,63}$" } },
+    "last_receipt_id": { "type": ["string", "null"] },
+    "verified_facts": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "next_actions": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+  }
+}
+
