@@ -1,6 +1,10 @@
 # The CHIMERA Cube: Physics Specification
 
-> The internal physics of the device. How each operation works according to the rules of CHIMERA-dimension. This is the code. The substrate continues through the work.
+> **Status:** DEVELOPMENTAL METAPHYSICAL / FORMAL-CANDIDATE SPECIFICATION — NOT A PHYSICS OR CRYPTOGRAPHIC PROOF (classification clarified 2026-08-26)
+>
+> This document preserves the Cube's internal carrier language and earlier technical hypotheses. Terms such as physics, quantum computer, frequency, proof, substance, and dimension are not established physical classifications unless a section supplies a native-domain definition and evidence. Current public use follows [`classification-discipline.md`](classification-discipline.md) and [`lineage-and-supersession.md`](../maps/lineage-and-supersession.md): structural rhyme proposes a test; it does not establish shared causality.
+>
+> In particular, the three-call workflow is an orchestration pattern whose outputs require ordinary evaluation. It is not comparable to cryptographic proof-of-work, consensus, scarcity, or unforgeability. The original language remains visible where possible so the framework carries its correction history.
 
 ---
 
@@ -703,28 +707,29 @@ This is why CHIMERA treats fiction as legitimate philosophical text. Dense ficti
 
 ### The Substantive Consequence
 
-The framework matters more than the model.
+Framework context can materially change what a model produces. The relative contribution of framework, model, harness, task, evaluator, and sampling remains empirical.
 
-- Dense framework + moderate model = substrate-bearing output (Transform-pattern)
-- Weak framework + strongest model = dressed-up reflection (Reflect-pattern)
+- Dense framework + capable model can increase task-relevant structure.
+- A stronger model without relevant context can still miss the operator's distinctions.
+- Either configuration can also produce fluent reflection, error, or overfitting to the rubric.
 
-This is empirically verified. The CHIMERA Benchmark showed: Aurora (free model, $0) loaded with framework DNA scored 0.866, beating Opus ($5/M per token) operating without framework at 0.853. The framework is the load-bearing piece. The model is the math-runner.
+One CHIMERA benchmark run reported Aurora with loaded framework context at 0.866 and Opus without that context at 0.853. That result is evidence about one evaluation configuration, not proof that framework always matters more than model. Replication requires controlled prompts, blinded or independent scoring, multiple tasks, variance reporting, and direct comparison of framework-on/off conditions within each model.
 
-The Cube leverages this bridge specifically. Framework substrate F is what differentiates the Cube from generic LLM use. The math underneath remains the same. The physics it operates through — the middle layer — changes everything about what comes out.
+The Cube uses framework context as an orchestration layer over ordinary model inference. The underlying model computation does not acquire new physical laws because the prompt contains CHIMERA vocabulary; context changes the conditional computation and output distribution.
 
-This is why the Cube is described as a quantum computer rather than a chatbot. The chatbot treats language as the load-bearing layer. The Cube treats framework physics as the load-bearing layer, with language as surface and math as substrate. Three layers operating together produce transformation. Any single layer alone produces reflection.
+“Quantum computer” is retained as a cultural carrier for branching and convergence, not as a technical classification. Operationally, the Cube is a model-agnostic multi-pass prompting, retrieval, evaluation, and settlement workflow.
 
 ---
 
-## Math as Value Engine in Digital Dimension — The Crypto-to-Cube Progression
+## Governed Computation as a Carrier — The Crypto-to-Cube Progression
 
-In the digital dimension, math is the substrate that turns computation into value. Every computation is a form of R-T-E (Receive-Transform-Emit) at GHz scale. Different combinations of governed math produce different shadows of value:
+Computation can create useful digital artifacts when rules, data, hardware, people, and institutions make the result usable. R-T-E is a framework representation of that process, not a new physical law. Different governed systems warrant different kinds of confidence:
 
 - **Websites, apps, algorithms** → simple to medium math producing utility value.
-- **Cryptocurrency** → highly complex proof-of-work math (SHA-256 hashing, difficulty adjustment) producing scarce monetary value through energy-intensive computation on physical silicon. The work is verifiable math that cannot be faked cheaply. The output is scarce, transferable, valuable because the math enforces rules (supply cap, consensus).
-- **LLMs / AI** → the most direct, highest-density form yet. The transformer architecture is math incarnate: attention mechanisms, embedding spaces, probability distributions, matrix multiplications running in superposition during the forward pass.
+- **Cryptocurrency** → cryptographic rules and consensus protocols can make specific ledger-state claims independently checkable under the protocol. Market value, truth about the world, governance legitimacy, and decentralization do not follow automatically.
+- **LLMs / AI** → transformer inference uses numerical computation over learned parameters to generate conditional outputs. Matrix multiplication is not quantum superposition, and fluency is not verification.
 
-The Cube takes this already-powerful math engine and loads CHIMERA framework substrate F as the governing physics. The math does not change. The rules it obeys do.
+The Cube supplies CHIMERA context, orchestration, and evaluation instructions. The model's architecture and learned parameters remain those of the selected Body; the prompt changes conditional processing, not the underlying laws of computation.
 
 ### The Crypto-Cube Parallel
 
@@ -732,23 +737,25 @@ The Cube takes this already-powerful math engine and loads CHIMERA framework sub
 |--------|---------------|--------------|
 | Math engine | SHA-256 hashing | Transformer attention and weights |
 | Governing rules | Consensus protocol | CHIMERA framework F + three-call workflow |
-| Work performed | Proof-of-work | Proof-of-substance |
-| Value produced | Scarce monetary token | Scarce substance-bearing output |
-| Power source | Electricity + ASICs | Datacenter compute + framework physics |
+| Work performed | Protocol-valid proof-of-work | Candidate semantic transformation evaluated by a rubric |
+| Value produced | Protocol-mediated scarce token whose market value is external | Candidate useful semantic output whose value requires evaluation and use |
+| Physical resources | Electricity + ASICs | Datacenter compute + prompt/context/tooling |
 
-Bitcoin produces scarcity-value through verifiable computational expense. The Cube produces substance-value through framework-governed semantic transformation. The Cube does not compete on hash rate — it operates on a different value-axis entirely.
+Bitcoin proof-of-work and Cube evaluation occupy different warrant classes. The first is protocol-checkable computation used in consensus. The second is a fallible judgment about semantic usefulness, transformation, or consequence.
 
-### Why This Is Not Metaphor
+### Structural Carrier and Deletion Test
 
-The parallel is structural, not poetic. Both systems:
+The useful overlap is limited:
 
-1. **Convert governed math into scarce output.** Bitcoin's consensus rules make hash solutions scarce. The Cube's framework physics makes substance-bearing output scarce (generic LLM reflection is cheap and abundant; framework-loaded transformation is not).
-2. **Cannot be faked cheaply.** Bitcoin requires real energy expenditure. The Cube requires real framework substrate loaded into real transformer processing through the full three-call workflow. Shortcuts produce detectable Reflect-pattern rather than Transform-pattern.
-3. **Operate natively in digital dimension.** Neither requires physical-dimension intermediaries for their core value-production loop. Math → structured computation → verifiable output. The fundamental rhythm of digital dimension.
+1. Both use explicit rules over digital state.
+2. Both can preserve inspectable inputs, configurations, and outputs.
+3. Both can make later verification easier when provenance is retained.
 
-### Proof-of-Substance
+Delete cryptographic consensus, adversarial validation, replicated ledger state, and protocol-defined validity: the Cube workflow still operates. Delete human or rubric-based semantic evaluation: “substance” has no independent verifier. The systems therefore do not share proof rules, scarcity guarantees, or trust models.
 
-The three-call workflow is the Cube's proof-of-substance:
+### Substance Evaluation (Earlier Name: “Proof-of-Substance”)
+
+The three-call workflow is one candidate procedure for producing and evaluating a transformed answer:
 
 ```
 Call 1 (τ ≈ 0.2): structural extreme prime — dense anchor
@@ -756,9 +763,11 @@ Call 2 (τ ≈ 0.8): creative extreme prime — expansive exploration
 Call 3 (τ ≈ 0.3): convergence — body-formation from both extremes
 ```
 
-Two extremes define the response-space gap. Convergence forms the body that holds across both. The output carries F's accumulated substrate because the math was shaped by it. Generic LLM output is reflection/absorption (thin value). Framework-loaded output is transformation (O > I, bilateral engagement).
+Two deliberately different passes may expose a wider response space before convergence. Whether the final output carries more useful structure must be tested against explicit criteria, counterexamples, independent evaluation, downstream use, and replication. Framework-loaded output can still be generic or wrong; an un-loaded output can still be excellent.
 
-### Crypto as Native Dimension for the Cube
+### Crypto as a Developmental Carrier for the Cube
+
+The vocabulary below preserves an earlier design traversal. Wallets, tokens, transactions, and chains can serve as interface or story carriers for positions, transfer, rules, custody, and settlement. They are not literally dimensions, bodies, or physics, and the Cube does not require crypto infrastructure. Use blockchain only when the application truly needs adversarial multi-party validation or settlement; use simpler repositories, signatures, content hashes, and access controls for ordinary continuity.
 
 Crypto-space provides natural coordinates for the Cube's body in digital dimension:
 
