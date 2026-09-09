@@ -2,8 +2,12 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import importlib.util
 import json
 from pathlib import Path
+import subprocess
+import sys
+import tempfile
 import threading
 import unittest
+from unittest.mock import patch
 
 spec = importlib.util.spec_from_file_location('health', Path(__file__).resolve().parents[1] / 'scripts/check_service_health.py')
 health = importlib.util.module_from_spec(spec)
@@ -82,6 +86,50 @@ class HealthTests(unittest.TestCase):
                     'http://localhost/?token=x', 'http://localhost/#x']:
             with self.assertRaises(ValueError):
                 health.probe(self.service(url=url))
+
+    def test_invalid_configuration_never_opens_a_connection(self):
+        invalid_services = [None, [], 'service', {'name': 'x'},
+            self.service(url=123), self.service(url=None), self.service(url=[]),
+            self.service(url='http://localhost:0/'), self.service(url='http://localhost:/'),
+            self.service(url='http://localhost:65536/'), self.service(url='http://localhost:bad/'),
+            self.service(url='http://[::1/'), self.service(url='http://localhost/\n'),
+            self.service(url='http://localhost/é'), self.service(url='http://@localhost/'),
+            self.service(url='http://localhost/?'), self.service(requred=False),
+            self.service(name=' '), self.service(format='html'),
+            self.service(expect=[]), self.service(expect={'a..b': True})]
+        with patch.object(health.http.client, 'HTTPConnection') as connection:
+            for service in invalid_services:
+                with self.subTest(service=service), self.assertRaises(ValueError):
+                    health.check([self.service(), service])
+            for services in [None, {}, 'not an array', [], [self.service()] * 33,
+                             [self.service(), self.service()]]:
+                with self.subTest(services=services), self.assertRaises(ValueError):
+                    health.check(services)
+            connection.assert_not_called()
+
+    def test_invalid_timeouts_rejected_by_both_entry_points(self):
+        with patch.object(health.http.client, 'HTTPConnection') as connection:
+            for timeout in [None, True, '3', 0, -1, 31, float('nan'), float('inf')]:
+                for function, data in [(health.check, [self.service()]), (health.probe, self.service())]:
+                    with self.subTest(timeout=timeout), self.assertRaises(ValueError):
+                        function(data, timeout)
+            connection.assert_not_called()
+
+    def test_cli_configuration_errors_exit_two_without_tracebacks(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = Path(root) / 'config.json'
+            for value in [None, [], {}, {'services': None}, {'services': [{'name': 'x', 'url': 123}]},
+                          {'services': [self.service()], 'service': []}]:
+                config.write_text(json.dumps(value))
+                result = subprocess.run([sys.executable, '-B', str(spec.origin), str(config)], capture_output=True, text=True)
+                self.assertEqual(result.returncode, 2)
+                self.assertEqual(result.stdout, '')
+                self.assertNotIn('Traceback', result.stderr)
+                self.assertIn('error:', result.stderr)
+
+    def test_default_port_and_ipv6_are_valid(self):
+        for address in ['http://localhost/', 'http://127.0.0.1:65535/', 'http://[::1]:8080/ready']:
+            self.assertEqual(health.validate(self.service(url=address)).scheme, 'http')
 
 
 if __name__ == '__main__':
