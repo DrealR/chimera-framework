@@ -24,6 +24,18 @@ Both reject responses over 64 KiB. `--timeout` sets the socket timeout, not a
 hard wall-clock deadline against a continuously trickling server. Requests are
 limited to 32 configured services and eight concurrent workers.
 
+The configuration must be an object with a single `services` array. Each service
+has a unique nonblank `name`, a `url`, and optionally `required`, `format`, and
+`expect`. Unknown fields are rejected so a misspelled contract cannot silently
+be ignored. URLs use ASCII (percent-encode other characters), contain no
+whitespace or control characters, and use ports from 1 through 65535 when a port
+is supplied. Nonempty `expect` contracts apply only to JSON probes. Timeouts
+must be finite numbers greater than zero and at most 30 seconds.
+
+All entries and the timeout are validated before any network request starts.
+A malformed file, service, URL, or timeout prints a configuration error to
+stderr and exits with code 2; it does not produce a partial health report.
+
 Exit code 0 means all required HTTP contracts passed; 1 means at least one
 failed; 2 means the configuration or invocation is invalid. Optional failures
 remain listed even when required services pass. Mark a dependency optional only
