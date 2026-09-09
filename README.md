@@ -14,6 +14,10 @@
 > creates a new project-native role; read-only `REBIND` only verifies an
 > already-existing one. Neither mode transfers identity or authority.
 
+> **Check that local tools actually respond:** the [local service health guide](docs/local-service-health.md)
+> includes a read-only HTTP probe and separates live availability, saved-state
+> integrity, completed execution, and output quality.
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

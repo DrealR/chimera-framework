@@ -108,6 +108,12 @@ harness:
 
 ## The loop
 
+For projects with local servers, also check their current responses using the
+[local service health guide](../../docs/local-service-health.md). A valid wake
+receipt establishes state consistency; live availability, completed execution,
+and output quality each need their own evidence. The health tool is optional
+and is not installed by POLLINATE or invoked by REBIND.
+
 ```text
 operator or peer proposes a bounded request
   -> project agent verifies repository state and authority

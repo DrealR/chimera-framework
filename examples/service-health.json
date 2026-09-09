@@ -1,0 +1,20 @@
+{
+  "services": [
+    {
+      "name": "local-api",
+      "url": "http://127.0.0.1:8080/health",
+      "expect": {"schema": "example.health.v1", "ready": true}
+    },
+    {
+      "name": "local-page",
+      "url": "http://127.0.0.1:8080/",
+      "format": "html"
+    },
+    {
+      "name": "optional-telemetry",
+      "url": "http://127.0.0.1:8081/health",
+      "required": false,
+      "expect": {"ready": true}
+    }
+  ]
+}
