@@ -57,6 +57,29 @@ One row cannot certify the others. In particular, a schema check against an API
 that projects historical evidence proves that API's current response, not a
 fresh execution or model-quality result.
 
+## Carry observations between sessions
+
+Keep the source observation time when moving a status record to another
+device. Import time is not a new health check. Show the observing device,
+what was actually checked, its retained evidence, and when another check is
+due. A user's report that a conversation worked and a gateway's execution
+receipt can both be useful; label their different sources.
+
+Preserve revision history when importing updates. Repeated delivery should
+not create duplicate work, an older snapshot should not replace a newer
+revision, and competing updates should remain visible until reconciled.
+Order alone or the newest clock timestamp is insufficient to resolve a
+disagreement. Retain the preceding revision identifiers so the relationship
+between updates can be checked.
+
+Bind a reported result to the exact retained artifact bytes. If evidence is
+missing or changed, show that failure and require inspection before relying
+on the result. Matching hashes establish byte integrity, not the truth of an
+answer, the identity of its author, or permission to execute a copied task.
+Test a handoff by reopening it in a fresh process, retrieving the intended
+artifact, and identifying the current next step; copying a file alone does
+not establish that a second device can continue the work.
+
 ## Recover without losing the evidence
 
 When a page fails but its source and fixtures still pass, inspect the running
