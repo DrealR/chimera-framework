@@ -197,6 +197,7 @@ The interrupt lives at the hinge. It reads Time 1, then uses Time 2 to reweight 
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the Pause is what holds the anchor under the pull of wall-less relational space; the interrupt is the mechanism that keeps the mind tethered to the physical floor when the fastest vehicle in history is pulling it into a space with no floor and no brakes.
 - [Time as Relational Movement](time-as-relational-movement.md) — the two-time articulation: causal rails plus relational reweighting.
 - [Pause as Conscious Motion](pause-as-conscious-motion.md) — sharpens the interrupt as conscious motion rather than absence: the operator reads the rail, stills enough to weight it, then redirects.
+- [The Urgency Is the Trap](the-urgency-is-the-trap.md) — manufactured urgency is engineered to skip the Pause; the race mentality is the specific pressure against which P in `L = (O > I) + P + ¬F` is the firewall; the interrupt is precisely the mechanism the urgency-seller wants to disable.
 
 ---
 
