@@ -94,6 +94,7 @@ random" was the discipline working.)
 - [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — the Yoda note this doc carries ("root beats elaboration") now has its mechanism named: recombinability is *why* the fundamental wins; the direction axis is the source of that mechanism (outward-facing = still recombinable; cooled inward = stuck specialization).
 - [The Leverage Is Inward](the-leverage-is-inward.md) — direction applied to the self: keeping the leverage on the body you face *from* is how the inward/outward axis becomes operational at the individual scale; the master-firewall is direction-axis physics with the frame locked onto your own body.
 - [Words Put Weight on Paths](words-put-weight-on-paths.md) — the language-navigation version of this doc's core move: moral labels are one kind of weight placed on a path; stripping them to see bare direction (this doc) and then consciously choosing which weights to restore (that doc) are the same operation at two scales.
+- [Take the Mechanism, Leave the Frame](take-the-mechanism-leave-the-frame.md) — the same strip-to-mechanism move applied to political and ideological framing: good/evil is the biggest costume, and this doc's move (strip it to direction/incentive) is exactly what "take the mechanism, leave the frame" performs on totalizing narratives.
 
 ---
 
