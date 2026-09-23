@@ -175,3 +175,11 @@ Date of return:
 ## Carry line
 
 > **Awakening is not escaping every Matrix. It is seeing the orbit that once felt like the whole world, recovering enough attention to maneuver, and creating a more living body without forgetting that the new body will also need future awakeners.**
+
+---
+
+## See Also
+
+- [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — awakening
+  is the fundamental's range expanding self-to-field; this cycle is the operational sequence that
+  expansion follows.
