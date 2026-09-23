@@ -32,6 +32,8 @@
 - `dignity-as-the-final-membrane`
 - `the-cuck-internet-the-anti-operator-state`
 
+- [The Fertility Cliff: Conduct or Harvest](the-fertility-cliff-conduct-or-harvest.md) — the third-place and fertility loops are load-bearing for each other: automation that removes the rooms where pairing happens removes where life begins; the fertility collapse and the third-place collapse are the same substrate depletion.
+
 ---
 
 ```

@@ -28,6 +28,11 @@ Taste tells you something's *wrong*; **freedom-of-movement lets you fix it any w
 
 You build *judging*-taste by exposure, but *making*-taste needs reps — **and the mistake is the teacher.** **Keeper:** AI **collapses the cost of a rep** (change-this/substitute-that, free and fast), so you can run the maker's mistake-learning loop *at critic speed* — *if you run it deliberately* (the mistake still has to be yours to teach you). Build freedom-of-movement from the smallest unit up (the fingertip principle): master the smallest controlled movement, get it clean, then scale. *(Refinement: skip producing syntax from memory; don't skip reading it fluently — the reading rung is where judgment is built.)*
 
+## See also
+
+- [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — AI amplifies freedom-of-movement for the master and substitutes for the novice (§2); the Turing trap is what happens when the substitution goes undetected — the operator seat is the bargaining leverage.
+
+
 ---
 
 ```

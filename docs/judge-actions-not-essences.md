@@ -31,6 +31,12 @@ The opposite failure is the relativist one ("truth is just resonance, the best s
 
 You're not *forced* to judge; choosing to keep people open — observe actions, don't freeze essences — is an **act of will you own.** The operator authoring their own moral life, against the determinism of "everyone's just on their frequency."
 
+## See also
+
+- [You're Never Anonymous from Yourself](you-are-never-anonymous-from-yourself.md) — the internal application of the same discipline: don't freeze your own identity by a mistake any more than you freeze others'; own the correction, extend the compassion — both inward and outward.
+- [Take the Mechanism, Leave the Frame](take-the-mechanism-leave-the-frame.md) — dropping the essentialist label (the totalizing frame) is the same move as judging actions not essences; keep the structural bone (the mechanism) and firewall the character verdict.
+
+
 ---
 
 ```

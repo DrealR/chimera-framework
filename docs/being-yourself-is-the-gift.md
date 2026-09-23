@@ -28,6 +28,11 @@
 
 **Keeper:** shame/hiding (the fig leaves) is the *origin* of performance — being ashamed of who you are makes you hide and perform; the un-ashamed state (unhidden) is the un-performed state. **Intimacy is being seen without shame** — seen past the surface, un-hidden, not performing — and dropping the shield (un-ashamed of what's under it) *is* the intimacy. Loops back to self-acceptance: you can only drop the shield when you're not ashamed of what's under it. *(Theology stays in its own drawer; the structure stands on its own.)*
 
+## See also
+
+- [The Body Knew the Exit](the-body-knew-the-exit.md) — the body reaching toward its needed substrate before the mind knows the theory; being-yourself-is-the-gift and body-knew-the-exit are both about the organism navigating toward what it actually needs when performance and harvest-want fall away.
+
+
 ---
 
 ```

@@ -46,6 +46,10 @@ The FMA/alchemy pass sharpens the same literacy: do not use AI as a Philosopher'
 - [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — why borrowed power still carries cost.
 - [AI as the Fastest Fusion](ai-as-the-fastest-fusion.md) — the instrument/fusion frame this literacy protects.
 
+- [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — not-getting-installed and not-getting-substituted are the same move at different layers; keeping the operator seat is the same discipline as keeping the install filter on.
+- [The Urgency Is the Trap](the-urgency-is-the-trap.md) — manufactured urgency is one of the install vectors: the panic that says move-before-you-filter; the seatbelt and the install filter are the same device.
+- [You're Never Anonymous from Yourself](you-are-never-anonymous-from-yourself.md) — the filter that keeps you from being installed by AI is the same filter that keeps cruelty from installing in you; every input that bypasses the filter rewrites the character.
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

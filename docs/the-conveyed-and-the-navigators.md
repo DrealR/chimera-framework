@@ -24,6 +24,12 @@ The Mural divides the world into the **conveyed** (on the machine's loop/surface
 
 **Keeper:** the navigators are the operators; the loop-riders are the harvested. You either get *conveyed* by the machine (the loop, the harvest, the feed carrying you — `algorithm-as-steerable-fluid`) or you *navigate* by your own ship (the operator with a vessel, `relational-and-combinatorial-navigation` — island to island, your own movement). **Freedom is having your own vessel to cross the flood, versus being a body on the conveyor.** The whole flood thesis as one picture: build your own ship, or be carried by the machine.
 
+## See also
+
+- [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — the Turing trap is the conveyed pattern at the labor-market scale: when AI substitutes for the human operator, the human is conveyed rather than navigating; keeping the un-substitutable operator seat is the only position that still navigates.
+- [The Fertility Cliff: Conduct or Harvest](the-fertility-cliff-conduct-or-harvest.md) — the civilizational-scale version of the conveyed-vs-navigator binary: whether a society conducts its substrate forward (navigates) or harvests status for the self (is conveyed by the extraction machine).
+
+
 ---
 
 ```

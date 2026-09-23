@@ -32,6 +32,11 @@
 
 **Keeper:** *do it → read the mistake → focus the smallest unit → repeat* runs guitar, basketball, and **kindness** alike. Want to be a better person? Do it every day, notice where you fall short, focus there — the mistakes in being-good are the map too (`being-yourself-is-the-gift`: you earn the self by doing the work, and the falling-short shows you where). And it compounds invisibly: you can't feel your own daily gain, but it's real and the people around you see it — which is why consistency is doing the work *even when you can't see it*, and why tracking it lets you see what you can't feel. **Don't be afraid to do it wrong. Doing it wrong, attentively, one small unit at a time, is how you get it right.**
 
+## See also
+
+- [You're Never Anonymous from Yourself](you-are-never-anonymous-from-yourself.md) — the character-building corollary: a mistake in being-good is the map too; the falling-short is information about where the work is, not a verdict on the self — the same loop applied to character formation.
+
+
 ---
 
 ```

@@ -59,6 +59,9 @@ Don't teach kids to **detect fakes** (the losing race that raises the floor and 
 - `markets-commission-the-events-they-price`
 - [The Embodied Provenance Principle](embodied-provenance-principle.md)
 
+- [The Urgency Is the Trap](the-urgency-is-the-trap.md) — reading the intent applies most critically to urgency-sellers; the doom-and-race narrative is manufactured by incentive (the closer to the machine-god, the louder its voice); intent-reading is the seatbelt.
+- [Take the Mechanism, Leave the Frame](take-the-mechanism-leave-the-frame.md) — the deepest read is reflexive (§3: the piece does the thing it describes); intent-reading and frame-stripping are the same move: take the structural bone, drop the totalizing costume.
+
 ---
 
 ```

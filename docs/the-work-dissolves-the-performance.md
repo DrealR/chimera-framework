@@ -47,6 +47,9 @@ They are not opposites. Mastery makes stillness easier because the domain no lon
 - [The Shared Present](the-shared-present-is-made.md) — real contact as a mutually authored now.
 - [Third Places Can't Be Manufactured](third-places-cant-be-manufactured.md) — shared domains and rooms where un-performance can become social.
 
+- [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — the Turing trap is what happens when AI substitutes for the work that dissolves performance; only the walked work earns the un-substitutable seat.
+- [The Body Knew the Exit](the-body-knew-the-exit.md) — the body choosing the domain it needs before the mind knows the theory; the work-dissolves-performance move and the body-choosing-the-exit are both the organism navigating toward substrate by felt need.
+
 ---
 
 ```
