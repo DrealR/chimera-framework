@@ -119,6 +119,10 @@ the gift is never the heroism — the direction is.**
   Magneto's orientation is this master-firewall's specimen in precise AI dress.
 - [The Embodied Provenance Principle](embodied-provenance-principle.md) — operator-location test,
   host inversion, instrument versus environment, and the guitar question: who sets the BPM?
+- [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — the Turing
+  trap is the failure mode of reach-amplification: when AI substitutes rather than amplifies, the
+  operator seat empties; complementarity (human question + AI execution) is what the amplifier is
+  for, and holding the question-and-evaluation is what makes it amplification rather than substitution.
 
 ---
 
