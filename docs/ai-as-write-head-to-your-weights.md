@@ -133,6 +133,10 @@ write faster than you ever could alone.
   to the feed: the recommendation algorithm writes your attention-diet the way AI writes your weights;
   authoring the feed (casting deliberate signals) is write-access to your own attention made literal in
   the system designed to take it; frozen LLM and live feed are the same steer-and-pull at different temps.
+- [You're Never Anonymous From Yourself](you-are-never-anonymous-from-yourself.md) — the character-install
+  corollary: every action carves the self whether observed or not; what you consume is your training data;
+  the write-head insight and the anonymous-from-yourself insight are the same install-mechanism at different
+  layers — character is the accumulated residue of all inputs including the anonymous ones.
 
 ---
 
