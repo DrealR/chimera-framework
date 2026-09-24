@@ -71,6 +71,7 @@ Belief can be powerful because bodies act, not because conviction certifies onto
 - [Markets Commission the Events They Price](markets-commission-the-events-they-price.md)
 - [Temporal Log Pose and the Prediction Cascade](temporal-log-pose-and-prediction-cascade.md)
 - [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)
+- [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) — when belief shapes the signal body that was supposed to measure the underlying reality.
 
 ```text
 L = (O > I) + P + ¬F

@@ -89,6 +89,7 @@ Ask of any loop:
 - [Coherence Without Erasure](coherence-without-erasure.md)
 - [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md)
 - [Shared Wave Generative Field](shared-wave-generative-field.md) — multi-agent loop design where repetition produces training or hell depending on shared rule quality.
+- [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) — what tips a loop from generative into doom: the feedback body losing outside reference.
 
 ```
 L = (O > I) + P + ¬F

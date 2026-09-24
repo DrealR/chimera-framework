@@ -93,6 +93,7 @@ Shared physical bodies—meals, classrooms, rehearsals, games, work, weather, ca
 - [Local Center and Shared Field](local-center-and-shared-field.md)
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)
 - [Identity Is the Residue of Walked Paths](identity-as-residue-of-walked-paths.md)
+- [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) — when the exposure signal becomes the constraint body, relational distance collapses into a doom loop.
 
 ```text
 L = (O > I) + P + ¬F
