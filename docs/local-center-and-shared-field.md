@@ -81,6 +81,7 @@ Student is a local center with their own proper time. Do not teleport answers fr
 - [Coherence Without Erasure](coherence-without-erasure.md)  
 - [Two Absolutes Spectrum](two-absolutes-spectrum.md)  
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — the layered processing environment (raw/mid/deep) that every local center navigates; design laws for preserving coherence across scales.
+- [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md) — how recommendation environments recursively update a local center's encounter field; different local centers can inhabit the same physical room yet traverse different rendered versions of the shared field.
 
 ```text
 L = (O > I) + P + ¬F
