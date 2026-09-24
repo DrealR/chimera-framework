@@ -43,6 +43,12 @@ SPARK is the micro-version of the whole defense — it hands write-access *back*
 
 ---
 
+## See also
+
+- [The Algorithm Is a Steerable Fluid](the-algorithm-is-a-steerable-fluid.md) — the individual operator's move: author the feed rather than being harvested by it; write-access to your own attention made concrete.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

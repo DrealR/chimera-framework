@@ -96,6 +96,7 @@ Attention is the scarce resource of the age (Simon, 1971), measured as time-spen
 - `reality-spam-and-the-staged-offline`
 - [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — rage bait as attention-fluid harvest through a missing Pause.
 - `the-conductor-and-the-harvester-matched-pair`
+- [The Algorithm Is a Steerable Fluid](the-algorithm-is-a-steerable-fluid.md) — the operator's move made literal in the recommendation feed and LLM: you author the algorithm by the signals you cast.
 
 - [The Body Knew the Exit](the-body-knew-the-exit.md) — the body pointing toward substrate-nourishing attention (music, creative work, real contact) before the theory names it; the un-harvesting gaze (art as exit) and the skilled attention-conductor's gaze share the same turn away from harvest.
 

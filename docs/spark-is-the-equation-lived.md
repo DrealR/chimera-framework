@@ -104,6 +104,12 @@ catches fire. Build it exactly there.
 
 ---
 
+## See also
+
+- [The Algorithm Is a Steerable Fluid](the-algorithm-is-a-steerable-fluid.md) — the operator's move made concrete in the system kids actually live in: teaching a kid to author the feed is SPARK's most directly teachable piece.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1
