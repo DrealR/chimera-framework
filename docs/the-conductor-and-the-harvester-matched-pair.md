@@ -34,6 +34,7 @@ A streamer selling **winter skullcaps in summer for $750k in five minutes** — 
 - `dignity-as-the-final-membrane`
 - `boundary-override-capitalism`
 - `reality-spam-and-the-staged-offline`
+- `the-attention-field-a-chimera-study`
 
 ---
 
