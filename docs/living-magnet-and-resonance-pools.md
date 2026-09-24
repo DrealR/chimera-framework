@@ -197,6 +197,7 @@ This is SPARK-adjacent: teach navigators to author discovery, not only consume f
 - [Shared Wave Generative Field](shared-wave-generative-field.md) — sandbox twin; rehearse magnet language without burning real social capital
 - [Local Center and Shared Field](local-center-and-shared-field.md) — structural basis: each body is a local center; resonance pools are relational position; shared field is the medium in which the magnet operates
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md) — the magnet operates inside your chosen primary relational body; ecosystem continuity amplifies navigation quality
+- [Real-Time Attention Layer](real-time-attention-layer.md) — the live-layer substrate the magnet operates on; X-class high-velocity public attention as the optimal race track
 
 ```text
 L = (O > I) + P + ¬F

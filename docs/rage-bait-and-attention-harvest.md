@@ -93,6 +93,7 @@ Correction remains legal. Reflexive identity-defense is the trap.
 - [Write-Access to Your Own Attention](write-access-to-your-own-attention.md)
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
 - [Pause as Conscious Motion](pause-as-conscious-motion.md)
+- [Real-Time Attention Layer](real-time-attention-layer.md) — the velocity substrate where rage bait circulates; understanding its optimization function is the same move as naming the trigger
 
 ```
 L = (O > I) + P + ¬F

@@ -94,6 +94,14 @@ Internet/social is not only doom or replacement. It is a **bigger pool of human 
 
 ---
 
+## See also
+
+- [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — the Cerebro instrument in operator use
+- [Real-Time Attention Layer](real-time-attention-layer.md) — the live public-velocity substrate this device reads
+- [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — the wider timing and depth stack the live layer sits inside
+
+---
+
 ## Keeper
 
 ```text

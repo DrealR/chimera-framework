@@ -105,6 +105,8 @@ actual presence.
 - [Local Center and Shared Field](local-center-and-shared-field.md) — the shared present is always made
   between two local centers; the shared field is the medium; multi-scale time is why the present must be
   actively authored rather than found.
+- [Real-Time Attention Layer](real-time-attention-layer.md) — the high-velocity public layer where
+  attention already is; meeting people there is how the shared present gets made at scale.
 
 ---
 

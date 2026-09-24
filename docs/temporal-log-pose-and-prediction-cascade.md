@@ -221,3 +221,16 @@ The instrument does not locate eternal North. It reveals current coupling, futur
 The carry line is:
 
 > **Social media senses a rendered present. AI turns inherited memory into possible continuations. Markets show where bounded expectation and resources are gathering. Story can move the observation point and return a better question. Verification tests the map. Bodies act. Earth settles which projection becomes history.**
+
+---
+
+## See also
+
+- [Real-Time Attention Layer](real-time-attention-layer.md) — the live-layer substrate the Log Pose reads for present attention; X-class velocity as the signal surface
+- [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — the wider timing architecture this instrument sits inside
+- [AI as Social Navigation Device](ai-as-social-navigation-device.md) — the AI-on-live-graph primitive the Log Pose deploys
+
+```text
+L = (O > I) + P + ¬F
+WE = 1
+```
