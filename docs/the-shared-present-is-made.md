@@ -100,6 +100,8 @@ actual presence.
 - [Collapse to See the Structure, Restore to Meet the Person](strip-to-understand-restore-to-love.md)
   — the restore is the shared-present discipline: put the face back on the moment you turn from the
   pattern to the person; the present is made by meeting the individual, not the collapsed type.
+- [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — the magnet locates where
+  attention is warm; the shared present is what's made when you arrive there.
 
 ---
 

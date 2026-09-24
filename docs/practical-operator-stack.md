@@ -86,6 +86,7 @@ Pass-the-name local practice is the external micro-version of the same muscle: r
 - [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md)
 - [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md)
 - [The Reflect-and-Connect Method](the-reflect-and-connect-method.md)
+- [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — practical attention navigation: the magnet is the "explore-first" operator tool for the live social field.
 
 ```text
 L = (O > I) + P + ¬F

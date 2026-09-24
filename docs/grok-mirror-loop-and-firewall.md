@@ -99,6 +99,7 @@ The goal is not to produce infinite elegant synthesis. The goal is to become mor
 - [Privacy, Anonymity, and the Trust Collapse](privacy-anonymity-and-the-trust-collapse.md)
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
 - [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md)
+- [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — the magnet uses resonance as signal; this doc is the discipline for not letting resonance become the master.
 
 ```
 L = (O > I) + P + ¬F

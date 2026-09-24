@@ -92,6 +92,7 @@ In a world of infinite generic AI output, aliveness is what has real human textu
 - [Spark Is the Equation Lived](spark-is-the-equation-lived.md) — human-first education posture.
 - [Self-Governance in Low Friction](self-governance-in-low-friction.md) — practice that rebuilds direction in flood conditions.
 - [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — the opposite pattern: harvest without recognition.
+- [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — online counterpart: the magnet loop finds live soil so the seed-and-recognize practice can reach beyond local rooms.
 
 ```text
 L = (O > I) + P + ¬F
