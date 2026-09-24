@@ -87,6 +87,7 @@ Pass-the-name local practice is the external micro-version of the same muscle: r
 - [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md)
 - [The Reflect-and-Connect Method](the-reflect-and-connect-method.md)
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — practical attention navigation: the magnet is the "explore-first" operator tool for the live social field.
+- [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md) — the stack rule for choosing which body to live in; "author your slice" works inside a coherent primary ecosystem
 
 ```text
 L = (O > I) + P + ¬F
