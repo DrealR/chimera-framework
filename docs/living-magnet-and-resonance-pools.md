@@ -195,6 +195,7 @@ This is SPARK-adjacent: teach navigators to author discovery, not only consume f
 - [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — mirror not master
 - [The Resonance Band](the-resonance-band.md) — resonance ≠ validation (different layer; same caution)
 - [Shared Wave Generative Field](shared-wave-generative-field.md) — sandbox twin; rehearse magnet language without burning real social capital
+- [Local Center and Shared Field](local-center-and-shared-field.md) — structural basis: each body is a local center; resonance pools are relational position; shared field is the medium in which the magnet operates
 
 ```text
 L = (O > I) + P + ¬F

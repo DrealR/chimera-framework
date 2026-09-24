@@ -97,6 +97,7 @@ Mythic language (divine spark, awakening, gnosis) is **carrier** for the same mo
 - [True Heaven Is Love, Not Frictionless Utopia](true-heaven-is-love-not-frictionless-utopia.md) — false Heaven at Pole B extremes.
 - [Jevons Paradox and the Execution Flood](jevons-paradox-and-execution-flood.md) — capability cheapening as flood.
 - [Friction as Foundational Primitive](friction-as-foundational-primitive.md) — why calibrated contact matters.
+- [Local Center and Shared Field](local-center-and-shared-field.md) — each body's local center is what pole-B threatens to dissolve; shared field without local-center protection is pole-B extremism; design laws (protect identity + exit) operationalize the balance.
 
 ```text
 L = (O > I) + P + ¬F

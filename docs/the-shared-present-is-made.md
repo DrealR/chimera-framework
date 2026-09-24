@@ -102,6 +102,9 @@ actual presence.
   pattern to the person; the present is made by meeting the individual, not the collapsed type.
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — the magnet locates where
   attention is warm; the shared present is what's made when you arrive there.
+- [Local Center and Shared Field](local-center-and-shared-field.md) — the shared present is always made
+  between two local centers; the shared field is the medium; multi-scale time is why the present must be
+  actively authored rather than found.
 
 ---
 
