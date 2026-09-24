@@ -65,6 +65,7 @@ The goal is not purity. The goal is to keep the physical world from becoming fee
 - `read-the-intent-not-the-realness`
 - `third-places-cant-be-manufactured`
 - `the-lens-as-slice`
+- `the-conductor-and-the-harvester-matched-pair`
 
 ---
 

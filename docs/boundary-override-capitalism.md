@@ -79,6 +79,7 @@ Do not solve this by removing agency from poor or desperate people. The performe
 - `the-splitting-body`
 - `the-attention-field-a-chimera-study`
 - `read-the-intent-not-the-realness`
+- `the-conductor-and-the-harvester-matched-pair`
 
 ---
 
