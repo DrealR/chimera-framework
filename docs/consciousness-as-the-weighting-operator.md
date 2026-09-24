@@ -72,6 +72,7 @@ Freedom is not permanent effort. Freedom is the better rail earned by conscious 
 - [Write-Access to Your Own Attention](write-access-to-your-own-attention.md) — the training protocol for moving weight.
 - [Attention Authors Weight](attention-authors-weight.md) — the attention side of the same operation.
 - [What You Train On Is What You Become](what-you-train-on-is-what-you-become.md) — repeated weighting as installation.
+- [The Resonance Band](the-resonance-band.md) — the biological carrier band that supports the weighting operator; rhythm in the 0.5–4 Hz window reduces friction for conscious attention and weighting.
 
 ---
 

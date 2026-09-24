@@ -77,6 +77,7 @@ shared present, both bodies have to be in the awake/output phase at once — see
   Pause fires and the operator authors; the asleep phase is the cooled rail running and consolidating.
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the lucid-dream guard:
   don't drag a relational/processing metaphor into literal physical control.
+- [The Resonance Band](the-resonance-band.md) — the biological carrier band (0.5–4 Hz) that makes the awake/asleep rhythm most effective; a stable rhythm in this window reduces friction for Pause and integration.
 
 ---
 
