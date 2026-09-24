@@ -98,6 +98,7 @@ Mythic language (divine spark, awakening, gnosis) is **carrier** for the same mo
 - [Jevons Paradox and the Execution Flood](jevons-paradox-and-execution-flood.md) — capability cheapening as flood.
 - [Friction as Foundational Primitive](friction-as-foundational-primitive.md) — why calibrated contact matters.
 - [Local Center and Shared Field](local-center-and-shared-field.md) — each body's local center is what pole-B threatens to dissolve; shared field without local-center protection is pole-B extremism; design laws (protect identity + exit) operationalize the balance.
+- [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — the multi-layered information field both poles operate within; neither pole alone solves the scale-navigation problem; design laws for moving between raw, mid, and deep layers without losing coherence.
 
 ```text
 L = (O > I) + P + ¬F

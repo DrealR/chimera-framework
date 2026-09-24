@@ -98,6 +98,7 @@ The goal is not to remove irreversibility. The goal is to make irreversible choi
 - [Pause as Conscious Motion](pause-as-conscious-motion.md) — stillness while directed is high operator movement in relational time; Pause is motion becoming conscious before action.
 - [Shared Wave Generative Field](shared-wave-generative-field.md) — shared tick as relational time; local dilation as denser internal ticks relative to the field.
 - [Local Center and Shared Field](local-center-and-shared-field.md) — the local center's subjective tick as the foundational unit of relational time; multi-scale dilation as the structural condition that makes time movement meaningful across bodies.
+- [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — the multi-layered field within which relational time moves; propagation delay between raw/mid/deep layers as the temporal gap across scales.
 
 ```
 L = (O > I) + P + ¬F

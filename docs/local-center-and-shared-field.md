@@ -80,6 +80,7 @@ Student is a local center with their own proper time. Do not teleport answers fr
 - [The Shared Present Is Made](the-shared-present-is-made.md)  
 - [Coherence Without Erasure](coherence-without-erasure.md)  
 - [Two Absolutes Spectrum](two-absolutes-spectrum.md)  
+- [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — the layered processing environment (raw/mid/deep) that every local center navigates; design laws for preserving coherence across scales.
 
 ```text
 L = (O > I) + P + ¬F
