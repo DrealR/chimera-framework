@@ -96,6 +96,7 @@ The goal is not to remove irreversibility. The goal is to make irreversible choi
 - [Dimensions as Relational Access](dimensions-as-relational-access.md) — higher-dimensional access as longer causal/relational reach.
 - [True Heaven Is Love, Not Frictionless Utopia](true-heaven-is-love-not-frictionless-utopia.md) — why removing all friction/consequence is not the goal.
 - [Pause as Conscious Motion](pause-as-conscious-motion.md) — stillness while directed is high operator movement in relational time; Pause is motion becoming conscious before action.
+- [Shared Wave Generative Field](shared-wave-generative-field.md) — shared tick as relational time; local dilation as denser internal ticks relative to the field.
 
 ```
 L = (O > I) + P + ¬F

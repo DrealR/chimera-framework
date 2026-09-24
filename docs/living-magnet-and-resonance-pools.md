@@ -194,6 +194,7 @@ This is SPARK-adjacent: teach navigators to author discovery, not only consume f
 - [Practical Operator Stack](practical-operator-stack.md) — slice, intent, explore-first
 - [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — mirror not master
 - [The Resonance Band](the-resonance-band.md) — resonance ≠ validation (different layer; same caution)
+- [Shared Wave Generative Field](shared-wave-generative-field.md) — sandbox twin; rehearse magnet language without burning real social capital
 
 ```text
 L = (O > I) + P + ¬F

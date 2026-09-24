@@ -114,6 +114,7 @@ Calibrated friction enables growth. Pointless harm should still be removed.
 - [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md) — Log Pose needs classification or it drifts.
 - [CHIMERA Instrument Pass and Causal Bookkeeping](chimera-instrument-pass-and-causal-bookkeeping.md) — the operational pressure pass for typed connections and reality-graded thought experiments.
 - [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — applies this classification discipline after story runs so resonance, carrier images, hypotheses, and mechanisms do not silently become evidence.
+- [Shared Wave Generative Field](shared-wave-generative-field.md) — computational irreducibility and carrier/mechanism distinction in multi-agent emergence.
 
 ```text
 L = (O > I) + P + ¬F

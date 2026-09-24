@@ -243,6 +243,7 @@ The protocol does not guarantee control. It helps an operator distinguish a comm
 - [Energy: The Cost of Crossing](energy-the-cost-of-crossing.md) — every redirection has a cost.
 - [What You Train On Is What You Become](what-you-train-on-is-what-you-become.md) — repeated contact cools into rails.
 - [The Algorithmic Diet Scan](algorithmic-diet-scan.md) — applied elasticity for online attention and learning.
+- [Shared Wave Generative Field](shared-wave-generative-field.md) — creation vs closure tension in multi-agent loops; generative architecture that avoids forced convergence.
 
 ---
 

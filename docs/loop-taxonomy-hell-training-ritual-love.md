@@ -88,6 +88,7 @@ Ask of any loop:
 - [Attention Captures and Creates](attention-captures-and-creates.md)
 - [Coherence Without Erasure](coherence-without-erasure.md)
 - [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md)
+- [Shared Wave Generative Field](shared-wave-generative-field.md) — multi-agent loop design where repetition produces training or hell depending on shared rule quality.
 
 ```
 L = (O > I) + P + ¬F

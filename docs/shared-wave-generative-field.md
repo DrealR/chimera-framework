@@ -116,6 +116,9 @@ Use the sandbox to rehearse magnet language and present-moment attention without
 - [Coherence Without Erasure](coherence-without-erasure.md) — the field law for multi-body systems  
 - [Time as Relational Movement](time-as-relational-movement.md) — local vs shared time  
 - [Classification Discipline](classification-discipline.md) — keep carrier from becoming false mechanism  
+- [Local Center and Shared Field](local-center-and-shared-field.md) — local center / shared field design law; multi-scale time and sync
+- [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md) — field > single-model IQ; ecosystem continuity over model-chasing
+- [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — multi-scale field operation; raw/mid/deep layers feeding shared context
 
 ```text
 L = (O > I) + P + ¬F
