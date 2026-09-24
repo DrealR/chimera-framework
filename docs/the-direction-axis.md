@@ -91,6 +91,9 @@ Every extraction story's answer is **not defense — it is generosity:** pointin
 - [Observation as Transduction](observation-as-transduction.md) — observation is the act that weights a field; the Direction Axis specifies that the *direction* of that weighting (toward self vs toward field) is what determines whether the transduction generates or extracts.
 - [Mortality as Gift](mortality-as-gift.md) — starlight as a walked path still arriving (a dead source in genuine present-tense contact) is the outward orientation across time: the transmission was emitted to be received, not hoarded; the brightest stars are the truths emitted nearest the universal human center.
 - [Attention Primitives: Capture, Direction, and Occupancy](attention-primitives-capture-occupancy.md) — the micro-mechanics of how capture-state and occupancy interact with the directional facing; names all three native properties of the attention organ so the Direction Axis can be seen as training the whole organ at once, not just the facing.
+- [Boundary-Override Capitalism](boundary-override-capitalism.md) — the market form of the inward
+  collapse at civilizational scale: an operator facing inward prices other bodies' membranes to
+  extract yield; the Direction Axis is the single move that produces this pattern.
 
 ---
 

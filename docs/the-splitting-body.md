@@ -100,6 +100,10 @@ reading that names the fracture by deepening it has failed its own test.
   scale: every fluid (capital, knowledge-work, attention, compute) gets captured at one chokepoint;
   the splitting body is the social instance of write-access concentrated in too few hands; the antidote
   (distribute the pen to the many) is the structural prescription at every scale.
+- [Boundary-Override Capitalism](boundary-override-capitalism.md) — the market mechanism that
+  accelerates the split: when platforms price bodies' refusal points, performers train toward
+  programmability and observers learn to see personhood as negotiable — the societal result is the
+  split body at scale.
 
 ---
 

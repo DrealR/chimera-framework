@@ -115,6 +115,9 @@ exit is finding the shared direction you're both navigating around, not winning 
 - [Relational Aperture and Bounded Availability](relational-aperture-and-bounded-availability.md) —
   co-operation does not require permanent access; the aperture preserves a center, adjustable
   distance, natural endings, and evidence-paced investment.
+- [Boundary-Override Capitalism](boundary-override-capitalism.md) — the market form that treats
+  the co-operator as an instrument by pricing their refusal point; the instrument/co-operator
+  distinction established here is why that pattern is morally load-bearing, not merely descriptive.
 
 ---
 
