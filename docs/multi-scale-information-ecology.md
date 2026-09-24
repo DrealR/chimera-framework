@@ -172,6 +172,7 @@ This is not a closed epistemic circuit. Independent evidence and affected bodies
 - [Time as Relational Movement](time-as-relational-movement.md)  
 - [Two Absolutes Spectrum](two-absolutes-spectrum.md)  
 - [Temporal Log Pose and Prediction Cascade](temporal-log-pose-and-prediction-cascade.md)  
+- [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md) — accumulated divergence across multi-scale layers; how small persistent differences in the encounter field compound into large relational distance over time.
 
 ```text
 L = (O > I) + P + ¬F

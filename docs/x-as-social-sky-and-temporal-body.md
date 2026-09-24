@@ -148,3 +148,12 @@ Ask:
 The practice is simple to carry:
 
 > **Use the feed to sense weather. Use your own Earth to decide what deserves to be planted.**
+
+## See also
+
+- [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md) — how recursive exposure across different rendered skies produces accumulated divergence; X as a worldline engine.
+
+```text
+L = (O > I) + P + ¬F
+WE = 1
+```
