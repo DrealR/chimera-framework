@@ -149,6 +149,7 @@ the hit (extraction).
   attention-authors-weight as the meaning-side of the word-weight mechanic; the Cube's field-setting
   layer is the operational context where "what attention loads" becomes navigational.
 - [Belief and the Three Probabilities](belief-and-three-probabilities.md) — separates changed estimate, changed salience, and changed outcomes through action.
+- [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md) — names the operator that assigns the weight: attention is its visible trace; that doc names the mechanism beneath the act of attending.
 
 ---
 
