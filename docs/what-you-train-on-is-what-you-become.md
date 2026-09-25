@@ -37,6 +37,7 @@ SPARK is **human-training-data curation in the years that shape a kid most.** Th
 ## See Also
 
 - [Elastic Navigation](elasticity-generative-vs-shadow.md) — repeated contact cools into rails; elasticity is what keeps the rails revisable while the channel is still forming.
+- [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md) — the operator-side of training: consciousness assigns weight to signals inside the Pause; repeated weighting installs new rails into the body; this doc names what the repeated installation makes you.
 
 ```
 L = (O > I) + P + ¬F
