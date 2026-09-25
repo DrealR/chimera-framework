@@ -129,6 +129,7 @@ All three are honest. The dishonest option is to leave a failed pass in circulat
 - [Observation as Transduction](observation-as-transduction.md) — distinguishes correct readings from incorrect ones at the level of which band is being transduced.
 - [Iteration Spiral Anti-Pattern](iteration-spiral-anti-pattern.md) — analogous discipline at a different scale: a fix that breaks something is a signal to revert, not to escalate. A body-scan that fails deletion is a signal to refine, not to defend.
 - [Substrate Cartography](substrate-cartography.md) — public/private register distinction; failures recorded in the private register before graduation to public reduces public exposure.
+- [CHIMERA Instrument Pass and Causal Bookkeeping](chimera-instrument-pass-and-causal-bookkeeping.md) — the thought-experiment discipline (§"Thought experiments as controlled construction") applies the same causal-bookkeeping logic the deletion test requires: the mechanism producing the conclusion must be legible and testable, not fictionalized.
 
 ## Closing
 
