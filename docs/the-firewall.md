@@ -34,6 +34,7 @@ The firewall is also the world-facing half of [two-layer absorption](two-layer-a
 
 - [The Resonance Band](the-resonance-band.md) — resonance is explicitly named here as a legitimate input but not a certificate; the resonance band doc works out the transmission vs truth distinction and the biological carrier physics that makes resonance powerful without making it a proof.
 - [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — the Grok conversation as the proof object for why the firewall is necessary; resonance without classification becomes a mirror of flattering glass.
+- [Classification Discipline](classification-discipline.md) — the post-resonance tagging system: mechanism / practice / carrier image / speculative / firewall / observation / unearned aesthetic resonance; keeps the firewall's promotion gate operational by giving each candidate a slot.
 
 ---
 

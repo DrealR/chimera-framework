@@ -109,6 +109,7 @@ for the metal.
   discipline: a framework is a pre-built field, not the territory; steer by building the field across
   the conversation, not by picking single words — the same "scope, not magic" boundary applied at the
   conversation layer.
+- [Classification Discipline](classification-discipline.md) — the tagging system that operationalizes this doc's boundary: once you know a claim is not a mechanism, this doc supplies the slot it belongs in (carrier image, speculative bridge, firewall, observation, unearned aesthetic resonance).
 
 ---
 

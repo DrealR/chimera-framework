@@ -116,6 +116,8 @@ Calibrated friction enables growth. Pointless harm should still be removed.
 - [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — applies this classification discipline after story runs so resonance, carrier images, hypotheses, and mechanisms do not silently become evidence.
 - [Shared Wave Generative Field](shared-wave-generative-field.md) — computational irreducibility and carrier/mechanism distinction in multi-agent emergence.
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md) — don't let "best model" language launder judgment; classify ecosystem claims the same way you classify resonance
+- [Different Perceptual Bodies](different-perceptual-bodies.md) — the resonant/musical vs symbolic/mathematical access split benefits from classification discipline to keep carrier images from smuggling into mechanism claims.
+- [Matrix Escape and Matrix Creation](matrix-escape-and-matrix-creation.md) — a carrier myth (escape from one system) must be classified to prevent the escaped narrative from becoming a new mechanism claim.
 
 ```text
 L = (O > I) + P + ¬F
