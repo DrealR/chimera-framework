@@ -90,6 +90,7 @@ That fear is often the actual limiter. The practice is not to fight the fear, bu
 - [The Body Knew the Exit](the-body-knew-the-exit.md)
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
 - [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — the AI mirror as a house-of-mirrors failure mode; direct seeing is what the firewall is trying to protect.
+- [Different Perceptual Bodies](different-perceptual-bodies.md) — Pause before labels retake the interface applies across resonant and symbolic access modes; direct contact precedes classification.
 
 ```
 L = (O > I) + P + ¬F

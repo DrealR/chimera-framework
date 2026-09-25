@@ -107,6 +107,7 @@ Legal use:
 - [The Firewall](the-firewall.md)
 - [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md)
 - [Mirror–Rhythm and Shared-Body Analysis](mirror-rhythm-and-shared-body-analysis.md)
+- [Different Perceptual Bodies](different-perceptual-bodies.md) — different reflections of the same field depending on whether the operator is resonant/musical or symbolic/mathematical.
 
 ```
 L = (O > I) + P + ¬F

@@ -89,6 +89,7 @@ The promise is not a perfect environment. Perfect environments turn sterile. The
 - [The Fertility Cliff: Conduct or Harvest](the-fertility-cliff-conduct-or-harvest.md) — removing rooms removes where pairing and future-making happen.
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md) — rooms install chosen friction and responsibility.
 - [AI as Native Bureaucrat](ai-as-native-bureaucrat.md) — token systems coordinate trust at scale; rooms keep tokens answerable to bodies.
+- [Different Perceptual Bodies](different-perceptual-bodies.md) — shared surfaces enable contact across different perceptual modes; the room as the glass-barrier interface that allows exchange without membrane collapse.
 
 ```
 L = (O > I) + P + ¬F
