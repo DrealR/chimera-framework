@@ -138,6 +138,7 @@ This does not claim literal afterlife mechanics and does not romanticize death. 
 ## See also
 
 - [Pause as Conscious Motion](pause-as-conscious-motion.md) — death as macro-Pause and practice as micro-death; reflection before compulsory collapse.
+- [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — limit and finitude as the substrate of real transformation rather than defects to bypass.
 
 ```
 L = (O > I) + P + ¬F

@@ -107,6 +107,8 @@ Ask before using power or shortcuts:
 - [Attention Captures and Creates](attention-captures-and-creates.md) — capture requires return.
 - [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — AI as the modern equivalent-exchange test.
 - [Coherence Without Erasure](coherence-without-erasure.md) — absorption often hides cost inside harvested bodies; coherence-without-erasure is what exchange preserves when it is honest.
+- [Dimensions as Relational Access](dimensions-as-relational-access.md) — higher access cannot bypass cost, limit, or boundary; equivalent exchange applies at every scale of capacity.
+- [Not Getting Installed by AI](not-getting-installed-by-ai.md) — borrowed power still carries cost; the Gate problem in the AI context.
 
 ```
 L = (O > I) + P + ¬F

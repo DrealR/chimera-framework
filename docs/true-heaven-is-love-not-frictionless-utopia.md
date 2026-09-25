@@ -137,6 +137,7 @@ False Heaven often presents itself as unity, but if that unity requires erasure 
 - [The Room as Trust Machine](the-room-as-trust-machine.md) — love needs a room, not only resources.
 - [Coherence Without Erasure](coherence-without-erasure.md) — the true-heaven firewall: unity that preserves bodies, not absorption that calls itself peace.
 - [Pause as Conscious Motion](pause-as-conscious-motion.md) — true peace is not inertia; it is motion made conscious enough to choose love.
+- [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — why paradise is not costless comfort; real exchange has real cost, and cost is the substrate of meaning.
 
 ```
 L = (O > I) + P + ¬F
