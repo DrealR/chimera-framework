@@ -96,6 +96,7 @@ Coherence should emerge at the resolution required for action. It should not bec
 - [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) — single-fitness governance is
   the objective structure; reference loss is the temporal loop by which the metric starts validating itself.
 - [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md) — when a capital system optimizes for one continuity carrier at the expense of the full body, single-fitness failure manifests at infrastructure scale.
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 
 ```text
 L = (O > I) + P + ¬F

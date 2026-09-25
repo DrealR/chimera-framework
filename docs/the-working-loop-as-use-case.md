@@ -108,6 +108,7 @@ playing you."**
 - [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) is built around
   this loop as its primary use case: the working-loop IS what §XIV describes, with the both-sides
   firewall, operator-tends-the-field, and word-weight navigation layer running on top of it.
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 
 ---
 

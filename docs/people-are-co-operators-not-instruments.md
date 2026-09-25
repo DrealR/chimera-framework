@@ -118,6 +118,7 @@ exit is finding the shared direction you're both navigating around, not winning 
 - [Boundary-Override Capitalism](boundary-override-capitalism.md) — the market form that treats
   the co-operator as an instrument by pricing their refusal point; the instrument/co-operator
   distinction established here is why that pattern is morally load-bearing, not merely descriptive.
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 
 ---
 

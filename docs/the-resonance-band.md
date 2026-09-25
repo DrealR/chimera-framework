@@ -56,6 +56,7 @@ That distinction matters when asking AI to support human attention: the machine 
 - [Teacher-Student Rhythmic Duality](teacher-student-rhythmic-duality.md)
 - [The Firewall](the-firewall.md)
 - [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md)
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 
 ---
 

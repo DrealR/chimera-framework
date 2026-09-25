@@ -218,6 +218,7 @@ CHIMERA does not promote:
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md)
 - [Attention Authors Weight](attention-authors-weight.md)
 - [People Are Co-Operators, Not Instruments](people-are-co-operators-not-instruments.md)
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 
 ```text
 L = (O > I) + P + ¬F

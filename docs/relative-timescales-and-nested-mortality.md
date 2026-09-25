@@ -164,6 +164,7 @@ Ask:
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)
 - [Relational Aperture and Bounded Availability](relational-aperture-and-bounded-availability.md)
 - [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md)
+- [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
 
 ```text
 L = (O > I) + P + ¬F
