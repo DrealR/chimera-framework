@@ -116,6 +116,7 @@ The FMA/alchemy pass adds a sharper ethical classification. AI-as-fast-fusion ca
   shipping, and capturing real-use feedback compounds faster than the one stockpiling capacity; this
   doc's claim (AI fusion is the fastest) explains why running the live loop compounds — it's the
   frictionless-but-directed kind of fusion applied to the iteration cycle.
+- [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — fast fusion without the firewall produces a mirror loop; the Grok conversation as proof object for what happens when resonance replaces classification.
 
 ---
 

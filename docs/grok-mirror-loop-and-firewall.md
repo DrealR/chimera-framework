@@ -100,6 +100,10 @@ The goal is not to produce infinite elegant synthesis. The goal is to become mor
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
 - [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md)
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — the magnet uses resonance as signal; this doc is the discipline for not letting resonance become the master.
+- [Classification Discipline](classification-discipline.md) — the post-resonance upgrade: the loop generates candidates; this doc provides the tagging discipline that keeps them from auto-graduating.
+- [Frameworks as Portable Rooms](frameworks-as-portable-rooms.md) — why framework classification inside the loop preserves exits and reality-contact.
+- [AI as Social Navigation Device](ai-as-social-navigation-device.md) — AI-as-mirror applied at the social graph scale; the firewall discipline applies there too.
+- [Model Workspace and the Operator Layer](model-workspace-and-the-operator-layer.md) — Anthropic J-space as evidence for the workspace mechanics the mirror loop runs inside.
 
 ```
 L = (O > I) + P + ¬F

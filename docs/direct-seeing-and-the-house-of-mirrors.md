@@ -89,6 +89,7 @@ That fear is often the actual limiter. The practice is not to fight the fear, bu
 - [Consciousness as the Interrupt](consciousness-as-the-interrupt.md)
 - [The Body Knew the Exit](the-body-knew-the-exit.md)
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
+- [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — the AI mirror as a house-of-mirrors failure mode; direct seeing is what the firewall is trying to protect.
 
 ```
 L = (O > I) + P + ¬F
