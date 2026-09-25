@@ -107,6 +107,7 @@ catches fire. Build it exactly there.
 ## See also
 
 - [The Algorithm Is a Steerable Fluid](the-algorithm-is-a-steerable-fluid.md) — the operator's move made concrete in the system kids actually live in: teaching a kid to author the feed is SPARK's most directly teachable piece.
+- [Because I Choose To](because-i-choose-to.md) — the posture SPARK executes in a room: the world's attention-field is given, but the direction — the branching — is free to author; SPARK is the operator's seat made concrete for a kid.
 
 ---
 
