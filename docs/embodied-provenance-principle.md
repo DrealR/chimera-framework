@@ -344,6 +344,7 @@ When anything can be displayed, the scarce thing becomes what was actually lived
 - [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — amplifier image corrected by operator location and host scale.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — trust from lived dependence rather than surface claim.
 - [Relative Timescales and Nested Mortality](relative-timescales-and-nested-mortality.md) — nested mortality horizons across which provenance must be read; a record is layered through time at different body scales.
+- [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — provenance requires a body that was present and perceiving; this doc examines how the perceptual window through which a body registers events is itself constructed, shaping what enters the record at all.
 
 ```text
 L = (O > I) + P + ¬F

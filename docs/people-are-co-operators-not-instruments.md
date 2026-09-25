@@ -119,6 +119,7 @@ exit is finding the shared direction you're both navigating around, not winning 
   the co-operator as an instrument by pricing their refusal point; the instrument/co-operator
   distinction established here is why that pattern is morally load-bearing, not merely descriptive.
 - [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
+- [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — the constructed nature of each operator's perceptual window is why co-operation requires meeting them where their attention actually lands, not where you project it to be.
 
 ---
 

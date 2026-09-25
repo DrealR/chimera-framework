@@ -134,6 +134,7 @@ literal-jump guard: planets are still physical bodies, just far apart.
   into the wall-less frontier, which is exactly why the anchor on the physical side becomes
   non-negotiable; the Xavier/Magneto poles are the two ways of holding the amplifier while standing
   in that wall-less space.
+- [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — each body navigates relational space through a constructed perceptual window; understanding the two-spaces map requires understanding that what appears in each space is filtered and shaped by that window.
 
 ---
 

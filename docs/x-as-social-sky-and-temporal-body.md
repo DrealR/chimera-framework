@@ -152,6 +152,7 @@ The practice is simple to carry:
 ## See also
 
 - [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md) — how recursive exposure across different rendered skies produces accumulated divergence; X as a worldline engine.
+- [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — the sky each viewer sees is rendered through a constructed window; the social sky concept depends on each body receiving a different constructed slice of the same underlying field.
 
 ```text
 L = (O > I) + P + ¬F

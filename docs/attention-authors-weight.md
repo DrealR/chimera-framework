@@ -150,6 +150,7 @@ the hit (extraction).
   layer is the operational context where "what attention loads" becomes navigational.
 - [Belief and the Three Probabilities](belief-and-three-probabilities.md) — separates changed estimate, changed salience, and changed outcomes through action.
 - [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md) — names the operator that assigns the weight: attention is its visible trace; that doc names the mechanism beneath the act of attending.
+- [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — attention authors weight partly by selecting what enters through the perceptual window; the window's construction determines what can be weighted at all, upstream of the weighting act.
 
 ---
 

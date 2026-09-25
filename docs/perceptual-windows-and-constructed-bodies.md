@@ -219,6 +219,8 @@ CHIMERA does not promote:
 - [Attention Authors Weight](attention-authors-weight.md)
 - [People Are Co-Operators, Not Instruments](people-are-co-operators-not-instruments.md)
 - [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
+- [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — story's causal skeleton lets constructed viewpoints transfer across bodies; fiction is the mechanism by which perception-shaped understanding crosses membranes without requiring shared literal experience.
+- [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md) — the architecture within which constructed bodies are observed: observer, prime, composite, and mirror as the layered frame through which a perceptual window builds its model.
 
 ```text
 L = (O > I) + P + ¬F
