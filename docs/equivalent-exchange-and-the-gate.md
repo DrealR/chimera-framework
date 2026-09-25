@@ -106,6 +106,7 @@ Ask before using power or shortcuts:
 - [Dignity as the Final Membrane](dignity-as-the-final-membrane.md) — the boundary cost cannot violate.
 - [Attention Captures and Creates](attention-captures-and-creates.md) — capture requires return.
 - [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — AI as the modern equivalent-exchange test.
+- [Coherence Without Erasure](coherence-without-erasure.md) — absorption often hides cost inside harvested bodies; coherence-without-erasure is what exchange preserves when it is honest.
 
 ```
 L = (O > I) + P + ¬F
