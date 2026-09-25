@@ -53,6 +53,7 @@ The leverage is not in overpowering physics. It is in redirecting early enough t
 - [The Direction Axis](the-direction-axis.md)
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md)
 - [Elastic Navigation](elasticity-generative-vs-shadow.md) — legal redirection inside inherited pulls; elasticity is the body's capacity to deform and redirect without being permanently captured by the force's direction.
+- [Rule Bodies Metabolize Breaches](rule-bodies-metabolize-breaches.md) — the breach reveals where a rule-body is open; free will is the redirecting move inside that opening; same architecture from the rule side.
 
 ---
 

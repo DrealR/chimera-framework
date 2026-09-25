@@ -73,6 +73,7 @@ Freedom is not permanent effort. Freedom is the better rail earned by conscious 
 - [Attention Authors Weight](attention-authors-weight.md) — the attention side of the same operation.
 - [What You Train On Is What You Become](what-you-train-on-is-what-you-become.md) — repeated weighting as installation.
 - [The Resonance Band](the-resonance-band.md) — the biological carrier band that supports the weighting operator; rhythm in the 0.5–4 Hz window reduces friction for conscious attention and weighting.
+- [Free Will as Redirection Within Rules](free-will-as-redirection-within-rules.md) — the same live variable stated from the agency side: free will is not breaking causality but inserting Pause to read the gradient and choose a different legal direction than the strongest current pull; weighting and redirection are the same operation named from mind and from motion.
 
 ---
 

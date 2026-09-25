@@ -106,6 +106,7 @@ when something forces, or *chooses*, the friction back in.
 - [Outward Is Against the Gradient](outward-is-against-the-gradient.md) — this axiom at galactic scale: every civilization gets the power and almost none builds the proportional discipline to point it outward, so they collapse inward and go dark; the Fermi silence is this axiom written across the sky.
 - [AI as a Write-Head to Your Weights](ai-as-write-head-to-your-weights.md) — the write-head is the highest-power instance of this axiom: it writes to who you are at speed, making the proportional discipline (keep direction; don't let resonance be proof; anchor in the physical) more urgently required than any previous tool.
 - [Two Spaces: Physical and Relational](two-spaces-physical-and-relational.md) — the more powerful the vehicle for relational space, the more deliberately you must hold the anchor in physical space; the protective map makes the discipline requirement spatial: the fastest ship ever built demands the most deliberate planting of the foot on the floor.
+- [Free Will as Redirection Within Rules](free-will-as-redirection-within-rules.md) — the capacity the discipline is training: the ability to insert Pause and choose a legal direction against the strongest current pull; discipline is the practice that makes that redirection possible under load.
 
 ---
 
