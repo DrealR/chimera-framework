@@ -289,6 +289,7 @@ The goal is not control. It is higher-resolution participation.
 - [The Shared Pulse Protocol](shared-pulse-protocol.md)
 - [Loop Taxonomy — Hell, Training, Ritual, Love](loop-taxonomy-hell-training-ritual-love.md)
 - [People Are Co-Operators, Not Instruments](people-are-co-operators-not-instruments.md)
+- [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — story mode surfaces mirror-rhythm patterns between bounded operators; the shared-body analysis scan maps directly onto how characters' rhythms couple and decouple across a narrative arc.
 
 ```text
 L = (O > I) + P + ¬F

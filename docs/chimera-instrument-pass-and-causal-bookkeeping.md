@@ -87,6 +87,7 @@ Only mechanism and practice graduate as load-bearing framework structure. Carrie
 - [Take the Mechanism, Leave the Frame](take-the-mechanism-leave-the-frame.md)
 - [Carrier Breathing and Firewall Placement](carrier-breathing-and-firewall-placement.md)
 - [The Deletion Test](the-deletion-test.md)
+- [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — story mode runs the typed instrument pass through bounded operators under consequence; the firewall that narrative impact doesn't prove mechanism applies the same causal-bookkeeping discipline.
 
 ```text
 L = (O > I) + P + ¬F

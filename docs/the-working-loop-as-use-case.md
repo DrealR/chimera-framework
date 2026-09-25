@@ -109,6 +109,7 @@ playing you."**
   this loop as its primary use case: the working-loop IS what §XIV describes, with the both-sides
   firewall, operator-tends-the-field, and word-weight navigation layer running on top of it.
 - [Mirror Thresholds, the Human Band, and Shared Primes](mirror-thresholds-human-band-and-shared-primes.md)
+- [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — story mode is a specialized extension of the working loop: the loop produces discovery, narrative gives that discovery bodies, consequence, and the canon gate that separates mechanism from resonance.
 
 ---
 

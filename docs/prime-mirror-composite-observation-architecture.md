@@ -262,6 +262,7 @@ An AI assessment of a person, player, employee, student, neighborhood, or risk c
 - [Single-Fitness-Function Failure](single-fitness-function-failure.md)
 - [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md)
 - [Mirror–Rhythm Analysis](mirror-rhythm-and-shared-body-analysis.md)
+- [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — story mode gives the prime-mirror-composite structure bounded bodies, local viewpoints, and consequence so the observation architecture can be run under live conditions.
 
 ```text
 L = (O > I) + P + ¬F

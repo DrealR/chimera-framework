@@ -73,6 +73,7 @@ The fix is architectural. Write the primes down flat. Separate them from their c
 - [Derivative Principle](derivative-principle.md) — personal primes are the biographical-scale instance of the same physics: life events recognized and named as irreducibles that were already load-bearing in the substrate before their articulation.
 - [Smallest Adaptive Body](smallest-adaptive-body.md) — complementary mode of working with the irreducible: primes are found through biographical descent; the smallest adaptive body is deliberately chosen and built toward; both address what is most fundamental, from opposite directions.
 - [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md) — separates the scale-relative prime event from the composite body and the mirrors through which later operators encounter it.
+- [Narrative Substrate and Story Mode](narrative-substrate-and-story-mode.md) — story mode often holds personal primes as invariant anchors while exploring composite variation; the firewall separates which elements are genuinely invariant from resonance-only candidates.
 
 ---
 
