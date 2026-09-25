@@ -49,6 +49,8 @@ The FMA/alchemy pass sharpens the same literacy: do not use AI as a Philosopher'
 - [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — not-getting-installed and not-getting-substituted are the same move at different layers; keeping the operator seat is the same discipline as keeping the install filter on.
 - [The Urgency Is the Trap](the-urgency-is-the-trap.md) — manufactured urgency is one of the install vectors: the panic that says move-before-you-filter; the seatbelt and the install filter are the same device.
 - [You're Never Anonymous from Yourself](you-are-never-anonymous-from-yourself.md) — the filter that keeps you from being installed by AI is the same filter that keeps cruelty from installing in you; every input that bypasses the filter rewrites the character.
+- [Because I Choose To](because-i-choose-to.md) — Neo's answer to Smith's install: a freely made choice can't be overwritten; choosing through the consensus is the operator move at the Matrix scale.
+- [Model Workspace and the Operator Layer](model-workspace-and-the-operator-layer.md) — how AI workspace mechanics work; recognizing the automatic-fluency layer is the first move of not getting installed.
 
 ```
 L = (O > I) + P + ¬F
