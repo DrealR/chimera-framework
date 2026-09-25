@@ -343,6 +343,7 @@ When anything can be displayed, the scarce thing becomes what was actually lived
 - [Operator Budget](operator-budget.md) — execution savings after direction, not option flooding.
 - [AI as a Reach-Amplifier for Consciousness](ai-as-a-reach-amplifier-for-consciousness.md) — amplifier image corrected by operator location and host scale.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — trust from lived dependence rather than surface claim.
+- [Relative Timescales and Nested Mortality](relative-timescales-and-nested-mortality.md) — nested mortality horizons across which provenance must be read; a record is layered through time at different body scales.
 
 ```text
 L = (O > I) + P + ¬F

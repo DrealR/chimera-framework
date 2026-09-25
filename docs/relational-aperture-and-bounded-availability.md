@@ -95,6 +95,7 @@ The correction is not suppression. Keep the wider ecology active while investmen
 - [The Shared Present Is Made](the-shared-present-is-made.md)
 - [Two Baselines of Trust](two-baselines-of-trust.md)
 - [Operator Budget](operator-budget.md)
+- [Relative Timescales and Nested Mortality](relative-timescales-and-nested-mortality.md) — aperture calibration operates across nested timescales; mortality horizons bound what sustained availability can actually mean.
 
 ```text
 L = (O > I) + P + ¬F

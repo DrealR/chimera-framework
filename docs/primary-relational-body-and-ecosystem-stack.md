@@ -140,6 +140,7 @@ Return to primary as soon as the specialized job is done. Do not migrate the who
 - [Practical Operator Stack](practical-operator-stack.md) — play AI don’t install; author your slice  
 - [Classification Discipline](classification-discipline.md) — don’t let “best model” language launder judgment  
 - [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md) — what the ecosystem stack actually depends on beneath the software layer; continuity carriers at infrastructure scale.
+- [Relative Timescales and Nested Mortality](relative-timescales-and-nested-mortality.md) — ecosystem stacks span nested mortality timescales; continuity choice must account for which layer's lifespan governs the current cycle.
 
 ```text
 L = (O > I) + P + ¬F
