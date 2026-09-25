@@ -152,6 +152,10 @@ the hit (extraction).
 - [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md) — names the operator that assigns the weight: attention is its visible trace; that doc names the mechanism beneath the act of attending.
 - [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — attention authors weight partly by selecting what enters through the perceptual window; the window's construction determines what can be weighted at all, upstream of the weighting act.
 - [The Algorithmic Diet Scan](algorithmic-diet-scan.md) — applies this doc's core insight operationally: breadth/depth axis, Band-Sphere check, and learning chamber are the practice form of directing attention so it authors chosen weights rather than letting the feed author them.
+- [Attention Captures and Creates](attention-captures-and-creates.md) — attention captures/reconstructs a body inside the observer, then must metabolize outward; this is the act side of what attention-authors-weight describes as the meaning side.
+- [Optimization Without Beauty](optimization-without-beauty.md) — collapsed-objective optimization strips the weight from everything not measured; attention-authors-weight is the complement: conscious attention restores meaning where metrics removed it.
+- [The Body Knew the Exit](the-body-knew-the-exit.md) — Schopenhauer's pendulum IS the harvest-machine; attention authoring weight is the exit he couldn't name: the un-harvesting gaze where meaning is made rather than chased.
+- [Time as Relational Movement](time-as-relational-movement.md) — Time 2 is attention's capacity to reweight paths in the relational rail; attention-authors-weight is the meaning layer of what that reweighting does.
 
 ---
 
