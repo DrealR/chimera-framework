@@ -157,6 +157,9 @@ source.
   the panopticon is write-access concentrated in one operator's hands; the antidote (distribute the pen
   to the many) is the master-firewall applied at economy, information, and compute scope — the lever is
   always on the body you already hold, not the bodies you want to steer.
+- [Dimensions as Relational Access](dimensions-as-relational-access.md) — expanded access trained on
+  your own body never becomes power over another; the dimensions doc is the access-side companion, this
+  rule is the direction-side companion.
 
 ---
 

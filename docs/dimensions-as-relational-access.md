@@ -109,6 +109,8 @@ Ask:
 - [The Leverage Is Inward](the-leverage-is-inward.md) — expanded access is trained on your own body, never power over another.
 - [Higher-Power Tuning](higher-power-tuning.md) — the Superman/Kryptonian refinement: higher access creates restraint obligations.
 - [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — why higher access cannot bypass cost, limit, or boundary.
+- [Attention Primitives — Capture and Occupancy](attention-primitives-capture-occupancy.md) — attention as the finite selector inside expanded relational access; more access demands more selection, not automatic amplification.
+- [Time as Relational Movement](time-as-relational-movement.md) — higher-dimensional access as longer causal and relational reach across time; the present-moment interrupt is where that reach cashes out.
 
 ```
 L = (O > I) + P + ¬F

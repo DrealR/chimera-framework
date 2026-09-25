@@ -137,6 +137,7 @@ A living portable room preserves:
 - [The Room as Trust Machine](the-room-as-trust-machine.md) — the physical-room counterpart to the portable symbolic room.
 - [Strip to Understand, Restore to Love](strip-to-understand-restore-to-love.md) — mechanics underneath costumes, without erasing persons.
 - [Classification Discipline](classification-discipline.md) — the Log Pose needs classification or it drifts; this doc supplies the tagging discipline (mechanism / carrier image / speculative / firewall) that keeps framework resonance from graduating unchecked.
+- [Dimensions as Relational Access](dimensions-as-relational-access.md) — frameworks as perceptual prosthetics that give the operator dimensions of relation the raw senses do not hand over by default.
 
 ```
 L = (O > I) + P + ¬F
