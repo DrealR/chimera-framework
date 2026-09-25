@@ -151,6 +151,7 @@ the hit (extraction).
 - [Belief and the Three Probabilities](belief-and-three-probabilities.md) — separates changed estimate, changed salience, and changed outcomes through action.
 - [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md) — names the operator that assigns the weight: attention is its visible trace; that doc names the mechanism beneath the act of attending.
 - [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — attention authors weight partly by selecting what enters through the perceptual window; the window's construction determines what can be weighted at all, upstream of the weighting act.
+- [The Algorithmic Diet Scan](algorithmic-diet-scan.md) — applies this doc's core insight operationally: breadth/depth axis, Band-Sphere check, and learning chamber are the practice form of directing attention so it authors chosen weights rather than letting the feed author them.
 
 ---
 

@@ -143,6 +143,7 @@ it** — the only freedom worth having and the only fuel that lasts.
 - [Being Yourself Is the Gift](being-yourself-is-the-gift.md) — self-acceptance is the anchor at the identity level: the performer performs because the anchor is external (wanting acceptance from others); being yourself is the anchor operating correctly — the strategic direction is yours because you're not outsourcing it to the crowd's approval; un-performance and anchor-ownership are the same structure.
 - [Let Structure Emerge, Don't Blueprint It](let-structure-emerge-dont-blueprint-it.md) — the anchor principle at organizational scale: blueprinting the big structure before running a real instance is the strategic-direction-outsourced-to-vision failure at build scale; the anchor is the small specific working unit, and the bigger structure must emerge from it rather than being designed from a vision of completion.
 - [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — the Turing trap names what goes wrong when AI takes execution and the operator doesn't hold the question and the evaluation; the anchor is the scarce resource: direction, triage, and judgment that only a staked consciousness can supply.
+- [The Algorithmic Diet Scan](algorithmic-diet-scan.md) — the before-entering scan (domain, direction, mode, clock, ground) is the operational form of keeping the anchor; naming the session before entering is the anchor step made concrete at the micro scale.
 
 ---
 

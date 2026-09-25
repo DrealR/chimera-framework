@@ -137,6 +137,9 @@ write faster than you ever could alone.
   corollary: every action carves the self whether observed or not; what you consume is your training data;
   the write-head insight and the anonymous-from-yourself insight are the same install-mechanism at different
   layers — character is the accumulated residue of all inputs including the anonymous ones.
+- [The Algorithmic Diet Scan](algorithmic-diet-scan.md) — the write-head insight applied to deliberate
+  session design; the before/during/after scan and learning chamber are how you direct the write-head
+  toward chosen weights rather than letting the feed or AI session direct it for you.
 
 ---
 
