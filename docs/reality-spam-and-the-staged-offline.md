@@ -67,6 +67,7 @@ The goal is not purity. The goal is to keep the physical world from becoming fee
 - `the-lens-as-slice`
 - `the-conductor-and-the-harvester-matched-pair`
 - `the-attention-field-a-chimera-study`
+- `attention-captures-and-creates`
 
 ---
 

@@ -106,6 +106,7 @@ The answer is not to make life harsher. It is to deliberately reinstall the fric
 - [The Fertility Cliff: Conduct or Harvest](the-fertility-cliff-conduct-or-harvest.md) — meaning/status systems decide whether a society conducts life forward.
 - [Performance as Inward Extraction](performance-as-inward-extraction.md) — surrogate role/display at the encounter scale.
 - [True Heaven Is Love, Not Frictionless Utopia](true-heaven-is-love-not-frictionless-utopia.md) — the false-heaven refinement.
+- [Attention Captures and Creates](attention-captures-and-creates.md) — the perceptual Mouse Utopia: abundant input, thin return; capture without metabolizing outward as speech, craft, or repair.
 
 ```
 L = (O > I) + P + ¬F

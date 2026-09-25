@@ -111,6 +111,11 @@ The cure is not to collapse back into numbness. The cure is scale discipline:
 - [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md) — surrogate activity when input/comfort replaces role and consequence.
 - [Reality Spam and the Staged Offline](reality-spam-and-the-staged-offline.md) — public-space capture becoming feed-surface.
 - [The Embodied Provenance Principle](embodied-provenance-principle.md) — presence, consequence, history, and proof of passage.
+- [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — capture requires return; access without cost is the Gate problem.
+- [Loop Taxonomy — Hell, Training, Ritual, Love](loop-taxonomy-hell-training-ritual-love.md) — consumption loops that capture without metabolizing vs. loops that return outward.
+- [Light, Belief, Observation](light-belief-observation.md) — observation as active participation in what is seen.
+- [Field-Giving and Field-Tending](field-giving-and-field-tending.md) — the return side of the capture cycle; adding a coherent signal to a shared field.
+- [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — AI capture must metabolize outward as creation/service, not just consumption.
 
 ```
 L = (O > I) + P + ¬F

@@ -118,6 +118,7 @@ Before or inside an interaction, ask:
 - [Mouse Utopia and Real Stakes](mouse-utopia-and-real-stakes.md) — surrogate behaviors when rooms and roles collapse.
 - [The Shared Present](the-shared-present-is-made.md) — mutual recognition as the local body where real contact happens.
 - [Raw Confession as Public Body Scan](raw-confession-as-public-body-scan.md) — public honesty as a forced Pause / reflection point when performance drops.
+- [Attention Captures and Creates](attention-captures-and-creates.md) — performance-mode attention as consumption without return; what happens when attention recycles inward as self-image rather than metabolizing outward.
 
 ```
 L = (O > I) + P + ¬F
