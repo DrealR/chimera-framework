@@ -38,6 +38,10 @@ SPARK is **human-training-data curation in the years that shape a kid most.** Th
 
 - [Elastic Navigation](elasticity-generative-vs-shadow.md) — repeated contact cools into rails; elasticity is what keeps the rails revisable while the channel is still forming.
 - [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md) — the operator-side of training: consciousness assigns weight to signals inside the Pause; repeated weighting installs new rails into the body; this doc names what the repeated installation makes you.
+- [The Algorithmic Diet Scan](algorithmic-diet-scan.md) — the applied instrument: before/during/after practice for curating your training data consciously; exposure without this sequence produces accumulation without installation.
+- [LARPing as Identity Reweighting](larping-as-identity-reweighting.md) — roles practiced repeatedly become installed identity; the LARP becomes real when enough training-data accumulates — same mechanic as this doc but at the identity-formation layer.
+- [Clever Hans Bodies](clever-hans-bodies.md) — shortcut learning vs. substrate integration: benchmark performance without training on what matters doesn't install the body; the inverse failure mode — appearing trained without becoming it.
+- [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — training substrate shapes the resulting body; automail use is substrate-rich training, Stone use is substrate-free extraction.
 
 ```
 L = (O > I) + P + ¬F
