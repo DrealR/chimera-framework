@@ -125,6 +125,7 @@ Pause is validated by the quality of the next motion. If the stillness returns t
 - [The Mistake as Location](the-mistake-as-location.md) — the live point where the rail becomes audible and correctable.
 - [Coherence Without Erasure](coherence-without-erasure.md) — Pause protects resonance from becoming absorption or compulsion.
 - [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md) — direct seeing as Pause before automatic labels retake the wheel.
+- [Elastic Navigation](elasticity-generative-vs-shadow.md) — Pause opens the maneuver window; elasticity is the body's capacity inside that window to deform, preserve continuity, and redirect without being captured.
 
 ```text
 L = (O > I) + P + ¬F

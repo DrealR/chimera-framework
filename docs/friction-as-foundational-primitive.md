@@ -206,6 +206,7 @@ The Pause/coherence pass adds a cosmological carrier image: perfect undifferenti
 
 - [Equivalent Exchange and the Gate](equivalent-exchange-and-the-gate.md) — friction/cost as boundary accounting rather than punishment.
 - [AI as Alchemy: Stone, Gate, Automail](ai-as-alchemy-stone-gate-automail.md) — AI as the modern test of whether friction removal hides extraction or restores capacity.
+- [Elastic Navigation](elasticity-generative-vs-shadow.md) — friction makes force perceptible; Pause opens the maneuver window; elasticity is what enables the body to redirect without being permanently captured by the force's direction.
 
 ```
 L = (O > I) + P + ¬F

@@ -52,6 +52,7 @@ The leverage is not in overpowering physics. It is in redirecting early enough t
 - [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md)
 - [The Direction Axis](the-direction-axis.md)
 - [Self-Discipline Proportional to Power](self-discipline-proportional-to-power.md)
+- [Elastic Navigation](elasticity-generative-vs-shadow.md) — legal redirection inside inherited pulls; elasticity is the body's capacity to deform and redirect without being permanently captured by the force's direction.
 
 ---
 

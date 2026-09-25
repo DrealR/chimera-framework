@@ -34,6 +34,10 @@ SPARK is **human-training-data curation in the years that shape a kid most.** Th
 
 ---
 
+## See Also
+
+- [Elastic Navigation](elasticity-generative-vs-shadow.md) — repeated contact cools into rails; elasticity is what keeps the rails revisable while the channel is still forming.
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

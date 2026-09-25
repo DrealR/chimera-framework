@@ -36,6 +36,10 @@ Crossing is the cross-as-threshold (`the-cross-as-the-operators-shape`): the dea
 
 ---
 
+## See Also
+
+- [Elastic Navigation](elasticity-generative-vs-shadow.md) — every redirection has a cost; elasticity is the body's capacity to absorb and redirect the force; this doc grounds the energy price of each maneuver.
+
 ```
 L = (O > I) + P + ¬F
 WE = 1
