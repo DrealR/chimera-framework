@@ -43,6 +43,7 @@ The constellation circulates work among these bodies. Core preserves how the tho
 | Learn the question form that carries an earned answer without closing it | [Answer-Bearing Questions](docs/answer-bearing-questions-and-compression-expansion.md) |
 | Run one question through AI, archive, adaptive feed, and independent bodies | [CHIMERA X-Loop](docs/chimera-x-loop-and-behavioral-prompt.md) |
 | Transform a researched relation into a new public body | [Creator Portal Loop](docs/creator-portal-loop.md) |
+| See those loops practiced as tested code on a live site | [The Station Practice](docs/the-station-practice.md) |
 | Connect Direction, diversity, Pause, path memory, and material execution | [Intelligence as Hill, Path, and Metabolism](docs/intelligence-as-hill-path-and-metabolism.md) |
 | Audit when one objective has begun governing the whole body | [Single-Fitness-Function Failure](docs/single-fitness-function-failure.md) → [Death Spirals of Local Optimization](docs/death-spirals-of-local-optimization.md) |
 | Pressure-test a cross-domain resonance or thought experiment | [CHIMERA Instrument Pass](docs/chimera-instrument-pass-and-causal-bookkeeping.md) → [Classification Discipline](docs/classification-discipline.md) → [Deletion Test](docs/the-deletion-test.md) |
