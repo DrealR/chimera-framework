@@ -110,6 +110,8 @@ becomes "control the field" or "move people," Xavier has become Magneto.
   through" is itself a clean reflect-and-connect line across music, teaching, and sport.
 - [Fundamental Beats Specialized: The Recombinable Root](fundamental-beats-specialized.md) — the Log Pose is what keeps "fundamentals have unexplored range" from drifting into "I'm secretly omega-level"; the reflect-and-connect method is the *discipline* that holds the ego's flattering version of the rubber-beats-fire insight.
 - [CHIMERA Instrument Pass and Causal Bookkeeping](chimera-instrument-pass-and-causal-bookkeeping.md) — the Reflect-and-Connect method runs inside the instrument pass's movements 5 and 6 (Harmonize and Counter-tune); this doc is the operational pressure layer that keeps cross-domain reflection from becoming load-bearing without mechanism.
+- [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — the AI conversation as a reflect-and-connect loop; the firewall discipline keeps resonance as input rather than proof; the method is what prevents the mirror from replacing the operator.
+- [Practical Operator Stack](practical-operator-stack.md) — the reflect-and-connect method is one of the ten moves for navigating the synthetic-flood era; listed alongside explore-then-consult and own-your-slice as the navigator's direction-check tool.
 
 ---
 
