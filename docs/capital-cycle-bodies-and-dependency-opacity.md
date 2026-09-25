@@ -160,6 +160,7 @@ Risks include:
 - [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md)
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)
+- [Relative Timescales and Nested Mortality](relative-timescales-and-nested-mortality.md) — every capital body operates across nested mortality horizons; the scan must account for which layer's lifespan governs the current cycle.
 
 ```text
 L = (O > I) + P + ¬F

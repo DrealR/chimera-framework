@@ -98,6 +98,7 @@ Useful interventions include reserves, feedback delays, diversified strategies, 
 - [Loop Taxonomy — Hell, Addiction, Training, Ritual, Love](loop-taxonomy-hell-training-ritual-love.md)
 - [Belief and the Three Probabilities](belief-and-three-probabilities.md)
 - [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md)
+- [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md) — capital bodies are sustained by continuity carriers; reference loss describes how those carriers can become the only constraint body, cutting off corrective feedback.
 
 ```text
 L = (O > I) + P + ¬F

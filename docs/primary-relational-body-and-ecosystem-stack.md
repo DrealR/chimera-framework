@@ -139,6 +139,7 @@ Return to primary as soon as the specialized job is done. Do not migrate the who
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md) — navigation inside an ecosystem  
 - [Practical Operator Stack](practical-operator-stack.md) — play AI don’t install; author your slice  
 - [Classification Discipline](classification-discipline.md) — don’t let “best model” language launder judgment  
+- [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md) — what the ecosystem stack actually depends on beneath the software layer; continuity carriers at infrastructure scale.
 
 ```text
 L = (O > I) + P + ¬F
