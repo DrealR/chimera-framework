@@ -99,6 +99,7 @@ Useful interventions include reserves, feedback delays, diversified strategies, 
 - [Belief and the Three Probabilities](belief-and-three-probabilities.md)
 - [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md)
 - [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md) — capital bodies are sustained by continuity carriers; reference loss describes how those carriers can become the only constraint body, cutting off corrective feedback.
+- [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md) — reference loss is the failure mode when a mirror's rhythm decouples from the body; the prime-mirror-composite scan provides the negative-space and reflexivity checks that detect early-stage decoupling.
 
 ```text
 L = (O > I) + P + ¬F

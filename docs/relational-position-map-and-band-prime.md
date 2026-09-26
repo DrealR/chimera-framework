@@ -209,3 +209,7 @@ Next remap date:
 ## Carry line
 
 > **Describe the body. Map present positions without turning them into identities. Read what happens between positions. Raise the floor that permits entry, preserve the differences that create emergence, and change the arrangement before blaming the person.**
+
+## See also
+
+- [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md) — the relational position map is a mirror whose lens selects position vectors and gap structure; the prime-mirror-composite framework names the full observation stack this map operates within.
