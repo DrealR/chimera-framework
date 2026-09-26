@@ -127,6 +127,7 @@ Pause is validated by the quality of the next motion. If the stillness returns t
 - [Direct Seeing and the House of Mirrors](direct-seeing-and-the-house-of-mirrors.md) — direct seeing as Pause before automatic labels retake the wheel.
 - [Elastic Navigation](elasticity-generative-vs-shadow.md) — Pause opens the maneuver window; elasticity is the body's capacity inside that window to deform, preserve continuity, and redirect without being captured.
 - [Model Workspace and the Operator Layer](model-workspace-and-the-operator-layer.md) — J-space as a model-side analogue: the workspace where concepts become reportable and redirectable, the structural parallel to what Pause is for humans.
+- [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — bait works by collapsing the Pause: the trigger is designed to feel urgent enough that the gap between stimulus and response disappears; restoring the Pause is the developed move.
 
 ```text
 L = (O > I) + P + ¬F

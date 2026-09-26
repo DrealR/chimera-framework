@@ -68,6 +68,7 @@ The goal is not purity. The goal is to keep the physical world from becoming fee
 - `the-conductor-and-the-harvester-matched-pair`
 - `the-attention-field-a-chimera-study`
 - `attention-captures-and-creates`
+- [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — the online version of reality spam: bait that hijacks the operator's weighting system by making a manufactured provocation feel like a threat to identity or moral coherence; the missing Pause is the same structural vulnerability.
 
 ---
 

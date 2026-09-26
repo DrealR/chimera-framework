@@ -95,6 +95,12 @@ Correction remains legal. Reflexive identity-defense is the trap.
 - [Pause as Conscious Motion](pause-as-conscious-motion.md)
 - [Real-Time Attention Layer](real-time-attention-layer.md) — the velocity substrate where rage bait circulates; understanding its optimization function is the same move as naming the trigger
 - [Model Workspace and the Operator Layer](model-workspace-and-the-operator-layer.md) — humans under rage bait lose the gap between stimulus and response and become more automatic; the J-space doc names the model-side parallel and the design question (does this loop increase workspace capacity or harvest it?).
+- [Attention Capture Types](attention-capture-types.md) — rage bait is one specific capture type (tribal/identity provocation); understanding the full typology clarifies which mechanisms it shares with other viral formats and which are specific to the bait-and-react loop.
+- [Attention Metric Signatures](attention-metric-signatures.md) — the metric signature of rage bait (hollow reach, high ratio, low follow-through) is the quantitative fingerprint; reading the chord reveals the harvest without needing to evaluate content.
+- [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md) — the compulsive correction loop that rage bait activates; cynicism performs itself in the reaction, installing the cynical operator more deeply with each triggered response.
+- [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md) — rage bait as the attention-economy specimen: each piece optimizes for the engagement spike while the wider body (discourse, trust-substrate, attention quality) hollows.
+- [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md) — the doom-broadcast loop and the rage-bait loop share the same trigger structure: provocation that feels like emergency, reaction that feeds the algorithm, repetition that installs the catastrophe frame.
+- [Pass the Name and Local Body Activation](pass-the-name-and-local-body-activation.md) — the opposite pattern: harvest without recognition vs. planting without harvest; pass-the-name restores the shared present that rage bait dissolves.
 
 ```
 L = (O > I) + P + ¬F

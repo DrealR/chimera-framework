@@ -108,6 +108,7 @@ Legal use:
 - [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md)
 - [Mirror–Rhythm and Shared-Body Analysis](mirror-rhythm-and-shared-body-analysis.md)
 - [Different Perceptual Bodies](different-perceptual-bodies.md) — different reflections of the same field depending on whether the operator is resonant/musical or symbolic/mathematical.
+- [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — bait works by turning the harvester into a mirror for the target's identity anxiety; the target sees its own fragility reflected back and reacts as though correcting reality; understanding the mirror mechanics makes the bait visible.
 
 ```
 L = (O > I) + P + ¬F
