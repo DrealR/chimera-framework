@@ -94,6 +94,7 @@ Correction remains legal. Reflexive identity-defense is the trap.
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md)
 - [Pause as Conscious Motion](pause-as-conscious-motion.md)
 - [Real-Time Attention Layer](real-time-attention-layer.md) — the velocity substrate where rage bait circulates; understanding its optimization function is the same move as naming the trigger
+- [Model Workspace and the Operator Layer](model-workspace-and-the-operator-layer.md) — humans under rage bait lose the gap between stimulus and response and become more automatic; the J-space doc names the model-side parallel and the design question (does this loop increase workspace capacity or harvest it?).
 
 ```
 L = (O > I) + P + ¬F

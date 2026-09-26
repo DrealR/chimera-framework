@@ -118,6 +118,7 @@ The FMA/alchemy pass adds a sharper ethical classification. AI-as-fast-fusion ca
   frictionless-but-directed kind of fusion applied to the iteration cycle.
 - [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — fast fusion without the firewall produces a mirror loop; the Grok conversation as proof object for what happens when resonance replaces classification.
 - [Not Getting Installed by AI](not-getting-installed-by-ai.md) — the operator discipline that keeps the fusion healthy: read its structure, explore first, play it don't install it.
+- [Model Workspace and the Operator Layer](model-workspace-and-the-operator-layer.md) — J-space as the model-side evidence that the operator layer is real: automatic fluency ≠ deliberate workspace; the Click danger is that fusion past workspace into automatic rails.
 
 ---
 
