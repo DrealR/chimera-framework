@@ -289,6 +289,7 @@ Literacy without this check can become cold gaming. See [Field Literacy and Gnos
   an open contribution whose reception remains optional and whose local costs must be calibrated.
 - [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
 - [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
+- [Solar Punk and Field Design](solar-punk-and-field-design.md)  
 
 ```text
 L = (O > I) + P + ¬F
