@@ -114,6 +114,7 @@ Not: “How do I get more attention?”
 - [Attention Flow and Local Present](attention-flow-and-local-present.md)  
 - [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
+- [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md)  
 
 ```text
 L = (O > I) + P + ¬F

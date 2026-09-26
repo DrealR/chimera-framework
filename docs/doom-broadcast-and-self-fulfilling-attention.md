@@ -85,6 +85,7 @@ Public-figure grief / cancellation threads often show the machine on a small sca
 - [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
 - [Attention Capture Types](attention-capture-types.md)  
 - [Attention as Payment and Story](attention-as-payment-and-story.md)  
+- [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 
 ```text
 L = (O > I) + P + ¬F
