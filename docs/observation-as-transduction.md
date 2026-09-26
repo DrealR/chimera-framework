@@ -93,6 +93,7 @@ This is higher-dimensional only in the operational sense: more access to relatio
 - [Dimensions as Relational Access](dimensions-as-relational-access.md) — the dimensional reading of new transduced bands and relational layers.
 - [Attention Captures and Creates](attention-captures-and-creates.md) — what the observer does with the captured signal after transduction.
 - [Light, Belief, and Observation](light-belief-observation.md) — light makes something present; belief weights it; observation is the active stance that holds both without being run by either.
+- [Prime–Mirror–Composite Observation Architecture](prime-mirror-composite-observation-architecture.md) — applies the transducer model as a 12-step scan across prime, mirror, composite, and observer coordinates; reflexive mirrors can re-enter the body and become its governing center.
 
 ---
 
