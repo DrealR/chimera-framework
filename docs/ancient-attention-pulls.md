@@ -84,6 +84,8 @@ On X: same as any high-charge soil — **read capture type**, plant only with re
 - [Attention Capture Types](attention-capture-types.md)  
 - [Field Literacy Development](field-literacy-development.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
+- [Attention as Payment and Story](attention-as-payment-and-story.md)  
+- [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
 
 ```text
 L = (O > I) + P + ¬F

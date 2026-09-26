@@ -110,6 +110,7 @@ Track plants across timescales: quick drip vs slow branch; secondary attractors;
 - [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Field Literacy Across Domains](field-literacy-across-domains.md)  
+- [Ancient Attention Pulls](ancient-attention-pulls.md)  
 
 ```text
 L = (O > I) + P + ¬F
