@@ -78,6 +78,7 @@ Success metric: **felt authenticity + early landing + preserved optionality** â€
 - [Attention Capture Types](attention-capture-types.md)  
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
 - [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
+- [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
 
 ```text
 L = (O > I) + P + Â¬F

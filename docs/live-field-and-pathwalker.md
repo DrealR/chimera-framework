@@ -197,6 +197,7 @@ Useful for Magnet topic design: you choose which territories to probe regularly,
 - [Field Literacy Development](field-literacy-development.md)  
 - [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)  
 - [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
+- [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
 
 ```text
 L = (O > I) + P + ¬F

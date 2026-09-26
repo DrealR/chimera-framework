@@ -174,6 +174,7 @@ This is not a closed epistemic circuit. Independent evidence and affected bodies
 - [Temporal Log Pose and Prediction Cascade](temporal-log-pose-and-prediction-cascade.md)  
 - [Algorithmic Worldlines and Relational Distance](algorithmic-worldlines-and-relational-distance.md) — accumulated divergence across multi-scale layers; how small persistent differences in the encounter field compound into large relational distance over time.
 - [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md) — capital infrastructure as a nested body whose dependency chains span the same multi-scale timescale stack.
+- [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
 
 ```text
 L = (O > I) + P + ¬F

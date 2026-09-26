@@ -117,6 +117,8 @@ Not: “How do I get more attention?”
 - [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md)  
 - [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 - [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)  
+- [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
+- [Solar Punk and Field Design](solar-punk-and-field-design.md)  
 
 ```text
 L = (O > I) + P + ¬F

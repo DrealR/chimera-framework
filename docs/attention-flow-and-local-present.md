@@ -52,6 +52,7 @@ Help operators **enter and exit** local presents intentionally — not glue them
 - [Live Field and Pathwalker](live-field-and-pathwalker.md)  
 - [Search as Field Probe](search-as-field-probe.md)  
 - [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
+- [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
 
 ```text
 L = (O > I) + P + ¬F
