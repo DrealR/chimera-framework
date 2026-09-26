@@ -61,6 +61,7 @@ Honest split: **structural** pieces (zoning, transit, codes, repairability) are 
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md)  
 - [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
+- [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)  
 
 ```text
 L = (O > I) + P + ¬F

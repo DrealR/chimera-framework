@@ -253,6 +253,7 @@ Tier 3  Signatures + Magnet resonance
 - [Field Literacy Across Domains](field-literacy-across-domains.md)  
 - [The Attention Field — A CHIMERA Study](the-attention-field-a-chimera-study.md)  
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
+- [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)  
 
 ```text
 L = (O > I) + P + ¬F

@@ -176,6 +176,10 @@ Keep what converges across traditions (structural insights into real phenomena).
 
 ---
 
+## See also
+
+- [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)  
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

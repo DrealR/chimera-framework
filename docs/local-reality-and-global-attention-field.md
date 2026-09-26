@@ -116,6 +116,7 @@ Not: “How do I get more attention?”
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
 - [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md)  
 - [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
+- [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)  
 
 ```text
 L = (O > I) + P + ¬F

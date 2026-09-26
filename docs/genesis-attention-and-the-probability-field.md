@@ -187,6 +187,8 @@ Not: how do I get more light/views for myself.
 | Local vs global | [local-reality-and-global-attention-field.md](local-reality-and-global-attention-field.md) |
 | Solar Punk design | [solar-punk-and-field-design.md](solar-punk-and-field-design.md) |
 | Live field + pathwalker | [live-field-and-pathwalker.md](live-field-and-pathwalker.md) |
+| Alienness / hidden traversal | [alienness-as-hidden-traversal.md](alienness-as-hidden-traversal.md) |
+| Belief and three probabilities | [belief-and-three-probabilities.md](belief-and-three-probabilities.md) |
 
 ---
 
