@@ -144,6 +144,7 @@ it** — the only freedom worth having and the only fuel that lasts.
 - [Let Structure Emerge, Don't Blueprint It](let-structure-emerge-dont-blueprint-it.md) — the anchor principle at organizational scale: blueprinting the big structure before running a real instance is the strategic-direction-outsourced-to-vision failure at build scale; the anchor is the small specific working unit, and the bigger structure must emerge from it rather than being designed from a vision of completion.
 - [The Turing Trap and the Scarce Question](the-turing-trap-and-the-scarce-question.md) — the Turing trap names what goes wrong when AI takes execution and the operator doesn't hold the question and the evaluation; the anchor is the scarce resource: direction, triage, and judgment that only a staked consciousness can supply.
 - [The Algorithmic Diet Scan](algorithmic-diet-scan.md) — the before-entering scan (domain, direction, mode, clock, ground) is the operational form of keeping the anchor; naming the session before entering is the anchor step made concrete at the micro scale.
+- [Position, Not Chase](position-not-chase.md) — the anchor is the precondition for positioning: a body that hasn't built its own anchor has nothing to position from; chasing is what happens when the anchor is missing or external — reaching into another body's field because your own center is unstable.
 
 ---
 

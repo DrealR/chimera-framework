@@ -95,6 +95,7 @@ Every extraction story's answer is **not defense — it is generosity:** pointin
   collapse at civilizational scale: an operator facing inward prices other bodies' membranes to
   extract yield; the Direction Axis is the single move that produces this pattern.
 - [Free Will as Redirection Within Rules](free-will-as-redirection-within-rules.md) — the same axis stated from the agency question: free will is the capacity to choose a different legal direction than the strongest current pull; direction as a live variable even inside a rule-bound system.
+- [Position, Not Chase](position-not-chase.md) — the outward-facing move made concrete as a field strategy: chasing is the inward collapse in motion (energy spent closing distance in another pole's field); positioning is building a coherent pole and letting compatible bodies approach — the Direction Axis as a practice for how to move.
 
 ---
 

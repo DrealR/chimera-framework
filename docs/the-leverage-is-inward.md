@@ -160,6 +160,10 @@ source.
 - [Dimensions as Relational Access](dimensions-as-relational-access.md) — expanded access trained on
   your own body never becomes power over another; the dimensions doc is the access-side companion, this
   rule is the direction-side companion.
+- [Position, Not Chase](position-not-chase.md) — the external expression of this firewall: building a
+  coherent pole (field generation) rather than spending force grasping at what you don't control. The
+  leverage stays on your own body → you build the field; positioning is that inward-leverage turned
+  outward as offering.
 
 ---
 
