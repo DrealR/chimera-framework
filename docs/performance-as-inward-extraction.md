@@ -120,6 +120,7 @@ Before or inside an interaction, ask:
 - [Raw Confession as Public Body Scan](raw-confession-as-public-body-scan.md) — public honesty as a forced Pause / reflection point when performance drops.
 - [Attention Captures and Creates](attention-captures-and-creates.md) — performance-mode attention as consumption without return; what happens when attention recycles inward as self-image rather than metabolizing outward.
 - [Dimensions as Relational Access](dimensions-as-relational-access.md) — performance mode as contracted relational access; expanded access should make the operator gentler and more present, not more defended.
+- [Stillness Leads the Mutual Mirror](stillness-leads-the-mutual-mirror.md) — the still, un-performed center as the positive practice: dropping performance is how the still center forms and leads the loop.
 
 ```
 L = (O > I) + P + ¬F

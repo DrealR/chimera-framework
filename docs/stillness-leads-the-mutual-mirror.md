@@ -38,6 +38,8 @@
 
 - [Mirrors as Relational Perception](mirrors-as-relational-perception.md) — stillness-as-leadership works through the mirror mechanics of mutual modeling; this doc explains why the mutual mirror is co-authored by both poles (neither pure projection nor pure objectivity), which grounds the "you set the tone and the odds; they still freely choose" firewall.
 - [Performance as Inward Extraction](performance-as-inward-extraction.md) — performance mode is the opposite of the still center; dropping performance reduces signal interference and raises contact resolution, the same move named here.
+- [Mirror–Rhythm and Shared-Body Analysis](mirror-rhythm-and-shared-body-analysis.md) — the mutual rhythm that forms around a still center: reflection as response rather than duplication, and repeated return becoming shared rhythm.
+- [Position, Not Chase](position-not-chase.md) — the operational form of the same principle: don't chase, position yourself and let the field come to you; pole/field mechanics that ground the "still center" move.
 
 ---
 
