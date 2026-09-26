@@ -78,6 +78,7 @@ No conspiracy required — only a system that **rewards activation** and under-r
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
 - [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
 - [Attention as Payment and Story](attention-as-payment-and-story.md)  
+- [Genesis Attention and the Probability Field](genesis-attention-and-the-probability-field.md)  
 
 ```text
 L = (O > I) + P + ¬F

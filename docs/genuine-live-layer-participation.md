@@ -77,6 +77,7 @@ Success metric: **felt authenticity + early landing + preserved optionality** â€
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)  
 - [Attention Capture Types](attention-capture-types.md)  
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
+- [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 
 ```text
 L = (O > I) + P + Â¬F
