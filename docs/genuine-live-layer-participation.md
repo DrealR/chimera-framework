@@ -79,6 +79,7 @@ Success metric: **felt authenticity + early landing + preserved optionality** â€
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
 - [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 - [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
+- [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
 
 ```text
 L = (O > I) + P + Â¬F

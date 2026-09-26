@@ -111,6 +111,8 @@ Try = ego managing image inside the system. Do = integrated participation. Pause
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
 - [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
+- [Ancient Attention Pulls](ancient-attention-pulls.md)  
+- [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 
 ```text
 L = (O > I) + P + ¬F
