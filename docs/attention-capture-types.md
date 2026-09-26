@@ -108,6 +108,10 @@ See [Field Literacy Development](field-literacy-development.md).
 - [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
 - [Real-Time Attention Layer](real-time-attention-layer.md)  
+- [Ancient Attention Pulls](ancient-attention-pulls.md)  
+- [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
+- [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md)  
+- [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
 
 ```text
 L = (O > I) + P + ¬F

@@ -75,6 +75,7 @@ Success metric: **felt authenticity + early landing + preserved optionality** â€
 - [Live Event Concentration](live-event-concentration.md)  
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md)  
 - [Primary Relational Body and Ecosystem Stack](primary-relational-body-and-ecosystem-stack.md)  
+- [Attention Capture Types](attention-capture-types.md)  
 
 ```text
 L = (O > I) + P + Â¬F

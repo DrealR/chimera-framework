@@ -189,6 +189,7 @@ Hierarchy unchanged: Tier 1 recency keeps you in soft, live medium. Curvature li
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
 - [Search as Field Probe](search-as-field-probe.md)  
 - [Live Event Concentration](live-event-concentration.md)  
+- [Attention Capture Types](attention-capture-types.md)  
 
 ```text
 L = (O > I) + P + ¬F

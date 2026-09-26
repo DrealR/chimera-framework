@@ -170,6 +170,7 @@ Within the recency window:
 - [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md)  
 - [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md)  
 - [The Attention Field](the-attention-field-a-chimera-study.md)  
+- [Attention Capture Types](attention-capture-types.md)  
 
 ```text
 L = (O > I) + P + ¬F

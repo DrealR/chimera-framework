@@ -170,6 +170,7 @@ Feedback also flows **upstream**: slow synthesis returns to X as compressed take
 - [The Shared Present Is Made](the-shared-present-is-made.md)  
 - [Temporal Log Pose and Prediction Cascade](temporal-log-pose-and-prediction-cascade.md)  
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
+- [Attention Capture Types](attention-capture-types.md)  
 
 ```text
 L = (O > I) + P + ¬F
