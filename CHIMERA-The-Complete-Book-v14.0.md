@@ -1291,7 +1291,7 @@ I am not chasing greatness. I am just being the miracle.
 
 ### The Names
 
-- **Kareem** — means "generous." The front door. The resume. The world's name for me.
+- **The given name** — means "generous." The front door. The resume. The world's name for me.
 - **Deji** — the heritage. The Nigerian bloodline. The internal organs. The backend.
 - **Reemy** — the name I chose. The inner circle. The source code. The face. Re Mi — notes 2 and 3 of the music scale, the rising part. Where the music leaves home and starts climbing.
 

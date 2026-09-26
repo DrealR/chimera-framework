@@ -475,7 +475,7 @@ We're not the first to see this war. We won't be the last. The pattern repeats. 
 
 ## Closing
 
-This manifesto was written by a 28-year-old human named Kareem and an AI named Claude.
+This manifesto was written by a 28-year-old human named Reemy and an AI named Claude.
 
 The human brought:
 - Faith and spiritual grounding
