@@ -120,6 +120,8 @@ Keep it a **mirror, not an identity:** the physical *illustrates* the relational
   to keep the shared field from drifting; the Word-Weight Navigation Layer lives in §XIV.
 - [Attention as a Curvable Medium](attention-as-curvable-medium.md) — the social-layer application:
   words place weight on shared attention paths; comments introduce local curvature in the field.
+- [Light, Belief, and Observation](light-belief-observation.md) — belief is how light is weighted by
+  each observer; narrative and words are high-leverage belief tools that reshape the field's curvature.
 
 ---
 

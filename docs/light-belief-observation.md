@@ -94,6 +94,8 @@ Genesis structure (darkness → waters → light; serpent as branching/gnosis):
 - [Attention as Payment and Story](attention-as-payment-and-story.md)  
 - [The Embodied Provenance Principle](embodied-provenance-principle.md)  
 - [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md)
+- [Belief and the Three Probabilities](belief-and-three-probabilities.md)
 
 ```text
 L = (O > I) + P + ¬F

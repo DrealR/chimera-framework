@@ -172,6 +172,7 @@ Within the recency window:
 - [The Attention Field](the-attention-field-a-chimera-study.md)  
 - [Attention Capture Types](attention-capture-types.md)  
 - [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
+- [Light, Belief, and Observation](light-belief-observation.md)  
 
 ```text
 L = (O > I) + P + ¬F

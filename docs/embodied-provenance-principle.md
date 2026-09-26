@@ -345,6 +345,7 @@ When anything can be displayed, the scarce thing becomes what was actually lived
 - [Real-Use Trust Graph](real-use-trust-graph.md) — trust from lived dependence rather than surface claim.
 - [Relative Timescales and Nested Mortality](relative-timescales-and-nested-mortality.md) — nested mortality horizons across which provenance must be read; a record is layered through time at different body scales.
 - [Perceptual Windows and Constructed Bodies](perceptual-windows-and-constructed-bodies.md) — provenance requires a body that was present and perceiving; this doc examines how the perceptual window through which a body registers events is itself constructed, shaping what enters the record at all.
+- [Light, Belief, and Observation](light-belief-observation.md) — light makes something publicly present (views = presence); synthetic media can produce light without an event; provenance corrects this: views establish artifact circulation, not historical truth.
 
 ```text
 L = (O > I) + P + ¬F

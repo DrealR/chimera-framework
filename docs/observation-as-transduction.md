@@ -92,6 +92,7 @@ This is higher-dimensional only in the operational sense: more access to relatio
 - [The Direction Axis](the-direction-axis.md) — the direction of the weighting (toward self vs toward field) determines whether a transduction act generates or extracts; this doc names the observation operation, the direction-axis names the facing that decides its valence.
 - [Dimensions as Relational Access](dimensions-as-relational-access.md) — the dimensional reading of new transduced bands and relational layers.
 - [Attention Captures and Creates](attention-captures-and-creates.md) — what the observer does with the captured signal after transduction.
+- [Light, Belief, and Observation](light-belief-observation.md) — light makes something present; belief weights it; observation is the active stance that holds both without being run by either.
 
 ---
 
