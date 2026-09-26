@@ -171,6 +171,7 @@ Within the recency window:
 - [Death Spirals of Local Optimization](death-spirals-of-local-optimization.md)  
 - [The Attention Field](the-attention-field-a-chimera-study.md)  
 - [Attention Capture Types](attention-capture-types.md)  
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
 
 ```text
 L = (O > I) + P + ¬F

@@ -146,6 +146,9 @@ drift in a technical costume.)*
   the misdirection move are the same skill: setting where attention flows, with intent as the free
   variable; setting the field is what makes that direction land — the field determines which associative
   region activates; misdirection is field-setting with concealed intent (the dark twin of the conductor).
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md) — the social-attention layer of the
+  same mechanic: comments introduce local curvature in shared attention fields; the field's current shape
+  determines how much any intervention bends it.
 
 ---
 

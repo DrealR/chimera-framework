@@ -84,6 +84,7 @@ Safeguard: periodic unfiltered contact with the raw field.
 - [Attention Metric Signatures](attention-metric-signatures.md)  
 - [Living Magnet and Resonance Pools](living-magnet-and-resonance-pools.md)  
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md)  
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
 
 ```text
 L = (O > I) + P + ¬F

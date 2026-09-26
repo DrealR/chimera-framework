@@ -80,6 +80,7 @@ Success metric: **felt authenticity + early landing + preserved optionality** â€
 - [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 - [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
 - [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
 
 ```text
 L = (O > I) + P + Â¬F

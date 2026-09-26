@@ -118,6 +118,8 @@ Keep it a **mirror, not an identity:** the physical *illustrates* the relational
 - [Master Physics Spec v4](the-cube-master-spec-v3.md) — the Operating Model (§XIV) uses this as the
   firewall-as-positive-navigation-skill: every word drops weight on a path; place weights consciously
   to keep the shared field from drifting; the Word-Weight Navigation Layer lives in §XIV.
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md) — the social-layer application:
+  words place weight on shared attention paths; comments introduce local curvature in the field.
 
 ---
 

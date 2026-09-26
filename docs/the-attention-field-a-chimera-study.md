@@ -99,6 +99,7 @@ Attention is the scarce resource of the age (Simon, 1971), measured as time-spen
 - [The Algorithm Is a Steerable Fluid](the-algorithm-is-a-steerable-fluid.md) — the operator's move made literal in the recommendation feed and LLM: you author the algorithm by the signals you cast.
 
 - [The Body Knew the Exit](the-body-knew-the-exit.md) — the body pointing toward substrate-nourishing attention (music, creative work, real contact) before the theory names it; the un-harvesting gaze (art as exit) and the skilled attention-conductor's gaze share the same turn away from harvest.
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md) — the operative skill layer: attention as a relational medium that can be bent; comments as localized interventions; CHIMERA as clean-bend OS.
 
 ---
 

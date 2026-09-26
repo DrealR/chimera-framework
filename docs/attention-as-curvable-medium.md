@@ -193,6 +193,10 @@ Hierarchy unchanged: Tier 1 recency keeps you in soft, live medium. Curvature li
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
 - [Attention as Payment and Story](attention-as-payment-and-story.md)  
 - [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
+- [Light Belief Observation](light-belief-observation.md)  
+- [Live Field and Pathwalker](live-field-and-pathwalker.md)  
+- [Field Literacy Development](field-literacy-development.md)  
+- [Attention Flow and Local Present](attention-flow-and-local-present.md)  
 
 ```text
 L = (O > I) + P + ¬F
