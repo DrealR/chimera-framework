@@ -111,6 +111,7 @@ Track plants across timescales: quick drip vs slow branch; secondary attractors;
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Field Literacy Across Domains](field-literacy-across-domains.md)  
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
+- [Attention as Payment and Story](attention-as-payment-and-story.md)  
 
 ```text
 L = (O > I) + P + ¬F

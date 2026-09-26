@@ -191,6 +191,7 @@ Hierarchy unchanged: Tier 1 recency keeps you in soft, live medium. Curvature li
 - [Live Event Concentration](live-event-concentration.md)  
 - [Attention Capture Types](attention-capture-types.md)  
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
+- [Attention as Payment and Story](attention-as-payment-and-story.md)  
 
 ```text
 L = (O > I) + P + ¬F

@@ -111,7 +111,9 @@ AI does not remove the need for conscious weight — it **amplifies** the cost o
 - [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
 - [Automatic Cynicism and Performative Cruelty](automatic-cynicism-and-performative-cruelty.md)  
 - [Field Literacy Development](field-literacy-development.md)  
-- [The Embodied Provenance Principle](embodied-provenance-principle.md)
+- [The Embodied Provenance Principle](embodied-provenance-principle.md)  
+- [Doom Broadcast and Self-Fulfilling Attention](doom-broadcast-and-self-fulfilling-attention.md)  
+- [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)
 
 ```text
 L = (O > I) + P + ¬F

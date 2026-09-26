@@ -67,6 +67,7 @@ The institutional prescription is process reward — structuring observable traj
 - [You're Never Anonymous From Yourself](you-are-never-anonymous-from-yourself.md) — every action installs the self whether seen or not; what you watch is your training data; curate it and run predict-first-then-check — the intake-side discipline that complements write-access on the attention-output side.
 - [Consciousness as the Weighting Operator](consciousness-as-the-weighting-operator.md) — the three moves train the operator that then weights signals inside the Pause; write-access is the training protocol; the weighting operation is what that training enables.
 - [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — the harvester's tactic is precisely the absence of Move 1: bait that collapses the gap and triggers automatic response before the operator can notice, pause, or redirect; write-access is the structural defense against the loop.
+- [Attention as Payment and Story](attention-as-payment-and-story.md) — the three moves are the training protocol for conscious weight: Move 1 (notice the pull before it becomes a story branch), Move 2 (redirect under the weight of established pulls), Move 3 (cool the deliberate placement into the new default); write-access is how payment stays intentional rather than automatic.
 
 ---
 

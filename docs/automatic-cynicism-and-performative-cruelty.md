@@ -77,6 +77,7 @@ No conspiracy required — only a system that **rewards activation** and under-r
 - [Attention Capture Types](attention-capture-types.md)  
 - [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
 - [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
+- [Attention as Payment and Story](attention-as-payment-and-story.md)  
 
 ```text
 L = (O > I) + P + ¬F
