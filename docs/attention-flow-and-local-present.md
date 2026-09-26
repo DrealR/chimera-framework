@@ -51,6 +51,7 @@ Help operators **enter and exit** local presents intentionally — not glue them
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 - [Live Field and Pathwalker](live-field-and-pathwalker.md)  
 - [Search as Field Probe](search-as-field-probe.md)  
+- [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
 
 ```text
 L = (O > I) + P + ¬F

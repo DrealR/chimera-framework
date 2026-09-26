@@ -112,6 +112,7 @@ Track plants across timescales: quick drip vs slow branch; secondary attractors;
 - [Field Literacy Across Domains](field-literacy-across-domains.md)  
 - [Ancient Attention Pulls](ancient-attention-pulls.md)  
 - [Attention as Payment and Story](attention-as-payment-and-story.md)  
+- [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
 
 ```text
 L = (O > I) + P + ¬F

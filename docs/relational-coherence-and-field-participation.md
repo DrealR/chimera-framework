@@ -60,6 +60,9 @@ Useful parallels for *operator literacy* — **not** “X is quantum mechanics�
 - [Attention Flow and Local Present](attention-flow-and-local-present.md)  
 - [Live Field and Pathwalker](live-field-and-pathwalker.md)  
 - [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
+- [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
+- [Genesis, Attention, and the Probability Field](genesis-attention-and-the-probability-field.md)  
+- [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
 
 ```text
 L = (O > I) + P + ¬F

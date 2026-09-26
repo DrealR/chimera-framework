@@ -287,6 +287,7 @@ Literacy without this check can become cold gaming. See [Field Literacy and Gnos
 - [Temporal Log Pose and Prediction Cascade](temporal-log-pose-and-prediction-cascade.md)  
 - [Field-Giving and Field-Tending](field-giving-and-field-tending.md) — generalizes the plant into
   an open contribution whose reception remains optional and whose local costs must be calibrated.
+- [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
 
 ```text
 L = (O > I) + P + ¬F
