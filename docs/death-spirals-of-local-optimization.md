@@ -108,6 +108,7 @@ At civilizational scale: notice when infrastructure races ahead of judgment capa
 - [Reference Loss and Doom Loops](reference-loss-and-doom-loops.md) — names the feedback condition
   in which internally produced signals become compulsory actions and then masquerade as external proof.
 - [Capital-Cycle Bodies and Dependency Opacity](capital-cycle-bodies-and-dependency-opacity.md) — capital infrastructure as a domain where local optimization (maximize revenue per layer) produces death spirals at the system body level.
+- [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 
 ```text
 L = (O > I) + P + ¬F

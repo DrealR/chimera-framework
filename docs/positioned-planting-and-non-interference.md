@@ -289,6 +289,16 @@ Literacy without this check can become cold gaming. See [Field Literacy and Gnos
   an open contribution whose reception remains optional and whose local costs must be calibrated.
 - [Relational Coherence and Field Participation](relational-coherence-and-field-participation.md)  
 - [Local Reality and the Global Attention Field](local-reality-and-global-attention-field.md)  
+- [Solar Punk and Field Design](solar-punk-and-field-design.md)  
+- [Attention as a Curvable Medium](attention-as-curvable-medium.md)  
+- [Attention Flow and the Local Present](attention-flow-and-local-present.md)  
+- [Field Literacy Across Domains](field-literacy-across-domains.md)  
+- [Field Literacy and Gnosis](field-literacy-and-gnosis.md)  
+- [Field Literacy Development](field-literacy-development.md)  
+- [Genuine Live-Layer Participation](genuine-live-layer-participation.md)  
+- [Live Event Concentration](live-event-concentration.md)  
+- [Live Field and Pathwalker](live-field-and-pathwalker.md)  
+- [Search as Field Probe](search-as-field-probe.md)  
 
 ```text
 L = (O > I) + P + ¬F

@@ -229,6 +229,7 @@ The carry line is:
 - [Real-Time Attention Layer](real-time-attention-layer.md) — the live-layer substrate the Log Pose reads for present attention; X-class velocity as the signal surface
 - [Multi-Scale Information Ecology](multi-scale-information-ecology.md) — the wider timing architecture this instrument sits inside
 - [AI as Social Navigation Device](ai-as-social-navigation-device.md) — the AI-on-live-graph primitive the Log Pose deploys
+- [Positioned Planting and Non-Interference](positioned-planting-and-non-interference.md)  
 
 ```text
 L = (O > I) + P + ¬F
