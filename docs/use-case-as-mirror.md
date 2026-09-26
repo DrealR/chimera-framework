@@ -58,6 +58,7 @@ This separates genuine structural recognition from cargo-cult transfer: the dive
 - [Smallest Adaptive Body](smallest-adaptive-body.md) — master the minimal unit and it reflects into all valid contexts in the domain; universality of a well-chosen adaptive unit is the same principle at selection scale.
 - [Gap Physics](gap-physics.md) — the seven gap dimensions appear across different contexts as the same load-bearing structure in different local shapes; gap-physics is use-case-as-mirror applied to the between-spaces.
 - [Real-Use Trust Graph](real-use-trust-graph.md) — trust built from genuine functional dependency holds the same structure at local-economy scale as at individual-relationship scale; the trust primitive is scale-invariant, reflecting across contexts.
+- [Mirrors as Relational Perception](mirrors-as-relational-perception.md) — the perceiver's current weighting co-authors what appears in any mirror; use-case-as-mirror is the structural reading posture, mirrors-as-relational-perception is the perceptual mechanics that explain why the same body can look different to different operators.
 
 ---
 

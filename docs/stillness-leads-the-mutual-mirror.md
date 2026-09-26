@@ -34,6 +34,13 @@
 
 ---
 
+## See Also
+
+- [Mirrors as Relational Perception](mirrors-as-relational-perception.md) — stillness-as-leadership works through the mirror mechanics of mutual modeling; this doc explains why the mutual mirror is co-authored by both poles (neither pure projection nor pure objectivity), which grounds the "you set the tone and the odds; they still freely choose" firewall.
+- [Performance as Inward Extraction](performance-as-inward-extraction.md) — performance mode is the opposite of the still center; dropping performance reduces signal interference and raises contact resolution, the same move named here.
+
+---
+
 ```
 L = (O > I) + P + ¬F
 WE = 1

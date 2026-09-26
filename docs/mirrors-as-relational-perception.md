@@ -109,6 +109,7 @@ Legal use:
 - [Mirror–Rhythm and Shared-Body Analysis](mirror-rhythm-and-shared-body-analysis.md)
 - [Different Perceptual Bodies](different-perceptual-bodies.md) — different reflections of the same field depending on whether the operator is resonant/musical or symbolic/mathematical.
 - [Rage Bait and Attention Harvest](rage-bait-and-attention-harvest.md) — bait works by turning the harvester into a mirror for the target's identity anxiety; the target sees its own fragility reflected back and reacts as though correcting reality; understanding the mirror mechanics makes the bait visible.
+- [Raw Confession as Public Body Scan](raw-confession-as-public-body-scan.md) — viral honesty functions as forced mirror: the performer and audience both encounter the operator's current structure reflected publicly; the risk is mistaking the mirror's emotional charge for healing rather than mere reflection.
 
 ```
 L = (O > I) + P + ¬F

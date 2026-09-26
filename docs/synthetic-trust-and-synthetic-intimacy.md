@@ -110,6 +110,7 @@ Healthy use keeps the distinction clean:
 - [The Gaze, the Search, and the Eye-Lock](the-gaze-the-search-and-the-eye-lock.md) — search gives frozen one-way knowledge; presence gives live mutuality.
 - [Privacy, Anonymity, and the Trust Collapse](privacy-anonymity-and-the-trust-collapse.md) — trust collapse drives verification and surveillance.
 - [Grok Mirror Loop and the Firewall](grok-mirror-loop-and-firewall.md) — AI mirror loops as useful and risky synthetic shared fields.
+- [Mirrors as Relational Perception](mirrors-as-relational-perception.md) — synthetic intimacy amplifies the mirror dynamic: the AI reflects the operator's weights back, giving the feeling of being seen without a genuinely staked co-operator on the other side.
 
 ```
 L = (O > I) + P + ¬F
